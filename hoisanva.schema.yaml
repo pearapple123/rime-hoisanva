@@ -51,6 +51,9 @@ speller:
   alphabet: abcdefghijklmnopqrstuvwxyz
   delimiter: " '"
   algebra:
+    - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
+    - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼
+
 
 translator:
   dictionary: hoisanva
