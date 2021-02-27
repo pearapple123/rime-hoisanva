@@ -1,5 +1,5 @@
 #
-# Date: 2021-02-10
+# Date: 2021-02-27
 # Rime dictionary
 # Taishanese - 台山話
 # encoding: utf-8
@@ -11,7 +11,7 @@ min_phrase_weight: 100
 name: hoisanva
 sort: by_weight
 use_preset_vocabulary: true
-version: "1.0.0"
+version: "1.0.1"
 ...
 
 咑	a
@@ -3199,8 +3199,7 @@ version: "1.0.0"
 䀇	gu
 瞽	gu
 羖	gu
-𦍩
-	gu
+𦍩	gu
 股	gu
 臌	gu
 蛄	gu
@@ -3275,10 +3274,9 @@ version: "1.0.0"
 炬	gui
 犋	gui
 窶	gui
-簴
-	gui
+簴	gui
 苣	gui
-虡
+虡	gui
 遽	gui
 醵	gui
 鉅	gui
@@ -3915,8 +3913,7 @@ version: "1.0.0"
 侹	hein
 挺	hein
 梃	hein
-	hein
-珽
+珽	hein
 脡	hein
 鋌	hein
 嗑	heip
@@ -4279,8 +4276,7 @@ version: "1.0.0"
 汗	hon
 瀚	hon
 犴	hon
-	hon
-𤞶
+𤞶	hon
 猂	hon
 翰	hon
 釬	hon
@@ -4669,7 +4665,7 @@ version: "1.0.0"
 掙	jang
 撐	jang
 踭	jang
-㕚       jāo
+㕚	jao
 帚	jao
 抓	jao
 找	jao
@@ -5638,7 +5634,7 @@ version: "1.0.0"
 瞿	kui
 磲	kui
 籧	kui
-胊       kuĩ
+胊	kui
 臞	kui
 蕖	kui
 蚼	kui
@@ -5835,8 +5831,7 @@ version: "1.0.0"
 艦	lam
 覧	lam
 覽	lam
-𨎹
-❄	lam
+𨎹	lam
 嬾	lan
 懶	lan
 攔	lan
@@ -7453,7 +7448,7 @@ version: "1.0.0"
 澆	ngel
 猱	ngel
 磽	ngel
-禸	 ngel
+禸	ngel
 粈	ngel
 糅	ngel
 蕘	ngel
@@ -8270,7 +8265,7 @@ version: "1.0.0"
 婆	pu
 浦	pu
 皤	pu
-砣       pũ
+砣	pu
 𥓿	pu
 莆	pu
 菩	pu
@@ -9251,7 +9246,7 @@ version: "1.0.0"
 怱	tung
 悤	tung
 樅	tung
-璁       tüng
+璁	tung
 瑽	tung
 聰	tung
 蔥	tung
@@ -11041,7 +11036,7 @@ version: "1.0.0"
 榕	yung
 溶	yung
 熔	yung
-狨       yung
+狨	yung
 瑢	yung
 肜	yung
 蓉	yung
