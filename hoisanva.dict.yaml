@@ -11,11670 +11,11040 @@ min_phrase_weight: 100
 name: hoisanva
 sort: by_weight
 use_preset_vocabulary: true
-version: "1.1.0"
+version: "1.2.0"
 import_tables:
 - hoisanva.words
 ...
 
-咑	ā
-啞	ā
-啞	ā
-喔	ā
-打	ā
-瘂	ā
-丫	ä
-亞	ä
-吖	ä
-啊	ä
-啊	ä
-啊	ä
-嗄	ä
-埡	ä
-埡	ä
-婭	ä
-掗	ä
-椏	ä
-氬	ä
-猰	ä
-䃁	ä
-䝟	ä
-錒	ä
-阿	ä
-阿	ä
-鴉	ä
-鵶	ä
-呀	à
-呀	à
-啊	à
-枒	à
-丫	â
-椏	â
-哎	āi
-噯	āi
-坻	āi
-底	āi
-底	āi
-抵	āi
-柢	āi
-欸	āi
-歹	āi
-歺	āi
-氐	āi
-氐	āi
-牴	āi
-矮	āi
-砥	āi
-羝	āi
-觝	āi
-詆	āi
-邸	āi
-骶	āi
-低	äi
-唉	äi
-嗌	äi
-埃	äi
-娭	äi
-帝	äi
-帶	äi
-戴	äi
-挨	äi
-瞖	äi
-碲	äi
-禘	äi
-締	äi
-縊	äi
-翳	äi
-襶	äi
-諦	äi
-隘	äi
-鞮	äi
-餲	äi
-唉	ài
-噯	ài
-大	ài
-大	ài
-弟	ài
-悌	ài
-棣	ài
-第	ài
-逮	ài
-逮	ài
-遞	ài
-帶	âi
-厄	āk
-呃	āk
-㝵	āk
-幄	āk
-得	āk
-得	āk
-得	āk
-德	āk
-扼	āk
-握	āk
-渥	āk
-苊	āk
-鍀	āk
-得	äk
-扼	äk
-握	äk
-特	àk
-螣	àk
-蟘	àk
-軛	âk
-軶	âk
-鐲	âk
-丼	ām
-揞	ām
-暗	ām
-膽	ām
-諳	ām
-黯	ām
-黵	ām
-俺	äm
-儋	äm
-儋	äm
-唵	äm
-垵	äm
-埯	äm
-媕	äm
-广	äm
-庵	äm
-擔	äm
-擔	äm
-暗	äm
-盦	äm
-盫	äm
-眈	äm
-耽	äm
-耼	äm
-聃	äm
-菴	äm
-躭	äm
-酖	äm
-啖	àm
-氮	àm
-淡	àm
-澹	àm
-旦	ān
-丹	än
-單	än
-旦	än
-晏	än
-殫	än
-癉	än
-癉	än
-簞	än
-誕	än
-鄲	än
-鉭	än
-鴠	än
-鴳	än
-鷃	än
-亶	àn
-但	àn
-彈	àn
-憚	àn
-撣	àn
-澶	àn
-疍	àn
-蛋	àn
-蜑	àn
-戥	āng
-等	āng
-噔	äng
-嶝	äng
-燈	äng
-登	äng
-瞪	äng
-磴	äng
-簦	äng
-罌	äng
-鐙	äng
-鶯	äng
-鼟	äng
-蹬	àng
-蹬	àng
-鄧	àng
-凳	âng
-罌	âng
-倒	āo
-倒	āo
-到	āo
-島	āo
-㠀	āo
-抝	āo
-拗	āo
-捯	āo
-搗	āo
-凹	äo
-刀	äo
-到	äo
-叨	äo
-塢	äo
-奧	äo
-媼	äo
-嶴	äo
-忉	äo
-懊	äo
-拗	äo
-拗	äo
-氘	äo
-澳	äo
-襖	äo
-魛	äo
-導	ào
-幬	ào
-悼	ào
-燾	ào
-盜	ào
-稻	ào
-纛	ào
-蹈	ào
-道	ào
-道	ào
-道	ào
-垇	âo
-坳	âo
-襖	âo
-嗒	āp
-瘩	āp
-答	āp
-答	āp
-耷	āp
-褡	āp
-墶	äp
-墶	äp
-㟷	äp
-搭	äp
-搕	äp
-狎	äp
-瘩	äp
-瘩	äp
-褡	äp
-鴨	äp
-匼	àp
-沓	àp
-沓	àp
-𦾽      àp
-譶	àp
-踏	àp
-踏	àp
-蹹	àp
-遝	àp
-鞳	àp
-閤	âp
-鴿	âp
-壓	āt
-壓	āt
-恝	āt
-戛	āt
-戞	āt
-揠	āt
-擖	āt
-遏	āt
-閼	āt
-頞	āt
-齃	āt
-押	ät
-撻	ät
-澾	ät
-㾎	ät
-笪	ät
-躂	ät
-迖	ät
-噠	àt
-繨	àt
-躂	àt
-躂	àt
-逹	àt
-達	àt
-龖	àt
-龘	àt
-噠	ât
-叭	bā
-峇	bā
-巴	bā
-把	bā
-把	bā
-爸	bā
-䶕	bā
-吧	bä
-壩	bä
-岜	bä
-巴	bä
-巴	bä
-扒	bä
-灞	bä
-疤	bä
-笆	bä
-粑	bä
-芭	bä
-葩	bä
-豝	bä
-鈀	bä
-霸	bä
-靶	bä
-爸	bã
-吧	bà
-罷	bà
-拜	bāi
-捭	bāi
-擺	bāi
-跛	bāi
-跛	bāi
-拜	bäi
-湃	bäi
-狴	bäi
-蔽	bäi
-閉	bäi
-唄	bài
-唄	bài
-幣	bài
-弊	bài
-憊	bài
-敝	bài
-斃	bài
-棑	bài
-敗	bài
-陛	bài
-伯	bāk
-北	bāk
-百	bāk
-佰	bäk
-百	bäk
-僰	bàk
-匐	bàk
-卜	bàk
-帛	bàk
-白	bàk
-白	bàk
-百	bàk
-百	bàk
-蔔	bàk
-鮊	bàk
-伯	bâk
-伯	bâk
-坂	bān
-岅	bān
-扳	bān
-板	bān
-版	bān
-舨	bān
-鈑	bān
-闆	bān
-阪	bān
-扳	bän
-攽	bän
-斑	bän
-班	bän
-㻞	bän
-瘢	bän
-癍	bän
-螌	bän
-頒	bän
-扮	bàn
-湴	bàn
-爿	bàn
-瓣	bàn
-辦	bàn
-崩	bāng
-傍	bäng
-崩	bäng
-榜	bäng
-祊	bäng
-綳	bäng
-繃	bäng
-繃	bäng
-繃	bäng
-蹦	bäng
-鏰	bäng
-憑	bàng
-嘣	bâng
-保	bāo
-堡	bāo
-堡	bāo
-堡	bāo
-寳	bāo
-寶	bāo
-緥	bāo
-葆	bāo
-褓	bāo
-𨰻      bāo
-飽	bāo
-鴇	bāo
-勹	bäo
-包	bäo
-報	bäo
-孢	bäo
-煲	bäo
-爆	bäo
-狍	bäo
-胞	bäo
-苞	bäo
-蚫	bäo
-裒	bäo
-褒	bäo
-豹	bäo
-趵	bäo
-鮑	bäo
-麅	bäo
-孵	bào
-暴	bào
-曝	bào
-瀑	bào
-虣	bào
-齙	bào
-包	bâo
-八	bāt
-八	bät
-捌	bät
-拔	bàt
-茇	bàt
-菝	bàt
-跋	bàt
-魃	bàt
-鮁	bàt
-鼥	bàt
-啤	bēh
-孭	bêh
-背	bêh
-偪	bēik
-壁	bēik
-廹	bēik
-必	bēik
-愎	bēik
-愊	bēik
-㧙	bēik
-㳼	bēik
-滭	bēik
-璧	bēik
-皕	bēik
-碧	bēik
-腷	bēik
-苾	bēik
-襞	bēik
-觱	bēik
-贔	bēik
-躄	bēik
-躃	bēik
-辟	bēik
-迫	bēik
-迫	bēik
-逼	bēik
-鉍	bēik
-馝	bēik
-鷿	bēik
-鸊	bēik
-癟	bëik
-㿜	bëik
-別	bèik
-別	bèik
-憋	bèik
-癟	bèik
-鱉	bèik
-鼈	bèik
-泵	bēim
-丙	bēin
-匾	bēin
-屏	bēin
-扁	bēin
-炳	bēin
-砭	bēin
-碥	bēin
-秉	bēin
-稨	bēin
-窆	bēin
-萹	bēin
-藊	bēin
-蝙	bēin
-褊	bēin
-貶	bēin
-邴	bēin
-𩶁	bēin
-鯿	bēin
-兵	bëin
-冫	bëin
-冰	bëin
-并	bëin
-摒	bëin
-栟	bëin
-煸	bëin
-籩	bëin
-緶	bëin
-變	bëin
-邊	bëin
-鞭	bëin
-𠀤	bèin
-並	bèin
-併	bèin
-便	bèin
-卞	bèin
-堋	bèin
-屏	bèin
-弁	bèin
-忭	bèin
-抃	bèin
-汴	bèin
-竝	bèin
-苄	bèin
-諞	bèin
-跰	bèin
-辨	bèin
-辯	bèin
-迸	bèin
-釆	bèin
-靐	bèin
-邊	bêin
-俵	bēl
-婊	bēl
-表	bēl
-裱	bēl
-彪	bël
-杓	bël
-標	bël
-猋	bël
-瘭	bël
-膘	bël
-臕	bël
-錶	bël
-鏢	bël
-鑣	bël
-飆	bël
-飇	bël
-飈	bël
-飊	bël
-驃	bël
-驫	bël
-髟	bël
-餅	bēng
-屏	bëng
-窉	bëng
-病	bèng
-柄	bêng
-踎	bëo
-俾	bī
-吡	bī
-夶	bī
-妣	bī
-媲	bī
-庀	bī
-彼	bī
-比	bī
-比	bī
-比	bī
-沘	bī
-秕	bī
-肶	bī
-舭	bī
-髀	bī
-仳	bï
-匕	bï
-卑	bï
-埤	bï
-埤	bï
-媲	bï
-庇	bï
-庳	bï
-悲	bï
-椑	bï
-椑	bï
-毖	bï
-毗	bï
-毘	bï
-泌	bï
-泌	bï
-淠	bï
-疪	bï
-痹       bï
-痺	bï
-碑	bï
-祕	bï
-秕	bï
-秘	bï
-秘	bï
-箅	bï
-粃	bï
-羆	bï
-肶	bï
-萆	bï
-蓖	bï
-蜰	bï
-裨	bï
-賁	bï
-轡	bï
-鐾	bï
-陂	bï
-鵯	bï
-備	bì
-濞	bì
-濞	bì
-笓	bì
-篦	bì
-絥	bì
-螕	bì
-被	bì
-避	bì
-鐾	bì
-鞁	bì
-鞴	bì
-𩍘	bì
-韛	bì
-髲	bì
-鼻	bì
-臂	bî
-臂	bî
-乒	bīn
-品	bīn
-榀	bīn
-砰	bīn
-稟	bīn
-倴	bïn
-儐	bïn
-奔	bïn
-奔	bïn
-嬪	bïn
-彬	bïn
-擯	bïn
-攽	bïn
-斌	bïn
-栟	bïn
-檳	bïn
-檳	bïn
-殯	bïn
-濱	bïn
-瀕	bïn
-犇	bïn
-玢	bïn
-㻞	bïn
-繽	bïn
-臏	bïn
-豳	bïn
-賁	bïn
-賓	bïn
-逩	bïn
-邠	bïn
-錛	bïn
-鑌	bïn
-髕	bïn
-鬢	bïn
-辮	bîn
-嗶	bīt
-潷	bīt
-畢	bīt
-筆	bīt
-篳	bīt
-蓽	bīt
-蹕	bīt
-驆	bīt
-弼	bìt
-拂	bìt
-肸	bìt
-肸	bìt
-蹕	blīt
-玻	bō
-啵	bö
-坡	bö
-嶓	bö
-播	bö
-波	bö
-玻	bö
-皤	bö
-皪	bö
-簸	bö
-簸	bö
-菠	bö
-鄱	bö
-陂	bö
-簸	bô
-搵	bōi
-孛	böi
-悖	böi
-揹	böi
-杯	böi
-桮	böi
-狽	böi
-背	böi
-背	böi
-褙	böi
-誖	böi
-貝	böi
-輩	böi
-邶	böi
-鋇	böi
-焙	bòi
-蓓	bòi
-博	bōk
-搏	bōk
-膊	bōk
-膊	bōk
-䬪	bōk
-餺	bōk
-駁	bök
-亳	bòk
-嶨	bòk
-欂	bòk
-泊	bòk
-泊	bòk
-濼	bòk
-礡	bòk
-礴	bòk
-箔	bòk
-縛	bòk
-舶	bòk
-艊	bòk
-薄	bòk
-薄	bòk
-薄	bòk
-踣	bòk
-鉑	bòk
-雹	bòk
-魄	bòk
-本	bōn
-畚	bōn
-粄	bōn
-䉽	bōn
-苯	bōn
-半	bön
-搬	bön
-般	bön
-般	bön
-般	bön
-伴	bòn
-叛	bòn
-拌	bòn
-沜	bòn
-畔	bòn
-絆	bòn
-胖	bòn
-靽	bòn
-半	bôn
-乓	bōng
-梆	bōng
-榜	bōng
-綁	bōng
-膀	bōng
-蒡	bōng
-謗	bōng
-髈	bōng
-幫	böng
-浜	böng
-邦	böng
-傍	bòng
-搒	bòng
-榜	bòng
-磅	bòng
-磅	bòng
-鎊	bòng
-梆	bông
-𨧜      bông
-潑	bōt
-勃	bòt
-孛	bòt
-悖	bòt
-撥	bòt
-桲	bòt
-浡	bòt
-渤	bòt
-脖	bòt
-艴	bòt
-荸	bòt
-鈸	bòt
-餑	bòt
-馞	bòt
-鵓	bòt
-癶	bôt
-缽	bôt
-鉢	bôt
-斧	bū
-玻	bū
-補	bū
-佈	bü
-埔	bü
-埔	bü
-布	bü
-怖	bü
-晡	bü
-簸	bü
-菠	bü
-鈽	bü
-哺	bù
-孵	bù
-峬	bù
-庯	bù
-捕	bù
-步	bù
-簿	bù
-逋	bù
-部	bù
-簸	bû
-卜	būk
-卟	būk
-僕	bùk
-暴	bùk
-曝	bùk
-濮	bùk
-瀑	bùk
-鏷	bùk
-坌	bùn
-夯	bùn
-笨	bùn
-捧	būng
-泵	būng
-甭	būng
-崩	büng
-蒙	büng
-不	būt
-吥	būt
-鈈	būt
-叉	chā
-侘	chä
-叉	chä
-叉	chä
-叉	chä
-叉	chä
-喳	chä
-嗏	chä
-垞	chä
-奼	chä
-差	chä
-差	chä
-汊	chä
-詫	chä
-塗	chã
-嵖	chã
-搽	chã
-查	chã
-槎	chã
-楂	chã
-猹	chã
-茶	chã
-茬	chã
-蹅	chã
-餷	chã
-叉	châ
-叉	châ
-岔	châ
-扠	châ
-杈	châ
-杈	châ
-碴	châ
-碴	châ
-衩	châ
-衩	châ
-鑔	châ
-歪	chāi
-膪	chāi
-跐	chāi
-跴	chāi
-踩	chāi
-踹	chāi
-嘬	chäi
-差	chäi
-搋	chäi
-猜	chäi
-瘛	chäi
-蠆	chäi
-䜺	chäi
-釵	chäi
-豺	chãi
-柴	châi
-瘥	châi
-冊	chāk
-惻	chāk
-擦	chāk
-柵	chāk
-測	chāk
-策	chāk
-筴	chāk
-坼	chäk
-拆	chäk
-拆	chäk
-篸	chām
-篸	chām
-篸	chām
-讒	chãm
-剗	chān
-剗	chān
-滻	chān
-產	chān
-羼	chān
-鏟	chān
-撐	chäng
-槍	chäng
-睜	chäng
-瞠	chäng
-罉	chäng
-蹭	chäng
-鋥	chäng
-鐣	chäng
-鐺	chäng
-棖	chãng
-橙	chãng
-鋥	chãng
-吵	chāo
-吵	chāo
-炒	chāo
-訬	chāo
-剿	chäo
-抄	chäo
-鈔	chäo
-巢	chão
-皺	chão
-窼	chão
-扱	chäp
-插	chäp
-歃	chäp
-臿	chäp
-臿	chäp
-鍤	chäp
-察	chāt
-檫	chāt
-刷	chät
-刷	chät
-唰	chät
-嚓	chät
-嚓	chät
-擦	chät
-礤	chät
-䃰	chät
-礸	chät
-刷	chât
-獺	chât
-且	chēh
-尺	chēh
-扯	chēh
-撦	chēh
-趄	chēh
-跙	chēh
-唓	chëh
-奢	chëh
-硨	chëh
-車	chëh
-仄	chēik
-勅	chēik
-勑	chēik
-叱	chēik
-哧	chēik
-尺	chēik
-屮	chēik
-㡿	chēik
-彳	chēik
-徹	chēik
-掣	chēik
-撤	chēik
-敕	chēik
-斥	chēik
-沏	chēik
-澈	chēik
-䃎	chēik
-赤	chēik
-飭	chēik
-參	chëim
-杉	chëim
-杉	chëim
-釤	chëim
-釤	chëim
-拯	chēin
-裎	chēin
-逞	chēin
-郢	chēin
-騁	chēin
-稱	chëin
-稱	chëin
-呈	chẽin
-埕	chẽin
-懲	chẽin
-澄	chẽin
-澄	chẽin
-澄	chẽin
-澂	chẽin
-澶	chẽin
-程	chẽin
-纏	chẽin
-裎	chẽin
-躔	chẽin
-酲	chẽin
-鋥	chẽin
-餳	chẽin
-秤	chêin
-稱	chêin
-倬	chēk
-卓	chēk
-焯	chēk
-焯	chēk
-綽	chēk
-綽	chēk
-踔	chēk
-逴	chēk
-鵫	chēk
-呎	chëk
-尺	chëk
-赤	chëk
-㚟	chèk
-辵	chèk
-尺	chêk
-怊	chël
-繰	chël
-超	chël
-晁	chẽl
-朝	chẽl
-潮	chẽl
-瞅	chẽl
-瞅	chẽl
-瞧	chẽl
-鼂	chẽl
-諂	chēm
-廛	chẽn
-瀍	chẽn
-蟬	chên
-悵	chēng
-暢	chēng
-瑒	chēng
-鬯	chēng
-倡	chëng
-倡	chëng
-倀	chëng
-唱	chëng
-娼	chëng
-昌	chëng
-猖	chëng
-菖	chëng
-閶	chëng
-鯧	chëng
-䱽	chëng
-場	chẽng
-場	chẽng
-塲	chẽng
-澄	chẽng
-腸	chẽng
-萇	chẽng
-長	chẽng
-丈	chêng
-抽	chëo
-瘳	chëo
-紬	chëo
-轍	chēt
-始	chī
-恥	chī
-歯	chī
-齒	chī
-侈	chï
-呲	chï
-啻	chï
-嗤	chï
-媸	chï
-差	chï
-幟	chï
-旘	chï
-滍	chï
-熾	chï
-癡	chï
-眙	chï
-眵	chï
-笞	chï
-絺	chï
-翅	chï
-翄	chï
-翤	chï
-翨	chï
-胵	chï
-茌	Chï
-蚩	chï
-螭	chï
-褫	chï
-魑	chï
-鴟	chï
-黐	chï
-俿	chĩ
-倁	chĩ
-坻	chĩ
-墀	chĩ
-弛	chĩ
-持	chĩ
-池	chĩ
-疷	chĩ
-竾	chĩ
-筂	chĩ
-箎	chĩ
-篪	chĩ
-胝	chĩ
-踟	chĩ
-遲	chĩ
-馳	chĩ
-䶵	chĩ
-嚏	chì
-杘	chì
-跮	chì
-峙	chî
-磣	chīm
-磣	chīm
-趻	chīm
-踸	chīm
-諂	chïm
-沉	chĩm
-沈	chĩm
-𧠿	chĩm
-䚀	chîm
-㐱	chīn
-哂	chīn
-殄	chīn
-畛	chīn
-疹	chīn
-矧	chīn
-稹	chīn
-縝	chīn
-胗	chīn
-蕆	chīn
-訠	chīn
-診	chīn
-軫	chīn
-闡	chīn
-鬒	chīn
-儭	chïn
-嗔	chïn
-櫬	chïn
-瞋	chïn
-磣	chïn
-襯	chïn
-趁	chïn
-齔	chïn
-塵	chĩn
-敶	chĩn
-樄	chĩn
-軙	chĩn
-迧	chĩn
-陳	chĩn
-丑	chiū
-醜	chiū
-嗅	chiü
-溴	chiü
-獸	chiü
-糗	chiü
-臭	chiü
-臭	chiü
-螑	chiü
-儔	chiũ
-幬	chiũ
-惆	chiũ
-疇	chiũ
-稠	chiũ
-籌	chiũ
-紬	chiũ
-綢	chiũ
-躊	chiũ
-酧	chiũ
-酬	chiũ
-醻	chiũ
-籌	chiû
-憷	chō
-楚	chō
-楚	chō
-礎	chō
-初	chö
-芻	chö
-蒭	chö
-雛	chö
-鶵	chö
-矬	chõ
-耡	chõ
-鉏	chõ
-鋤	chõ
-剒	chök
-戳	chök
-剒	chôk
-戳	chôk
-竄	chōn
-傳	chõn
-創	chōng
-創	chōng
-廠	chōng
-惝	chōng
-敞	chōng
-昶	chōng
-氅	chōng
-闖	chōng
-噇	chõng
-幢	chõng
-床	chõng
-牀	chõng
-瘡	chông
-耡	chũ
-鋤	chũ
-鉏	chũ
-処	chuī
-處	chuī
-吹	chuï
-炊	chuï
-䶴	chuï
-幮	chuĩ
-廚	chuĩ
-捶	chuĩ
-椎	chuĩ
-棰	chuĩ
-櫥	chuĩ
-滁	chuĩ
-箠	chuĩ
-篨	chuĩ
-蜍	chuĩ
-蠩	chuĩ
-躇	chuĩ
-躕	chuĩ
-錘	chuĩ
-鎚	chuĩ
-除	chuĩ
-佇	chuî
-儲	chuî
-宁	chuî
-杼	chuî
-杵	chuî
-柱	chuî
-楮	chuî
-槌	chuî
-砫	chuî
-紵	chuî
-苧	chuî
-處	chuî
-褚	chuî
-褚	chuî
-貯	chuî
-亍	chūk
-俶	chūk
-怵	chūk
-搐	chūk
-束	chūk
-畜	chūk
-畜	chūk
-矗	chūk
-蓄	chūk
-觸	chūk
-豖	chūk
-喘	chūn
-忖	chūn
-湍	chūn
-猯	chūn
-篅	chūn
-舛	chūn
-蠢	chūn
-貒	chūn
-踳	chūn
-遄	chūn
-䦟	chūn
-揣	chūn
-揣	chūn
-揣	chūn
-串	chün
-川	chün
-巛	chün
-攢	chün
-旾	chün
-春	chün
-椿	chün
-氚	chün
-汌	chün
-穿	chün
-蝽	chün
-釧	chün
-鰆	chün
-傳	chũn
-串	chûn
-膥	chûn
-充	chüng
-冢	chüng
-寵	chüng
-忡	chüng
-憧	chüng
-沖	chüng
-𥅻	chüng
-翀	chüng
-艟	chüng
-茺	chüng
-衝	chüng
-衝	chüng
-衷	chüng
-重	chüng
-銃	chüng
-种	chũng
-虫	chũng
-蟲	chũng
-重	chũng
-涌	chûng
-蟲	chûng
-出	chūt
-黢	chūt
-齣	chūt
-打	dā
-咑	dã
-呔	dāi
-底	dāi
-濟	dāi
-躋	dāi
-齎	dāi
-儕	däi
-嚌	däi
-濟	däi
-濟	däi
-瘵	däi
-祭	däi
-穄	däi
-躋	däi
-際	däi
-隮	däi
-鰶	däi
-鱭	däi
-齏	däi
-濟	dài
-則	dāk
-嘚	dāk
-襶	dāk
-鯽	dāk
-則	däk
-得	däk
-自	dàk
-泵	dām
-簪	däm
-蘸	dàm
-昨	dâm
-攢	dān
-瓚	dān
-纘	dān
-趲	dān
-偺	dän
-喒	dän
-昝	dän
-瓚	dän
-糌	dän
-讚	dän
-賛	dän
-贊	dän
-彈	dàn
-噌	däng
-噌	däng
-增	däng
-嶒	däng
-憎	däng
-曾	däng
-矰	däng
-繒	däng
-罾	däng
-贈	dàng
-蹭	dàng
-鋥	dàng
-甑	dâng
-倒	dāo
-早	dāo
-棗	dāo
-蚤	dāo
-䖣	dāo
-𧎮	dāo
-糟	däo
-遭	däo
-醩	däo
-叨	dào
-唣	dào
-慥	dào
-皁	dào
-皂	dào
-簉	dào
-造	dào
-灶	dâo
-竈	dâo
-什	dàp
-矺	dàp
-襲	dàp
-集	dàp
-雜	dàp
-雥	dàp
-噠	dät
-姐	dēh
-借	dëh
-嗟	dëh
-嗟	dèh
-榭	dèh
-謝	dèh
-勣	dēik
-即	dēik
-卽	dēik
-唧	dēik
-櫛	dēik
-漬	dēik
-癤	dēik
-的	dēik
-磧	dēik
-稷	dēik
-積	dēik
-節	dēik
-節	dēik
-績	dēik
-襀	dēik
-蹐	dēik
-蹟	dēik
-跡	dēik
-鯽	dēik
-䳭	dēik
-節	dëik
-借	dèik
-夕	dèik
-寂	dèik
-席	dèik
-截	dèik
-昳	dèik
-汐	dèik
-矽	dèik
-穸	dèik
-籍	dèik
-莋	dèik
-藉	dèik
-藉	dèik
-褯	dèik
-卩	dêik
-節	dêik
-泵	dēim
-井	dēin
-剪	dēin
-劗	dēin
-戩	dēin
-揃	dēin
-翦	dēin
-肼	dēin
-譾	dēin
-餞	dēin
-鬋	dēin
-墊	dëin
-戔	dëin
-旌	dëin
-晶	dëin
-毯	dëin
-淺	dëin
-湔	dëin
-濺	dëin
-煎	dëin
-牋	dëin
-牮	dëin
-睛	dëin
-睛	dëin
-箋	dëin
-箐	dëin
-箭	dëin
-精	dëin
-腈	dëin
-菁	dëin
-薦	dëin
-韀	dëin
-韉	dëin
-鶄	dëin
-鼱	dëin
-凈	dèin
-凊	dèin
-婧	dèin
-淨	dèin
-濺	dèin
-賤	dèin
-踐	dèin
-阱	dèin
-靖	dèin
-靚	dèin
-靜	dèin
-餞	dèin
-啄	dēk
-嚼	dēk
-嚼	dēk
-斫	dēk
-椓	dēk
-櫡	dēk
-涿	dēk
-爝	dēk
-爵	dēk
-琢	dēk
-琢	dēk
-諑	dēk
-雀	dēk
-雀	dēk
-雀	dēk
-嵴	dëk
-瘠	dëk
-績	dëk
-脊	dëk
-鶺	dëk
-席	dèk
-蓆	dèk
-脊	dêk
-跡	dêk
-雀	dêk
-剿	dēl
-湫	dēl
-僬	dël
-劁	dël
-噍	dël
-嚼	dël
-椒	dël
-焦	dël
-礁	dël
-蟭	dël
-醮	dël
-鷦	dël
-瞧	dẽl
-噍	dèl
-蕉	dêl
-尖	dëm
-櫼	dëm
-漸	dëm
-瀸	dëm
-僭	dèm
-暫	dèm
-漸	dèm
-蹔	dèm
-尖	dêm
-櫼	dêm
-丼	dēng
-井	dēng
-槳	dēng
-汫	dēng
-獎	dēng
-䒂	dēng
-蔣	dēng
-阱	dēng
-將	dëng
-將	dëng
-將	dëng
-漿	dëng
-漿	dëng
-糡	dëng
-糨	dëng
-螿	dëng
-醤	dëng
-醬	dëng
-鏘	dëng
-像	dèng
-凈	dèng
-匞	dèng
-匠	dèng
-橡	dèng
-淨	dèng
-糨	gèng
-繒	dèng
-蟓	dèng
-象	dèng
-釘	dêng
-走	dēo
-㔿	dëo
-奏	dëo
-揍	dëo
-楱	dëo
-甃	dëo
-腠	dëo
-豆	dèo
-接	dēp
-接	dëp
-婕	dèp
-捷	dèp
-洽	dèp
-睫	dèp
-箑	dèp
-箑	dèp
-霅	dèp
-姊	dī
-姉	dī
-秭	dī
-❄	dï
-地	dì
-❄	dî
-怎	dīm
-浸	dïm
-祲	dïm
-進	dïn
-儘	dìn
-濜	dìn
-燼	dìn
-盡	dìn
-藎	dìn
-嫉	dìp
-嶍	dìp
-疾	dìp
-習	dìp
-蒺	dìp
-隰	dìp
-鰼	dìp
-酒	diū
-召	diü
-叫	diü
-僦	diù
-就	diù
-岫	diù
-袖	diù
-鷲	diù
-叫	diû
-坐	dò
-座	dò
-怍	dò
-祚	dò
-胙	dò
-阼	dò
-仔	dōi
-囝	dōi
-宰	dōi
-崽	dōi
-滓	dōi
-載	dōi
-再	döi
-哉	döi
-栽	döi
-災	döi
-甾	döi
-菑	döi
-載	döi
-載	döi
-在	dòi
-扗	dòi
-作	dōk
-作	dōk
-作	dök
-怍	dòk
-柞	dòk
-砟	dòk
-笮	dòk
-酢	dòk
-鐸	dòk
-鑿	dòk
-鑿	dòk
-昨	dôk
-柞	dôk
-笮	dôk
-莋	dôk
-雹	dôk
-攥	dōn
-篹	dōn
-纂	dōn
-鑽	dōn
-躦	dön
-鑚	dön
-鑽	dön
-鑽	dön
-擋	dōng
-檔	döng
-臧	döng
-葬	döng
-贓	döng
-髒	döng
-牂	dòng
-臟	dòng
-藏	dòng
-嘬	dōt
-嘬	döt
-仔	dū
-仔	dū
-呰	dū
-子	dū
-子	dū
-左	dū
-梓	dū
-祖	dū
-笫	dū
-籽	dū
-組	dū
-紫	dū
-耔	dū
-自	dū
-茈	dū
-虸	dū
-訾	dū
-訿	dū
-都	dū
-釨	dū
-佐	dü
-做	dü
-呲	dü
-咨	dü
-嗞	dü
-姿	dü
-孜	dü
-孳	dü
-孶	dü
-嵫	dü
-淄	dü
-滋	dü
-甾	dü
-租	dü
-秶	dü
-粢	dü
-緇	dü
-胾	dü
-茲	dü
-菑	dü
-觜	dü
-訾	dü
-諮	dü
-資	dü
-貲	dü
-趑	dü
-輜	dü
-錙	dü
-鎡	dü
-雌	dü
-鮆	dü
-鯔	dü
-鼒	dü
-齊	dü
-齜	dü
-伺	dù
-伺	dù
-俟	dù
-嗣	dù
-字	dù
-寺	dù
-巳	dù
-汜	dù
-牸	dù
-祀	dù
-禩	dù
-竢	dù
-耜	dù
-自	dù
-食	dù
-飼	dù
-咀	duī
-咀	duī
-嘴	duī
-沮	duī
-狙	duī
-疽	duī
-觜	duī
-趄	duī
-跙	duī
-齟	duī
-晬	duï
-最	duï
-槜	duï
-檇	duï
-沮	duï
-狙	duï
-疽	duï
-苴	duï
-菹	duï
-蕞	duï
-䘹	duï
-趄	duï
-跙	duï
-醉	duï
-齟	duï
-嶼	duì
-序	duì
-敘	duì
-漵	duì
-罪	duì
-聚	duì
-足	duì
-辠	duì
-隊	duì
-鱮	duì
-浞	dūk
-足	dūk
-足	dük
-俗	dùk
-匵	dùk
-娖	dùk
-族	dùk
-柚	dùk
-櫝	dùk
-濁	dùk
-瀆	dùk
-牘	dùk
-犢	dùk
-續	dùk
-躅	dùk
-䠱	dùk
-鏃	dùk
-黷	dùk
-俊	dün
-尊	dün
-峻	dün
-悛	dün
-搢	dün
-撙	dün
-晉	dün
-朘	dün
-浚	dün
-濬	dün
-焌	dün
-皴	dün
-竣	dün
-縉       dün
-脧	dün
-蹲	dün
-逡	dün
-遵	dün
-鐫	dün
-雋	dün
-雋	dün
-餕	dün
-駿	dün
-鱒	dün
-扽	dùn
-樽	dûn
-罇	dûn
-傯	dūng
-懂	dūng
-總	dūng
-宗	düng
-棕	düng
-椶	düng
-樅	düng
-淙	düng
-琮	düng
-綜	düng
-綜	düng
-縱	düng
-腙	düng
-䝋	düng
-蹤	düng
-騌	düng
-騣	düng
-鬃	düng
-鬉	düng
-鯼	düng
-吅	dùng
-瘲	dùng
-訟	dùng
-誦	dùng
-頌	dùng
-粽	dûng
-糉	dûng
-糭	dûng
-卒	dūt
-嘟	dūt
-捽	dūt
-絕	dùt
-欸	ē
-誒	ē
-欸	ë
-欸	ë
-誒	ë
-誒	ë
-欸	è
-誒	è
-嗲	ēh
-爹	ëh
-嘀	ēik
-嘀	ēik
-嫡	ēik
-的	ēik
-的	ēik
-的	ēik
-菂	ēik
-蹢	ēik
-鏑	ēik
-鏑	ēik
-跌	ëik
-佚	èik
-佚	èik
-垤	èik
-帙	èik
-敵	èik
-滌	èik
-滴	èik
-狄	èik
-瓞	èik
-秩	èik
-紩	èik
-絰	èik
-翟	èik
-耋	èik
-荻	èik
-螲	èik
-袠	èik
-覿	èik
-詄	èik
-踧	èik
-軼	èik
-迭	èik
-迪	èik
-逖	èik
-逷	èik
-鵪	ëim
-典	ēin
-濎	ēin
-碘	ēin
-腆	ēin
-覥	ēin
-𧡝	ēin
-靦	ēin
-頂	ēin
-鼎	ēin
-丁	ëin
-仃	ëin
-叮	ëin
-巔	ëin
-汀	ëin
-滇	ëin
-玎	ëin
-町	ëin
-町	ëin
-疔	ëin
-癲	ëin
-耵	ëin
-艼	ëin
-訂	ëin
-酊	ëin
-酊	ëin
-顛	ëin
-顚	ëin
-飣	ëin
-佃	èin
-啶	èin
-奠	èin
-定	èin
-掟	èin
-椗	èin
-殿	èin
-澱	èin
-甸	èin
-癜	èin
-矴	èin
-碇	èin
-碘	èin
-簟	èin
-腚	èin
-訂	èin
-錠	èin
-電	èin
-靛	èin
-踏	èip
-剁	ēk
-㓸	ēk
-啄	ēk
-斫	ēk
-斮	ēk
-斲	ēk
-斵	ēk
-滴	ēk
-滴	ëk
-琢	ëk
-趯	ëk
-笛	èk
-糴	èk
-凋	ël
-刁	ël
-叼	ël
-吊	ël
-弔	ël
-彫	ël
-汈	ël
-碉	ël
-窵	ël
-藋	ël
-貂	ël
-踔	ël
-釣	ël
-銱	ël
-雕	ël
-鮉	ël
-鯛	ël
-丟	èl
-掉	èl
-敦	èl
-窕	èl
-調	èl
-銩	èl
-窅	êl
-丶	ēm
-點	ēm
-坫	ëm
-埝	ëm
-店	ëm
-惦	ëm
-掂	ëm
-敁	ëm
-玷	ëm
-痁	ëm
-痁	ëm
-跕	ëm
-踮	ëm
-阽	ëm
-掂	èm
-頂	ēng
-掟	ëng
-盯	ëng
-釘	ëng
-釘	ëng
-靪	ëng
-定	èng
-訂	èng
-丁	êng
-釘	êng
-靪	êng
-唗	ēo
-嘔	ēo
-嘔	ēo
-抖	ēo
-斗	ēo
-枓	ēo
-蚪	ēo
-鈄	ēo
-陡	ēo
-兜	ëo
-區	ëo
-唗	ëo
-嘔	ëo
-媼	ëo
-嫗	ëo
-慪	ëo
-歐	ëo
-毆	ëo
-漚	ëo
-漚	ëo
-甌	ëo
-瞘	ëo
-篼	ëo
-蔸	ëo
-謳	ëo
-鬥	ëo
-鬦	ëo
-鬪	ëo
-鬭	ëo
-鷗	ëo
-痘	èo
-竇	èo
-脰	èo
-荳	èo
-讀	èo
-豆	èo
-逗	èo
-餖	èo
-竇	êo
-喋	ēp
-喋	èp
-堞	èp
-挕	èp
-揲	èp
-楪	èp
-㲲	èp
-牒	èp
-疊	èp
-碟	èp
-蝶	èp
-諜	èp
-蹀	èp
-鰈	èp
-化	fä
-化	fä
-芲	fä
-花	fä
-化	fâ
-傀	fäi
-傀	fäi
-噲	fäi
-塊	fäi
-快	fäi
-筷	fäi
-駃	fäi
-撥	fāk
-反	fān
-幡	fän
-番	fän
-繙	fän
-翻	fän
-蕃	fän
-返	fän
-飜	fän
-凡	fãn
-㠶	fãn
-帆	fãn
-梵	fãn
-樊	fãn
-煩	fãn
-燔	fãn
-璠	fãn
-礬	fãn
-籵	fãn
-緐	fãn
-繁	fãn
-膰	fãn
-蕃	fãn
-藩	fãn
-蘩	fãn
-襎	fãn
-蹯	fãn
-釩	fãn
-颿	fãn
-樊	fàn
-泛	fàn
-犯	fàn
-範	fàn
-范	fàn
-飯	fàn
-幡	fân
-瓣	fân
-畈	fân
-販	fân
-吰	fãng
-宏	fãng
-弘	fãng
-泓	fãng
-竑	fãng
-竤	fãng
-閎	fãng
-法	fāt
-琺	fāt
-發	fāt
-砝	fāt
-髪	fāt
-髮	fāt
-發	fät
-醱	fät
-乏	fàt
-伐	fàt
-垡	fàt
-栰	fàt
-筏	fàt
-罰	fàt
-罸	fàt
-閥	fàt
-啡	fēh
-啡	fêh
-否	fēo
-桴	fẽo
-桴	fẽo
-浮	fẽo
-涪	fẽo
-罘	fẽo
-芣	fẽo
-蜉	fẽo
-齁	fẽo
-埠	fèo
-缶	fèo
-阜	fèo
-匪	fī
-卉	fī
-廢	fī
-悱	fī
-斐	fī
-榧	fī
-毀	fī
-燬	fī
-痱	fī
-篚	fī
-翡	fī
-菲	fī
-菲	fī
-虺	fī
-誹	fī
-隳	fī
-䨾	fī
-剕 	fï
-妃	fï
-徽	fï
-怫	fï
-扉	fï
-揮	fï
-撝	fï
-暉	fï
-沸	fï
-煇	fï
-狒	fï
-琿	fï
-緋	fï
-翡	fï
-翬	fï
-肺	fï
-腓	fï
-芾	fï
-菲	fï
-蜚	fï
-蜚	fï
-𧓊	fï
-褘	fï
-諱	fï
-費	fï
-輝	fï
-鐨	fï
-霏	fï
-非	fï
-飛	fï
-䬠	fï
-飝	fï
-鯡	fï
-麾	fï
-淝	fĩ
-肥	fĩ
-蜰	fĩ
-裴	fĩ
-僡	fì
-吠	fì
-喙	fì
-彗	fì
-恚	fì
-惠	fì
-慧	fì
-憓	fì
-槥	fì
-篲	fì
-蔧	fì
-蕙	fì
-蟪	fì
-飛	fî
-伙	fō
-夥	fō
-棵	fō
-火	fō
-鈥	fō
-顆	fō
-匼	fö
-堁	fö
-戈	fö
-科	fö
-稞	fö
-蝌	fö
-課	fö
-貨	fö
-踝	fö
-錁	fö
-騍	fö
-髁	fö
-悔	fōi
-晦	fōi
-誨	fōi
-傀	föi
-傀	föi
-咴	föi
-喹	föi
-奎	föi
-恢	föi
-悝	föi
-灰	föi
-盔	föi
-虺	föi
-蝰	föi
-詼	föi
-䠑	föi
-魁	föi
-咍	fõi
-㾂	fõi
-霍	fōk
-靃	fōk
-縛	fòk
-欵	fōn
-款	fōn
-浣	fōn
-澣	fōn
-皖	fōn
-盥	fōn
-莞	fōn
-詪	fōn
-寛	fön
-寬	fön
-歡	fön
-獾	fön
-䝔	fön
-貛	fön
-髖	fön
-喚	fòn
-奐	fòn
-渙	fòn
-煥	fòn
-瘓	fòn
-緩	fòn
-仿	fōng
-倣	fōng
-坊	fōng
-坊	fōng
-幌	fōng
-彷	fōng
-怳	fōng
-恍	fōng
-昉	fōng
-晄	fōng
-晃	fōng
-晃	fōng
-晃	fōng
-曠	fōng
-枋	fōng
-況	fōng
-皝	fōng
-皩	fōng
-紡	fōng
-肪	fōng
-舫	fōng
-訪	fōng
-貺	fōng
-匚	föng
-塃	föng
-慌	föng
-放	föng
-方	föng
-枋	föng
-肓	föng
-芳	föng
-荒	föng
-蚄	föng
-謊	föng
-邡	föng
-鄺	föng
-鈁	föng
-妨	fõng
-妨	fõng
-防	fõng
-魴	fõng
-房	fông
-蛞	föt
-闊	föt
-乕	fū
-俛	fū
-俯	fū
-俿	fū
-唬	fū
-府	fū
-拊	fū
-撫	fū
-斧	fū
-楛	fū
-滏	fū
-滸	fū
-父	fū
-琥	fū
-甫	fū
-盙	fū
-簠	fū
-脯	fū
-腑	fū
-苦	fū
-虍	fū
-虎	fū
-虎	fū
-虎	fū
-虎	fū
-虝	fū
-釜	fū
-頫	fū
-黼	fū
-仆	fü
-伕	fü
-副	fü
-呋	fü
-呼	fü
-咐	fü
-唿	fü
-夫	fü
-夫	fü
-富	fü
-庫	fü
-戲	fü
-戽	fü
-滹	fü
-膚	fü
-賦	fü
-赴	fü
-趺	fü
-跗	fü
-軤	fü
-麩	fü
-乎	fũ
-俘	fũ
-夫	fũ
-孚	fũ
-孵	fũ
-扶	fũ
-桴	fũ
-烀	fũ
-稃	fũ
-符	fũ
-罦	fũ
-芙	fũ
-苻	fũ
-莩	fũ
-蚨	fũ
-郛	fũ
-鄜	fũ
-鈇	fũ
-鳧	fũ
-付	fù
-傅	fù
-怙	fù
-戶	fù
-戸	fù
-扈	fù
-敷	fù
-滬	fù
-父	fù
-祜	fù
-腐	fù
-訃	fù
-負	fù
-賻	fù
-輔	fù
-鄠	fù
-附	fù
-駙	fù
-鮒	fù
-呼	fû
-婦	fû
-扶	fû
-絝	fû
-袴	fû
-褲	fû
-幅	fūk
-復	fūk
-福	fūk
-腹	fūk
-蝠	fūk
-蝮	fūk
-複	fūk
-覆	fūk
-輻	fūk
-馥	fūk
-鰒	fūk
-伏	fùk
-匐	fùk
-宓	fùk
-幞	fùk
-復	fùk
-斛	fùk
-服	fùk
-服	fùk
-栿	fùk
-洑	fùk
-絥	fùk
-茯	fùk
-菔	fùk
-袱	fùk
-袱	fùk
-襆	fùk
-𩢰	fùk
-鴔	fùk
-伏	fûk
-粉	fūn
-分	fün
-勛	fün
-勳	fün
-吩	fün
-塤	fün
-壎	fün
-婚	fün
-惛	fün
-昏	fün
-曛	fün
-棼	fün
-氛	fün
-涽	fün
-湣	fün
-煇	fün
-熏	fün
-熏	fün
-燻	fün
-獯	fün
-玢	fün
-瞓	fün
-窨	fün
-糞	fün
-紛	fün
-䎜	fün
-芬	fün
-葷	fün
-薰	fün
-訓	fün
-酚	fün
-醺	fün
-閽	fün
-垣	fũn
-墳	fũn
-桓	fũn
-汾	fũn
-洹	fũn
-濆	fũn
-焚	fũn
-萑	fũn
-蚠	fũn
-蚡	fũn
-豶	fũn
-賁	fũn
-鼢	fũn
-份	fùn
-分	fùn
-坌	fùn
-僨	fûn
-奮	fûn
-忿	fûn
-憤	fûn
-瀵	fûn
-糞	fûn
-鱝	fûn
-俸	fūng
-唪	fūng
-諷	fūng
-賵	fūng
-夆	füng
-封	füng
-峯	füng
-峰	füng
-楓	füng
-灃	füng
-烽	füng
-瘋	füng
-碸	füng
-葑	füng
-葑	füng
-蜂	füng
-豊	füng
-豐	füng
-酆	füng
-鋒	füng
-鎽	füng
-鏠	füng
-風	füng
-渢	fũng
-縫	fũng
-縫	fũng
-逢	fũng
-馮	fũng
-奉	fùng
-甮	fùng
-鳳	fùng
-佛	fūt
-唿	fūt
-囫	fūt
-堀	fūt
-弗	fūt
-怫	fūt
-忽	fūt
-惚	fūt
-拂	fūt
-氟	fūt
-淴	fūt
-矻	fūt
-砩	fūt
-祓	fūt
-窟	fūt
-笏	fūt
-笰	fūt
-紼	fūt
-紱	fūt
-芾	fūt
-茀	fūt
-鍃	fūt
-韍	fūt
-鮄	fūt
-黻	fūt
-佛	fùt
-怫	fùt
-忽	fût
-假	gā
-假	gā
-剮	gā
-呱	gā
-呱	gā
-嘎	gā
-嘏	gā
-寡	gā
-徦	gā
-斚	gā
-斝	gā
-旮	gā
-檟	gā
-瘕	gā
-賈	gā
-伽	gä
-伽	gä
-傢	gä
-價	gä
-價	gä
-加	gä
-卦	gä
-咖	gä
-咖	gä
-嘉	gä
-嘎	gä
-嫁	gä
-家	gä
-家	gä
-尜	gä
-架	gä
-枷	gä
-玍	gä
-珈	gä
-瓜	gä
-稼	gä
-笳	gä
-罣	gä
-耞	gä
-胍	gä
-茄	gä
-葭	gä
-袈	gä
-跏	gä
-迦	gä
-鉫	gä
-鎵	gä
-駕	gä
-嘎	gâ
-家	gâ
-尕	gâ
-架	gâ
-瓜	gâ
-痂	gâ
-拐	gāi
-蒯	gāi
-薢	gāi
-蚧	gāi
-解	gāi
-觧	gāi
-乖	gäi
-介	gäi
-价	gäi
-佳	gäi
-偈	gäi
-偕	gäi
-喈	gäi
-垓	gäi
-尬	gäi
-屆	gäi
-彐	gäi
-怪	gäi
-恠	gäi
-戒	gäi
-揩	gäi
-楷	gäi
-楷	gäi
-界	gäi
-疥	gäi
-皆	gäi
-秸	gäi
-繼	gäi
-罽	gäi
-芥	gäi
-芥	gäi
-蒈	gäi
-薊	gäi
-解	gäi
-計	gäi
-誡	gäi
-鍇	gäi
-階	gäi
-雞	gäi
-骱	gäi
-魀	gäi
-偈	gài
-計	gài
-笄	gâi
-筓	gâi
-街	gâi
-髻	gâi
-䯻	gâi
-塥	gāk
-格	gāk
-格	gāk
-緙	gāk
-胳	gāk
-胳	gāk
-胳	gāk
-革	gāk
-韚	gāk
-骼	gāk
-嗝	gäk
-摑	gäk
-滆	gäk
-膈	gäk
-鎘	gäk
-隔	gäk
-鬲	gäk
-格	gâk
-感	gām
-敢	gām
-減	gām
-澉	gām
-坩	gäm
-尲	gäm
-尶	gäm
-尷	gäm
-橄	gäm
-泔	gäm
-淦	gäm
-灨	gäm
-甘	gäm
-甙	gäm
-疳	gäm
-監	gäm
-監	gäm
-紺	gäm
-苷	gäm
-贑	gäm
-贛	gäm
-鋻	gäm
-鍳	gäm
-鑑	gäm
-鑒	gäm
-柑	gâm
-揀	gān
-柬	gān
-梘	gān
-澗	gān
-癇	gān
-礆	gān
-筧	gān
-簡	gān
-𥳑	gān
-繭	gān
-襇	gān
-襉	gān
-趼	gān
-鐧	gān
-鐧	gān
-鹸	gān
-鹻	gān
-鹼	gān
-丱	gän
-奸	gän
-姦	gän
-慣	gän
-摜	gän
-瘝	gän
-矜	gän
-綸	gän
-肩	gän
-艮	gän
-艱	gän
-茛	gän
-菅	gän
-諫	gän
-間	gän
-間	gän
-間	gän
-關	gän
-鰥	gän
-鵳	gän
-亙	gāng
-亘	gāng
-哽	gāng
-梗	gāng
-硬	gāng
-綆	gāng
-耿	gāng
-骾	gāng
-侊	gäng
-埂	gäng
-庚	gäng
-更	gäng
-更	gäng
-秔	gäng
-稉	gäng
-筻	gäng
-粇	gäng
-粳	gäng
-羮	gäng
-羹	gäng
-耕	gäng
-肱	gäng
-薨	gäng
-觥	gäng
-觵	gäng
-訇	gäng
-賡	gäng
-輷	gäng
-轟	gäng
-鶊	gäng
-逛	gàng
-逕	gâng
-佼	gāo
-姣	gāo
-搞	gāo
-攪	gāo
-晈	gāo
-杲	gāo
-槁	gāo
-槀	gāo
-狡	gāo
-皎	gāo
-稁	gāo
-稾	gāo
-稿	gāo
-絞	gāo
-縞	gāo
-蒿	gāo
-藁	gāo
-藳	gāo
-鎬	gāo
-餃	gāo
-高	gāo
-交	gäo
-告	gäo
-峧	gäo
-教	gäo
-教	gäo
-斠	gäo
-㬵	gäo
-校	gäo
-校	gäo
-槔	gäo
-櫜	gäo
-滘	gäo
-漖	gäo
-皋	gäo
-睾	gäo
-窌	gäo
-窖	gäo
-篙	gäo
-糕	gäo
-羔	gäo
-羙	gäo
-膏	gäo
-膏	gäo
-膠	gäo
-臯	gäo
-艽	gäo
-茭	gäo
-蛟	gäo
-覺	gäo
-誥	gäo
-跤	gäo
-較	gäo
-郊	gäo
-郜	gäo
-鉸	gäo
-鋯	gäo
-韟	gäo
-餻	gäo
-高	gäo
-鮫	gäo
-鵁	gäo
-嚿	gào
-交	gâo
-篙	gâo
-岬	gāp
-柙	gāp
-甲	gāp
-胛	gāp
-舺	gāp
-鉀	gāp
-頜	gāp
-夾	gäp
-夾	gäp
-夾	gäp
-搛	gäp
-搿	gäp
-浹	gäp
-筴	gäp
-脥	gäp
-莢	gäp
-蛺	gäp
-袷	gäp
-袷	gäp
-裌	gäp
-郟	gäp
-頰	gäp
-鵊	gäp
-合	gâp
-夾	gâp
-甲	gâp
-莢	gâp
-鋏	gâp
-括	gāt
-括	gāt
-栝	gāt
-聒	gāt
-軋	gāt
-釓	gāt
-鴰	gāt
-刮	gät
-擖	gät
-颳	gät
-呱	gēh
-嘅	gëh
-亟	gēik
-墼	gēik
-㛃	gēik
-戟	gēik
-㦸	gēik
-拮	gēik
-挈	gēik
-擊	gēik
-棘	gēik
-殛	gēik
-潔	gēik
-激	gēik
-結	gēik
-絜	gēik
-結	gēik
-纈	gēik
-詰	gēik
-革	gēik
-頡	gēik
-頡	gēik
-鮚	gēik
-黠	gēik
-結	gëik
-偈	gèik
-傑	gèik
-桀	gèik
-極	gèik
-竭	gèik
-羯	gèik
-儆	gēin
-冂	gēin
-冏	gēin
-剄	gēin
-境	gēin
-憬	gēin
-扃	gēin
-扃	gēin
-景	gēin
-瀽	gēin
-炅	gēin
-炯	gēin
-烱	gēin
-熲	gēin
-璟	gēin
-繭	gēin
-苘	gēin
-謇	gēin
-警	gēin
-䜘	gēin
-趼	gēin
-蹇	gēin
-迥	gēin
-顈	gēin
-京	gëin
-兢	gëin
-堅	gëin
-敬	gëin
-涇	gëin
-犍	gëin
-矜	gëin
-経	gëin
-經	gëin
-經	gëin
-荊	gëin
-見	gëin
-驚	gëin
-鰹	gëin
-件	gèin
-健	gèin
-勁	gèin
-勁	gèin
-建	gèin
-弳	gèin
-徑	gèin
-楗	gèin
-毽	gèin
-獍	gèin
-痙	gèin
-竟	gèin
-競	gèin
-羥	gèin
-脛	gèin
-腱	gèin
-莖	gèin
-誩	gèin
-踺	gèin
-逕	gèin
-鍵	gèin
-鞬	gèin
-蛤	gēip
-腳	gēk
-屩	gëk
-屫	gëk
-腳	gëk
-蹻	gëk
-腳	gêk
-腳	gêk
-撟	gēl
-敫	gēl
-矯	gēl
-矯	gēl
-糾	gēl
-繳	gēl
-赳	gēl
-叫	gël
-呌	gël
-嘦	gël
-嬌	gël
-徼	gël
-敫	gël
-䆗	gël
-驕	gël
-鱎	gël
-嶠	gèl
-撬	gèl
-轎	gèl
-撿	gēm
-檢	gēm
-瞼	gēm
-兼	gëm
-剣	gëm
-剱	gëm
-劍	gëm
-劎	gëm
-劒	gëm
-劔	gëm
-搛	gëm
-縑	gëm
-蒹	gëm
-鐱	gëm
-鰜	gëm
-鶼	gëm
-儉	gèm
-瞼	gèm
-頸	gēng
-頸	gēng
-僵	gëng
-姜	gëng
-弶	gëng
-殭	gëng
-猄	gëng
-疆	gëng
-礓	gëng
-繮	gëng
-羌	gëng
-薑	gëng
-蜣	gëng
-鏡	gëng
-韁	gëng
-驚	gëng
-強	gèng
-彊	gèng
-犟	gèng
-垢	gēo
-岣	gēo
-枸	gēo
-枸	gēo
-枸	gēo
-狗	gēo
-笱	gēo
-芶	gēo
-苟	gēo
-蚼	gēo
-佝	gëo
-夠	gëo
-廄	gëo
-彀	gëo
-攰	gëo
-緱	gëo
-鳩	gëo
-龜	gëo
-亅	gêo
-勾	gêo
-鈎	gêo
-劫	gēp
-匧	gēp
-喼	gēp
-笈	gēp
-篋	gēp
-鷑	gēp
-劫	gëp
-澀	gëp
-鵖	gëp
-伋	gèp
-及	gèp
-狹	gèp
-芨	gèp
-疙	gēt
-匭	gī
-嘰	gī
-宄	gī
-屺	gī
-己	gī
-幾	gī
-庋	gī
-掎	gī
-晷	gī
-朹	gī
-杞	gī
-簋	gī
-紀	gī
-紀	gī
-芑	gī
-蟣	gī
-詭	gī
-軌	gī
-鬼	gī
-麂	gī
-丌	gï
-𠁴	gï
-乩	gï
-亀	gï
-𠃾	gï
-剞	gï
-劌	gï
-咭	gï
-嘰	gï
-圭	gï
-基	gï
-奇	gï
-媯	gï
-嬀	gï
-季	gï
-寄	gï
-巋	gï
-帰	gï
-幾	gï
-悸	gï
-敧	gï
-既	gï
-旣	gï
-期	gï
-桂	gï
-機	gï
-歸	gï
-殨	gï
-溈	gï
-潙	gï
-炅	gï
-𤕣	gï
-犄	gï
-瑰	gï
-瑰	gï
-璣	gï
-瓌	gï
-畸	gï
-畿	gï
-癸	gï
-皈	gï
-硅	gï
-磯	gï
-竒	gï
-罽	gï
-肌	gï
-𧑴	gï
-觭	gï
-記	gï
-譏	gï
-貴	gï
-錤	gï
-閨	gï
-飢	gï
-饑	gï
-鮭	gï
-鱖	gï
-龜	gï
-𪚧	gï
-𪚦	gï
-𪚨	gï
-𪚺	gï
-𪚿	gï
-𪚴	gï
-伎	gì
-几	gì
-匱	gì
-匱	gì
-妓	gì
-徛	gì
-忌	gì
-忮	gì
-惎	gì
-憒	gì
-技	gì
-檵	gì
-櫃	gì
-洎	gì
-潰	gì
-簣	gì
-籄	gì
-聵	gì
-臾	gì
-芰	gì
-蕢	gì
-䙡	gì
-䙡	gì
-跪	gì
-跽	gì
-餽	gì
-饋	gì
-基	gî
-箕	gî
-萁	gî
-逵	gî
-錦	gīm
-今	gïm
-禁	gïm
-禁	gïm
-金	gïm
-撳	gìm
-監	gìm
-禁	gîm
-衿	gîm
-衾	gîm
-襟	gîm
-僅	gīn
-卺	gīn
-厪	gīn
-堇	gīn
-廑	gīn
-憖	gīn
-槿	gīn
-殣	gīn
-瑾	gīn
-緊	gīn
-謹	gīn
-饉	gīn
-哏	gïn
-巾	gïn
-斤	gïn
-根	gïn
-筋	gïn
-觔	gïn
-詪	gïn
-跟	gïn
-覲	gìn
-近	gìn
-靳	gìn
-急	gīp
-靸	gīp
-仡	gīt
-佶	gīt
-劼	gīt
-吉	gīt
-桔	gīt
-桔	gīt
-虼	gīt
-詰	gīt
-㓤	gït
-拮	gït
-吉	gìt
-久	giū
-九	giū
-玖	giū
-韮	giū
-詬	giū
-韭	giū
-匛	giü
-咎	giü
-廄	giü
-捄	giü
-救	giü
-柩	giü
-灸	giü
-疚	giü
-究	giü
-臼	giü
-艽	giü
-柩	giù
-臼	giù
-舊	giù
-倮	gō
-㒩	gō
-哿	gō
-哥	gō
-果	gō
-牁	gō
-猓	gō
-粿	gō
-臝	gō
-蓏	gō
-蜾	gō
-裸	gō
-裹	gō
-躶	gō
-錁	gō
-顆	gō
-餜	gō
-䴹	gō
-咼	gö
-渦	gö
-過	gö
-過	gö
-和	gô
-歌	gô
-改	gōi
-胲	gōi
-個	göi
-個	göi
-個	göi
-蓋	gôi
-各	gōk
-咯	gōk
-囗	gōk
-國	gōk
-幗	gōk
-摑	gōk
-擱	gōk
-斠	gōk
-玨	gōk
-珏	gōk
-硌	gōk
-膕	gōk
-蟈	gōk
-袼	gōk
-覺	gōk
-角	gōk
-閣	gōk
-餎	gōk
-擱	gök
-覺	gök
-角	gök
-閣	gök
-桷	gôk
-梏	gôk
-角	gôk
-角	gôk
-龣	gôk
-擀	gōn
-琯	gōn
-皯	gōn
-稈	gōn
-竿	gōn
-管       gōn
-䏓	gōn
-脘       gōn
-𦜐	gōn
-舘	gōn
-莞	gōn
-趕	gōn
-館	gōn
-䵟	gōn
-乾	gön
-倌	gön
-冠	gön
-冠	gön
-官	gön
-干	gön
-幹	gön
-擀	gön
-旰	gön
-杆	gön
-桿	gön
-棺	gön
-榦	gön
-涫	gön
-灌	gön
-玕	gön
-矸	gön
-稈	gön
-竿	gön
-肝	gön
-觀	gön
-觀	gön
-貫	gön
-酐	gön
-鸛	gön
-乾	gôn
-竿	gôn
-罐	gôn
-廣	gōng
-杠	gōng
-桄	gōng
-桄	gōng
-耩	gōng
-講	gōng
-光	göng
-剛	göng
-咣	göng
-堽	göng
-夅	göng
-岡	göng
-崗	göng
-扛	göng
-掆	göng
-杠	göng
-棡	göng
-槓	göng
-江	göng
-洚	göng
-洸	göng
-犅	göng
-珖	göng
-絳	göng
-綱	göng
-缸	göng
-罡	göng
-肛	göng
-胱	göng
-茳	göng
-豇	göng
-䜶	göng
-鋼	göng
-降	göng
-光	gông
-岡	gông
-崗	gông
-崗	gông
-鋼	gông
-噶	gōt
-葛	gōt
-蓋	gōt
-割	göt
-估	gū
-古	gū
-咕	gū
-哥	gū
-嘏	gū
-夃	gū
-牯	gū
-䀇	gū
-瞽	gū
-羖	gū
-𦍩
-❄	gū
-股	gū
-臌	gū
-蛄	gū
-蠱	gū
-詁	gū
-賈	gū
-軲	gū
-鈷	gū
-鮕	gū
-鼓	gū
-鼓	gū
-估	gü
-僱	gü
-固	gü
-堌	gü
-姑	gü
-孤	gü
-岵	gü
-崮	gü
-怙	gü
-故	gü
-沽	gü
-痼	gü
-罟	gü
-胍	gü
-菇	gü
-菰	gü
-蛄	gü
-觚	gü
-辜	gü
-酤	gü
-錮	gü
-雇	gü
-顧	gü
-鯝	gü
-鴣	gü
-咕	gù
-偊	guī
-柜	guī
-椇	guī
-榘	guī
-櫸	guī
-矩	guī
-矩	guī
-筥	guī
-舉	guī
-莒	guī
-蒟	guī
-踽	guī
-齲	guī
-倨	guï
-句	guï
-居	guï
-屨	guï
-岣	guï
-拘	guï
-據	guï
-據	guï
-椐	guï
-泃	guï
-澽	guï
-琚	guï
-硨	guï
-腒	guï
-裾	guï
-踞	guï
-車	guï
-鋸	guï
-駒	guï
-鶋	guï
-俱	guì
-具	guì
-巨	guì
-懼	guì
-炬	guì
-犋	guì
-窶	guì
-簴	guì
-苣	guì
-苣	guì
-虡	guì
-遽	guì
-醵	guì
-鉅	guì
-鐻	guì
-颶	guì
-句	guî
-嚳	gūk
-掬	gūk
-旭	gūk
-梏	gūk
-榖	gūk
-毩	gūk
-毱	gūk
-瀔	gūk
-牿	gūk
-穀	gūk
-糓	gūk
-菊	gūk
-諊	gūk
-谷	gūk
-踘	gūk
-輂	gūk
-轂	gūk
-轂	gūk
-陱	gūk
-鞠	gūk
-鞫	gūk
-頊	gūk
-鵠	gūk
-侷	gùk
-局	gùk
-焗	gùk
-跼	gùk
-鋦	gùk
-鋦	gùk
-鋸	gùk
-悃	gūn
-滾	gūn
-磙	gūn
-袞	gūn
-裷	gūn
-錈	gūn
-鬈	gūn
-鮌	gūn
-鯀	gūn
-君	gün
-均	gün
-娟	gün
-捐	gün
-昀	gün
-昆	gün
-涓	gün
-狷	gün
-畇	gün
-皸	gün
-眷	gün
-睠	gün
-筠	gün
-絹	gün
-罥	gün
-羂	gün
-蜎	gün
-蜵	gün
-蠲	gün
-裩	gün
-褌	gün
-身	gün
-軍	gün
-鄄	gün
-鈞	gün
-鋆	gün
-鵑	gün
-龜	gün
-倦	gùn
-捃	gùn
-珺	gùn
-郡	gùn
-丨	gûn
-棍	gûn
-竿	gûn
-輥	gûn
-公	gūng
-廾	gūng
-拱	gūng
-栱	gūng
-珙	gūng
-䡗	gūng
-鞏	gūng
-供	güng
-供	güng
-公	güng
-功	güng
-嗊	güng
-塨	güng
-宮	güng
-工	güng
-弓	güng
-恭	güng
-攻	güng
-紅	güng
-芎	güng
-蚣	güng
-貢	güng
-贑	güng
-躬	güng
-躳	güng
-龔	güng
-共	gùng
-公	gûng
-榾	gūt
-橘	gūt
-汩	gūt
-汩	gūt
-蓇	gūt
-譎	gūt
-餶	gūt
-骨	gūt
-骨	gūt
-鶻	gūt
-鶻	gūt
-鷸	gūt
-倔	gùt
-倔	gùt
-崛	gùt
-掘	gùt
-葛	gût
-訣	gût
-哈	hā
-哈	hā
-哈	hā
-蛤	hā
-蝦	hā
-蝦	hā
-下	hä
-他	hä
-她	hä
-它	hä
-怹	hä
-牠	hä
-蝦	hä
-鉈	hä
-徦	hã
-瑕	hã
-遐	hã
-霞	hã
-下	hà
-嗄	hà
-夏	hà
-廈	hà
-廈	hà
-暇	hà
-下	hâ
-疨	hâ
-蝦	hâ
-鰕	hâ
-咳	hāi
-嗨	hāi
-嗨	hāi
-澥	hāi
-睇	hāi
-蟹	hāi
-蠏	hāi
-躰	hāi
-醍	hāi
-體	hāi
-體	hāi
-傣	häi
-剃	häi
-太	häi
-妻	häi
-妻	häi
-屜	häi
-忕	häi
-態	häi
-替	häi
-梯	häi
-汰	häi
-泰	häi
-涕	häi
-綈	häi
-肽	häi
-薙	häi
-貸	häi
-郪	häi
-酞	häi
-鈦	häi
-銻	häi
-髢	häi
-鬀	häi
-鬄	häi
-偕	hãi
-兮	hãi
-啼	hãi
-㖷	hãi
-嗁	hãi
-堤	hãi
-奚	hãi
-孩	hãi
-提	hãi
-提	hãi
-盻	hãi
-綈	hãi
-緹	hãi
-胲	hãi
-荑	hãi
-諧	hãi
-蹄	hãi
-蹊	hãi
-蹏	hãi
-醍	hãi
-鞋	hãi
-鞵	hãi
-頦	hãi
-頦	hãi
-題	hãi
-騠	hãi
-骸	hãi
-鮷	hãi
-鯷	hãi
-鵜	hãi
-鶗	hãi
-𪂿	hãi
-鷈	hãi
-鷉	hãi
-鼷	hãi
-龤	hãi
-係	hài
-匸	hài
-廨	hài
-械	hài
-瀣	hài
-獬	hài
-盻	hài
-禊	hài
-系	hài
-繫	hài
-繫	hài
-薤	hài
-解	hài
-娣	hâi
-弟	hâi
-懈	hâi
-灺	hâi
-邂	hâi
-髢	hâi
-鬄	hâi
-克	hāk
-刻	hāk
-剋	hāk
-剋	hāk
-可	hāk
-喀	hāk
-客	hāk
-揢	hāk
-氪	hāk
-緙	hāk
-赫	hāk
-黑	hāk
-唬	häk
-嚇	häk
-嚇	häk
-客	häk
-佄	hām
-坎	hām
-忐	hām
-砍	hām
-莰	hām
-輡	hām
-轗	hām
-酣	hām
-闞	hām
-勘	häm
-喊	häm
-㘚	häm
-坎	häm
-坩	häm
-堪	häm
-墈	häm
-崁	häm
-憨	häm
-戡	häm
-探	häm
-撖	häm
-撢	häm
-檻	häm
-毯	häm
-淡	häm
-瞰	häm
-矙	häm
-磡	häm
-菼	häm
-蚶	häm
-貪	häm
-賧	häm
-闞	häm
-函	hãm
-咸	hãm
-曇	hãm
-榃	hãm
-涵	hãm
-潭	hãm
-澹	hãm
-痰	hãm
-菡	hãm
-覃	hãm
-談	hãm
-譚	hãm
-郯	hãm
-銜	hãm
-錟	hãm
-鐔	hãm
-鹹	hãm
-龕	hãm
-嵌	hàm
-憾	hàm
-撼	hàm
-萏	hàm
-陷	hàm
-餡	hàm
-凼	hâm
-毯	hâm
-蟫	hâm
-譚	hâm
-亶	hān
-刋	hān
-刊	hān
-坍	hān
-坦	hān
-墾	hān
-妲	hān
-很	hān
-忐	hān
-怛	hān
-懇	hān
-攤	hān
-栞	hān
-毯	hān
-灘	hān
-狠	hān
-疸	hān
-疸	hān
-癱	hān
-笪	hān
-袒	hān
-詪	hān
-鉭	hān
-靼	hān
-嘆	hän
-坍	hän
-慳	hän
-歎	hän
-炭	hän
-碳	hän
-羥	hän
-羰	hän
-壇	hãn
-壜	hãn
-嫻	hãn
-彈	hãn
-檀	hãn
-癇	hãn
-罈	hãn
-罎	hãn
-閒	hãn
-閑	hãn
-鷳	hãn
-鷴	hãn
-㡾	hàn
-恨	hàn
-狠	hàn
-莧	hàn
-限	hàn
-𡊨	hân
-壇	hân
-痕	hân
-闞	hân
-啃	hāng
-夯	hāng
-掯	hāng
-肎	hāng
-肯	hāng
-裉	hāng
-褃	hāng
-齦	hāng
-亨	häng
-吭	häng
-哼	häng
-坑	häng
-硜	häng
-脝	häng
-鏗	häng
-鞥	häng
-姮	hãng
-恆	hãng
-滕	hãng
-珢	hāng
-珩	hãng
-珩	hãng
-縢	hãng
-藤	hãng
-蘅	hãng
-螣	hãng
-行	hãng
-衡	hãng
-謄	hãng
-騰	hãng
-騰	hãng
-鰧	hãng
-鴴	hãng
-倖	hàng
-啈	hàng
-啈	hàng
-婞	hàng
-幸	hàng
-悻	hàng
-杏	hàng
-荇	hàng
-莕	hàng
-行	hàng
-行	hàng
-坑	hâng
-桁	hâng
-吼	hāo
-好	hāo
-拷	hāo
-敲	hāo
-栲	hāo
-烤	hāo
-禱	hāo
-考	hāo
-討	hāo
-銬	hāo
-叨	häo
-哮	häo
-哮	häo
-嚆	häo
-套	häo
-好	häo
-孝	häo
-㝀	häo
-尻	häo
-弢	häo
-挑	häo
-滔	häo
-烤	häo
-犒	häo
-猇	häo
-絛	häo
-耗	häo
-蒿	häo
-薅	häo
-虓	häo
-轁	häo
-酵	häo
-鞱	häo
-韜	häo
-饕	häo
-䯌	häo
-䵚	häo
-匋	hão
-咷	hão
-啕	hão
-嗥	hão
-噑	hão
-嘷	hão
-嚎	hão
-壕	hão
-掏	hão
-桃	hão
-洮	hão
-淘	hão
-濠	hão
-濤	hão
-燾	hão
-萄	hão
-號	hão
-蠔	hão
-豪	hão
-逃	hão
-陶	hão
-鞀	hão
-俲	hào
-傚	hào
-効	hào
-效	hào
-昊	hào
-暠	hào
-暤	hào
-曍	hào
-校	hào
-皓	hào
-皞	hào
-皡	hào
-皥	hào
-號	hào
-賀	hào
-鎬	hào
-何	hâo
-桃	hâo
-浩	hâo
-滈	hâo
-灝	hâo
-皓	hâo
-鄗	hâo
-顥	hâo
-嗒	hāp
-嗑	hāp
-塔	hāp
-塌	hāp
-墖	hāp
-恰	hāp
-拓	hāp
-榻	hāp
-溚	hāp
-溚	hāp
-溻	hāp
-溘	hāp
-漯	hāp
-瞌	hāp
-磕	hāp
-褟	hāp
-蹋	hāp
-遢	hāp
-鰨	hāp
-呷	häp
-合	hàp
-嗑	hàp
-峇	hàp
-榼	hàp
-盇	hàp
-盍	hàp
-耠	hàp
-郃	hàp
-鉿	hàp
-閤	hàp
-闔	hàp
-頜	hàp
-餄	hàp
-匣	hâp
-柙	hâp
-狎	hâp
-盒	hâp
-乞	hāt
-撻	hāt
-趿	hāt
-闥	hāt
-靸	hāt
-韃	hāt
-齕	hāt
-葜	hät
-劾	hàt
-搳	hàt
-核	hàt
-檄	hàt
-瞎	hàt
-紇	hàt
-翮	hàt
-舝	hàt
-𧕱	hàt
-覈	hàt
-轄	hàt
-鎋	hàt
-閡	hàt
-黠	hàt
-墶	hât
-靴	hëh
-鞾	hëh
-息	hēik
-歇	hēik
-銕	hëik
-鐵	hëik
-餮	hëik
-扻	hēim
-含	hẽim
-啣	hẽim
-晗	hẽim
-浛	hẽim
-浛	hẽim
-焓	hẽim
-衘	hẽim
-銜	hẽim
-陷	hèim
-凵	hêim
-凼	hêim
-坎	hêim
-埳	hêim
-氹	hêim
-潭	hêim
-峴	hēin
-殄	hēin
-繾	hēin
-蜆	hēin
-譴	hēin
-遣	hēin
-顯	hēin
-𠀘	hëin
-𠀡	hëin
-兄	hëin
-兲	hëin
-𠕹	hëin
-凊	hëin
-夐	hëin
-天	hëin
-岍	hëin
-愆	hëin
-慶	hëin
-憲	hëin
-掀	hëin
-掔	hëin
-搴	hëin
-敻	hëin
-杴	hëin
-氫	hëin
-汧	hëin
-烴	hëin
-㷫	hëin
-牽	hëin
-瑱	hëin
-磬	hëin
-祆	hëin
-綮	hëin
-縴	hëin
-纖	hëin
-罄	hëin
-聴	hëin
-聽	hëin
-興	hëin
-興	hëin
-䒶	hëin
-𦴞	hëin
-褰	hëin
-諐	hëin
-謦	hëin
-軒	hëin
-輕	hëin
-鋧	hëin
-鍁	hëin
-靝	hëin
-馨	hëin
-馫	hëin
-騫	hëin
-亭	hẽin
-佃	hẽin
-停	hẽin
-填	hẽin
-婷	hẽin
-庭	hẽin
-廷	hẽin
-渟	hẽin
-滇	hẽin
-畑	hẽin
-田	hẽin
-畋	hẽin
-莛	hẽin
-葶	hẽin
-蜓	hẽin
-鈿	hẽin
-鈿	hẽin
-闐	hẽin
-霆	hẽin
-頲	hẽin
-天	hèin
-侹	hêin
-挺	hêin
-梃	hêin
-梃	hêin
-珽       hêin
-脡	hêin
-鋌	hêin
-鋌	hêin
-嗑	hēip
-嗑	hēip
-溘	hēip
-瞌	hēip
-磕	hēip
-吃	hëk
-僥	hēl
-儌	hēl
-嘵	hēl
-徼	hēl
-曉	hēl
-佻	hël
-僥	hël
-囂	hël
-挑	hël
-挑	hël
-朓	hël
-枵	hël
-梟	hël
-橇	hël
-澆	hël
-眺	hël
-祧	hël
-竅	hël
-糶	hël
-脁	hël
-跳	hël
-銚	hël
-驍	hël
-鴞	hël
-岧	hẽl
-條	hẽl
-窱	hẽl
-笤	hẽl
-苕	hẽl
-蜩	hẽl
-調	hẽl
-趒	hẽl
-跳	hẽl
-迢	hẽl
-髫	hẽl
-鯈	hẽl
-鰷	hẽl
-齠	hẽl
-忝	hēm
-獫	hēm
-玁	hēm
-險	hēm
-添	hëm
-菾	hëm
-黇	hëm
-甜	hẽm
-哼	hèm
-忝	hèm
-恬	hèm
-掭	hèm
-恬	hêm
-掭	hêm
-享	hēng
-垧	hēng
-晌	hēng
-響	hēng
-餉	hēng
-饗	hēng
-饟	hēng
-卿	hëng
-向	hëng
-嚮	hëng
-廳	hëng
-曏	hëng
-桯	hëng
-聴	hëng
-聽	hëng
-薌	hëng
-輕	hëng
-鄉	hëng
-香	hëng
-艇	hêng
-口	hēo
-唞	hēo
-𤘘	hēo
-偸	hëo
-偷	hëo
-媮	hëo
-婾	hëo
-後	hëo
-透	hëo
-亠	hẽo
-侯	hẽo
-侯	hẽo
-后	hẽo
-喉	hẽo
-投	hẽo
-猴	hẽo
-瘊	hẽo
-篌	hẽo
-緱	hẽo
-頭	hẽo
-頭	hẽo
-餱	hẽo
-骰	hẽo
-骺	hẽo
-候	hèo
-后	hèo
-垕	hèo
-堠	hèo
-後	hèo
-瘊	hèo
-茩	hèo
-逅	hèo
-鱟	hèo
-厚	hêo
-頭	hêo
-呫	hēp
-嗛	hēp
-帖	hēp
-帖	hēp
-怯	hēp
-歉	hēp
-肷	hēp
-萜	hēp
-帖	hëp
-貼	hëp
-俠	hèp
-劦	hèp
-勰	hèp
-協	hèp
-叶	hèp
-峽	hèp
-怯	hèp
-愜	hèp
-慊	hèp
-挾	hèp
-狹	hèp
-硤	hèp
-脅	hèp
-陜	hèp
-喜	hī
-嘿	hī
-嘻	hī
-榿	hī
-禧	hī
-芑	hī
-蟢	hī
-謑	hī
-豈	hī
-起	hī
-僖	hï
-唏	hï
-嘻	hï
-器	hï
-娭	hï
-嬉	hï
-㞒	hï
-屓	hï
-屭	hï
-希	hï
-憇	hï
-憩	hï
-戲	hï
-扱	hï
-晞	hï
-曦	hï
-棄	hï
-榿	hï
-欷	hï
-欺	hï
-气	hï
-氣	hï
-汽	hï
-浠	hï
-炁	hï
-烯	hï
-熙	hï
-熈	hï
-熹	hï
-爔	hï
-犧	hï
-狶	hï
-禧	hï
-稀	hï
-羲	hï
-豨	hï
-郗	hï
-䤈	hï
-醯	hï
-餼	hï
-嶔	hïm
-忻	hïm
-慊	hïm
-掀	hïm
-昕	hïm
-杴	hïm
-欠	hïm
-欣	hïm
-歆	hïm
-芡	hïm
-訢	hïm
-謙	hïm
-釁	hïm
-欽	hïm
-鍁	hïm
-鑫	hïm
-泣	hīp
-貼	hïp
-朽	hiū
-丘	hiü
-休	hiü
-咻	hiü
-庥	hiü
-蚯	hiü
-貅	hiü
-邱	hiü
-飍	hiü
-髤	hiü
-髹	hiü
-鵂	hiü
-龜	hiü
-可	hō
-呵	hō
-嗬	hō
-坷	hō
-坷	hō
-岢	hō
-蚵	hō
-討	hō
-鈳	hō
-呵	hö
-何	hõ
-佗	hõ
-匋	hõ
-嗥	hõ
-坨	hõ
-壕	hõ
-柁	hõ
-柁	hõ
-桃	hõ
-毫	hõ
-河	hõ
-沱	hõ
-沲	hõ
-淘	hõ
-濠	hõ
-獆	hõ
-獋	hõ
-砣	hõ
-𥓿	hõ
-舵	hõ
-苛	hõ
-荷	hõ
-菏	hõ
-蚵	hõ
-蠔	hõ
-豪	hõ
-醄	hõ
-鉈	hõ
-陀	hõ
-陶	hõ
-馱	hõ
-馱	hõ
-䭾	hõ
-䭾	hõ
-駝	hõ
-駝	hõ
-鴕	hõ
-鼉	hõ
-鼧	hõ
-荷	hò
-賀	hò
-妥	hô
-桃	hô
-橢	hô
-䄻	hô
-苛	hô
-萄	hô
-凱	hōi
-剴	hōi
-塏	hōi
-愷	hōi
-海	hōi
-皚	hōi
-賄	hōi
-醢	hōi
-鎧	hōi
-闓	hōi
-胎	höi
-鐦	höi
-開	höi
-開	höi
-台	hõi
-台	hõi
-咍	hõi
-抬	hõi
-擡	hõi
-炱	hõi
-㾂	hõi
-臺	hõi
-苔	hõi
-苔	hõi
-薹	hõi
-跆	hõi
-邰	hõi
-颱	hõi
-駘	hõi
-鮐	hõi
-亥	hòi
-嗐	hòi
-害	hòi
-氦	hòi
-枱	hôi
-檯	hôi
-駭	hôi
-乇	hōk
-庹	hōk
-托	hōk
-拓	hōk
-柝	hōk
-槖	hōk
-橐	hōk
-矺	hōk
-託	hōk
-跅	hōk
-魄	hōk
-托	hök
-蘀	hök
-飥	hök
-學	hòk
-澩	hòk
-㶅	hòk
-翯	hòk
-貉	hòk
-鶴	hòk
-殼	hôk
-殼	hôk
-籜	hôk
-鶴	hôk
-侃	hōn
-偘	hōn
-刋	hōn
-刊	hōn
-厂	hōn
-栞	hōn
-罕	hōn
-斷	hön
-旱	hön
-漢	hön
-看	hön
-看	hön
-佄	hõn
-團	hõn
-寒	hõn
-彖	hõn
-摶	hõn
-汗	hõn
-畽	hõn
-疃	hõn
-䊜	hõn
-糰	hõn
-邗	hõn
-邯	hõn
-酣	hõn
-韓	hõn
-頇	hõn
-魨	hõn
-鼾	hõn
-兯	hòn
-彖	hòn
-悍	hòn
-扞	hòn
-捍	hòn
-撖	hòn
-旰	hòn
-汗	hòn
-瀚	hòn
-犴	hòn
-犴	hòn
-𤞶      hòn
-猂	hòn
-翰	hòn
-釬	hòn
-銲	hòn
-雗	hòn
-旱	hôn
-倘	hōng
-儻	hōng
-巷	hōng
-帑	hōng
-惝	hōng
-淌	hōng
-爣	hōng
-耥	hōng
-趟	hōng
-躺	hōng
-鎲	hōng
-钂	hōng
-劏	höng
-匡	höng
-康	höng
-槺	höng
-湯	höng
-熨	höng
-燙	höng
-穅	höng
-粇	höng
-糠	höng
-羰	höng
-腔	höng
-趟	höng
-蹚	höng
-鐋	höng
-吭	hõng
-唐	hõng
-嘡	hõng
-堂	hõng
-塘	hõng
-夅	hõng
-搪	hõng
-杭	hõng
-桁	hõng
-棠	hõng
-樘	hõng
-㲥	hõng
-溏	hõng
-瑭	hõng
-糖	hõng
-絎	hõng
-膛	hõng
-航	hõng
-螗	hõng
-螳	hõng
-行	hõng
-赯	hõng
-鄌	hõng
-醣	hõng
-鏜	hõng
-鏜	hõng
-降	hõng
-鞺	hõng
-頏	hõng
-餳	hõng
-巷	hòng
-巷	hòng
-桁	hòng
-項	hòng
-塘	hông
-糠	hông
-項	hông
-鞨	hōt
-喝	höt
-喝	höt
-暍	höt
-渴	höt
-脫	höt
-曷	hòt
-蝎	hòt
-褐	hòt
-鶡	hòt
-豁	hôt
-土	hū
-討	hū
-釷	hū
-兔	hü
-吐	hü
-吐	hü
-堍	hü
-拖	hü
-菟	hü
-圖	hũ
-坨	hũ
-塗	hũ
-塗	hũ
-屠	hũ
-徒	hũ
-沱	hũ
-沲	hũ
-涂	hũ
-舵	hũ
-荼	hũ
-菟	hũ
-跎	hũ
-途	hũ
-酡	hũ
-酴	hũ
-陀	hũ
-馱	hũ
-馱	hũ
-駝	hũ
-駝	hũ
-鴕	hũ
-昫	huī
-栩	huī
-滸	huī
-煦	huī
-腿	huī
-許	huī
-詡	huī
-酗	huī
-骽	huī
-去	huï
-吁	huï
-噓	huï
-墟	huï
-歔	huï
-煺	huï
-盱	huï
-祛	huï
-胠	huï
-虛	huï
-蛻	huï
-褪	huï
-褪	huï
-覰	huï
-覷	huï
-覷	huï
-迂	huï
-退	huï
-尵	huĩ
-穨	huĩ
-隤	huĩ
-頹	huĩ
-墟	huî
-哭	hūk
-哭	hük
-斛	hùk
-槲	hùk
-焅	hùk
-縠	hùk
-觳	hùk
-酷	hùk
-鵠	hùk
-圈	hūn
-圈	hūn
-圏	hūn
-桊	hūn
-棬	hūn
-犬	hūn
-甽	hūn
-畎	hūn
-𧨸	hūn
-券	hün
-勸	hün
-呑	hün
-吞	hün
-暾	hün
-氽	hün
-獻	hün
-禤	hün
-綣	hün
-鈍	hün
-飩	hün
-屯	hũn
-臀	hũn
-臋	hũn
-豚	hũn
-券	hûn
-圈	hûn
-屯	hûn
-桊	hûn
-盾	hûn
-嗵	hūng
-恐	hūng
-捅	hūng
-桶	hūng
-統	hūng
-倥	hüng
-倥	hüng
-兇	hüng
-凶	hüng
-匈	hüng
-吽	hüng
-哄	hüng
-哄	hüng
-囪	hüng
-囱	hüng
-崆	hüng
-彤	hüng
-恫	hüng
-控	hüng
-汞	hüng
-洶	hüng
-烘	hüng
-熥	hüng
-疼	hüng
-痌	hüng
-痛	hüng
-空	hüng
-空	hüng
-箜	hüng
-胸	hüng
-訇	hüng
-訩	hüng
-詾	hüng
-通	hüng
-通	hüng
-鬨	hüng
-仝	hũng
-佟	hũng
-侗	hũng
-僮	hũng
-同	hũng
-垌	hũng
-峒	hũng
-彤	hũng
-曈	hũng
-朣	hũng
-桐	hũng
-洪	hũng
-潼	hũng
-烔	hũng
-烔	hũng
-熊	hũng
-疼	hũng
-瞳	hũng
-砼	hũng
-童	hũng
-紅	hũng
-𦨴	hũng
-艟	hũng
-茼	hũng
-葓	hũng
-葒	hũng
-蕻	hũng
-蕻	hũng
-虹	hũng
-衕	hũng
-訌	hũng
-酮	hũng
-銅	hũng
-雄	hũng
-䧺	hũng
-魟	hũng
-鮦	hũng
-𩿅	hũng
-鴻	hũng
-黌	hũng
-叿	hùng
-𧺣	hùng
-䪦	hùng
-筒	hûng
-紅	hûng
-缺	hūt
-血	hūt
-血	hüt
-血	hüt
-畀	ī
-知	ï
-地	ì
-地	ì
-疐	î
-蒂	î
-椹	îm
-砧	îm
-碪	îm
-噎	īt
-塞	ït
-㩙	ït
-塞	ît
-㩙	ît
-咱	jā
-咱	jā
-喳	jā
-臢	jā
-乍	jä
-侘	jä
-吒	jä
-吒	jä
-咋	jä
-咋	jä
-咋	jä
-咋	jä
-哳	jä
-垞	jä
-奓	jä
-奼	jä
-抓	jä
-拃	jä
-抯	jä
-挓	jä
-揸	jä
-撾	jä
-摣	jä
-柞	jä
-查	jä
-楂	jä
-榨	jä
-樝	jä
-溠	jä
-炸	jä
-炸	jä
-煠	jä
-痄	jä
-矺	jä
-砟	jä
-笮	jä
-苲	jä
-蚱	jä
-䖳	jä
-蜡	jä
-詐	jä
-詫	jä
-餷	jä
-髽	jä
-鮓	jä
-鮓	jä
-鮺	jä
-厏	jà
-渣	jâ
-皻	jâ
-齄	jâ
-齇	jâ
-傺	jäi
-債	jäi
-制	jäi
-劑	jäi
-掣	jäi
-擠	jäi
-製	jäi
-霽	jäi
-齊	jäi
-齋	jäi
-齏	jäi
-寨	jài
-滯	jài
-砦	jài
-齊	jài
-側	jāk
-側	jāk
-嘖	jāk
-幘	jāk
-溭	jāk
-笮	jāk
-簀	jāk
-蔶	jāk
-責	jāk
-賾	jāk
-岞	jäk
-柞	jäk
-窄	jäk
-笮	jäk
-舴	jäk
-虴	jäk
-迮	jäk
-宅	jàk
-摘	jàk
-擇	jàk
-擇	jàk
-擲	jàk
-澤	jàk
-矺	jàk
-砸	jàk
-磔	jàk
-翟	jàk
-蠌	jàk
-謫	jàk
-蹢	jàk
-躑	jàk
-嶄	jām
-斬	jām
-眨	jām
-䁪	jām
-戡	jäm
-湛	jäm
-緘	jäm
-暫	jàm
-站	jàm
-鏨	jàm
-盞	jān
-撰	jàn
-棧	jàn
-篹	jàn
-綻	jàn
-賺	jàn
-賺	jàn
-贃	jàn
-饌	jàn
-咱	jân
-倀	jāng
-睜	jāng
-丁	jäng
-崢	jäng
-掙	jäng
-掙	jäng
-爭	jäng
-猙	jäng
-琤	jäng
-箏	jäng
-諍	jäng
-踭	jäng
-錚	jäng
-䦛	jäng
-鬇	jäng
-掙	jàng
-撐	jàng
-踭	jâng
-㕚       jāo
-帚	jāo
-抓	jāo
-找	jāo
-爪	jāo
-爪	jāo
-箒	jāo
-肘	jāo
-菷	jāo
-嘲	jäo
-嘲	jäo
-笊	jäo
-䈇	jäo
-罩	jäo
-宙	jào
-棹	jào
-櫂	jào
-籀	jào
-籒	jào
-紂	jào
-繇	jào
-胄	jào
-葤	jào
-酎	jào
-驟	jào
-䈇	jâo
-罩	jâo
-劄	jāp
-咂	jāp
-執	jāp
-帀	jāp
-牐	jàp
-鍘	jàp
-閘	jàp
-靸	jàp
-喋	jâp
-劄	jāt
-扎	jāt
-札	jāt
-猰	jāt
-匝	jät
-咂	jät
-哳	jät
-扎	jät
-扎	jät
-拶	jät
-拶	jät
-砸	jät
-紥	jät
-紥	jät
-紮	jät
-紮	jät
-軋	jät
-軋	jät
-魳	jät
-䍉	jàt
-匝	jât
-扎	jât
-者	jēh
-赭	jēh
-鍺	jēh
-嗻	jëh
-嗻	jëh
-柘	jëh
-罝	jëh
-這	jëh
-這	jëh
-遮	jëh
-鷓	jëh
-毑	jêh
-蔗	jêh
-仄	jēik
-摭	jēik
-昃	jēik
-炙	jēik
-織	jēik
-職	jēik
-蝍	jēik
-跖	jēik
-蹠	jēik
-軄	jēik
-陟	jēik
-值	jèik
-値	jèik
-埴	jèik
-植	jèik
-殖	jèik
-殖	jèik
-湜	jèik
-直	jèik
-稙	jèik
-蟄	jèik
-陟	jèik
-鵮	jëim
-拯	jēin
-整	jēin
-偵	jëin
-幀	jëin
-征	jëin
-徴	jëin
-徵	jëin
-怔	jëin
-怔	jëin
-政	jëin
-楨	jëin
-正	jëin
-正	jëin
-湞	jëin
-烝	jëin
-症	jëin
-癥	jëin
-禎	jëin
-蒸	jëin
-證	jëin
-貞	jëin
-赬	jëin
-遉	jëin
-鉦	jëin
-鯖	jëin
-剩	jèin
-阱	jèin
-桌	jēk
-棹	jēk
-禚	jēk
-著	jēk
-酌	jēk
-鐯	jēk
-著	jëk
-隻	jëk
-著	jèk
-著	jèk
-著	jèk
-沼	jēl
-召	jël
-招	jël
-昭	jël
-曌	jël
-朝	jël
-炤	jël
-照	jël
-瞾	jël
-詔	jël
-釗	jël
-就	jèl
-趙	jèl
-佔	jëm
-占	jëm
-呫	jëm
-沾	jëm
-瞻	jëm
-粘	jëm
-覘	jëm
-詹	jëm
-譫	jëm
-贍	jëm
-霑	jëm
-䩞	jëm
-韂	jëm
-戰	jën
-旃	jën
-氊	jën
-氈	jën
-邅	jën
-顫	jën
-顫	jën
-飦	jën
-饘	jën
-鱣	jën
-鸇	jën
-仉	jēng
-掌	jēng
-長	jēng
-鞝	jēng
-仗	jëng
-嫜	jëng
-嶂	jëng
-帳	jëng
-幛	jëng
-張	jëng
-彰	jëng
-樟	jëng
-正	jëng
-漳	jëng
-漲	jëng
-漲	jëng
-獐	jëng
-璋	jëng
-瘴	jëng
-章	jëng
-脹	jëng
-蟑	jëng
-賬	jëng
-鄣	jëng
-障	jëng
-麞	jëng
-丈	jèng
-仗	jèng
-杖	jèng
-鄭	jèng
-皺	jēo
-㑇	jëo
-㥮	jëo
-皺	jëo
-縐	jëo
-縐	jëo
-諏	jëo
-謅	jëo
-鄒	jëo
-鄹	jëo
-陬	jëo
-騶	jëo
-鯫	jëo
-折	jëp
-摺	jëp
-讋	jëp
-褶	jêp
-哲	jēt
-喆	jēt
-嚞	jēt
-折	jēt
-折	jēt
-折	jēt
-浙	jēt
-矺	jēt
-䇽	jēt
-蜇	jēt
-蜇	jēt
-𧋍	jēt
-騭	jēt
-折	jët
-踅	jët
-主	jī
-只	jī
-吱	jī
-吱	jī
-咫	jī
-嘁	jī
-址	jī
-夂	jī
-徴	jī
-徵	jī
-扺	jī
-拄	jī
-指	jī
-旨	jī
-枳	jī
-止	jī
-沚	jī
-渚	jī
-煮	jī
-煑	jī
-祇	jī
-祉	jī
-祗	jī
-紙	jī
-翥	jī
-耆	jī
-芷	jī
-趾	jī
-軹	jī
-酯	jī
-䬡	jī
-麈	jī
-黹	jī
-之	jï
-侏	jï
-卮	jï
-厔	jï
-吱	jï
-姝	jï
-彘	jï
-志	jï
-忮	jï
-摯	jï
-支	jï
-智	jï
-朱	jï
-枝	jï
-株	jï
-梽	jï
-梔	jï
-椥	jï
-櫫	jï
-櫧	jï
-氏	jï
-洙	jï
-瀦	jï
-炷	jï
-疐	jï
-疷	jï
-痣	jï
-知	jï
-硃	jï
-稚	jï
-稺	jï
-穉	jï
-緻	jï
-置	jï
-肢	jï
-胝	jï
-脂	jï
-至	jï
-致	jï
-芝	jï
-茱	jï
-著	jï
-䕌	jï
-蛀	jï
-蛛	jï
-蜘	jï
-袾	jï
-觶	jï
-誅	jï
-誌	jï
-諸	jï
-識	jï
-豬	jï
-質	jï
-贄	jï
-躓	jï
-輊	jï
-遲	jï
-邾	jï
-銖	jï
-鑄	jï
-雉	jï
-髭	jï
-鷙	jï
-鼄	jï
-鼅	jï
-乿	jì
-住	jì
-廌	jì
-櫡	jì
-治	jì
-痔	jì
-筯	jì
-箸	jì
-豸	jì
-注	jî
-珠	jî
-疰	jî
-註	jî
-駐	jî
-枕	jīm
-斟	jïm
-箴	jïm
-針	jïm
-鍼	jïm
-朕	jìm
-浸	jìm
-鴆	jìm
-譖	jîm
-針	jîm
-囅	jīn
-展	jīn
-振	jīn
-振	jīn
-搌	jīn
-碾	jīn
-誫	jīn
-賑	jīn
-蹍	jīn
-輾	jīn
-震	jīn
-珍	jïn
-瑱	jïn
-甄	jïn
-真	jïn
-眞	jïn
-稹	jïn
-鎮	jïn
-陣	jìn
-執	jīp
-汁	jīp
-縶	jīp
-輒	jīp
-輙	jīp
-厔	jīt
-質	jīt
-鑕	jīt
-騭	jīt
-侄	jìt
-姪	jìt
-桎	jìt
-窒	jìt
-膣	jìt
-蛭	jìt
-螲	jìt
-郅	jìt
-侜	jiü
-周	jiü
-咒	jiü
-咮	jiü
-啁	jiü
-啁	jiü
-州	jiü
-晝	jiü
-洲	jiü
-盩	jiü
-緅	jiü
-舟	jiü
-賙	jiü
-輈	jiü
-週	jiü
-鵃	jiü
-咒	jiû
-晝	jiû
-洲	jiû
-阻	jō
-助	jò
-喙	jöi
-咮	jôi
-浞	jōk
-捉	jök
-擢	jòk
-濯	jòk
-鷟	jòk
-囀	jōn
-孨	jōn
-膞	jōn
-轉	jōn
-轉	jōn
-專	jön
-磚	jön
-耑	jön
-顓	jön
-傳	jòn
-僮	jöng
-壯	jöng
-奘	jöng
-奘	jöng
-妝	jöng
-娤	jöng
-戇	jöng
-樁	jöng
-粧	jöng
-糚	jöng
-莊	jöng
-裝	jöng
-壵	jòng
-幢	jòng
-撞	jòng
-狀	jòng
-駔	jòng
-咄	jōt
-啜	jōt
-啜	jōt
-怵	jōt
-惙	jōt
-拙	jōt
-掇	jōt
-敪	jōt
-敠	jōt
-柮	jōt
-梲	jōt
-棳	jōt
-絀	jōt
-綴	jōt
-茁	jōt
-裰	jōt
-輟	jōt
-醊	jōt
-腏	jōt
-餟	jōt
-餟	jōt
-黜	jōt
-俎	jū
-詛	jū
-阻	jū
-且	juï
-椎	juï
-濉	juï
-睢	juï
-脧	juï
-菹	juï
-蛆	juï
-追	juï
-錐	juï
-隹	juï
-雎	juï
-騅	juï
-墜	juì
-惴	juì
-憝	juì
-懟	juì
-箠	juì
-綴	juì
-縋	juì
-譈	juì
-贅	juì
-錘	juì
-隊	juì
-錐	juî
-囑	jūk
-屬	jūk
-燭	jūk
-矚	jūk
-祝	jūk
-竹	jūk
-竺	jūk
-笁	jūk
-築	jūk
-粥	jūk
-粥	jūk
-鬻	jūk
-囑	jük
-妯	jùk
-牘	jùk
-瘃	jùk
-舳	jùk
-軸	jùk
-軸	jùk
-逐	jùk
-鐲	jùk
-准	jūn
-埻	jūn
-準	jūn
-隼	jūn
-鶽	jūn
-圳	jün
-屯	jün
-榛	jün
-津	jün
-溱	jün
-獉	jün
-窀	jün
-肫	jün
-臻	jün
-蓁	jün
-衠	jün
-諄	jün
-迍	jün
-汌	jùn
-津	jùn
-圳	jûn
-汌	jûn
-種	jūng
-腫	jūng
-踵	jūng
-中	jüng
-中	jüng
-忪	jüng
-忠	jüng
-盅	jüng
-眾	jüng
-種	jüng
-終	jüng
-舂	jüng
-舯	jüng
-蔠	jüng
-螤	jüng
-螽	jüng
-鍾	jüng
-鍾	jüng
-鐘	jüng
-仲	jùng
-重	jùng
-盅	jûng
-𢫋	jüt
-佧	kā
-卡	kā
-卡	kā
-咔	kā
-咔	kā
-胩	kā
-侉	kä
-咵	kä
-垮	kä
-𡕒	kä
-夸	kä
-姱	kä
-挎	kä
-掛	kä
-胯	kä
-袿	kä
-褂	kä
-誇	kä
-詿	kä
-跨	kä
-髂	kä
-蠄	kã
-跨	kã
-啟	kāi
-棨	kāi
-稽	kāi
-綮	kāi
-䏿	kāi
-契	käi
-嵇	käi
-嵠	käi
-徯	käi
-愒	käi
-𢬿	käi
-揩	käi
-溪	käi
-稽	käi
-蟿	käi
-谿	käi
-豀	käi
-蹊	käi
-契	kãi
-卡	kāk
-旮	kāk
-卡	käk
-卡	kâk
-咯	kâk
-冚	kām
-骾	kāng
-鯁	kāng
-亢	käng
-裉	käng
-夼	kâng
-巧	kāo
-尻	käo
-犒	käo
-靠	käo
-巧	kâo
-該	kâo
-卡	kāt
-咳	kāt
-咭	kāt
-咳	kät
-騎	kẽh
-伽	kêh
-瘸	kêh
-茄	kêh
-仡	kēik
-圪	kēik
-孑	kēik
-屹	kēik
-屹	kēik
-挈	kēik
-擷	kēik
-楬	kēik
-汔	kēik
-洫	kēik
-淢	kēik
-疙	kēik
-碣	kēik
-紇	kēik
-綌	kēik
-羯	kēik
-聝	kēik
-虢	kēik
-蛣	kēik
-蝎	kēik
-蠍	kēik
-訖	kēik
-迄	kēik
-郄	kēik
-闃	kēik
-隙	kēik
-馘	kēik
-揭	këik
-訐	këik
-冚	kēim
-冚	kẽim
-蠄	kẽim
-傾	kēin
-廎	kēin
-頃	kēin
-頃	kēin
-𩒵	kēin
-傾	këin
-乾	kẽin
-勍	kẽin
-惸	kẽin
-掮	kẽin
-擎	kẽin
-檠	kẽin
-煢	kẽin
-犍	kẽin
-瓊	kẽin
-虔	kẽin
-𩷏	kẽin
-鯨	kẽin
-黥	kẽin
-扱	kēip
-給	kēip
-劇	kēk
-卻	kēk
-噱	kēk
-佉	kêk
-屐	kêk
-翹	kël
-蹺	kël
-蹻	kël
-僑	kẽl
-喬	kẽl
-嶠	kẽl
-橋	kẽl
-礄	kẽl
-翹	kẽl
-荍	kẽl
-蕎	kẽl
-譑	kẽl
-趫	kẽl
-鞽	kẽl
-藠	kêl
-拑	kẽm
-箝	kẽm
-軡	kẽm
-鈐	kẽm
-鉗	kẽm
-黔	kẽm
-強	kẽng
-彊	kẽng
-擎	kẽng
-檠	kẽng
-強	kêng
-彊	kêng
-繈	kêng
-繦	kêng
-膙	kêng
-襁	kêng
-鏹	kêng
-鏹	kêng
-冦	këo
-叩	këo
-媾	këo
-宼	këo
-寇	këo
-扣	këo
-摳	këo
-敲	këo
-構	këo
-溝	këo
-㸆	këo
-瞘	këo
-窛	këo
-筘	këo
-篝	këo
-簼	këo
-芤	këo
-蔻	këo
-覯	këo
-購	këo
-遘	këo
-釦	këo
-靠	këo
-鞲	këo
-韝	këo
-企	kī
-亟	kï
-企	kï
-冀	kï
-剞	kï
-垍	kï
-姬	kï
-媿	kï
-巂	kï
-巙	kï
-愧	kï
-暨	kï
-歧	kï
-洎	kï
-潰	kï
-潰	kï
-畸	kï
-盔	kï
-窺	kï
-羈	kï
-虧	kï
-規	kï
-覬	kï
-跂	kï
-跬	kï
-蹞	kï
-逵	kï
-闚	kï
-驥	kï
-丌	kĩ
-亓	kĩ
-俟	kĩ
-其	kĩ
-圻	kĩ
-埼	kĩ
-夔	kĩ
-奇	kĩ
-岐	kĩ
-崎	kĩ
-揆	kĩ
-攜	kĩ
-攲	kĩ
-敧	kĩ
-旂	kĩ
-旗	kĩ
-暌	kĩ
-期	kĩ
-棋	kĩ
-棊	kĩ
-欹	kĩ
-歧	kĩ
-沂	kĩ
-淇	kĩ
-琦	kĩ
-琪	kĩ
-畦	kĩ
-眭	kĩ
-睽	kĩ
-碁	kĩ
-祁	kĩ
-祇	kĩ
-祈	kĩ
-祺	kĩ
-禥	kĩ
-竒	kĩ
-綦	kĩ
-耆	kĩ
-芪	kĩ
-萁	kĩ
-葵	kĩ
-蘄	kĩ
-蜝	kĩ
-蜝	kĩ
-觭	kĩ
-跂	kĩ
-隗	kĩ
-頎	kĩ
-馗	kĩ
-騎	kĩ
-騏	kĩ
-鬐	kĩ
-鯕	kĩ
-鰭	kĩ
-麒	kĩ
-企	kî
-葵	kî
-蜞	kĩ
-噤	kïm
-禁	kïm
-禁	kïm
-衿	kïm
-衾	kïm
-襟	kïm
-噙	kĩm
-擒	kĩm
-檎	kĩm
-琴	kĩm
-禽	kĩm
-芩	kĩm
-妗	kîm
-衿	kîm
-襟	kîm
-近	kïn
-勤	kĩn
-廑	kĩn
-矜	kĩn
-芹	kĩn
-肫	kîn
-胗	kîn
-吸	kīp
-噏	kīp
-岌	kīp
-扱	kīp
-歙	kīp
-汲	kīp
-級	kīp
-給	kīp
-給	kīp
-翕	kīp
-仇	kiũ
-俅	kiũ
-巰	kiũ
-㧄	kiũ
-毬	kiũ
-求	kiũ
-球	kiũ
-璆	kiũ
-虬	kiũ
-虯	kiũ
-裘	kiũ
-訄	kiũ
-賕	kiũ
-逑	kiũ
-鬮	kiũ
-鼽	kiũ
-桕	kiû
-舅	kiû
-丐	köi
-乢	köi
-儈	köi
-剴	köi
-劊	köi
-匃	köi
-匄	köi
-噲	köi
-嘅	köi
-垓	köi
-峐	köi
-慨	köi
-愾	köi
-戤	köi
-摡	köi
-概	köi
-檜	köi
-檜	köi
-欬	köi
-溉	köi
-漑	köi
-澮	köi
-澮	köi
-燴	köi
-獪	köi
-痎	köi
-繢	köi
-繪	köi
-胲	köi
-膾	köi
-荄	köi
-蓋	köi
-該	köi
-賅	köi
-鄶	köi
-鈣	köi
-陔	köi
-鱠	köi
-該	kôi
-埆	kōk
-壑	kōk
-崞	kōk
-恪	kōk
-愙	kōk
-愨	kōk
-慤	kōk
-搉	kōk
-擴	kōk
-攫	kōk
-榷	kōk
-矍	kōk
-确	kōk
-確	kōk
-蠼	kōk
-郝	kōk
-霍	kōk
-嚯	kök
-廓	kök
-攉	kök
-椁	kök
-槨	kök
-涸	kök
-漷	kök
-藿	kök
-蠚	kök
-郭	kök
-慷	kōng
-港	kōng
-丱	köng
-亢	köng
-伉	köng
-匡	köng
-匟	köng
-哐	köng
-壙	köng
-夼	köng
-扛	köng
-抗	köng
-擴	köng
-曠	köng
-框	köng
-沆	köng
-洭	köng
-炕	köng
-獷	köng
-眶	köng
-礦	köng
-筐	köng
-絖	köng
-纊	köng
-迒	köng
-鄺	köng
-鈧	köng
-鑛	köng
-閌	köng
-閌	köng
-骯	köng
-狂	kõng
-誆	kõng
-誑	kõng
-豁	köt
-豁	köt
-刳	kü
-枯	kü
-罟	kü
-骷	kü
-麩	kü
-箍	kû
-佢	kuï
-俱	kuï
-區	kuï
-嶇	kuï
-拘	kuï
-樞	kuï
-渠	kuï
-祛	kuï
-胠	kuï
-袪	kuï
-貙	kuï
-軀	kuï
-駒	kuï
-驅	kuï
-魼	kuï
-鱋	kuï
-劬	kuĩ
-朐	kuĩ
-氍	kuĩ
-渠	kuĩ
-璩	kuĩ
-癯	kuĩ
-瞿	kuĩ
-磲	kuĩ
-籧	kuĩ
-胊       kuĩ
-臞	kuĩ
-蕖	kuĩ
-蚼	kuĩ
-蜍	kuĩ
-蠩	kuĩ
-蠼	kuĩ
-衢	kuĩ
-醵	kuĩ
-鴝	kuĩ
-鸜	kuĩ
-鼩	kuĩ
-拒	kuî
-䀠	kuî
-瞿	kuî
-蘧	kuî
-詎	kuî
-距	kuî
-曲	kūk
-曲	kūk
-筁	kūk
-粬	kūk
-蛐	kūk
-麯	kūk
-麴	kūk
-卷	kūn
-壼	kūn
-悃	kūn
-捃	kūn
-捆	kūn
-捲	kūn
-綣	kūn
-緄	kūn
-菌	kūn
-閫	kūn
-麇	kūn
-麏	kūn
-僒	kün
-困	kün
-囷	kün
-坤	kün
-崑	kün
-崐	kün
-昆	kün
-琨	kün
-睏	kün
-窘	kün
-䖵	kün
-醌	kün
-錕	kün
-髡	kün
-鯤	kün
-鵾	kün
-啳	kũn
-帬	kũn
-惓	kũn
-拳	kũn
-權	kũn
-羣	kũn
-群	kũn
-蜷	kũn
-裙	kũn
-裠	kũn
-跧	kũn
-踡	kũn
-顴	kũn
-鬈	kũn
-麇	kũn
-麕	kũn
-菌	kûn
-菌	kûn
-輥	kûn
-孔	kūng
-烘	küng
-焪	küng
-穹	kũng
-窮	kũng
-❄	kũng
-筇	kũng
-笻	kũng
-藭	kũng
-虹	kũng
-蛩	kũng
-跫	kũng
-邛	kũng
-銎	kũng
-窮	kûng
-劂	kūt
-厥	kūt
-噘	kūt
-噱	kūt
-孓	kūt
-屈	kūt
-抉	kūt
-撅	kūt
-橜	kūt
-橛	kūt
-決	kūt
-㵐	kūt
-炔	kūt
-獗	kūt
-玃	kūt
-玦	kūt
-缺	kūt
-蕨	kūt
-蠼	kūt
-觖	kūt
-訣	kūt
-詘	kūt
-蹶	kūt
-蹶	kūt
-鐍	kūt
-鐝	kūt
-钁	kūt
-闕	kūt
-闕	kūt
-駃	kūt
-鴂	kūt
-鴃	kūt
-鵙	kūt
-鶪	kūt
-闋	küt
-剌	lā
-啦	lā
-啦	lā
-喇	lā
-喇	lā
-拉	lā
-菈	lā
-蝲	lā
-鞡	lā
-喇	lä
-罅	lâ
-腌	lâ
-𨻲	lâ
-孻	lāi
-拉	läi
-癩	läi
-悷	lãi
-犁	lãi
-犂	lãi
-藜	lãi
-麗	lãi
-黎	lãi
-黧	lãi
-例	lài
-儷	lài
-勵	lài
-厲	lài
-捩	lài
-瀨	lài
-癘	lài
-癩	lài
-礪	lài
-籟	lài
-糲	lài
-荔	lài
-落	lài
-蠣	lài
-賴	lài
-酹	lài
-隶	lài
-隸	lài
-頼	lài
-麗	lài
-麗	lài
-澧	lâi
-禮	lâi
-𦧺	lâi
-䗍	lâi
-蠡	lâi
-豊	lâi
-醴	lâi
-鱧	lâi
-旯	lāk
-嘞	läk
-嘞	läk
-簕	läk
-肋	läk
-仂	làk
-勒	làk
-勒	làk
-叻	làk
-泐	làk
-肋	làk
-肋	làk
-褦	làk
-鰳	làk
-勒	lâk
-攬	lām
-欖	lām
-婪	lãm
-嵐	lãm
-灠	lãm
-繿	lãm
-藍	lãm
-襤	lãm
-攬	làm
-濫	làm
-纜	làm
-檻	lâm
-灠	lâm
-籃	lâm
-罱	lâm
-艦	lâm
-覧	lâm
-覽	lâm
-𨎹	lâm
-嬾	län
-懶	län
-攔	lãn
-斕	lãn
-欄	lãn
-瀾	lãn
-蘭	lãn
-讕	lãn
-鑭	lãn
-闌	lãn
-爛	làn
-冷	lāng
-冷	läng
-罌	läng
-吟	lãng
-冷	lâng
-唥	lâng
-佬	lāo
-嚕	lāo
-姥	lāo
-栳	lāo
-老	lāo
-銠	lāo
-撈	läo
-老	läo
-勞	lão
-勞	lão
-嘮	lão
-嘮	lão
-囉	lão
-嶗	lão
-撈	lão
-牢	lão
-癆	lão
-耮	lão
-醪	lão
-鐒	lão
-潦	lâo
-潦	lâo
-澇	lâo
-癆	lâo
-蟧	lâo
-遛	lâo
-笠	lāp
-㧜	läp
-㧜	läp
-擸	läp
-擸	läp
-笠	läp
-腊	läp
-臘	läp
-擖	làp
-臈	làp
-臘	làp
-蠟	làp
-鑞	làp
-甩	lāt
-剌	làt
-拉	làt
-瘌	làt
-瘌	làt
-瘌	làt
-辣	làt
-辣	làt
-邋	làt
-鬎	làt
-咧	lêh
-櫟	lēik
-櫪	lēik
-瀝	lēik
-癧	lēik
-礫	lēik
-裂	lēik
-咧	lëik
-咧	lëik
-洌	lëik
-裂	lëik
-裂	lëik
-冽	lèik
-列	lèik
-力	lèik
-嚦	lèik
-壢	lèik
-捩	lèik
-曆	lèik
-櫟	lèik
-歷	lèik
-瀝	lèik
-烈	lèik
-皪	lèik
-礫	lèik
-藶	lèik
-蛚	lèik
-趔	lèik
-躒	lèik
-轢	lèik
-轣	lèik
-酈	lèik
-靂	lèik
-鬲	lèik
-鴷	lèik
-裂	lêik
-蘸	lëim
-婪	lẽim
-令	lēin
-伶	lẽin
-凌	lẽin
-囹	lẽin
-堎	lẽin
-塄	lẽin
-崚	lẽin
-愣	lẽin
-柃	lẽin
-棱	lẽin
-棱	lẽin
-棱	lẽin
-楞	lẽin
-楞	lẽin
-楞	lẽin
-櫺	lẽin
-欞	lẽin
-泠	lẽin
-淩	lẽin
-漣	lẽin
-玲	lẽin
-璉	lẽin
-瓴	lẽin
-睖	lẽin
-磷	lẽin
-稜	lẽin
-笭	lẽin
-綾	lẽin
-羚	lẽin
-翎	lẽin
-聆	lẽin
-舲	lẽin
-苓	lẽin
-菱	lẽin
-蓮	lẽin
-蔆	lẽin
-薐	lẽin
-蛉	lẽin
-褳	lẽin
-輘	lẽin
-連	lẽin
-酃	lẽin
-鈴	lẽin
-陵	lẽin
-零	lẽin
-靈	lẽin
-鰱	lẽin
-鴒	lẽin
-齡	lẽin
-令	lèin
-另	lèin
-呤	lèin
-楝	lèin
-煉	lèin
-璉	lèin
-練	lèin
-輦	lèin
-鏈	lèin
-嶺	lêin
-攆	lêin
-領	lêin
-笠	lēip
-垃	lèip
-笠	lêip
-叻	lēk
-掠	lèk
-撂	lèk
-略	lèk
-畧	lèk
-了	lēl
-了	lēl
-撩	lēl
-釕	lēl
-了	lẽl
-僚	lẽl
-嘹	lẽl
-寥	lẽl
-寮	lẽl
-尥	lẽl
-撩	lẽl
-燎	lẽl
-燎	lẽl
-獠	lẽl
-療	lẽl
-瞭	lẽl
-瞭	lẽl
-繆	lẽl
-繚	lẽl
-聊	lẽl
-蟟	lẽl
-蟧	lẽl
-蹽	lẽl
-遼	lẽl
-鐐	lẽl
-鷚	lẽl
-鷯	lẽl
-廖	lèl
-料	lèl
-繚	lèl
-蓼	lèl
-釕	lèl
-舔	lēm
-亷	lẽm
-奩	lẽm
-帘	lẽm
-廉	lẽm
-㢘	lẽm
-濂	lẽm
-濓	lẽm
-簾	lẽm
-臁	lẽm
-蠊	lẽm
-譧	lẽm
-鐮	lẽm
-𩪬	lẽm
-斂	lêm
-殮	lêm
-瀲	lêm
-臉	lêm
-薟	lêm
-蘞	lêm
-襝	lêm
-倆	lēng
-倆	lēng
-兩	lēng
-啢	lēng
-裲	lēng
-魎	lēng
-靚	lëng
-領	lëng
-〇	lẽng
-墚	lẽng
-梁	lẽng
-椋	lẽng
-樑	lẽng
-涼	lẽng
-粱	lẽng
-粱	lẽng
-糧	lẽng
-良	lẽng
-莨	lẽng
-踉	lẽng
-輛	lẽng
-量	lẽng
-零	lẽng
-鯪	lẽng
-亮	lèng
-喨	lèng
-諒	lèng
-踉	lèng
-量	lèng
-嶺	lêng
-鈴	lêng
-領	lêng
-騮	lēo
-撈	lëo
-蔞	lëo
-褸	lëo
-僂	lẽo
-嘍	lẽo
-塿	lẽo
-婁	lẽo
-嶁	lẽo
-摟	lẽo
-摟	lẽo
-撈	lẽo
-樓	lẽo
-漊	lẽo
-瞜	lẽo
-窶	lẽo
-耬	lẽo
-蔞	lẽo
-螻	lẽo
-髏	lẽo
-剅	lèo
-漏	lèo
-瘻	lèo
-瘻	lèo
-瘺	lèo
-鏤	lèo
-陋	lèo
-簍	lêo
-巤	lèp
-獵	lèp
-躐	lèp
-鬣	lèp
-鱲	lèp
-罅	lêp
-哩	lī
-哩	lī
-喱	lī
-李	lī
-㸚	lī
-璃	lī
-瓈	lī
-裡	lī
-裏	lī
-刕	lĩ
-嫠	lĩ
-梨	lĩ
-棃	lĩ
-氂	lĩ
-灕	lĩ
-犛	lĩ
-狸	lĩ
-籬	lĩ
-縭	lĩ
-罹	lĩ
-蘺	lĩ
-蠡	lĩ
-邐	lĩ
-酈	lĩ
-醨	lĩ
-釐	lĩ
-離	lĩ
-驪	lĩ
-鱺	lĩ
-鸝	lĩ
-俐	lì
-利	lì
-厲	lì
-吏	lì
-娌	lì
-猁	lì
-痢	lì
-脷	lì
-莉	lì
-蒞	lì
-蜊	lì
-詈	lì
-鬁	lì
-俚	lî
-哩	lî
-履	lî
-悝	lî
-浬	lî
-狸	lî
-理	lî
-籬	lî
-裡	lî
-貍	lî
-里	lî
-鋰	lî
-鯉	lî
-啉	lĩm
-惏	lĩm
-惏	lĩm
-林	lĩm
-淋	lĩm
-淋	lĩm
-淋	lĩm
-琳	lĩm
-痳	lĩm
-痳	lĩm
-臨	lĩm
-霖	lĩm
-凜	lîm
-廩	lîm
-懍	lîm
-檁	lîm
-厸	lĩn
-嶙	lĩn
-憐	lĩn
-㷠	lĩn
-燐	lĩn
-璘	lĩn
-瞵	lĩn
-磷	lĩn
-粦	lĩn
-粼	lĩn
-膦	lĩn
-轔	lĩn
-遴	lĩn
-鄰	lĩn
-鏻	lĩn
-隣	lĩn
-鱗	lĩn
-麟	lĩn
-粒	līp
-粒	lïp
-砬	lìp
-砬	lìp
-立	lìp
-溜	liū
-蹓	liū
-遛	liū
-溜	liü
-蹓	liü
-遛	liü
-遛	liü
-餾	liü
-劉	liũ
-旈	liũ
-旒	liũ
-榴	liũ
-流	liũ
-溜	liũ
-瀏	liũ
-熘	liũ
-琉	liũ
-畄	liũ
-留	liũ
-畱	liũ
-瘤	liũ
-癅	liũ
-硫	liũ
-蘿	liũ
-鎏	liũ
-鎦	liũ
-鎦	liũ
-鏤	liũ
-鏐	liũ
-鐂	liũ
-鐂	liũ
-飀	liũ
-餾	liũ
-騮	liũ
-鶹	liũ
-遛	liù
-栁	liû
-柳	liû
-桺	liû
-綹	liû
-鋶	liû
-嚕	lō
-囉	lō
-猓	lō
-蠃	lō
-咯	lö
-儸	lõ
-囉	lõ
-摞	lõ
-欏	lõ
-玀	lõ
-籮	lõ
-籮	lõ
-羅	lõ
-羅	lõ
-腡	lõ
-蘿	lõ
-虆	lõ
-邏	lõ
-鏍	lõ
-鑼	lõ
-騾	lõ
-漯	lô
-來	lõi
-來	lõi
-倈	lõi
-崍	lõi
-徠	lõi
-棶	lõi
-淶	lõi
-睞	lõi
-萊	lõi
-賚	lõi
-錸	lõi
-睞	lòi
-耒	lòi
-誄	lòi
-賚	lòi
-咯	lōk
-咯	lōk
-恪	lōk
-洛	lōk
-烙	lōk
-烙	lōk
-犖	lōk
-珞	lōk
-皪	lōk
-硌	lōk
-絡	lōk
-貉	lōk
-躒	lōk
-酪	lōk
-鉻	lōk
-雒	lōk
-餎	lōk
-駱	lōk
-骼	lōk
-咯	lök
-樂	lòk
-濼	lòk
-落	lòk
-落	lòk
-絡	lôk
-落	lôk
-亂	lòn
-乿	lòn
-卵	lôn
-晾	löng
-浪	löng
-蓢	löng
-啷	lõng
-嫏	lõng
-㢃	lõng
-廊	lõng
-桹	lõng
-榔	lõng
-榔	lõng
-烺	lõng
-狼	lõng
-琅	lõng
-瑯	lõng
-硠	lõng
-稂	lõng
-筤	lõng
-莨	lõng
-蜋	lõng
-蜋	lõng
-螂	lõng
-郎	lõng
-郎	lõng
-鋃	lõng
-埌	lòng
-晾	lòng
-浪	lòng
-蒗	lòng
-崀	lông
-朗	lông
-琅	lông
-郎	lông
-閬	lông
-閬	lông
-捋	löt
-埒	lòt
-捋	lòt
-捋	lòt
-鋝	lòt
-捋	lôt
-嘍	lū
-嚕	lū
-滷	lū
-鹵	lū
-擼	lü
-壚	lũ
-廬	lũ
-櫨	lũ
-瀘	lũ
-爐	lũ
-盧	lũ
-籮	lũ
-罏	lũ
-腡	lũ
-臚	lũ
-艫	lũ
-蘆	lũ
-蘿	lũ
-螺	lũ
-轤	lũ
-鑼	lũ
-顱	lũ
-髗	lũ
-魲	lũ
-鱸	lũ
-鸕	lũ
-潞	lù
-璐	lù
-虂	lù
-賂	lù
-路	lù
-輅	lù
-露	lù
-露	lù
-鷺	lù
-嚕	lû
-擄	lû
-櫓	lû
-氌	lû
-虜	lû
-虜	lû
-螺	lû
-路	lû
-鑥	lû
-魯	lû
-呂	luī
-簍	luī
-嫘	luĩ
-擂	luĩ
-擂	luĩ
-檑	luĩ
-櫚	luĩ
-畾	luĩ
-累	luĩ
-縲	luĩ
-纍	luĩ
-罍	luĩ
-羸	luĩ
-鐳	luĩ
-閭	luĩ
-雷	luĩ
-馿	luĩ
-騾	luĩ
-驢	luĩ
-傫	luì
-儽	luì
-唳	luì
-慮	luì
-戾	luì
-沴	luì
-淚	luì
-濾	luì
-礌	luì
-礧	luì
-累	luì
-累	luì
-類	luì
-侶	luî
-僂	luî
-儡	luî
-呂	luî
-堆	luî
-壘	luî
-屢	luî
-惢	luî
-捩	luî
-旅	luî
-淚	luî
-瘰	luî
-磊	luî
-穭	luî
-穭	luî
-縷	luî
-膂	luî
-蕊	luî
-蕌	luî
-蕾	luî
-藟	luî
-褸	luî
-鋁	luî
-碌	lūk
-碌	lūk
-磟	lūk
-麓	lūk
-碌	lük
-六	lùk
-六	lùk
-剹	lùk
-勠	lùk
-彔	lùk
-戮	lùk
-氯	lùk
-淥	lùk
-漉	lùk
-盝	lùk
-祿	lùk
-簏	lùk
-籙	lùk
-綠	lùk
-綠	lùk
-緑	lùk
-菉	lùk
-蓼	lùk
-轆	lùk
-逯	lùk
-錄	lùk
-陸	lùk
-陸	lùk
-騄	lùk
-鹿	lùk
-碌	lûk
-戀	lūn
-臠	lūn
-攣	lün
-侖	lũn
-倫	lũn
-圇	lũn
-孌	lũn
-孿	lũn
-崙	lũn
-崘	lũn
-巒	lũn
-掄	lũn
-掄	lũn
-欒	lũn
-淪	lũn
-灤	lũn
-綸	lũn
-聯	lũn
-菕	lũn
-論	lũn
-輪	lũn
-鑾	lũn
-鸞	lũn
-吝	lùn
-恡	lùn
-紊	lùn
-藺	lùn
-論	lùn
-蹸	lùn
-躪	lùn
-輪	lûn
-攏	lūng
-籠	lūng
-嚨	lũng
-㚅	lũng
-曨	lũng
-朧	lũng
-槞	lũng
-櫳	lũng
-瀧	lũng
-瓏	lũng
-𤮨	lũng
-癃	lũng
-矓	lũng
-礱	lũng
-窿	lũng
-窿	lũng
-竜	lũng
-籠	lũng
-聾	lũng
-蘢	lũng
-蠪	lũng
-隆	lũng
-隆	lũng
-龍	lũng
-龒	lũng
-弄	lùng
-弄	lùng
-壟	lûng
-壠	lûng
-槞	lûng
-櫳	lûng
-籠	lûng
-籠	lûng
-隴	lûng
-劣	lūt
-甪	lūt
-捋	lüt
-傈	lùt
-凓	lùt
-律	lùt
-慄	lùt
-栗	lùt
-溧	lùt
-率	lùt
-篥	lùt
-聿	lùt
-葎	lùt
-遹	lùt
-五	m̄
-伍	m̄
-吾	m̃
-吳	m̃
-呣	m̃
-唔	m̃
-嗯	m̃
-嗯	m̃
-噷	m̃
-梧	m̃
-浯	m̃
-珸	m̃
-蜈	m̃
-郚	m̃
-鼯	m̃
-呣	m̀
-嗯	m̀
-嗯	m̀
-寤	m̀
-忤	m̀
-悟	m̀
-捂	m̀
-捂	m̀
-摀	m̀
-晤	m̀
-梧	m̀
-焐	m̀
-痦	m̀
-誤	m̀
-仵	m̂
-伍	m̂
-午	m̂
-嗯	m̂
-嗯	m̂
-忤	m̂
-牾	m̂
-迕	m̂
-嗎	mā
-媽	mā
-嬤	mā
-摩	mā
-獁	mā
-螞	mā
-馬	mā
-麻	mā
-麼	mā
-乸	mä
-嗎	mä
-孖	mä
-馬	mä
-嘛	mã
-媽	mã
-痲	mã
-蔴	mã
-蟆	mã
-蟇	mã
-麻	mã
-傌	mà
-嗎	mà
-罵	mà
-螞	mà
-駡	mà
-嗎	mâ
-榪	mâ
-榪	mâ
-獁	mâ
-瑪	mâ
-碼	mâ
-蝦	mâ
-螞	mâ
-馬	mâ
-咪	māi
-米	māi
-脒	māi
-蕒	mäi
-買	mäi
-埋	mãi
-埋	mãi
-眯	mãi
-瞇	mãi
-謎	mãi
-謎	mãi
-迷	mãi
-醚	mãi
-霾	mãi
-侎	mài
-勱	mài
-敉	mài
-袂	mài
-賣	mài
-邁	mài
-嘜	māk
-嚜	māk
-擘	mäk
-脈	mäk
-冒	màk
-嘿	màk
-嚜	màk
-嚜	màk
-獏	màk
-脈	màk
-萬	màk
-蛨	màk
-貊	màk
-貉	màk
-貘	màk
-陌	màk
-驀	màk
-麥	màk
-墨	màk
-默	màk
-墨	mâk
-蠻	mãn
-謾	mãn
-閩	mãn
-鬘	mãn
-鰻	mãn
-卐	màn
-卍	màn
-墁	màn
-幔	màn
-慢	màn
-曼	màn
-漫	màn
-熳	màn
-䊡	màn
-縵	màn
-萬	màn
-蔓	màn
-蔓	màn
-蔓	màn
-謾	màn
-鏝	màn
-饅	màn
-娩	mân
-晚	mân
-掹	māng
-猛	māng
-蜢	māng
-蠻	māng
-黽	māng
-掹	mäng
-猛	mäng
-氓	mãng
-甍	mãng
-盟	mãng
-盟	mãng
-盲	mãng
-萌	mãng
-孟	màng
-勐	mâng
-猛	mâng
-艋	mâng
-錳	mâng
-貓	māo
-冇	mäo
-旄	mão
-毛	mão
-氂	mão
-犛	mão
-矛	mão
-茅	mão
-茆	mão
-蘑	mão
-蝥	mão
-蟊	mão
-酕	mão
-錨	mão
-髦	mão
-冃	mào
-冒	mào
-㡌	mào
-帽	mào
-懋	mào
-旄	mào
-瑁	mào
-瑁	mào
-眊	mào
-瞀	mào
-繆	mào
-耄	mào
-茂	mào
-袤	mào
-謬	mào
-貌	mào
-貿	mào
-卯	mâo
-昴	mâo
-泖	mâo
-鉚	mâo
-帓	màt
-襪	màt
-鞨	màt
-韈	màt
-韤	màt
-乜	mēh
-咩	mēh
-哶	mēh
-孭	mêh
-掰	mëik
-搣	mëik
-㓕	mèik
-汨	mèik
-滅	mèik
-烕	mèik
-蓂	mèik
-蔑	mèik
-蠛	mèik
-衊	mèik
-篾	mêik
-丏	mēin
-沔	mēin
-湎	mēin
-眄	mēin
-眄	mēin
-緬	mēin
-腼	mēin
-靦	mēin
-冥	mẽin
-名	mẽin
-宀	mẽin
-明	mẽin
-暝	mẽin
-朙	mẽin
-棉	mẽin
-洺	mẽin
-溟	mẽin
-眀	mẽin
-眠	mẽin
-瞑	mẽin
-瞑	mẽin
-綿	mẽin
-緜	mẽin
-茗	mẽin
-蓂	mẽin
-螟	mẽin
-酩	mẽin
-銘	mẽin
-鳴	mẽin
-命	mèin
-㮌	mèin
-面	mèin
-麪	mèin
-麺	mèin
-麵	mèin
-俛	mêin
-僶	mêin
-免	mêin
-冕	mêin
-刎	mêin
-勉	mêin
-吻	mêin
-娩	mêin
-憫	mêin
-抿	mêin
-敏	mêin
-棉	mêin
-泯	mêin
-澠	mêin
-皿	mêin
-鮸	mêin
-鰵	mêin
-麪	mêin
-麵	mêin
-黽	mêin
-黽	mêin
-喵	mẽl
-描	mẽl
-瞄	mẽl
-苗	mẽl
-鶓	mẽl
-妙	mèl
-廟	mèl
-玅	mèl
-繆	mèl
-厸	mêl
-杳	mêl
-杪	mêl
-淼	mêl
-渺	mêl
-眇	mêl
-秒	mêl
-緲	mêl
-藐	mêl
-訬	mêl
-邈	mêl
-名	mẽng
-命	mèng
-痞	mēo
-侔	mẽo
-哞	mẽo
-毪	mẽo
-牟	mẽo
-眸	mẽo
-繆	mẽo
-蛑	mẽo
-蝥	mẽo
-蟊	mẽo
-謀	mẽo
-錨	mẽo
-鍪	mẽo
-厶	mêo
-峁	mêo
-某	mêo
-牡	mêo
-畝	mêo
-亹	mī
-娓	mī
-尾	mī
-尾	mī
-艉	mī
-眯	mï
-瞇	mï
-媚	mĩ
-嵋	mĩ
-彌	mĩ
-微	mĩ
-楣	mĩ
-湄	mĩ
-溦	mĩ
-猸	mĩ
-獼	mĩ
-眉	mĩ
-糜	mĩ
-縻	mĩ
-羋	mĩ
-薇	mĩ
-蘼	mĩ
-郿	mĩ
-醾	mĩ
-鎇	mĩ
-靡	mĩ
-鶥	mĩ
-麋	mĩ
-麊	mĩ
-麿	mĩ
-味	mì
-媚	mì
-寐	mì
-敉	mì
-未	mì
-汆	mì
-鬽	mì
-魅	mì
-弭	mî
-美	mî
-羙	mî
-鎂	mî
-靡	mî
-抿	mīn
-民	mīn
-岷	mĩn
-民	mĩn
-玟	mĩn
-珉	mĩn
-砇	mĩn
-䃉	mĩn
-緡	mĩn
-苠	mĩn
-冖	mìt
-冪	mìt
-嘧	mìt
-宓	mìt
-密	mìt
-蜜	mìt
-覓	mìt
-覔	mìt
-謐	mìt
-貓	miū
-貓	miū
-嬤	mō
-尛	mō
-摸	mō
-摹	mō
-饃	mō
-饝	mō
-魔	mō
-麼	mō
-麼	mō
-摩	mö
-劘	mõ
-嫫	mõ
-模	mõ
-模	mõ
-毪	mõ
-磨	mõ
-蘑	mõ
-誣	mõ
-磨	mò
-耱	mò
-麼	mô
-妹	mōi
-妹	mõi
-媒	mõi
-枚	mõi
-梅	mõi
-楳	mõi
-槑	mõi
-煤	mõi
-玫	mõi
-糜	mõi
-脢	mõi
-苺	mõi
-莓	mõi
-酶	mõi
-霉	mõi
-黣	mõi
-黴	mõi
-昧	mòi
-眛	mòi
-妹	môi
-每	môi
-浼	môi
-剝	mōk
-寞	mōk
-幕	mōk
-摸	mōk
-漠	mōk
-瘼	mōk
-膜	mōk
-剝	mök
-莫	mòk
-鄚	mòk
-鏌	mòk
-膜	môk
-滿	mōn
-蟎	mōn
-亹	mõn
-們	mõn
-捫	mõn
-瞞	mõn
-蹣	mõn
-蹣	mõn
-鍆	mõn
-門	mõn
-鞔	mõn
-顢	mõn
-懣	mòn
-燜	mòn
-悶	mòn
-悶	mòn
-網	mōng
-网	mōng
-輞	mōng
-魍	mōng
-杧	möng
-𣙷	möng
-芒	möng
-亡	mõng
-忙	mõng
-忘	mõng
-忘	mõng
-氓	mõng
-牤	mõng
-硭	mõng
-芒	mõng
-茫	mõng
-邙	mõng
-鋩	mõng
-望	mòng
-朢	mòng
-妄	mông
-惘	mông
-氓	mông
-漭	mông
-硥	mông
-罔	mông
-莽	mông
-虻	mông
-蝱	mông
-蟒	mông
-蠎	mông
-輞	mông
-䥈	mông
-魍	mông
-乜	mōt
-抹	möt
-抹	möt
-抹	möt
-麿	möt
-勿	mòt
-妺	mòt
-帓	mòt
-末	mòt
-歿	mòt
-沒	mòt
-沒	mòt
-沫	mòt
-物	mòt
-瞐	mòt
-秣	mòt
-芴	mòt
-茉	mòt
-袜	mòt
-靺	mòt
-䯦	mòt
-摸	mū
-舞	mū
-𠘩	mũ
-劘	mũ
-嘸	mũ
-嘸	mũ
-嫫	mũ
-巫	mũ
-摹	mũ
-无	mũ
-模	mũ
-模	mũ
-毋	mũ
-毪	mũ
-無	mũ
-無	mũ
-磨	mũ
-蕪	mũ
-蘑	mũ
-誣	mũ
-謨	mũ
-務	mù
-募	mù
-呣	mù
-呣	mù
-墓	mù
-婺	mù
-慕	mù
-戊	mù
-暮	mù
-牟	mù
-瞀	mù
-霧	mù
-騖	mù
-鶩	mù
-侮	mû
-姆	mû
-姆	mû
-姥	mû
-娬	mû
-嫵	mû
-廡	mû
-憮	mû
-拇	mû
-武	mû
-毋	mû
-母	mû
-鉧	mû
-䥈	mû
-鵡	mû
-卜	mūk
-仫	mùk
-坶	mùk
-木	mùk
-牧	mùk
-目	mùk
-睦	mùk
-穆	mùk
-繆	mùk
-苜	mùk
-鉬	mùk
-木	mûk
-沐	mûk
-炆	mūn
-緡	mūn
-鰵	mūn
-抆	mũn
-文	mũn
-汶	mũn
-玟	mũn
-紋	mũn
-聞	mũn
-閿	mũn
-闅	mũn
-雯	mũn
-文	mùn
-璺	mùn
-紊	mùn
-問	mùn
-吻	mûn
-愍	mûn
-憫	mûn
-旻	mûn
-汶	mûn
-湣	mûn
-璺	mûn
-蚊	mûn
-閔	mûn
-懜	mūng
-懵	mūng
-檬	mūng
-鼆	mūng
-幪	mũng
-曚	mũng
-朦	mũng
-檬	mũng
-濛	mũng
-獴	mũng
-瞢	mũng
-矇	mũng
-礞	mũng
-艨	mũng
-蒙	mũng
-蒙	mũng
-矇	mũng
-蠓	mũng
-霥	mũng
-夢	mùng
-物	mùt
-乸	nā
+〇	lẽng	
+一	yīt	
+丁	ëin	3%
+丁	êng	3%
+丁	jäng	3%
+七	tīt	
+丈	chêng	
+丈	jèng	
+三	xäm	
+三	xâm	
+上	sëng	
+上	sèng	
+下	hä	
+下	hà	
+下	hâ	
+丌	gï	
+丌	kĩ	
+不	būt	3%
+丏	mēin	
+丐	köi	0%
+丑	chiū	
+且	chēh	3%
+且	juï	3%
+丕	pī	
+世	säi	
+丗	säi	0%
+丘	hiü	
+丙	bēin	
+丞	sẽin	0%
+丟	èl	
+丣	yiû	0%
+並	bèin	3%
+丨	gûn	
+丫	ä	
+丫	â	
+中	jüng	
+丱	gän	
+丱	köng	
+串	chün	3%
+串	chûn	3%
+丶	ēm	
+丸	yõn	
+丹	än	
+主	jī	
+丼	ām	0%
+丼	dēng	0%
+丿	pêt	
+乂	ngài	
+乃	nâi	3%
+久	giū	
+乇	hōk	3%
+么	yël	
+之	jï	
+乍	jä	0%
+乎	fũ	0%
+乏	fàt	
+乒	bīn	3%
+乓	bōng	
+乕	fū	0%
+乖	gäi	
+乘	sẽin	
+乘	sèin	
+乙	yōt	
+乜	mēh	0%
+乜	mōt	0%
+乜	nēh	0%
+九	giū	
+乞	hāt	3%
+也	yâ	
+乢	köi	0%
+乩	gï	
+乳	nguî	
+乸	mä	
+乸	nā	
+乾	gön	
+乾	gôn	
+乾	kẽin	
+乿	jì	0%
+乿	lòn	0%
+亀	gï	0%
+亂	lòn	
+亅	gêo	
+了	lēl	0%
+了	lẽl	0%
+予	yĩ	
+予	yî	
+事	xù	
+二	ngì	
+二	ngî	
+亍	chūk	
+于	yï	
+云	vũn	
+互	vù	
+亓	kĩ	
+五	m̄	
+井	dēin	
+井	dēng	
+亘	gāng	
+亙	gāng	
+些	xëh	3%
+亞	ä	
+亟	gēik	
+亟	kï	
+亠	hẽo	
+亡	mõng	3%
+亢	käng	
+亢	köng	
+交	gäo	
+交	gâo	
+亥	hòi	
+亦	yèik	
+亦	yèk	
+亨	häng	3%
+享	hēng	
+京	gëin	3%
+亭	hẽin	
+亮	lèng	
+亳	bòk	0%
+亶	àn	3%
+亶	hān	3%
+亷	lẽm	0%
+亹	mī	
+亹	mõn	
+人	ngĩn	
+什	dàp	3%
+什	sìm	3%
+什	sìp	3%
+仁	ngĩn	
+仁	ngîn	
+仂	làk	
+仃	ëin	
+仄	chēik	
+仄	jēik	
+仆	fü	3%
+仆	pūk	3%
+仆	pük	3%
+仆	pûk	3%
+仇	kiũ	
+仇	siũ	
+仉	jēng	
+今	gïm	
+介	gäi	3%
+仍	ngẽin	
+仔	dōi	
+仔	dū	
+仕	xù	
+他	hä	0%
+仗	jëng	
+仗	jèng	
+付	fù	
+仙	xëin	
+仚	xëin	0%
+仝	hũng	
+仞	yìn	
+仟	tëin	
+仡	gīt	3%
+仡	kēik	3%
+代	òi	
+令	lēin	3%
+令	lèin	3%
+以	yî	
+仨	xäm	3%
+仫	mùk	
+仰	ngêng	0%
+仲	jùng	
+仳	bï	3%
+仵	m̂	
+件	gèin	
+价	gäi	
+任	ngĩm	
+任	ngìm	
+份	fùn	0%
+仿	fōng	3%
+企	kī	0%
+企	kï	0%
+企	kî	0%
+伉	köng	
+伊	yï	
+伋	gèp	0%
+伍	m̄	
+伍	m̂	
+伎	gì	
+伏	fùk	0%
+伏	fûk	0%
+伐	fàt	
+休	hiü	3%
+伕	fü	
+伙	fō	
+伢	ngã	
+伯	bāk	3%
+伯	bâk	3%
+估	gū	3%
+估	gü	3%
+伲	nãi	
+伴	bòn	3%
+伴	pôn	3%
+伶	lẽin	
+伸	sïn	
+伺	dù	3%
+伺	xù	3%
+似	tî	
+似	xû	
+伽	gä	
+伽	kêh	
+佃	èin	
+佃	hẽin	
+佄	hām	0%
+佄	hõn	0%
+但	àn	
+佇	chuî	
+佈	bü	
+佉	kêk	
+位	vì	0%
+低	äi	
+住	jì	
+佐	dü	
+佑	yiù	
+佔	jëm	3%
+何	hâo	0%
+何	hõ	0%
+佗	hõ	0%
+佘	sẽh	
+余	yĩ	
+佚	èik	
+佚	yìt	
+佛	fūt	0%
+佛	fùt	0%
+作	dōk	
+作	dök	
+佝	gëo	3%
+佞	nèin	
+佟	hũng	
+你	nï	
+你	nî	
+佡	xëin	
+佢	kuï	100%
+佤	ngā	
+佧	kā	
+佩	pöi	
+佪	või	
+佬	lāo	3%
+佯	yẽng	
+佰	bäk	3%
+佳	gäi	
+佴	ngì	0%
+佴	nòi	0%
+併	bèin	3%
+佶	gīt	3%
+佺	tũn	
+佻	hël	
+佼	gāo	
+佽	xü	
+佾	yìt	
+使	sōi	
+使	xū	
+侃	hōn	0%
+侄	jìt	3%
+來	lõi	3%
+侈	chï	
+侉	kä	
+侊	gäng	0%
+例	lài	
+侍	sì	
+侍	xù	
+侎	mài	0%
+侏	jï	
+侑	yiù	
+侔	mẽo	
+侖	lũn	
+侗	hũng	
+侗	ùng	
+侘	chä	
+侘	jä	
+供	güng	
+侜	jiü	
+依	yī	
+依	yï	
+侞	nguĩ	
+侮	mû	
+侯	hẽo	3%
+侵	tïm	
+侶	luî	
+侷	gùk	
+侹	hêin	0%
+便	bèin	0%
+便	pẽin	0%
+俁	nguî	
+係	hài	100%
+促	tūk	
+俄	ngõ	
+俅	kiũ	
+俊	dün	
+俎	jū	
+俏	tël	
+俐	lì	
+俑	yūng	0%
+俗	dùk	
+俘	fũ	
+俚	lî	
+俛	fū	
+俛	mêin	
+俜	pëin	
+保	bāo	
+俞	sï	3%
+俞	yĩ	3%
+俟	dù	
+俟	kĩ	
+俠	hèp	
+信	xïn	0%
+修	xiü	
+俯	fū	
+俰	võ	0%
+俱	guì	0%
+俱	kuï	0%
+俲	hào	0%
+俳	pãi	
+俵	bēl	0%
+俶	chūk	
+俶	tēik	
+俸	fūng	3%
+俺	äm	3%
+俺	yēm	3%
+俾	bī	3%
+俿	chĩ	0%
+俿	fū	0%
+倀	chëng	3%
+倀	jāng	3%
+倁	chĩ	0%
+倆	lēng	
+倈	lõi	
+倉	töng	
+個	göi	
+倌	gön	
+倍	pôi	0%
+倏	sūk	
+們	mõn	
+倒	āo	3%
+倒	dāo	3%
+倔	gùt	
+倖	hàng	
+倘	hōng	3%
+倘	sẽng	3%
+候	hèo	
+倚	yī	0%
+倜	tēik	
+借	dëh	
+借	dèik	
+倡	chëng	
+倣	fōng	
+値	jèik	0%
+倥	hüng	0%
+倦	gùn	
+倨	guï	
+倩	sèn	3%
+倪	ngãi	3%
+倫	lũn	
+倬	chēk	0%
+倭	vī	3%
+倭	vö	3%
+倮	gō	
+倴	bïn	
+倻	yẽh	
+值	jèik	
+偃	yēn	0%
+假	gā	
+偈	gäi	
+偈	gài	
+偈	gèik	
+偉	vī	
+偊	guī	0%
+偌	nēk	3%
+偌	nëk	3%
+偌	nêk	3%
+偌	ngèk	3%
+偎	vï	
+偏	pëin	
+偔	ngôi	0%
+偕	gäi	3%
+偕	hãi	3%
+偘	hōn	0%
+做	dü	
+停	hẽin	
+健	gèin	
+偪	bēik	
+側	jāk	
+側	sāk	
+偵	jëin	
+偶	ngêo	
+偷	hëo	
+偸	hëo	0%
+偺	dän	0%
+偽	ngài	0%
+偽	nguì	0%
+傀	fäi	
+傀	föi	
+傁	xēo	0%
+傅	fù	0%
+傈	lùt	
+傌	mà	0%
+傍	bäng	
+傍	bòng	
+傍	põng	
+傑	gèik	
+傖	töng	0%
+傘	xän	
+備	bì	
+傚	hào	
+傜	yẽl	0%
+傢	gä	
+傣	häi	3%
+傫	luì	0%
+傫	näi	0%
+催	tuï	
+傭	yũng	3%
+傭	yùng	3%
+傯	dūng	0%
+傲	ngào	
+傳	chõn	3%
+傳	chũn	3%
+傳	jòn	3%
+傴	yī	
+債	jäi	
+傷	sëng	
+傺	jäi	
+傻	sô	
+傾	kēin	
+傾	këin	
+僂	lẽo	
+僂	luî	
+僅	gīn	3%
+僉	tïm	
+僊	xëin	
+像	dèng	
+僑	kẽl	
+僒	kün	0%
+僕	bùk	
+僖	hï	
+僚	lẽl	3%
+僡	fì	
+僥	hēl	0%
+僥	hël	0%
+僥	ngẽl	0%
+僦	diù	0%
+僧	xäng	0%
+僨	fûn	0%
+僬	dël	3%
+僭	dèm	3%
+僮	hũng	0%
+僮	jöng	0%
+僰	bàk	0%
+僱	gü	
+僳	xūk	
+僵	gëng	
+僶	mêin	
+價	gä	
+僻	pēik	0%
+儀	ngĩ	
+儂	nũng	
+儃	sẽm	0%
+億	yēik	
+儆	gēin	
+儇	xün	
+儈	köi	
+儉	gèm	
+儋	äm	3%
+儌	hēl	3%
+儐	bïn	3%
+儒	yĩ	
+儔	chiũ	
+儕	däi	
+儘	dìn	
+償	sẽng	
+儡	luî	
+優	yiü	
+儭	chïn	
+儲	chuî	0%
+儷	lài	
+儸	lõ	
+儺	nõ	
+儻	hōng	
+儼	ngëm	
+儽	luì	3%
+儾	nõng	0%
+儿	ngĩn	0%
+兀	ngük	
+兀	ngūt	
+允	vûn	3%
+元	ngũn	
+元	yõn	
+兄	hëin	0%
+充	chüng	
+兆	sêl	
+兇	hüng	
+先	xëin	0%
+光	göng	
+光	gông	
+克	hāk	0%
+兌	uï	0%
+免	mêin	0%
+兒	ngī	3%
+兒	ngĩ	3%
+兔	hü	
+兕	xû	0%
+兗	yōn	0%
+兛	tëinhāk	0%
+兜	ëo	
+兢	gëin	
+入	yìp	
+內	nuì	3%
+全	tũn	
+兩	lēng	0%
+八	bāt	
+八	bät	
+公	gūng	
+公	güng	
+公	gûng	
+六	lùk	3%
+兮	hãi	
+兯	hòn	0%
+共	gùng	3%
+兲	hëin	0%
+兵	bëin	
+其	kĩ	3%
+具	guì	
+典	ēin	
+兼	gëm	
+冀	kï	0%
+冂	gēin	0%
+冃	mào	0%
+冇	mäo	0%
+冉	ngëm	
+冉	ngêm	
+冊	chāk	
+再	döi	
+冏	gēin	
+冒	màk	
+冒	mào	
+冕	mêin	
+冖	mìt	
+冗	yūng	0%
+冚	kām	
+冚	kēim	
+冚	kẽim	
+冠	gön	
+冢	chüng	
+冤	yön	
+冥	mẽin	
+冦	këo	0%
+冪	mìt	
+冫	bëin	
+冬	üng	
+冰	bëin	0%
+冱	vù	
+冶	yêh	
+冷	lāng	
+冷	läng	
+冷	lâng	
+冼	xēin	
+冽	lèik	
+凄	täi	0%
+准	jūn	
+凇	xūng	
+凈	dèin	0%
+凈	dèng	0%
+凊	dèin	0%
+凊	hëin	0%
+凋	ël	
+凌	lẽin	
+凍	üng	
+凓	lùt	
+凜	lîm	
+凝	ngẽin	0%
+几	gì	0%
+凡	fãn	
+処	chuī	
+凰	võng	
+凱	hōi	
+凳	âng	
+凵	hêim	0%
+凶	hüng	
+凸	ùt	0%
+凹	äo	3%
+凹	nïp	3%
+凹	nîp	3%
+凹	vä	3%
+出	chūt	
+凼	hâm	
+凼	hêim	
+凼	nòng	
+函	hãm	
+刀	äo	
+刁	ël	
+刃	yìn	
+分	fün	
+分	fùn	
+切	täi	
+切	tēik	
+切	tëik	
+刈	ngài	
+刊	hān	
+刊	hōn	
+刋	hān	0%
+刋	hōn	0%
+刎	mêin	
+刑	yẽin	
+划	pã	3%
+划	vàk	3%
+刕	lĩ	0%
+刖	ngūt	
+列	lèik	0%
+初	chö	
+判	pön	
+別	bèik	3%
+刨	pão	
+刨	pâo	
+利	lì	
+刪	sän	
+刮	gät	
+到	āo	
+到	äo	
+刳	kü	
+制	jäi	
+刷	chät	
+刷	chât	
+券	hün	
+券	hûn	
+刺	xü	0%
+刻	hāk	0%
+剁	ēk	3%
+剁	ō	3%
+剃	häi	
+剄	gēin	
+剅	lèo	0%
+則	dāk	
+則	däk	
+剉	tö	
+削	xēk	3%
+削	xëk	3%
+剋	hāk	0%
+剌	lā	
+剌	làt	
+前	tẽin	
+剎	sāt	
+剎	sät	
+剒	chök	
+剒	chôk	
+剔	tēik	3%
+剕 	fï	
+剖	pāo	
+剗	chān	
+剛	göng	
+剜	vōn	
+剝	mōk	3%
+剝	mök	3%
+剞	gï	0%
+剞	kï	0%
+剡	sèm	
+剡	yèm	
+剣	gëm	0%
+剩	jèin	3%
+剪	dēin	
+剮	gā	0%
+副	fü	3%
+剱	gëm	0%
+割	göt	
+剴	hōi	0%
+剴	köi	0%
+創	chōng	
+剹	lùk	0%
+剽	pël	3%
+剿	chäo	3%
+剿	dēl	3%
+劁	dël	
+劂	kūt	0%
+劃	vàk	
+劃	vâk	
+劄	jāp	3%
+劄	jāt	3%
+劇	kēk	
+劈	pëk	3%
+劈	pêk	3%
+劉	liũ	
+劊	köi	
+劌	gï	
+劍	gëm	
+劎	gëm	0%
+劏	höng	
+劐	vòk	
+劑	jäi	0%
+劒	gëm	
+劓	ngì	
+劔	gëm	0%
+劗	dēin	3%
+劘	mõ	
+劘	mũ	
+力	lèik	
+功	güng	
+加	gä	0%
+劣	lūt	0%
+劦	hèp	
+助	jò	
+努	nū	
+劫	gēp	
+劫	gëp	
+劬	kuĩ	
+劭	sèl	
+効	hào	
+劼	gīt	
+劾	hàt	
+勁	gèin	0%
+勃	bòt	
+勅	chēik	
+勇	yûng	
+勉	mêin	
+勍	kẽin	
+勐	mâng	
+勑	chēik	
+勒	làk	0%
+勒	lâk	0%
+動	ùng	
+勖	nūk	
+勖	yūk	
+勗	nūk	
+勗	yūk	
+勘	häm	
+務	mù	
+勛	fün	0%
+勝	sëin	
+勞	lão	
+募	mù	
+勠	lùk	
+勢	säi	
+勣	dēik	
+勤	kĩn	
+勩	yì	
+勰	hèp	3%
+勱	mài	
+勳	fün	
+勵	lài	
+勸	hün	
+勹	bäo	
+勺	sēk	
+勻	vũn	
+勻	yũn	
+勾	gêo	0%
+勾	ngëo	0%
+勿	mòt	
+匃	köi	
+匄	köi	3%
+包	bäo	
+包	bâo	
+匆	tüng	
+匈	hüng	
+匋	hão	
+匋	hõ	
+匍	pũ	
+匏	pão	
+匐	bàk	0%
+匐	fùk	0%
+匕	bï	3%
+化	fä	3%
+化	fâ	3%
+北	bāk	0%
+匙	sĩ	
+匚	föng	
+匛	giü	0%
+匜	yĩ	
+匝	jät	
+匝	jât	
+匞	dèng	0%
+匟	köng	0%
+匠	dèng	
+匡	höng	
+匡	köng	
+匣	hâp	
+匧	gēp	0%
+匪	fī	
+匭	gī	
+匯	vòi	
+匱	gì	
+匵	dùk	
+匸	hài	0%
+匹	pīt	
+匼	àp	0%
+匼	fö	0%
+匽	yēn	0%
+匾	bēin	
+匿	nät	3%
+匿	nēik	3%
+匿	nèik	3%
+區	ëo	
+區	kuï	
+十	sìp	
+千	tëin	
+卅	xàp	0%
+升	sēin	
+升	sëin	
+升	sêin	
+午	m̂	
+卉	fī	0%
+半	bön	
+半	bôn	
+卋	säi	0%
+卌	xìp	
+卍	màn	
+卐	màn	0%
+卑	bï	
+卒	dūt	3%
+卒	tōt	3%
+卓	chēk	3%
+協	hèp	
+南	nãm	3%
+南	nẽim	3%
+博	bōk	
+卜	bàk	3%
+卜	būk	3%
+卜	mūk	3%
+卞	bèin	
+卟	būk	
+占	jëm	3%
+卡	kā	0%
+卡	kāk	0%
+卡	käk	0%
+卡	kâk	0%
+卡	kāt	0%
+卣	yiû	
+卦	gä	
+卩	dêik	
+卮	jï	
+卯	mâo	0%
+印	yïn	
+危	ngãi	
+危	nguĩ	
+即	dēik	
+卵	lôn	3%
+卷	kūn	3%
+卸	xëh	
+卺	gīn	
+卻	kēk	
+卼	ngūt	
+卽	dēik	
+卿	hëng	
+厀	xīp	
+厂	hōn	3%
+厄	āk	3%
+厊	ngà	0%
+厏	jà	
+厔	jï	0%
+厔	jīt	0%
+厙	sëh	
+厚	hêo	
+厝	tü	
+原	ngũn	3%
+厥	kūt	
+厪	gīn	
+厭	yëm	3%
+厲	lài	0%
+厲	lì	0%
+厴	yēm	
+厵	ngũn	0%
+厶	mêo	0%
+厶	xü	0%
+厸	lĩn	0%
+厸	mêl	0%
+去	huï	0%
+厾	ūk	
+參	chëim	0%
+參	tām	0%
+參	täm	0%
+叄	xäm	
+叅	täm	0%
+又	yiù	
+叉	chā	
+叉	chä	
+叉	châ	
+及	gèp	3%
+友	yiû	
+反	fān	3%
+叒	ngèk	0%
+叔	sūk	
+取	tuī	
+受	siù	
+叛	bòn	
+叜	xēo	
+叟	xēo	
+叡	yuì	0%
+叢	tũng	
+口	hēo	
+古	gū	
+句	guï	3%
+句	guî	3%
+句	ngëo	3%
+另	lèin	
+叨	äo	
+叨	dào	
+叨	häo	
+叩	këo	
+只	jī	0%
+叫	diü	
+叫	diû	
+叫	gël	
+召	diü	0%
+召	jël	0%
+召	sèl	0%
+叭	bā	
+叮	ëin	
+可	hāk	0%
+可	hō	0%
+台	hõi	0%
+叱	chēik	
+史	xū	
+右	yiù	
+叵	pō	
+叶	hèp	0%
+司	xü	
+叻	làk	3%
+叻	lēk	3%
+叼	ël	
+叿	hùng	0%
+吁	huï	3%
+吁	yèk	3%
+吃	hëk	3%
+各	gōk	
+吅	dùng	0%
+吅	xün	0%
+吆	yël	
+合	gâp	3%
+合	hàp	3%
+吉	gīt	
+吉	gìt	
+吊	ël	
+吋	tün	3%
+同	hũng	
+名	mẽin	3%
+名	mẽng	3%
+后	hẽo	
+后	hèo	
+吏	lì	
+吐	hü	3%
+吐	tû	3%
+向	hëng	
+吒	jä	3%
+吔	yä	3%
+吔	yâ	3%
+吖	ä	
+吚	yī	0%
+君	gün	
+吝	lùn	
+吞	hün	
+吟	lãng	0%
+吟	ngĩm	0%
+吠	fì	
+吡	bī	
+吥	būt	
+否	fēo	0%
+否	pī	0%
+吧	bä	5%
+吧	bà	5%
+吩	fün	
+含	hẽim	
+吭	häng	
+吭	hõng	
+吮	sôn	0%
+吰	fãng	
+吱	jī	3%
+吱	jï	3%
+吲	yîn	
+吳	m̃	
+吵	chāo	
+吶	nàp	
+吶	nẽh	
+吸	kīp	
+吹	chuï	3%
+吻	mêin	
+吻	mûn	
+吼	hāo	3%
+吼	vāo	3%
+吽	hüng	0%
+吽	ngèo	0%
+吾	m̃	3%
+呀	à	
+呀	yã	
+呂	luī	
+呂	luî	
+呃	āk	3%
+呃	ngāk	3%
+呆	ngõi	
+呈	chẽin	
+告	gäo	
+呋	fü	
+呌	gël	
+呎	chëk	3%
+呑	hün	0%
+呔	dāi	
+呔	tāi	
+呢	nãi	5%
+呢	nēh	5%
+呣	m̃	3%
+呣	m̀	3%
+呣	mù	3%
+呤	lèin	3%
+呦	yiü	
+周	jiü	
+呫	hēp	
+呫	jëm	
+呫	tēp	
+呰	dū	
+呱	gā	3%
+呱	gēh	3%
+呲	chï	3%
+呲	dü	3%
+味	mì	
+呵	hō	3%
+呵	hö	3%
+呶	não	0%
+呶	nū	0%
+呷	häp	3%
+呸	pī	
+呻	sïn	
+呼	fü	
+呼	fû	
+命	mèin	3%
+命	mèng	3%
+咀	duī	0%
+咂	jāp	
+咂	jät	
+咄	jōt	0%
+咆	päo	0%
+咋	jä	3%
+和	gô	3%
+和	vö	3%
+和	võ	3%
+和	vò	3%
+和	vũ	3%
+咍	fõi	0%
+咍	hõi	0%
+咎	giü	3%
+咐	fü	
+咑	ā	3%
+咑	dã	3%
+咒	jiü	
+咒	jiû	
+咔	kā	
+咕	gū	3%
+咕	gù	3%
+咖	gä	3%
+咚	üng	
+咠	tīt	
+咣	göng	
+咦	yĩ	3%
+咧	lêh	3%
+咧	lëik	3%
+咨	dü	
+咩	mēh	
+咪	māi	3%
+咫	jī	
+咬	ngāo	3%
+咭	gï	0%
+咭	kāt	0%
+咮	jiü	
+咮	jôi	
+咯	gōk	3%
+咯	kâk	3%
+咯	lö	3%
+咯	lōk	3%
+咯	lök	3%
+咱	jā	
+咱	jân	
+咳	hāi	3%
+咳	kāt	3%
+咳	kät	3%
+咴	föi	
+咵	kä	
+咷	hão	
+咸	hãm	
+咺	xün	0%
+咻	hiü	3%
+咼	gö	3%
+咽	yēik	
+咽	yën	
+咿	yī	
+咿	yï	
+哀	öi	
+品	bīn	
+哂	chīn	0%
+哄	hüng	3%
+哆	ü	0%
+哇	vä	
+哈	hā	0%
+哉	döi	
+哌	pāi	
+哎	āi	0%
+哏	gïn	0%
+哏	ngïn	0%
+哐	köng	
+哚	ū	
+哞	mẽo	
+員	vün	
+員	yõn	
+哥	gō	
+哥	gū	
+哦	ngõ	3%
+哦	ö	3%
+哦	ò	3%
+哧	chēik	3%
+哨	säo	
+哩	lī	3%
+哩	lî	3%
+哪	nã	5%
+哪	nà	5%
+哪	nâi	5%
+哭	hūk	
+哭	hük	
+哮	häo	
+哲	jēt	
+哳	jä	
+哳	jät	
+哶	mēh	
+哺	bù	0%
+哼	häng	
+哼	hèm	
+哽	gāng	0%
+哿	gō	0%
+唁	ngèin	3%
+唄	bài	3%
+唆	sō	
+唆	sö	
+唇	sũn	
+唈	yīp	
+唉	äi	3%
+唉	ài	3%
+唏	hï	
+唐	hõng	
+唑	tö	
+唑	tü	
+唓	chëh	
+唔	m̃	
+唗	ēo	
+唗	ëo	
+唚	tïm	
+唚	xīm	
+唞	hēo	
+唣	dào	
+唥	lâng	0%
+唧	dēik	3%
+唪	fūng	3%
+唬	fū	0%
+唬	häk	0%
+售	siũ	
+售	siù	
+唯	vĩ	0%
+唰	chät	0%
+唱	chëng	
+唳	luì	0%
+唵	äm	
+唷	yō	
+唸	nèm	3%
+唼	säp	3%
+唾	tû	0%
+唿	fü	
+唿	fūt	
+啁	jiü	3%
+啃	hāng	3%
+啄	dēk	3%
+啄	ēk	3%
+商	sëng	
+啈	hàng	
+啉	lĩm	
+啊	ä	
+啊	à	
+問	mùn	
+啐	tuï	0%
+啕	hão	
+啖	àm	
+啜	jōt	3%
+啞	ā	3%
+啟	kāi	0%
+啡	fēh	
+啡	fêh	
+啢	lēng	0%
+啣	hẽim	0%
+啤	bēh	3%
+啥	sëh	0%
+啦	lā	
+啪	päk	3%
+啱	ngām	
+啳	kũn	0%
+啵	bö	3%
+啶	èin	
+啷	lõng	0%
+啻	chï	
+啼	hãi	
+啾	tiü	
+喀	hāk	3%
+喁	nguĩ	
+喁	ngũng	
+喁	yũng	
+喂	vì	0%
+喃	nãm	
+善	sèn	
+喆	jēt	
+喇	lā	3%
+喇	lä	3%
+喈	gäi	
+喉	hẽo	
+喊	häm	
+喋	ēp	3%
+喋	èp	3%
+喋	jâp	3%
+喎	vö	90%
+喏	ngêh	
+喏	nòk	
+喑	yïm	3%
+喒	dän	0%
+喔	ā	3%
+喔	ūk	3%
+喘	chūn	
+喙	fì	
+喙	jöi	
+喚	fòn	
+喜	hī	0%
+喝	höt	3%
+喟	vī	0%
+喤	võng	0%
+喧	xün	
+喨	lèng	
+喪	xöng	
+喬	kẽl	
+單	än	5%
+單	sèin	5%
+單	sẽm	5%
+喱	lī	
+喲	yō	
+喳	chä	
+喳	jā	
+喵	mẽl	
+喹	föi	
+喻	yì	
+喼	gēp	
+嗁	hãi	
+嗄	ä	0%
+嗄	hà	0%
+嗅	chiü	0%
+嗆	tëng	
+嗇	xēik	
+嗉	xü	
+嗊	güng	
+嗌	äi	
+嗌	yēik	
+嗍	sök	
+嗎	mā	3%
+嗎	mä	3%
+嗎	mà	3%
+嗎	mâ	3%
+嗏	chä	
+嗐	hòi	3%
+嗑	hāp	3%
+嗑	hàp	3%
+嗑	hēip	3%
+嗒	āp	0%
+嗒	hāp	0%
+嗓	xông	0%
+嗔	chïn	0%
+嗖	xēo	
+嗙	põng	3%
+嗚	vü	
+嗛	hēp	3%
+嗜	sï	
+嗝	gäk	
+嗝	ûk	
+嗞	dü	
+嗟	dëh	
+嗟	dèh	
+嗡	yūng	
+嗣	dù	
+嗤	chï	
+嗥	hão	
+嗥	hõ	
+嗦	sāk	0%
+嗦	sō	0%
+嗨	hāi	3%
+嗩	xū	
+嗪	tũn	
+嗬	hō	0%
+嗮	xäi	
+嗯	m̃	3%
+嗯	m̀	3%
+嗯	m̂	3%
+嗲	ēh	
+嗵	hūng	
+嗶	bīt	
+嗷	ngào	
+嗻	jëh	
+嗽	xëo	3%
+嗾	xēo	
+嘀	ēik	
+嘁	jī	3%
+嘁	tēik	3%
+嘅	gëh	100%
+嘅	köi	100%
+嘆	hän	0%
+嘆	tän	0%
+嘈	tão	
+嘉	gä	
+嘌	pël	
+嘍	lẽo	3%
+嘍	lū	3%
+嘎	gā	3%
+嘎	gä	3%
+嘎	gâ	3%
+嘏	gā	
+嘏	gū	
+嘔	ēo	3%
+嘔	ëo	3%
+嘖	jāk	0%
+嘗	sẽng	
+嘚	dāk	
+嘛	mã	
+嘜	māk	
+嘞	läk	99%
+嘟	dūt	
+嘟	ü	
+嘡	hõng	
+嘢	yëh	1000000%
+嘣	bâng	
+嘥	xāi	
+嘦	gël	
+嘧	mìt	
+嘩	vä	0%
+嘩	vã	0%
+嘩	và	0%
+嘬	chäi	0%
+嘬	dōt	0%
+嘬	döt	0%
+嘭	päng	
+嘮	lão	0%
+嘯	säo	0%
+嘯	xël	0%
+嘰	gī	5%
+嘰	gï	5%
+嘲	jäo	
+嘴	duī	
+嘵	hēl	
+嘶	xü	3%
+嘷	hão	0%
+嘸	mũ	3%
+嘸	vũ	3%
+嘹	lẽl	
+嘻	hī	
+嘻	hï	
+嘿	hī	3%
+嘿	màk	3%
+噀	xün	
+噁	ōk	0%
+噆	täm	3%
+噇	chõng	
+噌	däng	0%
+噍	dël	0%
+噍	dèl	0%
+噎	īt	
+噎	yēik	
+噏	kīp	
+噏	ngāp	
+噏	ngäp	
+噑	hão	0%
+噓	huï	
+噓	sï	
+噓	xêh	
+噔	äng	
+噗	pōk	
+噘	kūt	
+噙	kĩm	
+噝	xü	
+噠	àt	3%
+噠	ât	3%
+噠	dät	3%
+噢	ö	3%
+噤	kïm	0%
+噥	nũng	
+噦	vï	0%
+噦	yòt	0%
+器	hï	
+噩	ngōk	
+噪	täo	
+噫	yï	3%
+噬	sâi	
+噯	āi	3%
+噯	ài	3%
+噯	ōi	3%
+噱	kēk	3%
+噱	kūt	3%
+噲	fäi	
+噲	köi	
+噴	pän	3%
+噴	pün	3%
+噶	gōt	3%
+噷	m̃	
+噸	ūn	0%
+噹	öng	
+噻	söi	
+噻	xāk	
+噻	xâk	
+噼	pēik	0%
+嚀	nẽin	
+嚅	yĩ	
+嚆	häo	0%
+嚇	häk	3%
+嚌	däi	
+嚎	hão	
+嚏	chì	0%
+嚓	chät	
+嚕	lāo	
+嚕	lō	
+嚕	lū	
+嚕	lû	
+嚙	ngàt	3%
+嚚	ngãn	
+嚜	māk	3%
+嚜	màk	3%
+嚞	jēt	0%
+嚥	yēik	
+嚥	yën	
+嚦	lèik	0%
+嚨	lũng	
+嚬	pĩn	
+嚭	pī	
+嚮	hëng	0%
+嚯	kök	
+嚳	gūk	0%
+嚴	ngẽm	
+嚶	yëin	
+嚷	ngèng	
+嚼	dēk	3%
+嚼	dël	3%
+嚿	gào	
+囀	jōn	0%
+囁	nēp	3%
+囂	hël	0%
+囅	jīn	3%
+囈	ngài	
+囉	lão	
+囉	lō	
+囉	lõ	
+囊	nõng	
+囊	nông	
+囑	jūk	
+囑	jük	
+囔	nōng	
+囔	nõng	
+囗	gōk	
+囗	vĩ	
+囙	yïn	0%
+囚	tiũ	
+四	xï	3%
+四	xî	3%
+四	xü	3%
+囝	dōi	
+囝	nãm	
+回	või	
+囟	xïn	
+因	yïn	
+囡	nãm	
+囤	tũn	3%
+囤	ūn	3%
+囪	hüng	0%
+囫	fūt	0%
+囮	ngõ	
+囮	ngũ	
+困	kün	
+囱	hüng	0%
+囱	töng	0%
+囲	vĩ	0%
+囷	kün	
+囹	lẽin	
+固	gü	
+囿	yiù	
+圃	pū	0%
+圄	nguî	
+圇	lũn	
+圈	hūn	
+圈	hûn	
+圉	nguî	
+圊	tëin	
+國	gōk	
+圍	vĩ	
+圏	hūn	0%
+園	yõn	
+圓	yõn	
+圓	yôn	
+圖	hũ	
+團	hõn	
+圜	vãn	
+圜	yõn	
+土	hū	
+在	dòi	
+圩	vĩ	0%
+圪	kēik	3%
+圬	vü	
+圭	gï	
+圮	pī	0%
+圯	yĩ	
+地	dì	0%
+地	ì	0%
+圳	jün	0%
+圳	jûn	0%
+圻	kĩ	
+圻	ngãn	
+圼	nēp	0%
+圾	xēip	3%
+址	jī	
+坂	bān	0%
+均	gün	0%
+坊	fōng	3%
+坌	bùn	
+坌	fùn	
+坍	hān	
+坍	hän	
+坎	hām	3%
+坎	häm	3%
+坎	hêim	3%
+坐	dò	
+坐	tö	
+坐	tü	
+坑	häng	
+坑	hâng	
+坡	bö	
+坤	kün	
+坦	hān	
+坨	hõ	
+坨	hũ	
+坩	gäm	3%
+坩	häm	3%
+坪	pẽin	
+坪	pêng	
+坫	ëm	
+坭	nãi	
+坯	pôi	
+坳	âo	0%
+坶	mùk	
+坷	hō	3%
+坻	āi	3%
+坻	chĩ	3%
+坼	chäk	
+垂	suĩ	
+垃	lèip	3%
+垇	âo	
+型	yẽin	
+垌	hũng	3%
+垌	ùng	3%
+垍	kï	
+垓	gäi	
+垓	köi	
+垕	hèo	0%
+垚	ngẽl	
+垚	yẽl	
+垛	ū	0%
+垞	chä	
+垞	jä	
+垟	yẽng	
+垠	ngãn	
+垡	fàt	
+垢	gēo	3%
+垣	fũn	
+垤	èik	
+垧	hēng	
+垮	kä	
+垵	äm	3%
+垵	yēm	3%
+垸	yòn	
+埂	gäng	
+埃	äi	
+埆	kōk	
+埋	mãi	
+埌	lòng	
+城	sẽin	3%
+城	sẽng	3%
+埏	sän	3%
+埏	yẽn	3%
+埒	lòt	0%
+埔	bü	
+埕	chẽin	
+埝	ëm	
+埝	nèm	
+域	vāk	
+域	vèik	
+埠	fèo	3%
+埡	ä	
+埡	vü	
+埤	bï	3%
+埭	òi	
+埯	äm	
+埯	yēm	
+埰	tōi	3%
+埳	hêim	0%
+埴	jèik	
+埵	ū	3%
+執	jāp	
+執	jīp	
+埸	yèik	
+培	põi	3%
+基	gï	
+基	gî	
+埻	jūn	
+埼	kĩ	
+埽	xäo	
+堀	fūt	0%
+堁	fö	
+堂	hõng	
+堄	ngài	0%
+堅	gëin	
+堆	luî	3%
+堆	uï	3%
+堆	uì	3%
+堆	uî	3%
+堇	gīn	
+堊	ōk	
+堋	bèin	3%
+堋	pãng	3%
+堌	gü	
+堍	hü	
+堎	lẽin	0%
+堖	nāo	
+堘	sẽin	0%
+堙	yën	
+堝	vö	0%
+堞	èp	
+堠	hèo	
+堡	bāo	0%
+堤	hãi	
+堪	häm	
+堰	yēn	
+報	bäo	
+場	chẽng	
+堵	ū	3%
+堽	göng	
+塃	föng	
+塄	lẽin	
+塅	òn	
+塊	fäi	
+塋	yẽin	
+塌	hāp	3%
+塍	sẽin	
+塏	hōi	
+塑	sōk	3%
+塑	xü	3%
+塒	sĩ	
+塔	hāp	
+塗	chã	0%
+塗	hũ	0%
+塘	hõng	
+塘	hông	
+塞	ït	
+塞	ît	
+塞	söi	
+塞	xāk	
+塢	äo	
+塢	vü	
+塤	fün	0%
+塥	gāk	
+塨	güng	
+填	hẽin	0%
+塬	ngũn	
+塲	chẽng	
+塵	chĩn	3%
+塹	têm	
+塾	sùk	
+塿	lẽo	
+墀	chĩ	
+墁	màn	
+境	gēin	
+墅	xuî	
+墈	häm	
+墉	yũng	
+墊	dëin	3%
+墒	sëng	
+墓	mù	
+墖	hāp	0%
+墚	lẽng	
+墜	juì	
+增	däng	0%
+墟	huï	
+墟	huî	
+墡	sèn	
+墨	màk	0%
+墨	mâk	0%
+墩	ūn	3%
+墪	ūn	0%
+墮	ò	0%
+墳	fũn	3%
+墶	äp	
+墶	hât	
+墻	tẽng	
+墼	gēik	
+墾	hān	
+壁	bēik	0%
+壅	yüng	3%
+壇	hãn	
+壇	hân	
+壎	fün	0%
+壐	xāi	0%
+壑	kōk	
+壓	āt	
+壕	hão	
+壕	hõ	
+壘	luî	3%
+壙	köng	
+壚	lũ	
+壜	hãn	
+壞	vài	
+壟	lûng	
+壠	lûng	
+壢	lèik	
+壤	ngẽng	0%
+壩	bä	
+士	xù	
+壬	ngĩm	
+壯	jöng	3%
+壵	jòng	0%
+壹	yīt	0%
+壺	vũ	
+壻	xâi	
+壼	kūn	
+壽	siù	
+夂	jī	
+夃	gū	0%
+夃	yẽin	0%
+夅	göng	0%
+夅	hõng	0%
+夆	füng	0%
+夊	xuï	
+夏	hà	3%
+夐	hëin	
+夔	kĩ	
+夕	dèik	
+外	ngài	
+外	ngòi	
+夙	xūk	
+多	ü	
+夜	yèh	
+夜	yêh	
+夠	gëo	
+夢	mùng	3%
+夤	yĩn	
+夥	fō	
+大	ài	0%
+天	hëin	
+天	hèin	
+太	häi	
+夫	fü	
+夫	fũ	
+夭	yēl	3%
+央	yëng	3%
+夯	bùn	
+夯	hāng	
+失	sīt	0%
+夶	bī	0%
+夷	yĩ	
+夸	kä	
+夼	kâng	3%
+夼	köng	3%
+夾	gäp	3%
+夾	gâp	3%
+奀	ngēin	3%
+奄	yēm	
+奇	gï	
+奇	kĩ	
+奈	nòi	
+奉	fùng	
+奎	föi	0%
+奏	dëo	0%
+奐	fòn	
+契	käi	
+契	kãi	
+契	xēik	
+奓	jä	3%
+奔	bïn	0%
+奕	yèik	
+套	häo	
+奘	jöng	0%
+奚	hãi	
+奠	èin	
+奡	ngào	
+奢	chëh	0%
+奧	äo	0%
+奩	lẽm	
+奪	ùt	
+奭	sēik	
+奮	fûn	0%
+女	nuī	3%
+奴	nũ	
+奶	nâi	0%
+奶	nêin	0%
+奸	gän	
+她	hä	0%
+奼	chä	0%
+奼	jä	0%
+好	hāo	
+好	häo	
+妁	sēk	
+如	nguĩ	
+妃	fï	3%
+妄	mông	0%
+妊	ngĩm	3%
+妊	ngìm	3%
+妍	ngẽin	
+妒	ù	
+妓	gì	
+妖	yēl	
+妗	kîm	
+妙	mèl	
+妝	jöng	
+妞	niū	0%
+妣	bī	
+妤	yĩ	
+妥	hô	
+妨	fõng	
+妬	ù	
+妮	nãi	
+妯	jùk	3%
+妲	hān	
+妹	mōi	3%
+妹	mõi	3%
+妹	môi	3%
+妺	mòt	
+妻	häi	
+妾	tēp	
+妿	ö	0%
+姆	mû	
+姉	dī	
+姊	dī	0%
+始	chī	
+姍	sän	3%
+姐	dēh	
+姑	gü	
+姒	xû	
+姓	xëin	0%
+委	vī	
+姘	pëin	
+姙	ngĩm	
+姙	ngìm	
+姚	yẽl	
+姜	gëng	
+姝	jï	
+姣	gāo	
+姥	lāo	
+姥	mû	
+姦	gän	
+姨	yĩ	3%
+姨	yî	3%
+姪	jìt	
+姬	kï	
+姮	hãng	
+姱	kä	
+姻	yïn	
+姿	dü	
+娀	xüng	
+威	vï	
+娃	vā	
+娉	pëin	3%
+娌	lì	
+娑	sö	
+娑	sü	
+娓	mī	
+娖	dùk	3%
+娘	nẽng	
+娛	nguĩ	
+娜	nã	3%
+娜	nõ	3%
+娟	gün	
+娠	sĩn	
+娣	hâi	0%
+娤	jöng	0%
+娥	ngõ	
+娩	mân	3%
+娩	mêin	3%
+娬	mû	
+娭	äi	0%
+娭	hï	0%
+娶	tuī	3%
+娶	tuï	3%
+娼	chëng	
+娿	ö	
+婀	ö	
+婁	lẽo	3%
+婆	põ	
+婆	pũ	
+婆	pû	
+婉	vōn	0%
+婊	bēl	
+婕	dèp	3%
+婚	fün	
+婞	hàng	
+婢	pî	
+婣	yïn	
+婦	fû	
+婧	dèin	
+婪	lãm	
+婪	lẽim	
+婭	ä	
+婷	hẽin	
+婺	mù	
+婼	ngèk	0%
+婾	hëo	0%
+婾	yĩ	0%
+婿	xâi	
+媒	mõi	
+媕	äm	
+媚	mĩ	0%
+媚	mì	0%
+媛	yõn	3%
+媟	xēik	
+媧	vö	0%
+媮	hëo	0%
+媮	yĩ	0%
+媯	gï	0%
+媲	bī	3%
+媲	bï	3%
+媳	xēik	
+媴	yõn	
+媵	yèin	0%
+媸	chï	
+媻	põ	
+媻	põn	
+媼	äo	
+媼	ëo	
+媽	mā	3%
+媽	mã	3%
+媾	këo	0%
+媿	kï	0%
+嫁	gä	
+嫂	xāo	
+嫄	ngũn	
+嫉	dìp	0%
+嫌	yẽm	
+嫏	lõng	
+嫖	pẽl	3%
+嫗	ëo	0%
+嫗	yī	0%
+嫘	luĩ	
+嫜	jëng	
+嫠	lĩ	
+嫡	ēik	
+嫣	yën	
+嫦	sẽng	
+嫩	nùn	
+嫫	mõ	
+嫫	mũ	
+嫵	mû	
+嫻	hãn	0%
+嬀	gï	
+嬈	ngẽl	3%
+嬈	ngêl	3%
+嬉	hï	3%
+嬋	sẽm	0%
+嬌	gël	
+嬖	pĩ	0%
+嬗	sèn	
+嬙	tẽng	
+嬛	vãn	
+嬡	öi	
+嬤	mā	0%
+嬤	mō	0%
+嬪	bïn	3%
+嬰	yëin	
+嬲	nêl	0%
+嬲	niü	0%
+嬴	yẽin	
+嬸	sīm	
+嬾	län	0%
+孀	söng	
+孃	nẽng	
+孌	lũn	
+子	dū	3%
+孑	kēik	0%
+孓	kūt	
+孔	kūng	
+孕	yìn	
+孖	mä	
+字	dù	
+存	tũn	
+孚	fũ	
+孛	böi	3%
+孛	bòt	3%
+孜	dü	
+孝	häo	
+孟	màng	
+孢	bäo	
+季	gï	
+孤	gü	
+孥	nũ	
+孨	jōn	0%
+孩	hãi	3%
+孫	xün	3%
+孬	yãi	3%
+孭	bêh	
+孭	mêh	
+孰	sùk	
+孱	sãn	0%
+孳	dü	
+孵	bào	
+孵	bù	
+孵	fũ	
+孶	dü	0%
+學	hòk	
+孺	yĩ	0%
+孻	lāi	
+孼	ngēik	
+孽	ngēik	
+孿	lũn	0%
+宀	mẽin	
+宁	chuî	0%
+它	hä	0%
+宄	gī	
+宅	jàk	3%
+宇	yî	
+守	siū	
+安	ön	
+宋	xüng	
+完	yõn	
+宏	fãng	
+宓	fùk	
+宓	mìt	
+宕	òng	
+宗	düng	
+官	gön	
+宙	jào	
+定	èin	3%
+定	èng	3%
+宛	vōn	0%
+宛	yön	0%
+宜	ngĩ	
+実	sìt	0%
+客	hāk	
+客	häk	
+宣	xün	
+室	sīt	
+宥	yiù	
+宦	vàn	
+宧	yĩ	
+宬	sẽin	
+宮	güng	
+宰	dōi	
+害	hòi	0%
+宴	yën	
+宵	xël	
+家	gä	3%
+家	gâ	3%
+宸	sĩn	
+容	yũng	
+宼	këo	0%
+宿	xiü	
+宿	xūk	
+寀	tōi	0%
+寂	dèik	
+寄	gï	
+寅	yĩn	
+密	mìt	
+寇	këo	
+富	fü	
+寐	mì	
+寑	tīm	0%
+寒	hõn	
+寓	nguì	
+寔	sìt	0%
+寕	nẽin	0%
+寛	fön	0%
+寞	mōk	
+察	chāt	
+寡	gā	
+寢	tīm	
+寤	m̀	
+寥	lẽl	
+實	sìt	
+寧	nẽin	0%
+寨	jài	
+審	sīm	
+寫	xēh	
+寬	fön	
+寮	lẽl	
+寰	vãn	
+寳	bāo	0%
+寵	chüng	
+寶	bāo	
+寸	tün	
+寺	dù	
+封	füng	
+射	sèh	0%
+將	dëng	3%
+專	jön	
+尉	vï	3%
+尉	vūt	3%
+尊	dün	
+尋	tĩm	
+尋	tîm	
+對	uï	
+對	uî	
+導	ào	
+小	xēl	
+少	sēl	
+少	sël	
+尕	gâ	
+尖	dëm	
+尖	dêm	
+尙	sèng	0%
+尚	sèng	
+尛	mō	0%
+尜	gä	
+尢	vōng	0%
+尢	yiũ	0%
+尣	vōng	0%
+尤	yiũ	
+尥	lẽl	
+尩	vōng	0%
+尪	vōng	
+尫	vōng	0%
+尬	gäi	
+就	diù	
+就	jèl	
+尲	gäm	
+尵	huĩ	0%
+尶	gäm	0%
+尷	gäm	
+尸	sï	
+尹	vûn	
+尺	chēh	
+尺	chēik	
+尺	chëk	
+尺	chêk	
+尻	häo	0%
+尻	käo	0%
+尼	nāi	
+尼	nãi	
+尾	mī	
+尿	nèl	3%
+局	gùk	
+屁	pï	
+居	guï	3%
+屆	gäi	
+屈	kūt	3%
+屈	vūt	3%
+屋	ūk	
+屍	sï	
+屎	sī	0%
+屏	bēin	3%
+屏	bèin	3%
+屏	bëng	3%
+屏	pẽin	3%
+屐	kêk	
+屑	xēik	
+屓	hï	0%
+展	jīn	
+屙	ü	
+屜	häi	
+屠	hũ	
+屢	luî	
+屣	xāi	
+層	tãng	
+履	lî	
+屨	guï	
+屩	gëk	
+屫	gëk	0%
+屬	jūk	3%
+屬	sùk	3%
+屭	hï	
+屮	chēik	
+屮	tāo	
+屯	hũn	3%
+屯	hûn	3%
+屯	jün	3%
+屯	tûn	3%
+屯	ūn	3%
+山	sän	
+屲	vä	0%
+屹	kēik	3%
+屹	ngàt	3%
+屺	gī	
+岅	bān	0%
+岈	ngã	3%
+岌	kīp	3%
+岍	hëin	
+岐	kĩ	
+岑	sẽim	
+岔	châ	
+岜	bä	
+岞	jäk	
+岡	göng	
+岡	gông	
+岢	hō	
+岣	gēo	
+岣	guï	
+岤	yòt	
+岧	hẽl	
+岩	ngãm	
+岫	diù	
+岬	gāp	
+岱	òi	
+岳	ngòk	
+岵	gü	
+岷	mĩn	
+岸	ngòn	
+峁	mêo	
+峂	üng	
+峇	bā	
+峇	hàp	
+峋	xün	
+峐	köi	
+峒	hũng	
+峒	ùng	
+峙	chî	0%
+峙	sì	0%
+峧	gäo	
+峨	ngõ	
+峨	ngũ	
+峩	ngõ	
+峪	yì	
+峪	yùk	
+峬	bù	
+峭	tël	
+峭	xël	
+峯	füng	
+峰	füng	0%
+峱	ngẽl	0%
+峴	hēin	
+峴	yèn	
+島	āo	
+峻	dün	
+峽	hèp	0%
+崀	lông	3%
+崁	häm	
+崆	hüng	
+崇	sũng	
+崍	lõi	
+崎	kĩ	
+崐	kün	
+崑	kün	
+崔	tuï	3%
+崖	ngãi	
+崗	göng	
+崗	gông	
+崘	lũn	
+崙	lũn	
+崚	lẽin	
+崛	gùt	
+崞	kōk	
+崟	ngĩm	
+崠	üng	
+崠	ùng	
+崢	jäng	3%
+崤	ngão	
+崦	yēm	
+崧	xūng	
+崩	bāng	
+崩	bäng	
+崩	büng	
+崬	üng	
+崮	gü	
+崴	vï	3%
+崽	dōi	0%
+崾	yël	0%
+嵇	käi	0%
+嵊	sèin	
+嵋	mĩ	
+嵌	hàm	0%
+嵎	nguî	
+嵐	lãm	
+嵒	ngãm	
+嵓	ngãm	0%
+嵖	chã	
+嵛	yĩ	
+嵠	käi	0%
+嵩	xūng	
+嵫	dü	
+嵬	ngãi	
+嵬	nguĩ	
+嵯	tö	0%
+嵯	tü	0%
+嵴	dëk	0%
+嶁	lẽo	
+嶂	jëng	
+嶄	jām	3%
+嶅	ngào	
+嶇	kuï	
+嶍	dìp	
+嶒	däng	
+嶓	bö	
+嶔	hïm	
+嶗	lão	
+嶙	lĩn	
+嶝	äng	
+嶠	gèl	0%
+嶠	kẽl	0%
+嶢	ngẽl	
+嶧	yèik	
+嶨	bòk	
+嶲	xäi	0%
+嶴	äo	
+嶷	ngĩ	3%
+嶸	vẽin	0%
+嶺	lêin	3%
+嶺	lêng	3%
+嶼	duì	3%
+嶼	yĩ	3%
+嶽	ngòk	
+巂	kï	0%
+巂	xäi	0%
+巉	tãm	
+巋	gï	0%
+巍	ngãi	
+巍	nguĩ	
+巒	lũn	
+巔	ëin	
+巖	ngãm	0%
+巗	ngãm	0%
+巙	kï	0%
+巙	não	0%
+巛	chün	
+川	chün	
+州	jiü	
+巡	tũn	
+巢	chão	0%
+巤	lèp	0%
+工	güng	
+左	dū	
+巧	kāo	0%
+巧	kâo	0%
+巨	guì	
+巫	mũ	
+差	chä	0%
+差	chäi	0%
+差	chï	0%
+巰	kiũ	
+己	gī	
+已	yî	
+巳	dù	
+巴	bā	
+巴	bä	
+巷	hōng	
+巷	hòng	
+巽	xün	
+巾	gïn	
+帀	jāp	0%
+市	sî	
+布	bü	
+帆	fãn	0%
+希	hï	
+帑	hōng	
+帑	nũ	
+帒	òi	0%
+帓	màt	0%
+帓	mòt	0%
+帔	pī	
+帕	päk	3%
+帖	hēp	
+帖	hëp	
+帘	lẽm	
+帙	èik	
+帚	jāo	3%
+帛	bàk	
+帝	äi	
+帡	pẽin	
+帥	suï	
+師	xü	
+帬	kũn	
+席	dèik	3%
+席	dèk	3%
+帰	gï	0%
+帳	jëng	
+帵	vōn	
+帶	äi	
+帶	âi	
+帷	vĩ	
+常	sẽng	
+帽	mào	
+幀	jëin	
+幃	vĩ	
+幄	āk	
+幅	fūk	
+幈	pẽin	
+幌	fōng	
+幔	màn	
+幕	mōk	
+幗	gōk	
+幘	jāk	3%
+幛	jëng	
+幞	fùk	
+幟	chï	
+幡	fän	
+幡	fân	
+幢	chõng	
+幢	jòng	
+幢	ùng	
+幣	bài	
+幪	mũng	3%
+幫	böng	
+幬	ào	0%
+幬	chiũ	0%
+幮	chuĩ	0%
+干	gön	0%
+平	pẽin	3%
+平	pẽng	3%
+年	nẽin	
+并	bëin	3%
+幸	hàng	
+幹	gön	3%
+幺	yël	
+幻	vân	
+幼	yiü	
+幽	yiü	
+幾	gī	
+幾	gï	
+广	äm	3%
+庀	bī	
+庇	bï	
+床	chõng	0%
+庋	gī	
+序	duì	
+底	āi	0%
+底	dāi	0%
+庖	pão	
+店	ëm	
+庚	gäng	
+府	fū	
+庠	tẽng	
+庥	hiü	
+度	òk	
+度	ù	
+座	dò	3%
+庫	fü	0%
+庭	hẽin	3%
+庯	bù	
+庳	bï	3%
+庵	äm	
+庶	sï	
+康	höng	
+庸	yũng	
+庹	hōk	
+庻	sï	0%
+庽	nguì	
+庾	yĩ	
+廁	xü	3%
+廂	xëng	
+廄	gëo	
+廄	giü	
+廈	hà	
+廉	lẽm	
+廊	lõng	
+廋	xēo	
+廌	jì	0%
+廎	kēin	
+廑	gīn	0%
+廑	kĩn	0%
+廒	ngão	
+廓	kök	
+廖	lèl	
+廚	chuĩ	0%
+廛	chẽn	
+廝	xü	
+廟	mèl	3%
+廠	chōng	
+廡	mû	
+廢	fī	
+廣	gōng	
+廧	tẽng	
+廨	hài	
+廩	lîm	
+廬	lũ	
+廳	hëng	0%
+廴	yẽn	
+廴	yîn	
+廵	tũn	
+延	yẽn	
+廷	hẽin	
+廹	bēik	
+建	gèin	
+廼	nâi	0%
+廾	gūng	0%
+廿	ngìp	0%
+弁	bèin	
+弄	lùng	0%
+弇	yēm	
+弈	yèik	
+弊	bài	
+弋	yèik	
+弌	yīt	
+弍	ngì	
+弎	xäm	
+式	sēik	
+弒	sï	
+弓	güng	
+弔	ël	0%
+引	yīn	
+引	yîn	
+弗	fūt	
+弘	fãng	
+弛	chĩ	3%
+弟	ài	3%
+弟	hâi	3%
+弢	häo	
+弦	yẽn	0%
+弧	vũ	
+弩	nū	
+弭	mî	
+弭	nì	
+弱	ngèk	
+弳	gèin	
+張	jëng	
+弶	gëng	3%
+強	gèng	0%
+強	kẽng	0%
+強	kêng	0%
+弼	bìt	
+彀	gëo	
+彈	àn	
+彈	dàn	
+彈	hãn	
+彊	gèng	0%
+彊	kẽng	0%
+彊	kêng	0%
+彌	mĩ	
+彎	vän	
+彐	gäi	
+彔	lùk	0%
+彖	hõn	
+彖	hòn	
+彗	fì	3%
+彘	jï	
+彙	vòi	
+彞	yĩ	0%
+彠	vòk	
+彡	sâm	
+形	yẽin	
+彤	hüng	
+彤	hũng	
+彥	ngèin	
+彧	yūk	
+彩	tōi	
+彪	bël	
+彫	ël	
+彬	bïn	
+彭	pãng	0%
+彰	jëng	
+影	yēin	0%
+影	yēng	0%
+彳	chēik	
+彷	fōng	
+彷	põng	
+役	vèik	
+役	yèik	
+彼	bī	
+往	vông	
+征	jëin	
+徂	tũ	
+徃	vông	
+待	òi	0%
+徇	xün	3%
+很	hān	
+徉	yẽng	
+徊	või	
+律	lùt	
+後	hëo	
+後	hèo	
+徐	tuĩ	
+徑	gèin	
+徒	hũ	
+得	āk	
+得	äk	
+得	däk	
+徘	pãi	
+徙	xāi	
+徛	gì	3%
+徜	sẽng	
+從	tũng	0%
+從	xüng	0%
+徠	lõi	
+御	nguì	
+徦	gā	0%
+徦	hã	0%
+徧	pëin	
+徨	võng	
+復	fūk	
+復	fùk	
+循	tũn	
+徬	põng	3%
+徭	yẽl	
+微	mĩ	
+徯	käi	0%
+徴	jëin	0%
+徴	jī	0%
+徵	jëin	0%
+徵	jī	0%
+德	āk	
+徹	chēik	
+徼	gël	3%
+徼	hēl	3%
+徼	yël	3%
+徽	fï	
+心	xïm	
+心	xîm	
+必	bēik	
+忉	äo	3%
+忌	gì	
+忍	ngïn	
+忍	ngîn	
+忐	hām	
+忐	hān	
+忑	tēik	
+忒	tēik	
+忕	häi	
+忕	sì	
+忖	chūn	
+志	jï	
+忘	mõng	0%
+忙	mõng	
+忝	hēm	0%
+忝	hèm	0%
+忠	jüng	
+忡	chüng	
+忤	m̀	0%
+忤	m̂	0%
+忪	jüng	
+忪	xüng	
+快	fäi	
+忭	bèin	
+忮	gì	0%
+忮	jï	0%
+忱	sẽim	
+念	nèm	
+忸	niū	3%
+忸	nük	3%
+忻	hïm	
+忽	fūt	
+忽	fût	
+忿	fûn	3%
+怊	chël	0%
+怍	dò	
+怍	dòk	
+怎	dīm	0%
+怏	yëng	
+怒	niü	
+怒	nù	
+怔	jëin	
+怕	pä	
+怖	bü	
+怙	fù	
+怙	gü	
+怛	hān	
+思	xü	
+怠	òi	
+怡	yĩ	
+急	gīp	
+怦	pẽin	0%
+性	xëin	
+怨	yön	
+怩	nãi	
+怪	gäi	
+怫	fï	0%
+怫	fūt	0%
+怫	fùt	0%
+怯	hēp	
+怯	hèp	
+怱	tüng	
+怳	fōng	
+怵	chūk	0%
+怵	jōt	0%
+怹	hä	
+恁	nêin	0%
+恂	xün	
+恃	sî	0%
+恆	hãng	3%
+恍	fōng	
+恐	hūng	
+恓	xäi	
+恕	sï	
+恙	yèng	
+恚	fì	0%
+恝	āt	3%
+恠	gäi	0%
+恡	lùn	
+恢	föi	
+恣	xü	0%
+恤	sōt	
+恤	xūt	
+恥	chī	
+恧	nūk	
+恨	hàn	
+恩	yïn	
+恪	kōk	
+恪	lōk	
+恫	hüng	
+恫	ùng	
+恬	hèm	0%
+恬	hêm	0%
+恭	güng	
+息	hēik	3%
+息	xēik	3%
+恰	hāp	
+恿	yūng	0%
+悃	gūn	
+悃	kūn	
+悄	tēl	0%
+悅	yòt	
+悉	xēik	
+悌	ài	0%
+悍	hòn	
+悒	yīp	
+悔	fōi	
+悖	böi	0%
+悖	bòt	0%
+悚	xūng	
+悛	dün	0%
+悛	xũn	0%
+悝	föi	
+悝	lî	
+悟	m̀	
+悠	yiũ	
+患	vàn	
+悤	tüng	
+您	nî	5%
+悱	fī	
+悲	bï	
+悴	xuì	3%
+悵	chēng	
+悶	mòn	
+悷	lãi	0%
+悸	gï	0%
+悻	hàng	0%
+悼	ào	
+情	tẽin	
+惆	chiũ	
+惇	ùn	
+惋	vōn	3%
+惎	gì	0%
+惏	lĩm	0%
+惐	vàk	0%
+惑	vàk	
+惓	kũn	3%
+惕	tēik	
+惘	mông	
+惙	jōt	
+惚	fūt	
+惛	fün	0%
+惜	xēik	
+惜	xëk	
+惝	chōng	
+惝	hōng	
+惟	vĩ	
+惠	fì	
+惡	ōk	3%
+惡	ök	3%
+惡	vü	3%
+惢	luî	
+惥	yūng	
+惦	ëm	
+惰	ò	
+惱	nâo	
+惲	vùn	0%
+想	xēng	
+惴	juì	0%
+惶	võng	
+惸	kẽin	
+惹	ngēh	
+惹	ngêh	
+惺	xëin	0%
+惻	chāk	
+愀	tēl	0%
+愁	sẽo	
+愆	hëin	
+愈	yì	
+愉	yĩ	0%
+愊	bēik	
+愍	mûn	
+愎	bēik	0%
+意	yï	
+愒	käi	0%
+愔	yïm	
+愕	ngōk	
+愖	sẽim	0%
+愙	kōk	
+愚	nguĩ	
+愛	öi	
+愜	hèp	
+感	gām	
+愣	lẽin	3%
+愧	kï	0%
+愨	kōk	
+愫	xü	
+愬	sōk	
+愬	xü	
+愯	xūng	
+愴	töng	0%
+愷	hōi	
+愼	sìn	0%
+愾	köi	3%
+慂	yūng	
+慄	lùt	
+慄	nùt	
+慈	xũ	
+慊	hèp	0%
+慊	hïm	0%
+態	häi	
+慌	föng	3%
+慍	vün	0%
+慎	sìn	
+慕	mù	
+慘	tām	
+慚	tãm	
+慝	tēik	3%
+慟	ùng	
+慢	màn	
+慣	gän	
+慤	kōk	
+慥	dào	
+慧	fì	3%
+慨	köi	0%
+慪	ëo	3%
+慫	tūng	
+慫	xūng	
+慮	luì	3%
+慰	vï	
+慳	hän	
+慵	yũng	
+慶	hëin	0%
+慷	kōng	3%
+慼	tēik	
+慽	tēik	0%
+慾	yùk	
+憂	yiü	
+憇	hï	
+憊	bài	
+憋	bèik	
+憎	däng	
+憐	lĩn	
+憑	bàng	0%
+憑	pãng	0%
+憒	gì	0%
+憓	fì	
+憔	tẽl	
+憖	gīn	0%
+憚	àn	
+憝	juì	3%
+憤	fûn	
+憧	chüng	0%
+憨	häm	
+憩	hï	
+憫	mêin	
+憫	mûn	
+憬	gēin	
+憮	mû	
+憲	hëin	
+憶	yēik	
+憷	chō	
+憾	hàm	
+懂	dūng	
+懂	ūng	
+懇	hān	
+懈	hâi	0%
+應	yëin	
+懊	äo	
+懋	mào	
+懌	yèik	
+懍	lîm	
+懜	mūng	
+懟	juì	
+懣	mòn	0%
+懦	nù	
+懨	yëm	
+懲	chẽin	
+懵	mūng	3%
+懶	län	
+懷	vãi	
+懸	yõn	
+懺	tëm	0%
+懼	guì	0%
+懾	nēp	
+懿	yì	
+戀	lūn	
+戇	jöng	
+戇	ngòng	
+戈	fö	
+戊	mù	
+戌	xūt	
+戍	sï	
+戎	yõng	
+成	sẽin	3%
+成	sẽng	3%
+我	ngô	
+我	ngöi	
+戒	gäi	
+戔	dëin	3%
+戕	tẽng	
+或	vàk	
+戚	tēik	3%
+戛	āt	0%
+戞	āt	0%
+戟	gēik	
+戡	häm	0%
+戡	jäm	0%
+戢	tīp	0%
+戤	köi	
+戥	āng	0%
+戧	tëng	
+戩	dēin	
+截	dèik	
+戮	lùk	
+戰	jën	
+戲	fü	0%
+戲	hï	0%
+戳	chök	0%
+戳	chôk	0%
+戴	äi	
+戶	fù	
+戸	fù	0%
+戽	fü	
+戾	luì	3%
+房	fông	3%
+房	põng	3%
+所	sō	
+扁	bēin	
+扁	pëin	
+扃	gēin	0%
+扆	yï	
+扇	sën	
+扈	fù	
+扉	fï	
+手	siū	
+扌	siū	0%
+才	tõi	
+扎	jāt	0%
+扎	jät	0%
+扎	jât	0%
+扒	bä	3%
+扒	pã	3%
+打	ā	5%
+打	dā	5%
+扔	sào	
+扔	vèin	
+扗	dòi	0%
+托	hōk	
+托	hök	
+扛	göng	3%
+扛	köng	3%
+扞	hòn	0%
+扠	châ	0%
+扣	këo	
+扦	tëin	3%
+扭	niū	0%
+扮	bàn	3%
+扯	chēh	
+扱	chäp	3%
+扱	hï	3%
+扱	kēip	3%
+扱	kīp	3%
+扳	bān	3%
+扳	bän	3%
+扳	pän	3%
+扶	fũ	0%
+扶	fû	0%
+批	päi	
+扺	jī	
+扻	hēim	0%
+扼	āk	0%
+扼	äk	0%
+扽	dùn	3%
+扽	ùn	3%
+找	jāo	
+承	sẽin	0%
+技	gì	
+抃	bèin	
+抄	chäo	
+抆	mũn	
+抈	ngùt	
+抉	kūt	
+把	bā	3%
+抋	sëim	0%
+抌	yēl	
+抑	ngēik	
+抒	sï	
+抓	jä	0%
+抓	jāo	0%
+抔	põi	
+投	hẽo	
+抖	ēo	
+抗	köng	
+折	jëp	3%
+折	jēt	3%
+折	jët	3%
+折	sèt	3%
+抝	āo	
+抨	pẽin	0%
+披	pï	
+抬	hõi	0%
+抯	jä	
+抱	päo	0%
+抵	āi	3%
+抹	möt	0%
+抻	sïn	
+押	ät	3%
+抽	chëo	
+抿	mêin	0%
+抿	mīn	0%
+拂	bìt	3%
+拂	fūt	3%
+拃	jä	
+拃	nã	
+拄	jī	
+拆	chäk	
+拇	mû	
+拈	nëm	0%
+拉	lā	3%
+拉	läi	3%
+拉	làt	3%
+拊	fū	
+拋	päo	
+拌	bòn	3%
+拍	päk	
+拎	nēin	0%
+拏	nã	
+拐	gāi	
+拑	kẽm	
+拒	kuî	
+拓	hāp	0%
+拓	hōk	0%
+拔	bàt	
+拖	hü	
+拗	āo	3%
+拗	äo	3%
+拘	guï	
+拘	kuï	
+拙	jōt	0%
+拚	pëin	3%
+拚	pön	3%
+招	jël	
+拜	bāi	0%
+拜	bäi	0%
+括	gāt	
+拭	sēik	
+拮	gēik	3%
+拮	gït	3%
+拯	chēin	
+拯	jēin	
+拱	gūng	
+拳	kũn	
+拴	sän	3%
+拴	ūn	3%
+拴	xùn	3%
+拶	jät	
+拷	hāo	
+拼	pëin	5%
+拼	pön	5%
+拽	yài	
+拾	sèp	3%
+拾	sìp	3%
+拿	nã	
+持	chĩ	
+指	jī	
+挈	gēik	3%
+挈	kēik	3%
+挈	ngēik	3%
+按	nük	
+按	ön	
+挎	kä	3%
+挑	häo	0%
+挑	hël	0%
+挓	jä	
+挕	èp	
+挖	vät	5%
+挨	äi	3%
+挨	ngãi	3%
+挪	nõ	
+挫	tö	
+振	jīn	3%
+挱	sâ	
+挱	sö	
+挲	sä	
+挲	sâ	
+挲	sö	
+挹	yīp	
+挺	hêin	0%
+挼	nõ	
+挼	nũ	
+挽	vân	
+挾	hèp	3%
+捂	m̀	0%
+捃	gùn	3%
+捃	kūn	3%
+捄	giü	3%
+捅	hūng	
+捆	kūn	
+捉	jök	3%
+捋	löt	0%
+捋	lòt	0%
+捋	lôt	0%
+捋	lüt	0%
+捌	bät	
+捍	hòn	0%
+捎	säo	3%
+捏	nëik	
+捏	nêik	
+捏	nēp	
+捏	nīt	
+捐	gün	
+捕	bù	
+捧	būng	0%
+捧	pūng	0%
+捨	sēh	
+捩	lài	3%
+捩	lèik	3%
+捩	luî	3%
+捫	mõn	0%
+捭	bāi	
+捯	āo	3%
+捱	ngãi	
+捲	kūn	
+捶	chuĩ	
+捷	dèp	3%
+捺	nät	
+捺	nât	
+捻	nëm	3%
+捻	nêm	3%
+捽	dūt	0%
+掀	hëin	0%
+掀	hïm	0%
+掂	ëm	5%
+掂	èm	5%
+掃	xäo	3%
+掃	xâo	3%
+掄	lũn	
+掆	göng	
+掇	jōt	
+授	siù	
+掉	èl	0%
+掊	pāo	0%
+掊	pão	0%
+掊	põi	0%
+掌	jēng	
+掎	gī	
+掏	hão	0%
+掐	nëik	
+排	pãi	3%
+掔	hëin	0%
+掖	ngãp	3%
+掖	yìt	3%
+掗	ä	3%
+掘	gùt	3%
+掙	jäng	0%
+掙	jàng	0%
+掛	kä	0%
+掞	sèn	
+掟	èin	0%
+掟	ëng	0%
+掠	lèk	
+採	tōi	
+探	häm	3%
+掣	chēik	
+掣	jäi	
+接	dēp	
+接	dëp	
+控	hüng	
+推	tuï	
+掩	yēm	
+措	tü	
+掬	gūk	
+掭	hèm	0%
+掭	hêm	0%
+掮	kẽin	
+掯	hāng	
+掰	mëik	0%
+掱	pã	
+掹	māng	
+掹	mäng	
+掽	püng	
+掾	yòn	
+揀	gān	
+揃	dēin	
+揄	yĩ	3%
+揆	kĩ	
+揉	ngẽl	0%
+揌	söi	
+揌	tï	
+揌	xāk	
+揍	dëo	0%
+揎	xün	
+描	mẽl	
+提	hãi	3%
+揑	nēp	
+插	chäp	
+揖	tīp	3%
+揖	yīp	3%
+揘	vãng	
+揚	yẽng	
+換	vòn	
+揞	ām	
+揠	āt	
+握	āk	3%
+握	äk	3%
+揢	hāk	
+揣	chūn	
+揩	gäi	
+揩	käi	
+揪	tiü	
+揭	këik	3%
+揮	fï	
+揲	èp	3%
+揲	sêt	3%
+揳	xëp	0%
+援	yõn	0%
+揶	yẽh	
+揸	jä	
+揹	böi	
+搉	kōk	5%
+搋	chäi	0%
+搌	jīn	
+損	xūn	
+搏	bōk	
+搐	chūk	3%
+搒	bòng	3%
+搒	pãng	3%
+搓	tö	
+搓	tü	
+搔	xäo	
+搕	äp	0%
+搖	yẽl	
+搗	āo	
+搛	gäp	3%
+搛	gëm	3%
+搜	xēo	5%
+搞	gāo	
+搠	sōk	
+搡	xông	
+搢	dün	
+搣	mëik	3%
+搦	nèik	0%
+搧	sën	
+搪	hõng	
+搬	bön	
+搭	äp	3%
+搲	vā	
+搳	hàt	3%
+搴	hëin	0%
+搵	bōi	0%
+搵	vūn	0%
+搶	tēng	3%
+搽	chã	
+搿	gäp	0%
+摀	m̀	0%
+摁	ön	0%
+摑	gäk	0%
+摑	gōk	0%
+摒	bëin	0%
+摒	pẽin	0%
+摔	xūt	0%
+摘	jàk	
+摜	gän	
+摞	lõ	3%
+摟	lẽo	3%
+摡	köi	
+摣	jä	
+摧	tuï	0%
+摩	mā	3%
+摩	mö	3%
+摭	jēik	
+摯	jï	
+摳	këo	
+摴	sï	
+摶	hõn	
+摸	mō	3%
+摸	mōk	3%
+摸	mū	3%
+摹	mō	
+摹	mũ	
+摺	jëp	0%
+摻	sām	3%
+摻	täm	3%
+摻	tïm	3%
+摽	pël	3%
+摽	pẽl	3%
+撂	lèk	3%
+撅	kūt	0%
+撇	pēt	
+撇	pët	
+撇	pêt	
+撈	läo	3%
+撈	lão	3%
+撈	lëo	3%
+撈	lẽo	3%
+撏	tẽm	3%
+撐	chäng	0%
+撐	jàng	0%
+撒	xāt	
+撒	xät	
+撓	nào	0%
+撓	nẽo	0%
+撕	xü	3%
+撖	häm	3%
+撖	hòn	3%
+撙	dün	
+撚	nān	6%
+撚	nëm	6%
+撝	fï	
+撞	jòng	0%
+撟	gēl	0%
+撢	häm	0%
+撣	àn	
+撣	sèn	
+撤	chēik	
+撥	bòt	3%
+撥	fāk	3%
+撦	chēh	
+撩	lēl	6%
+撩	lẽl	6%
+撫	fū	
+撬	gèl	0%
+播	bö	
+撮	tōt	3%
+撰	jàn	0%
+撲	pōk	3%
+撳	gìm	
+撴	ùn	0%
+撻	ät	5%
+撻	hāt	5%
+撻	tāt	5%
+撼	hàm	
+撾	jä	0%
+撾	vö	0%
+撿	gēm	
+擀	gōn	
+擀	gön	
+擁	yūng	3%
+擂	luĩ	
+擄	lû	
+擅	sèn	
+擇	jàk	
+擊	gēik	
+擋	dōng	
+擋	ōng	
+操	täo	
+擎	kẽin	
+擎	kẽng	
+擐	vãn	0%
+擒	kĩm	
+擔	äm	
+擖	āt	0%
+擖	gät	0%
+擖	làp	0%
+擗	pēik	0%
+擘	mäk	3%
+據	guï	
+擠	jäi	
+擡	hõi	
+擢	jòk	
+擤	xïn	
+擦	chāk	
+擦	chät	
+擦	tüt	
+擩	yĩ	3%
+擬	ngì	0%
+擯	bïn	
+擰	nèin	0%
+擱	gōk	
+擱	gök	
+擲	jàk	
+擴	kōk	3%
+擴	köng	3%
+擷	kēik	
+擸	läp	3%
+擺	bāi	
+擻	xēo	3%
+擼	lü	
+擾	ngêl	
+攀	pän	
+攄	sï	
+攆	lêin	
+攉	kök	0%
+攏	lūng	0%
+攔	lãn	
+攖	yëin	
+攘	ngẽng	3%
+攙	täm	
+攛	tön	0%
+攜	kĩ	
+攝	nēp	3%
+攢	chün	3%
+攢	dān	3%
+攣	lün	0%
+攤	hān	
+攥	dōn	0%
+攨	vā	0%
+攪	gāo	
+攫	kōk	0%
+攬	lām	0%
+攬	làm	0%
+攮	nōng	
+支	jï	
+攰	gëo	
+攲	kĩ	
+攴	pōk	
+攵	pōk	0%
+收	siü	
+攸	yiũ	
+改	gōi	
+攻	güng	
+攽	bän	0%
+攽	bïn	0%
+放	föng	3%
+政	jëin	
+敁	ëm	0%
+故	gü	
+效	hào	
+敉	mài	
+敉	mì	
+敉	nì	
+敏	mêin	
+救	giü	
+敕	chēik	
+敖	ngão	3%
+敖	ngào	3%
+敗	bài	
+敘	duì	
+教	gäo	3%
+敝	bài	
+敞	chōng	
+敠	jōt	
+敢	gām	
+散	xān	
+散	xän	
+敦	èl	3%
+敦	uï	3%
+敦	ün	3%
+敦	ùn	3%
+敧	gï	
+敧	kĩ	
+敧	yî	
+敪	jōt	
+敫	gēl	
+敫	gël	
+敬	gëin	
+敲	hāo	
+敲	këo	
+整	jēin	
+敵	èik	
+敶	chĩn	0%
+敷	fù	
+數	sōk	3%
+數	sū	3%
+數	sü	3%
+敻	hëin	
+斁	ù	
+斁	yèik	
+斂	lêm	
+斃	bài	
+文	mũn	5%
+文	mùn	5%
+斌	bïn	
+斐	fī	
+斑	bän	
+斕	lãn	
+斗	ēo	0%
+料	lèl	0%
+斚	gā	0%
+斛	fùk	0%
+斛	hùk	0%
+斜	tẽh	3%
+斝	gā	
+斟	jïm	
+斠	gäo	3%
+斠	gōk	3%
+斡	vät	3%
+斤	gïn	0%
+斥	chēik	
+斧	bū	
+斧	fū	
+斫	dēk	
+斫	ēk	
+斬	jām	
+斮	ēk	3%
+斯	xü	
+新	xïn	
+斲	ēk	0%
+斵	ēk	0%
+斷	hön	
+斷	òn	
+方	föng	
+於	vü	3%
+於	yī	3%
+於	yï	3%
+施	sï	0%
+旁	põng	
+旂	kĩ	
+旃	jën	
+旄	mão	0%
+旄	mào	0%
+旅	luî	0%
+旆	pöi	0%
+旈	liũ	0%
+旋	xũn	
+旌	dëin	
+旌	xëin	
+旎	nãi	
+旎	nî	
+族	dùk	3%
+旒	liũ	
+旖	yī	
+旗	kĩ	
+旘	chï	0%
+无	mũ	
+既	gï	
+旣	gï	0%
+日	ngït	0%
+日	ngìt	0%
+日	ngît	0%
+旦	ān	3%
+旦	än	3%
+旨	jī	
+早	dāo	
+旬	tũn	
+旭	gūk	
+旮	gā	3%
+旮	kāk	3%
+旯	lāk	3%
+旰	gön	0%
+旰	hòn	0%
+旱	hön	
+旱	hôn	
+旹	sĩ	
+旺	vòng	
+旻	mûn	
+旾	chün	
+昀	gün	
+昀	yũn	
+昂	ngōng	0%
+昂	ngõng	0%
+昃	jēik	
+昆	gün	
+昆	kün	
+昉	fōng	
+昊	hào	
+昌	chëng	
+明	mẽin	
+昏	fün	
+易	yèik	
+易	yì	
+昔	xēik	
+昕	hïm	
+昝	dän	0%
+星	xëin	0%
+星	xêng	0%
+映	yēin	3%
+春	chün	
+昧	mòi	
+昨	dâm	
+昨	dôk	
+昫	huī	0%
+昭	jël	0%
+是	sì	
+昰	sì	
+昱	yūk	
+昳	dèik	
+昳	yèik	
+昴	mâo	3%
+昵	nèik	0%
+昶	chōng	0%
+晁	chẽl	0%
+時	sĩ	
+時	sî	
+晃	fōng	
+晄	fōng	0%
+晅	xün	0%
+晈	gāo	0%
+晉	dün	
+晌	hēng	
+晏	än	
+晏	yën	
+晗	hẽim	
+晚	mân	
+晝	jiü	
+晝	jiû	
+晞	hï	
+晟	sẽin	
+晟	sèin	
+晠	sẽin	0%
+晠	sèin	0%
+晡	bü	
+晤	m̀	
+晦	fōi	
+晨	sĩn	
+晬	duï	
+晬	xuï	
+普	pū	
+景	gēin	3%
+晰	xēik	0%
+晳	xēik	0%
+晴	tẽng	0%
+晶	dëin	
+晷	gī	
+智	jï	
+晾	löng	
+晾	lòng	
+暄	xün	
+暇	hà	3%
+暈	vũn	3%
+暉	fï	
+暌	kĩ	
+暍	höt	0%
+暍	yēik	0%
+暎	yēin	
+暑	sī	
+暖	nön	0%
+暖	nôn	0%
+暗	ām	
+暗	äm	
+暘	yẽng	
+暝	mẽin	3%
+暠	hào	
+暡	yüng	
+暢	chēng	
+暤	hào	0%
+暨	kï	0%
+暫	dèm	
+暫	jàm	
+暮	mù	
+暱	nèik	0%
+暴	bào	3%
+暴	bùk	3%
+暹	tëm	
+暾	hün	
+暾	ün	
+曄	sēp	
+曅	sēp	0%
+曆	lèik	
+曇	hãm	
+曈	hũng	
+曉	hēl	
+曌	jël	
+曍	hào	
+曏	hëng	
+曖	ōi	
+曙	sï	0%
+曙	sĩ	0%
+曙	sì	0%
+曚	mũng	
+曛	fün	
+曜	yèl	
+曝	bào	0%
+曝	bùk	0%
+曠	fōng	
+曠	köng	
+曦	hï	
+曨	lũng	
+曩	nõng	
+曩	nông	
+曬	säi	
+曰	yòt	
+曲	kūk	
+曳	yài	0%
+更	gäng	
+曷	hòt	3%
+書	sï	
+曹	tão	
+曼	màn	3%
+曾	däng	
+曾	tãng	
+替	häi	
+最	duï	
+會	vòi	0%
+會	vôi	0%
+月	ngùt	
+月	ngût	
+有	yiü	3%
+有	yiù	3%
+有	yiû	3%
+朊	ngûn	3%
+朋	pãng	
+服	fùk	
+朐	kuĩ	
+朒	nük	3%
+朓	hël	0%
+朔	sōk	
+朕	jìm	
+朗	lông	
+朘	dün	3%
+朙	mẽin	
+望	mòng	0%
+朝	chẽl	3%
+朝	jël	3%
+期	gï	
+期	kĩ	
+朢	mòng	0%
+朣	hũng	
+朦	mũng	
+朧	lũng	
+木	mùk	
+木	mûk	
+未	mì	
+末	mòt	3%
+本	bōn	
+札	jāt	3%
+朱	jï	3%
+朴	pōk	0%
+朵	ō	
+朵	ū	
+朹	gī	
+朽	hiū	3%
+杆	gön	
+杈	châ	
+杉	chëim	
+杌	ngūt	
+李	lī	
+杏	hàng	
+材	tõi	
+村	tün	
+村	tûn	
+杓	bël	
+杓	sēk	
+杖	jèng	
+杘	chì	0%
+杜	ù	
+杞	gī	0%
+束	chūk	
+杠	gōng	
+杠	göng	
+杧	möng	
+杪	mêl	
+杭	hõng	
+杯	böi	
+東	üng	
+杲	gāo	
+杳	mêl	
+杴	hëin	0%
+杴	hïm	0%
+杵	chuî	3%
+杷	pã	
+杸	sĩ	0%
+杼	chuî	
+松	tũng	0%
+板	bān	
+枇	pĩ	
+枉	vōng	
+枋	fōng	
+枋	föng	
+枏	nãm	
+析	xēik	0%
+枒	à	3%
+枒	ngã	3%
+枓	ēo	
+枕	jīm	
+林	lĩm	
+枘	yuì	
+枚	mõi	
+果	gō	0%
+枝	jï	3%
+枯	kü	
+枰	pẽin	
+枱	hôi	3%
+枲	xāi	
+枳	jī	3%
+枵	hël	
+架	gä	
+架	gâ	
+枷	gä	
+枸	gēo	3%
+枻	xēik	0%
+枻	yài	0%
+枼	yêp	0%
+枽	yêp	0%
+柁	hõ	3%
+柃	lẽin	
+柄	bêng	3%
+柈	põn	
+柍	yëng	
+柏	pāk	
+某	mêo	
+柑	gâm	3%
+柒	tīt	
+染	ngëm	
+染	ngêm	
+柔	ngẽl	
+柘	jëh	
+柙	gāp	
+柙	hâp	
+柚	dùk	3%
+柚	yiũ	3%
+柚	yiû	3%
+柜	guī	
+柝	hōk	
+柞	dòk	0%
+柞	dôk	0%
+柞	jä	0%
+柞	jäk	0%
+柟	nãm	0%
+柢	āi	
+查	chã	
+查	jä	
+柩	giü	
+柩	giù	
+柬	gān	
+柮	jōt	3%
+柯	ö	
+柯	ü	
+柰	nòi	
+柱	chuî	
+柳	liû	
+柴	châi	3%
+柵	chāk	0%
+柵	sän	0%
+柹	sî	
+柿	sî	
+栁	liû	0%
+栒	tũn	3%
+栓	sân	
+栓	tũn	
+栗	lùt	3%
+栝	gāt	3%
+栞	hān	
+栞	hōn	
+栟	bëin	3%
+栟	bïn	3%
+校	gäo	
+校	hào	
+栢	pāk	
+栩	huī	
+株	jï	
+栰	fàt	0%
+栱	gūng	
+栲	hāo	
+栳	lāo	
+核	hàt	
+核	vût	
+根	gïn	
+格	gāk	
+格	gâk	
+栽	döi	
+栿	fùk	
+桀	gèik	
+桁	hâng	3%
+桁	hõng	3%
+桁	hòng	3%
+桂	gï	
+桃	hão	
+桃	hâo	
+桃	hõ	
+桃	hô	
+桄	gōng	0%
+桅	vĩ	0%
+框	köng	
+案	ön	
+桉	ön	0%
+桊	hūn	
+桊	hûn	
+桌	jēk	
+桎	jìt	0%
+桐	hũng	
+桑	xöng	
+桑	xông	
+桓	fũn	
+桔	gīt	3%
+桕	kiû	
+桜	yëin	0%
+桫	sö	
+桮	böi	
+桯	hëng	
+桲	bòt	
+桴	fẽo	0%
+桴	fũ	0%
+桵	xuï	
+桶	hūng	
+桷	gôk	
+桹	lõng	
+桺	liû	0%
+桿	gön	3%
+梁	lẽng	
+梃	hêin	
+梅	mõi	
+梆	bōng	
+梆	bông	
+梏	gôk	
+梏	gūk	
+梓	dū	
+梔	jï	
+梗	gāng	0%
+梘	gān	
+條	hẽl	0%
+梟	hël	
+梢	säo	
+梧	m̃	3%
+梧	m̀	3%
+梨	lĩ	
+梫	tīm	0%
+梭	sö	
+梭	sô	
+梯	häi	3%
+械	hài	
+梲	jōt	0%
+梳	sö	
+梳	sü	
+梵	fãn	
+梽	jï	
+棃	lĩ	
+棄	hï	
+棉	mẽin	
+棉	mêin	
+棊	kĩ	
+棋	kĩ	
+棍	gûn	
+棑	bài	
+棑	pãi	
+棑	pöi	
+棒	pâng	
+棕	düng	
+棖	chãng	
+棗	dāo	
+棘	gēik	0%
+棚	pãng	
+棟	ūng	
+棟	ùng	
+棠	hõng	
+棡	göng	0%
+棣	ài	
+棧	jàn	0%
+棨	kāi	
+棫	vāk	
+棫	vèik	
+棬	hūn	
+森	sẽim	
+棯	nîm	3%
+棰	chuĩ	0%
+棱	lẽin	
+棲	täi	3%
+棲	xäi	3%
+棳	jōt	
+棵	fō	0%
+棶	lõi	
+棹	jào	3%
+棹	jēk	3%
+棺	gön	3%
+棼	fün	3%
+椀	vōn	
+椁	kök	
+椅	yī	
+椅	yï	
+椇	guī	
+椋	lẽng	
+植	jèik	
+椎	chuĩ	
+椎	juï	
+椏	ä	
+椏	â	
+椐	guï	
+椑	bï	
+椒	dël	
+椓	dēk	
+椗	èin	
+椥	jï	
+椰	yẽh	
+椴	òn	
+椶	düng	
+椸	yĩ	
+椹	îm	
+椹	sìm	
+椽	yõn	0%
+椿	chün	
+楂	chã	
+楂	jä	
+楊	yẽng	
+楓	füng	
+楔	xēik	
+楔	xëp	
+楔	xêp	
+楗	gèin	
+楚	chō	
+楛	fū	
+楛	vù	
+楝	lèin	
+楞	lẽin	3%
+楠	nãm	
+楣	mĩ	
+楦	xün	
+楨	jëin	
+楪	èp	0%
+楪	yêp	0%
+楫	tīp	
+楬	kēik	3%
+業	ngèp	
+楮	chuî	3%
+楯	sôn	
+楯	ùn	
+楱	dëo	
+楱	tëo	
+楳	mõi	
+極	gèik	3%
+楷	gäi	
+楸	tiü	
+楹	ngẽin	
+榀	bīn	
+概	köi	0%
+榃	hãm	3%
+榆	yĩ	
+榍	xēik	
+榏	yèik	0%
+榔	lõng	
+榕	yũng	
+榖	gūk	
+榘	guī	
+榛	jün	
+榜	bäng	3%
+榜	bōng	3%
+榜	bòng	3%
+榡	xü	0%
+榦	gön	3%
+榧	fī	
+榨	jä	
+榪	mâ	0%
+榫	xūn	
+榭	dèh	
+榮	vẽin	
+榱	tuï	0%
+榲	vün	0%
+榴	liũ	
+榷	kōk	3%
+榻	hāp	
+榼	hàp	0%
+榾	gūt	
+榿	hī	3%
+榿	hï	3%
+槀	gāo	
+槁	gāo	
+槃	põn	
+槊	sōk	
+構	këo	
+槌	chuî	
+槍	chäng	3%
+槍	tëng	3%
+槎	chã	
+槐	vãi	
+槑	mõi	
+槓	göng	
+槔	gäo	
+槖	hōk	0%
+槜	duï	
+槞	lũng	0%
+槞	lûng	0%
+槥	fì	
+槧	têm	0%
+槨	kök	
+槭	tēik	0%
+槲	hùk	
+槳	dēng	
+槺	höng	
+槽	tão	
+槿	gīn	
+樁	jöng	
+樂	lòk	3%
+樂	ngòk	3%
+樄	chĩn	
+樅	düng	
+樅	tüng	
+樅	xüng	
+樊	fãn	
+樊	fàn	
+樑	lẽng	
+樓	lẽo	
+樗	sï	
+樘	hõng	
+標	bël	
+樝	jä	
+樞	kuï	
+樞	sï	
+樟	jëng	
+模	mõ	
+模	mũ	
+樣	yèng	
+樨	xäi	
+樵	tẽl	
+樸	pẽl	3%
+樸	pōk	3%
+樹	sì	
+樺	vã	
+樽	dûn	
+樾	yòt	
+橄	gäm	0%
+橇	hël	0%
+橈	nào	3%
+橈	ngẽl	3%
+橋	kẽl	
+橐	hōk	
+橘	gūt	0%
+橙	chãng	0%
+橛	kūt	
+橜	kūt	
+機	gï	
+橡	dèng	
+橢	hô	0%
+橢	ō	0%
+橢	ū	0%
+橫	vãng	5%
+橫	vàng	5%
+檀	hãn	
+檁	lîm	
+檄	hàt	
+檇	duï	
+檉	sëin	
+檎	kĩm	
+檐	sẽm	0%
+檑	luĩ	3%
+檔	döng	
+檔	öng	
+檗	pāk	
+檜	köi	0%
+檝	tīp	
+檟	gā	
+檠	kẽin	
+檠	kẽng	
+檢	gēm	
+檣	tẽng	
+檥	ngāi	
+檫	chāt	
+檬	mūng	
+檬	mũng	
+檯	hôi	
+檳	bïn	0%
+檵	gì	
+檸	nẽin	0%
+檻	häm	3%
+檻	lâm	3%
+檽	nào	
+櫂	jào	
+櫃	gì	
+櫓	lû	
+櫚	luĩ	0%
+櫛	dēik	
+櫜	gäo	
+櫝	dùk	
+櫞	yõn	
+櫟	lēik	3%
+櫟	lèik	3%
+櫟	ngòk	3%
+櫡	dēk	0%
+櫡	jì	0%
+櫥	chuĩ	0%
+櫧	jï	
+櫨	lũ	
+櫪	lēik	0%
+櫫	jï	
+櫬	chïn	
+櫱	ngēik	0%
+櫳	lũng	
+櫳	lûng	
+櫸	guī	
+櫺	lẽin	
+櫻	yëin	
+櫼	dëm	0%
+櫼	dêm	0%
+櫾	yiû	0%
+欂	bòk	3%
+欃	tãm	
+欄	lãn	
+權	kũn	
+欏	lõ	
+欒	lũn	
+欓	ōng	
+欖	lām	
+欝	vūt	0%
+欞	lẽin	
+欠	hïm	
+次	xü	3%
+欣	hïm	
+欬	köi	3%
+欲	yùk	
+欵	fōn	
+欷	hï	
+欸	āi	3%
+欸	ē	3%
+欸	ë	3%
+欸	è	3%
+欹	kĩ	
+欹	yī	
+欺	hï	
+欽	hïm	
+款	fōn	
+歃	chäp	0%
+歃	sāp	0%
+歆	hïm	
+歇	hēik	
+歉	hēp	3%
+歌	gô	
+歎	hän	0%
+歐	ëo	0%
+歔	huï	
+歙	kīp	0%
+歙	sèp	0%
+歟	yĩ	
+歡	fön	
+止	jī	
+正	jëin	3%
+正	jëng	3%
+此	xū	
+步	bù	0%
+武	mû	
+歧	kï	
+歧	kĩ	
+歪	chāi	3%
+歪	vāi	3%
+歮	sēik	0%
+歯	chī	0%
+歲	xuï	
+歷	lèik	
+歸	gï	0%
+歹	āi	3%
+歺	āi	0%
+死	xī	
+歿	mòt	
+殂	tũ	
+殃	yëng	
+殄	chīn	
+殄	hēin	
+殆	òi	
+殉	xün	0%
+殊	sĩ	
+殍	pêl	
+殖	jèik	
+殘	sân	
+殘	tãn	
+殘	tân	
+殛	gēik	
+殞	vùn	
+殣	gīn	0%
+殤	sëng	
+殨	gï	
+殪	yï	0%
+殫	än	
+殭	gëng	
+殮	lêm	3%
+殯	bïn	
+殲	tëm	
+殳	sĩ	
+段	òn	
+殷	yën	3%
+殷	yïn	3%
+殺	sät	0%
+殼	hôk	
+殽	ngão	3%
+殿	èin	
+毀	fī	
+毅	ngài	
+毆	ëo	3%
+毋	mũ	
+毋	mû	
+母	mû	0%
+每	môi	
+毑	jêh	
+毒	ùk	3%
+毓	yūk	0%
+比	bī	3%
+毖	bï	
+毗	bï	0%
+毘	bï	0%
+毛	mão	3%
+毦	ngì	0%
+毩	gūk	0%
+毪	mẽo	
+毪	mõ	
+毪	mũ	
+毫	hõ	
+毬	kiũ	
+毯	dëin	
+毯	häm	
+毯	hâm	
+毯	hān	
+毱	gūk	0%
+毳	tuï	0%
+毹	sï	0%
+毹	yĩ	0%
+毽	gèin	3%
+毿	xäm	
+氂	lĩ	3%
+氂	mão	3%
+氅	chōng	
+氆	pū	
+氈	jën	
+氊	jën	
+氌	lû	
+氍	kuĩ	
+氏	jï	
+氏	sì	
+氐	āi	
+民	mīn	
+民	mĩn	
+氓	mãng	0%
+氓	mõng	0%
+氓	mông	0%
+气	hï	0%
+氕	pët	
+氖	nâi	
+氘	äo	
+氙	sän	
+氚	chün	
+氛	fün	
+氜	ngìt	0%
+氜	yẽng	0%
+氝	nuì	
+氞	nuì	0%
+氟	fūt	
+氡	üng	
+氣	hï	
+氤	yïn	
+氥	xäi	
+氦	hòi	
+氧	yêng	
+氨	ön	
+氪	hāk	
+氫	hëin	
+氬	ä	
+氮	àm	
+氯	lùk	
+氰	tëin	3%
+氳	vün	
+水	suī	
+永	vêin	
+氹	hêim	0%
+氽	hün	
+汀	ëin	0%
+汁	jīp	
+求	kiũ	
+汆	mì	0%
+汈	ël	
+汊	chä	
+汌	chün	
+汌	jùn	
+汌	jûn	
+汐	dèik	
+汔	kēik	0%
+汕	sän	
+汗	hõn	
+汗	hòn	
+汙	vü	3%
+汚	vü	
+汛	xïn	
+汜	dù	
+汝	nî	
+汞	hüng	
+江	göng	
+池	chĩ	0%
+污	vü	3%
+汧	hëin	
+汨	mèik	
+汩	gūt	3%
+汪	vōng	
+汫	dēng	
+汭	yuì	
+汰	häi	
+汲	kīp	
+汴	bèin	
+汶	mũn	
+汶	mûn	
+決	kūt	3%
+汽	hï	
+汾	fũn	
+沁	sëim	
+沂	kĩ	
+沂	yĩ	
+沃	yūk	
+沅	ngũn	
+沆	köng	0%
+沈	chĩm	0%
+沈	sīm	0%
+沉	chĩm	3%
+沌	ùn	3%
+沏	chēik	0%
+沏	täi	0%
+沐	mûk	
+沒	mòt	0%
+沓	àp	
+沔	mēin	
+沖	chüng	
+沘	bī	
+沙	sä	
+沙	sâ	
+沚	jī	
+沛	pöi	
+沜	bòn	0%
+沫	mòt	0%
+沭	sùt	
+沮	duī	0%
+沮	duï	0%
+沱	hõ	
+沱	hũ	
+沲	hõ	0%
+沲	hũ	0%
+河	hõ	
+沴	luì	0%
+沸	fï	
+油	yiũ	
+治	jì	
+沼	jēl	
+沽	gü	3%
+沾	jëm	0%
+沿	yõn	
+況	fōng	
+泃	guï	3%
+泄	xēik	
+泄	yài	
+泅	tiũ	
+泆	yìt	
+泉	tũn	
+泊	bòk	3%
+泌	bï	3%
+泐	làk	
+泓	fãng	
+泔	gäm	
+法	fāt	0%
+泖	mâo	
+泗	xü	
+泚	xū	0%
+泛	fàn	3%
+泠	lẽin	
+泡	päo	3%
+泡	pâo	3%
+泡	pōk	3%
+波	bö	
+泣	hīp	
+泥	nãi	3%
+泥	nài	3%
+注	jî	
+泫	yõn	
+泮	pön	
+泯	mêin	
+泰	häi	
+泱	yëng	0%
+泳	vèin	
+泵	bēim	
+泵	būng	
+泵	dām	
+泵	dēim	
+泵	pēim	
+洄	või	
+洇	yïn	
+洋	yẽng	
+洌	lëik	
+洎	gì	0%
+洎	kï	0%
+洏	ngĩ	
+洑	fùk	3%
+洗	xāi	3%
+洗	xēin	3%
+洙	jï	0%
+洚	göng	0%
+洛	lōk	0%
+洞	ùng	3%
+津	jün	
+津	jùn	
+洧	vī	0%
+洨	ngão	0%
+洩	xēik	3%
+洪	hũng	
+洫	kēik	0%
+洭	köng	
+洮	hão	0%
+洱	ngī	3%
+洱	nì	3%
+洲	jiü	
+洲	jiû	
+洳	nguĩ	
+洵	xün	3%
+洶	hüng	
+洸	göng	
+洹	fũn	0%
+洺	mẽin	
+活	vòt	3%
+洼	vä	0%
+洽	dèp	3%
+派	pāi	
+派	päi	
+流	liũ	
+浙	jēt	
+浚	dün	
+浚	xün	
+浛	hẽim	
+浜	böng	
+浞	dūk	0%
+浞	jōk	0%
+浠	hï	
+浡	bòt	
+浣	fōn	0%
+浥	yīp	
+浦	pū	0%
+浦	pũ	0%
+浩	hâo	
+浪	löng	
+浪	lòng	
+浬	lî	3%
+浮	fẽo	
+浯	m̃	
+浴	yùk	
+海	hōi	
+浸	dïm	3%
+浸	jìm	3%
+浹	gäp	
+浼	môi	
+浽	xuï	
+涂	hũ	3%
+涅	nēp	
+涇	gëin	
+消	xël	
+涉	sèp	3%
+涌	chûng	0%
+涎	yẽn	
+涑	tūk	0%
+涓	gün	
+涔	sẽim	
+涕	häi	
+涪	fẽo	
+涫	gön	0%
+涮	sän	0%
+涯	ngãi	0%
+液	yèik	0%
+液	yìt	0%
+涵	hãm	
+涸	kök	0%
+涼	lẽng	3%
+涽	fün	
+涿	dēk	
+淄	dü	
+淅	xēik	
+淆	ngão	
+淇	kĩ	
+淋	lĩm	
+淌	hōng	
+淑	sùk	
+淒	täi	
+淖	nào	3%
+淘	hão	
+淘	hõ	
+淙	düng	0%
+淚	luì	
+淚	luî	
+淝	fĩ	0%
+淞	tũng	
+淠	bï	
+淠	pöi	
+淡	àm	3%
+淡	häm	3%
+淢	kēik	0%
+淢	vèik	0%
+淤	yī	0%
+淥	lùk	
+淦	gäm	0%
+淨	dèin	3%
+淨	dèng	3%
+淩	lẽin	
+淪	lũn	
+淫	yĩm	
+淬	tuï	
+淬	xuì	
+淮	vãi	
+淯	yùk	
+淰	nĩm	3%
+深	sïm	
+淳	sũn	
+淴	fūt	
+淵	yön	
+淶	lõi	
+混	vùn	3%
+淸	tëin	0%
+淹	yēm	
+淺	dëin	3%
+淺	tēin	3%
+添	hëm	
+淼	mêl	
+渃	ngèik	
+渃	ngèk	
+清	tëin	0%
+渉	sèp	0%
+渙	fòn	
+渚	jī	
+減	gām	
+渝	yĩ	
+渟	hẽin	
+渠	kuï	
+渠	kuĩ	
+渡	ù	
+渢	fũng	3%
+渣	jâ	
+渤	bòt	
+渥	āk	
+渦	gö	
+渦	vö	
+渫	xēik	
+測	chāk	
+渭	vì	
+港	kōng	
+渲	xün	3%
+渴	höt	3%
+游	yiũ	0%
+渺	mêl	
+渾	vùn	3%
+湃	bäi	3%
+湄	mĩ	
+湊	tëo	
+湊	tiü	
+湌	tän	
+湍	chūn	0%
+湎	mēin	
+湓	pûn	0%
+湔	dëin	0%
+湖	vũ	
+湘	xëng	
+湛	jäm	3%
+湜	jèik	
+湞	jëin	
+湟	võng	
+湣	fün	3%
+湣	mûn	3%
+湧	yūng	3%
+湩	üng	0%
+湫	dēl	3%
+湫	tiü	3%
+湮	yën	0%
+湮	yïn	0%
+湯	höng	3%
+湯	sëng	3%
+湲	yõn	
+湴	bàn	
+湼	nēp	0%
+溈	gï	0%
+溈	vĩ	0%
+溉	köi	0%
+溏	hõng	
+源	ngũn	
+準	jūn	3%
+溘	hāp	0%
+溘	hēip	0%
+溚	hāp	0%
+溜	liū	3%
+溜	liü	3%
+溜	liũ	3%
+溝	këo	0%
+溟	mẽin	
+溠	jä	
+溢	yìt	
+溥	pū	
+溦	mĩ	
+溧	lùt	
+溪	käi	
+溫	vün	
+溭	jāk	0%
+溮	xü	
+溯	xü	
+溱	jün	3%
+溱	tũn	3%
+溲	xēo	0%
+溳	yõn	
+溴	chiü	
+溶	yũng	
+溷	vùn	
+溺	nèik	0%
+溺	nèl	0%
+溻	hāp	
+溽	yùk	
+滁	chuĩ	0%
+滂	põng	3%
+滃	yūng	
+滃	yüng	
+滄	töng	
+滅	mèik	
+滆	gäk	
+滇	ëin	3%
+滇	hẽin	3%
+滈	hâo	
+滋	dü	
+滌	èik	
+滍	chï	0%
+滎	yẽin	
+滏	fū	
+滑	vàt	
+滓	dōi	
+滔	häo	
+滕	hãng	
+滘	gäo	
+滬	fù	
+滭	bēik	
+滯	jài	
+滲	sëim	
+滴	èik	5%
+滴	ēk	5%
+滴	ëk	5%
+滷	lū	
+滸	fū	0%
+滸	huī	0%
+滹	fü	
+滻	chān	
+滾	gūn	
+滿	mōn	0%
+漁	nguĩ	
+漂	pël	
+漆	tīt	3%
+漉	lùk	
+漊	lẽo	
+漏	lèo	
+漑	köi	0%
+演	yēn	
+漕	tão	
+漖	gäo	
+漚	ëo	
+漠	mōk	
+漢	hön	
+漣	lẽin	
+漩	xũn	
+漪	yī	0%
+漪	yï	0%
+漫	màn	0%
+漬	dēik	3%
+漭	mông	
+漯	hāp	3%
+漯	lô	3%
+漱	xēo	0%
+漲	jëng	
+漳	jëng	
+漵	duì	
+漶	vàn	0%
+漷	kök	0%
+漸	dëm	3%
+漸	dèm	3%
+漼	tuï	0%
+漾	yèng	
+漿	dëng	
+潁	vèin	
+潑	bōt	3%
+潑	pöt	3%
+潔	gēik	
+潘	pön	
+潙	gï	
+潛	tẽm	
+潞	lù	
+潟	xēik	
+潢	võng	
+潤	ngùn	
+潦	lâo	0%
+潭	hãm	
+潭	hêim	
+潮	chẽl	
+潯	tĩm	
+潰	gì	
+潰	kï	
+潲	säo	3%
+潵	xän	
+潵	xät	
+潷	bīt	3%
+潸	sän	0%
+潺	sãn	
+潼	hũng	
+潿	vĩ	
+澀	gëp	3%
+澀	sēip	3%
+澀	sīp	3%
+澁	sēip	
+澂	chẽin	
+澄	chẽin	3%
+澄	chẽng	3%
+澆	hël	3%
+澆	ngẽl	3%
+澇	lâo	
+澈	chēik	
+澉	gām	
+澌	xü	0%
+澍	sì	
+澎	pãng	0%
+澗	gān	0%
+澠	mêin	0%
+澠	sẽin	0%
+澡	täo	
+澣	fōn	
+澤	jàk	3%
+澥	hāi	
+澦	yì	
+澧	lâi	
+澩	hòk	
+澮	köi	0%
+澱	èin	
+澳	äo	3%
+澴	vãn	
+澶	àn	0%
+澶	chẽin	0%
+澹	àm	0%
+澹	hãm	0%
+澽	guï	0%
+澾	ät	
+激	gēik	
+濁	dùk	
+濂	lẽm	
+濃	ngũng	0%
+濃	nũng	0%
+濆	fũn	3%
+濆	pün	3%
+濉	juï	
+濉	xuï	
+濎	ēin	
+濓	lẽm	0%
+濕	sëk	6%
+濕	sīp	6%
+濘	nẽin	
+濙	yëin	0%
+濛	mũng	
+濜	dìn	
+濞	bì	3%
+濟	dāi	
+濟	däi	
+濟	dài	
+濠	hão	
+濠	hõ	
+濡	yĩ	
+濤	hão	
+濫	làm	3%
+濬	dün	0%
+濮	bùk	0%
+濯	jòk	3%
+濰	vĩ	
+濱	bïn	
+濴	yëin	
+濺	dëin	
+濺	dèin	
+濼	bòk	0%
+濼	lòk	0%
+濾	luì	
+瀅	yëin	0%
+瀆	dùk	3%
+瀉	xëh	0%
+瀋	sīm	
+瀍	chẽn	
+瀏	liũ	
+瀑	bào	3%
+瀑	bùk	3%
+瀔	gūk	
+瀕	bïn	3%
+瀕	pĩn	3%
+瀘	lũ	
+瀚	hòn	
+瀛	yẽin	
+瀝	lēik	3%
+瀝	lèik	3%
+瀟	xël	
+瀠	yẽin	
+瀣	hài	
+瀦	jï	
+瀧	lũng	0%
+瀧	söng	0%
+瀨	lài	
+瀲	lêm	0%
+瀵	fûn	
+瀸	dëm	0%
+瀹	yèk	
+瀽	gēin	
+瀾	lãn	3%
+灃	füng	
+灄	nēp	
+灉	yüng	
+灌	gön	
+灑	sā	
+灕	lĩ	
+灘	hān	
+灝	hâo	
+灞	bä	
+灠	lãm	0%
+灠	lâm	0%
+灣	vän	0%
+灣	vãn	0%
+灤	lũn	
+灥	tĩm	0%
+灧	yèm	0%
+灨	gäm	
+灩	yèm	
+火	fō	
+灰	föi	
+灶	dâo	0%
+灸	giü	
+灺	hâi	3%
+灼	sēk	
+災	döi	
+炁	hï	
+炅	gēin	
+炅	gï	
+炆	mūn	
+炊	chuï	0%
+炎	yèm	
+炒	chāo	
+炔	kūt	3%
+炕	köng	3%
+炖	ùn	
+炙	jēik	0%
+炤	jël	3%
+炫	yõn	
+炬	guì	
+炭	hän	
+炮	päo	3%
+炯	gēin	
+炱	hõi	
+炳	bēin	
+炷	jï	
+炸	jä	
+為	vĩ	0%
+為	vì	0%
+炻	sêk	
+烀	fũ	
+烈	lèik	
+烊	yẽng	0%
+烏	vü	
+烔	hũng	
+烕	mèik	0%
+烘	hüng	3%
+烘	küng	3%
+烙	lōk	0%
+烜	xün	
+烝	jëin	
+烤	hāo	
+烤	häo	
+烯	hï	
+烱	gēin	
+烴	hëin	0%
+烷	yõn	3%
+烹	päng	
+烺	lõng	
+烽	füng	
+焅	hùk	0%
+焉	yën	
+焉	yẽn	
+焌	dün	3%
+焌	tuï	3%
+焐	m̀	
+焓	hẽim	
+焔	yèm	0%
+焗	gùk	
+焙	bòi	
+焙	pöi	
+焚	fũn	0%
+無	mũ	3%
+焦	dël	
+焪	küng	0%
+焫	nät	
+焫	ngùt	
+焯	chēk	
+焰	yèm	0%
+焱	yèm	
+然	ngẽin	
+煀	vüt	
+煅	òn	
+煇	fï	0%
+煇	fün	0%
+煇	vũn	0%
+煉	lèin	
+煊	xün	
+煌	võng	
+煎	dëin	
+煑	jī	
+煒	vī	
+煖	nön	0%
+煗	nön	
+煙	yën	
+煜	yūk	0%
+煞	sät	
+煠	jä	0%
+煢	kẽin	
+煤	mõi	
+煥	fòn	
+煦	huī	0%
+照	jël	
+煨	vï	
+煨	vöi	
+煩	fãn	
+煬	yẽng	3%
+煮	jī	
+煮	sàp	
+煲	bäo	
+煳	vũ	
+煸	bëin	3%
+煺	huï	
+煽	sën	
+熄	xēik	
+熈	hï	0%
+熊	hũng	
+熏	fün	3%
+熒	yẽin	
+熔	yũng	
+熗	töng	
+熘	liũ	
+熙	hï	
+熟	sùk	
+熠	sēp	0%
+熥	hüng	
+熨	höng	3%
+熨	vùn	3%
+熨	vūt	3%
+熬	ngão	3%
+熬	ngào	3%
+熱	ngèik	
+熲	gēin	
+熳	màn	
+熵	sëng	
+熹	hï	
+熾	chï	
+燁	sēp	
+燃	ngẽin	
+燄	yèm	0%
+燈	äng	
+燉	ùn	3%
+燊	xïn	
+燎	lẽl	3%
+燏	yūk	0%
+燐	lĩn	
+燒	sël	
+燔	fãn	
+燕	yën	
+燕	yên	
+燙	höng	
+燚	yèik	0%
+燜	mòn	0%
+營	yẽin	
+燠	yūk	3%
+燥	täo	
+燦	tān	
+燧	xuì	
+燬	fī	
+燭	jūk	
+燮	xēik	0%
+燴	köi	
+燴	vòi	
+燶	nüng	0%
+燶	nûng	0%
+燹	xēin	
+燻	fün	
+燼	dìn	0%
+燾	ào	
+燾	hão	
+爆	bäo	0%
+爆	päo	0%
+爇	nät	3%
+爍	sēk	3%
+爐	lũ	
+爔	hï	
+爗	sēp	0%
+爛	làn	
+爝	dēk	0%
+爣	hōng	
+爨	tōn	
+爨	tön	
+爪	jāo	
+爬	pã	
+爭	jäng	3%
+爰	yõn	
+爲	vĩ	
+爲	vì	
+爵	dēk	
+父	fū	
+父	fù	
+爸	bā	
+爸	bã	
+爹	ëh	
+爹	yēh	
+爺	yēh	
+爺	yẽh	
+爺	yêh	
+爻	ngão	
+爽	sōng	
+爾	ngî	
+爿	bàn	3%
+爿	tẽng	3%
+牀	chõng	
+牁	gō	3%
+牂	dòng	
+牄	tëng	
+牆	tẽng	
+片	pēin	
+片	pëin	
+版	bān	
+牋	dëin	
+牌	pãi	
+牎	töng	0%
+牐	jàp	
+牒	èp	
+牕	töng	
+牖	yiù	
+牘	dùk	
+牘	jùk	
+牙	ngã	
+牛	ngēo	
+牛	ngẽo	
+牛	ngèo	
+牝	pĩn	0%
+牝	pîn	0%
+牟	mẽo	3%
+牟	mù	3%
+牠	hä	0%
+牡	mêo	0%
+牢	lão	
+牣	yìn	
+牤	mõng	
+牧	mùk	
+物	mòt	
+物	mùt	
+牮	dëin	
+牯	gū	
+牲	säng	3%
+牴	āi	
+牸	dù	
+特	àk	
+牻	põng	
+牽	hëin	
+牾	m̂	0%
+牿	gūk	
+犀	xäi	
+犁	lãi	
+犂	lãi	0%
+犄	gï	3%
+犄	yï	3%
+犅	göng	
+犇	bïn	
+犋	guì	
+犍	gëin	5%
+犍	kẽin	5%
+犏	pëin	
+犒	häo	
+犒	käo	
+犖	lōk	3%
+犛	lĩ	0%
+犛	mão	0%
+犟	gèng	
+犢	dùk	
+犧	hï	
+犬	hūn	
+犯	fàn	
+犰	yiũ	
+犴	hòn	
+狀	jòng	
+狁	vûn	
+狂	kõng	
+狃	niū	0%
+狄	èik	3%
+狉	pï	
+狌	säng	0%
+狌	xëin	0%
+狍	bäo	0%
+狎	äp	
+狎	hâp	
+狐	vũ	
+狒	fï	3%
+狖	yiũ	
+狗	gēo	
+狙	duī	
+狙	duï	
+狠	hān	
+狠	hàn	
+狡	gāo	
+狥	xün	
+狧	sâi	0%
+狨	 yũng	
+狩	siū	0%
+狩	siü	0%
+狳	yĩ	
+狴	bäi	0%
+狶	hï	0%
+狷	gün	0%
+狸	lĩ	
+狸	lî	
+狹	gèp	3%
+狹	hèp	3%
+狺	ngãn	
+狻	xön	
+狼	lõng	
+狽	böi	
+猁	lì	
+猂	hòn	0%
+猄	gëng	
+猇	häo	
+猊	ngãi	
+猋	bël	
+猓	gō	
+猓	lō	
+猖	chëng	
+猗	ö	3%
+猗	yï	3%
+猙	jäng	0%
+猛	māng	
+猛	mäng	
+猛	mâng	
+猜	chäi	
+猝	tōt	
+猞	sëh	
+猢	vũ	
+猥	vï	0%
+猨	yõn	
+猩	xëin	
+猯	chūn	0%
+猰	ä	0%
+猰	jāt	0%
+猱	ngẽl	0%
+猴	hẽo	
+猶	yiũ	
+猷	yiũ	
+猸	mĩ	
+猹	chã	
+猻	xün	
+猾	vàt	
+猿	yõn	
+獁	mā	
+獁	mâ	
+獃	ngõi	0%
+獄	ngùk	
+獅	xü	
+獆	hõ	0%
+獉	jün	
+獋	hõ	
+獍	gèin	3%
+獎	dēng	
+獏	màk	0%
+獐	jëng	
+獒	ngão	
+獗	kūt	
+獠	lẽl	
+獨	ùk	
+獪	köi	
+獫	hēm	
+獬	hài	
+獮	xēin	
+獯	fün	
+獰	nẽin	
+獲	vòk	3%
+獴	mũng	
+獵	lèp	
+獷	köng	3%
+獸	chiü	
+獺	chât	0%
+獻	hün	
+獼	mĩ	
+獾	fön	
+玀	lõ	
+玁	hēm	
+玃	kūt	0%
+玄	yõn	
+玅	mèl	
+率	lùt	3%
+率	xūt	3%
+玉	ngùk	
+王	võng	
+王	vòng	
+玍	gä	
+玎	ëin	
+玕	gön	
+玖	giū	
+玗	yï	
+玟	mĩn	
+玟	mũn	
+玡	yẽh	0%
+玢	bïn	0%
+玢	fün	0%
+玥	ngùt	
+玦	kūt	
+玨	gōk	
+玩	ngòn	3%
+玫	mõi	
+玲	lẽin	
+玳	òi	
+玷	ëm	0%
+玻	bō	
+玻	bö	
+玻	bū	
+珀	pāk	
+珂	ü	
+珅	sïn	
+珈	gä	
+珉	mĩn	
+珊	sän	
+珍	jïn	
+珏	gōk	
+珖	göng	
+珙	gūng	
+珞	lōk	0%
+珠	jî	
+珢	hāng	0%
+珢	ngãn	0%
+珣	xün	
+珥	ngī	
+珥	nì	
+珧	yẽl	
+珧	yiũ	
+珩	hãng	
+班	bän	
+珮	pöi	
+珸	m̃	
+珹	sẽin	0%
+珺	gùn	3%
+珽	hêin	0%
+珽	 hêin	0%
+現	yèn	
+球	kiũ	
+琅	lõng	
+琅	lông	
+理	lî	
+琇	xiü	
+琉	liũ	
+琊	ngã	3%
+琚	guï	
+琛	sïm	0%
+琢	dēk	
+琢	ëk	
+琤	jäng	3%
+琥	fū	
+琦	kĩ	
+琨	kün	0%
+琪	kĩ	
+琬	vōn	
+琮	düng	0%
+琯	gōn	
+琰	yèm	
+琳	lĩm	
+琴	kĩm	
+琵	pĩ	
+琶	pã	
+琺	fāt	0%
+琿	fï	
+琿	vùn	
+瑀	yî	
+瑁	mào	
+瑄	xün	
+瑇	òi	
+瑋	vī	
+瑒	chēng	3%
+瑒	yẽng	3%
+瑕	hã	
+瑗	yõn	
+瑙	não	
+瑙	nâo	
+瑚	vũ	
+瑛	yëin	
+瑜	yĩ	
+瑝	võng	0%
+瑞	xuì	
+瑟	sīt	
+瑢	yũng	
+瑣	xū	
+瑤	yẽl	
+瑩	yẽin	
+瑪	mâ	
+瑭	hõng	
+瑯	lõng	
+瑰	gï	
+瑱	hëin	0%
+瑱	jïn	0%
+瑲	tëng	
+瑽	tüng	0%
+瑾	gīn	
+璀	tuï	3%
+璁	 tüng	
+璃	lī	
+璆	kiũ	
+璇	xũn	
+璉	lẽin	
+璉	lèin	
+璋	jëng	
+璐	lù	
+璘	lĩn	
+璜	võng	
+璞	pök	
+璟	gēin	
+璠	fãn	
+璣	gï	
+璦	öi	
+璧	bēik	0%
+璨	tān	
+璩	kuĩ	
+璫	öng	
+環	vãn	
+環	vân	
+璵	nguĩ	
+璺	mùn	0%
+璺	mûn	0%
+璽	xāi	
+璿	xũn	
+瓈	lī	
+瓊	kẽin	
+瓌	gï	
+瓏	lũng	
+瓔	yëin	
+瓖	xëng	
+瓚	dān	0%
+瓚	dän	0%
+瓜	gä	
+瓜	gâ	
+瓞	èik	
+瓠	vũ	3%
+瓠	vù	3%
+瓢	pël	
+瓣	bàn	
+瓣	fân	
+瓤	nõng	
+瓦	ngā	0%
+瓩	tëinngā	
+瓮	ûng	
+瓴	lẽin	
+瓶	pẽin	0%
+瓶	pêng	0%
+瓷	xũ	
+瓿	pāo	0%
+瓿	põi	0%
+甃	dëo	
+甄	jïn	
+甆	xũ	
+甌	ëo	
+甍	mãng	
+甏	pãng	3%
+甑	dâng	0%
+甓	pēik	0%
+甕	ûng	
+甖	yëin	
+甘	gäm	
+甙	gäm	
+甙	òi	
+甚	sìm	0%
+甜	hẽm	
+甞	sẽng	
+生	säng	
+生	sâng	
+產	chān	
+甥	säng	
+用	yùng	
+甩	lāt	3%
+甪	lūt	
+甫	fū	3%
+甫	pū	3%
+甫	pü	3%
+甬	yūng	0%
+甭	būng	3%
+甮	fùng	
+甯	nẽin	0%
+田	hẽin	
+由	yiũ	
+甲	gāp	
+甲	gâp	
+申	sïn	
+男	nãm	
+甸	èin	3%
+町	ëin	3%
+甽	hūn	0%
+甾	döi	
+甾	dü	
+畀	ī	90%
+畄	liũ	0%
+畇	gün	
+畇	vũn	
+畈	fân	
+畋	hẽin	
+界	gäi	
+畎	hūn	0%
+畏	vï	
+畑	hẽin	
+畔	bòn	
+留	liũ	
+畚	bōn	
+畛	chīn	0%
+畜	chūk	
+畝	mêo	
+畢	bīt	
+略	lèk	
+畦	kĩ	
+畧	lèk	
+番	fän	3%
+番	pön	3%
+畫	và	
+畫	vàk	
+畫	vâk	
+畬	sẽh	0%
+畬	yï	0%
+異	yì	
+畱	liũ	
+畲	sẽh	
+當	öng	
+畸	gï	
+畸	kï	
+畹	vōn	
+畽	hõn	0%
+畾	luĩ	
+畿	gï	0%
+疃	hõn	
+疆	gëng	
+疇	chiũ	
+疊	èp	0%
+疋	ngâ	3%
+疋	pīt	3%
+疋	sü	3%
+疍	àn	
+疏	sü	
+疐	î	0%
+疐	jï	0%
+疑	ngĩ	
+疒	nāk	0%
+疔	ëin	3%
+疙	gēt	3%
+疙	kēik	3%
+疚	giü	
+疝	sän	
+疣	yiũ	
+疤	bä	
+疥	gäi	
+疨	hâ	0%
+疨	ngâ	0%
+疩	xuì	0%
+疪	bï	
+疫	vèik	
+疫	yèik	
+疰	jî	
+疲	pêh	
+疲	pĩ	
+疳	gäm	
+疵	xû	0%
+疷	chĩ	0%
+疷	jï	0%
+疸	hān	0%
+疹	chīn	0%
+疼	hüng	0%
+疼	hũng	0%
+疼	tëk	0%
+疽	duī	0%
+疽	duï	0%
+疾	dìp	0%
+痁	ëm	
+痂	gâ	0%
+痃	yẽn	0%
+痄	jä	
+病	bèng	
+痆	nãi	0%
+症	jëin	0%
+痊	tũn	
+痌	hüng	0%
+痍	yĩ	
+痎	köi	
+痏	vī	3%
+痐	või	0%
+痔	jì	
+痕	hân	
+痘	èo	3%
+痙	gèin	
+痛	hüng	
+痞	mēo	0%
+痞	pī	0%
+痠	xön	
+痢	lì	
+痣	jï	
+痤	tö	
+痤	tô	
+痦	m̀	
+痧	sä	
+痰	hãm	
+痱	fī	3%
+痲	mã	
+痳	lĩm	0%
+痹	 bï	
+痺	bï	3%
+痼	gü	
+痾	ö	
+痾	ü	
+痿	vī	0%
+瘀	yī	6%
+瘁	xuì	
+瘂	ā	
+瘃	jùk	3%
+瘉	yì	
+瘊	hẽo	
+瘊	hèo	
+瘋	füng	
+瘌	làt	3%
+瘍	yẽng	
+瘐	yĩ	
+瘓	fòn	
+瘕	gā	0%
+瘖	yïm	
+瘙	xäo	
+瘛	chäi	0%
+瘝	gän	
+瘞	yï	0%
+瘟	vün	
+瘠	dëk	3%
+瘡	chông	
+瘢	bän	0%
+瘤	liũ	3%
+瘥	châi	0%
+瘥	tö	0%
+瘦	sëo	
+瘧	ngēk	
+瘩	āp	0%
+瘩	äp	0%
+瘭	bël	
+瘮	täm	
+瘰	luî	0%
+瘲	dùng	
+瘳	chëo	
+瘴	jëng	
+瘵	däi	
+瘸	kêh	0%
+瘺	lèo	
+瘻	lèo	
+瘼	mōk	
+癀	võng	
+療	lẽl	0%
+癃	lũng	
+癄	tẽl	0%
+癅	liũ	0%
+癆	lão	
+癆	lâo	
+癇	gān	0%
+癇	hãn	0%
+癉	än	3%
+癌	ngãm	
+癍	bän	
+癒	yì	
+癔	yēik	
+癖	pēik	
+癘	lài	0%
+癜	èin	
+癟	bëik	
+癟	bèik	
+癡	chï	
+癢	yêng	
+癤	dēik	
+癥	jëin	0%
+癧	lēik	
+癩	läi	3%
+癩	lài	3%
+癬	xēin	
+癭	yëin	
+癮	yîn	0%
+癯	kuĩ	
+癰	yüng	0%
+癱	hān	
+癲	ëin	
+癶	bôt	0%
+癸	gï	
+登	äng	
+發	fāt	3%
+發	fät	3%
+白	bàk	
+百	bāk	3%
+百	bäk	3%
+百	bàk	3%
+皁	dào	0%
+皂	dào	0%
+的	dēik	
+的	ēik	
+皆	gäi	
+皇	võng	
+皈	gï	
+皋	gäo	
+皎	gāo	
+皓	hào	0%
+皓	hâo	0%
+皕	bēik	0%
+皖	fōn	0%
+皙	xēik	
+皚	hōi	0%
+皚	ngõi	0%
+皛	xēl	0%
+皝	fōng	
+皞	hào	
+皡	hào	0%
+皤	bö	
+皤	põ	
+皤	pũ	
+皥	hào	0%
+皩	fōng	0%
+皪	bö	0%
+皪	lèik	0%
+皪	lōk	0%
+皮	pĩ	3%
+皯	gōn	
+皰	päo	
+皰	pōk	
+皴	dün	3%
+皸	gün	
+皺	chão	
+皺	jēo	
+皺	jëo	
+皻	jâ	
+皿	mêin	
+盂	yĩ	
+盅	jüng	
+盅	jûng	
+盆	pûn	
+盇	hàp	0%
+盈	ngẽin	
+益	yēik	
+盌	vōn	
+盍	hàp	
+盎	ōng	
+盎	òng	
+盒	hâp	0%
+盔	föi	
+盔	kï	
+盙	fū	0%
+盛	sẽin	
+盛	sèin	
+盜	ào	
+盝	lùk	0%
+盞	jān	
+盟	mãng	3%
+盡	dìn	0%
+監	gäm	
+監	gìm	
+盤	põn	
+盥	fōn	0%
+盦	äm	
+盧	lũ	3%
+盩	jiü	
+盪	òng	0%
+盫	äm	0%
+目	mùk	
+盯	ëng	3%
+盱	huï	
+盲	mãng	
+直	jèik	
+相	xëng	3%
+盹	ûn	0%
+盻	hãi	0%
+盻	hài	0%
+盼	pän	
+盾	hûn	0%
+盾	ùn	0%
+眀	mẽin	0%
+省	sāng	
+省	xēin	
+眄	mēin	0%
+眇	mêl	
+眈	äm	
+眉	mĩ	
+眊	mào	
+看	hön	5%
+眘	sìn	
+眙	chï	
+眙	yĩ	
+眚	sāng	
+眛	mòi	
+眞	jïn	
+真	jïn	
+眠	mẽin	
+眢	yön	
+眥	xû	3%
+眨	jām	
+眨	säp	
+眩	yõn	0%
+眭	kĩ	
+眭	xuï	
+眯	mãi	0%
+眯	mï	0%
+眵	chï	
+眶	köng	
+眷	gün	
+眸	mẽo	
+眺	hël	
+眼	ngān	
+眾	jüng	3%
+睃	sò	0%
+睇	hāi	
+睏	kün	
+睖	lẽin	
+睚	ngãi	0%
+睛	dëin	
+睜	chäng	3%
+睜	jāng	3%
+睞	lõi	
+睞	lòi	
+睠	gün	
+睡	suì	
+睢	juï	0%
+睢	xuï	0%
+督	ūk	
+督	ük	
+睥	pî	0%
+睦	mùk	
+睨	ngãi	
+睨	ngài	
+睫	dèp	0%
+睬	tōi	
+睹	ū	
+睽	kĩ	3%
+睾	gäo	
+睿	yuì	
+瞀	mào	
+瞀	mù	
+瞄	mẽl	
+瞅	chẽl	
+瞇	mãi	3%
+瞇	mï	3%
+瞋	chïn	
+瞌	hāp	3%
+瞌	hēip	3%
+瞍	xēo	
+瞎	hàt	
+瞐	mòt	0%
+瞑	mẽin	3%
+瞓	fün	
+瞖	äi	
+瞖	yï	
+瞘	ëo	
+瞘	këo	
+瞜	lẽo	0%
+瞞	mõn	
+瞟	pël	0%
+瞠	chäng	0%
+瞢	mũng	0%
+瞥	pëik	
+瞧	chẽl	
+瞧	dẽl	
+瞧	tẽl	
+瞪	äng	3%
+瞬	sûn	
+瞭	lẽl	
+瞰	häm	0%
+瞳	hũng	
+瞵	lĩn	
+瞻	jëm	
+瞼	gēm	0%
+瞼	gèm	0%
+瞽	gū	
+瞾	jël	0%
+瞿	kuĩ	3%
+瞿	kuî	3%
+矇	mũng	
+矉	pĩn	
+矍	kōk	0%
+矓	lũng	
+矗	chūk	
+矙	häm	0%
+矚	jūk	
+矛	mão	
+矜	gän	3%
+矜	gëin	3%
+矜	kĩn	3%
+矢	sī	0%
+矣	yì	
+知	ï	
+知	jï	
+矧	chīn	
+矩	guī	
+矬	chõ	
+矬	tö	
+短	ōn	
+矮	āi	0%
+矯	gēl	0%
+矰	däng	
+矱	vòk	3%
+石	sèk	
+石	sêk	
+矴	èin	
+矸	gön	3%
+矺	dàp	
+矺	hōk	
+矺	jä	
+矺	jàk	
+矺	jēt	
+矻	fūt	3%
+矻	ngūt	3%
+矽	dèik	
+砂	sâ	
+砇	mĩn	0%
+砉	và	
+砉	vàk	
+砌	täi	0%
+砍	hām	
+砑	ngà	
+砒	päi	
+研	ngān	3%
+研	ngãn	3%
+研	ngëin	3%
+研	ngẽin	3%
+砘	ùn	
+砝	fāt	0%
+砟	dòk	0%
+砟	jä	0%
+砢	ü	0%
+砣	 pũ	
+砣	hõ	
+砥	āi	0%
+砦	jài	
+砧	îm	
+砩	fūt	
+砫	chuî	0%
+砬	lìp	3%
+砭	bēin	
+砰	bīn	3%
+砰	pâng	3%
+砰	pẽin	3%
+砲	päo	0%
+破	pö	
+砷	sïn	
+砸	jàk	
+砸	jät	
+砹	ngài	
+砼	hũng	
+硃	jï	
+硅	gï	
+硇	não	
+硌	gōk	0%
+硌	lōk	0%
+硎	yẽin	
+硐	ùng	
+硒	xäi	
+硜	häng	
+硝	xël	
+硠	lõng	
+硤	hèp	3%
+硥	mông	0%
+硥	pông	0%
+硨	chëh	
+硨	guï	
+硪	ngõ	3%
+硫	liũ	
+硬	gāng	
+硬	ngāng	
+硬	ngàng	
+硭	mõng	
+确	kōk	
+硯	ngûn	3%
+硼	pãng	3%
+碁	kĩ	3%
+碇	èin	
+碉	ël	
+碌	lūk	3%
+碌	lük	3%
+碌	lûk	3%
+碎	xuï	
+碎	xuî	
+碑	bï	
+碓	uî	
+碗	vōn	
+碘	ēin	
+碘	èin	
+碚	pôi	
+碞	ngãm	0%
+碟	èp	3%
+碡	ùk	0%
+碣	kēik	
+碥	bēin	
+碧	bēik	
+碨	vì	
+碩	sêk	
+碪	îm	
+碭	òng	
+碰	püng	
+碲	äi	
+碳	hän	
+碴	châ	0%
+碸	füng	
+碹	xün	
+確	kōk	
+碼	mâ	
+碾	jīn	3%
+磁	xũ	
+磅	bòng	
+磅	põng	
+磇	päi	0%
+磉	xông	
+磊	luî	
+磋	tö	
+磐	põn	
+磓	uï	0%
+磔	jàk	0%
+磕	hāp	3%
+磕	hēip	3%
+磙	gūn	0%
+磚	jön	
+磟	lūk	3%
+磡	häm	
+磣	chīm	
+磣	chïn	
+磧	dēik	0%
+磨	mõ	
+磨	mò	
+磨	mũ	
+磬	hëin	
+磯	gï	
+磲	kuĩ	
+磴	äng	
+磷	lẽin	3%
+磷	lĩn	3%
+磺	võng	
+磻	põn	3%
+磽	ngẽl	
+礁	dël	
+礄	kẽl	
+礅	ūn	
+礆	gān	
+礌	luì	0%
+礎	chō	
+礓	gëng	
+礙	ngòi	
+礞	mũng	
+礟	päo	0%
+礡	bòk	
+礤	chät	
+礦	köng	0%
+礧	luì	
+礪	lài	
+礫	lēik	3%
+礫	lèik	3%
+礬	fãn	0%
+礮	päo	
+礱	lũng	
+礴	bòk	
+礸	chät	0%
+礹	ngãm	0%
+示	sì	3%
+礽	ngẽin	
+社	sêh	0%
+社	sì	0%
+祀	dù	
+祁	kĩ	
+祆	hëin	
+祇	jī	
+祇	kĩ	
+祈	kĩ	
+祉	jī	0%
+祊	bäng	0%
+祏	sêk	
+祐	yiù	
+祓	fūt	
+祕	bï	0%
+祖	dū	
+祗	jī	0%
+祘	xön	
+祚	dò	
+祛	huï	
+祛	kuï	
+祜	fù	0%
+祜	vü	0%
+祝	jūk	3%
+神	sĩn	
+祟	xuì	
+祠	xũ	
+祥	tẽng	
+祧	hël	
+票	pêl	3%
+祭	däi	3%
+祲	dïm	0%
+祺	kĩ	
+祿	lùk	
+禁	gïm	3%
+禁	gîm	3%
+禁	kïm	3%
+禊	hài	
+禍	vò	0%
+禎	jëin	
+福	fūk	3%
+禕	yï	
+禘	äi	
+禚	jēk	0%
+禤	hün	0%
+禥	kĩ	0%
+禦	nguì	
+禧	hī	0%
+禧	hï	0%
+禩	dù	
+禪	sẽm	0%
+禪	sèn	0%
+禮	lâi	
+禰	nâi	0%
+禰	nî	0%
+禱	hāo	0%
+禳	ngẽng	
+禸	 ngẽl	0%
+禹	yî	
+禺	nguĩ	3%
+禽	kĩm	
+禾	võ	
+禿	tūk	
+秀	xiü	
+私	xü	
+秈	xëin	
+秉	bēin	
+秋	tiü	
+种	chũng	0%
+科	fö	
+秒	mêl	
+秔	gäng	0%
+秕	bī	
+秕	bï	
+秕	pât	
+秘	bï	0%
+租	dü	
+秣	mòt	0%
+秤	chêin	3%
+秦	tũn	
+秧	yëng	
+秩	èik	
+秫	sùt	
+秭	dī	
+秶	dü	0%
+秸	gäi	
+移	yĩ	
+稀	hï	
+稁	gāo	0%
+稂	lõng	
+稃	fũ	
+稅	suï	3%
+稈	gōn	
+稈	gön	
+稉	gäng	
+程	chẽin	
+稍	sāo	
+稔	nèm	3%
+稔	nîm	3%
+稖	pâng	
+稗	pâi	3%
+稙	jèik	0%
+稚	jï	
+稜	lẽin	3%
+稞	fö	0%
+稟	bīn	
+稠	chiũ	
+稠	não	
+稨	bēin	
+稬	nò	
+稬	nù	
+種	jūng	
+種	jüng	
+稰	xuï	0%
+稱	chëin	3%
+稱	chêin	3%
+稷	dēik	
+稹	chīn	0%
+稹	jïn	0%
+稺	jï	
+稻	ào	
+稼	gä	
+稽	kāi	3%
+稽	käi	3%
+稾	gāo	
+稿	gāo	
+穀	gūk	3%
+穄	däi	
+穅	höng	
+穆	mùk	
+穇	sâm	3%
+穇	täm	3%
+穉	jï	
+穌	xü	
+積	dēik	
+穎	vèin	
+穗	xuì	
+穡	sēik	
+穢	vï	
+穢	vöi	
+穣	ngẽng	0%
+穤	nò	0%
+穤	nù	0%
+穨	huĩ	
+穩	vūn	
+穫	vòk	3%
+穭	luî	
+穰	ngẽng	0%
+穴	yòt	
+穵	vät	
+究	giü	
+穸	dèik	
+穹	kũng	0%
+空	hüng	3%
+穾	yël	0%
+穿	chün	
+窀	jün	
+突	ùt	
+突	ût	
+窄	jäk	
+窅	êl	
+窅	yēl	
+窆	bēin	
+窈	yēl	
+窉	bëng	
+窊	vä	
+窌	gäo	
+窒	jìt	3%
+窓	töng	
+窕	èl	0%
+窖	gäo	
+窗	töng	
+窘	kün	0%
+窛	këo	0%
+窟	fūt	0%
+窠	vö	
+窣	xūt	
+窨	fün	
+窨	yîm	
+窩	vö	
+窪	vä	
+窬	yĩ	0%
+窮	kũng	
+窮	kûng	
+窯	yẽl	
+窰	yẽl	
+窱	hẽl	
+窳	yãi	
+窳	yî	
+窵	ël	
+窶	guì	
+窶	lẽo	
+窸	xēik	
+窺	kï	
+窻	töng	
+窼	chão	0%
+窼	vö	0%
+窿	lũng	
+竄	chōn	
+竄	tōn	
+竅	hël	
+竇	èo	3%
+竇	êo	3%
+竈	dâo	
+竊	tëik	
+立	lìp	
+竑	fãng	
+竒	gï	0%
+竒	kĩ	0%
+站	jàm	
+竜	lũng	0%
+竝	bèin	
+竟	gèin	
+章	jëng	
+竢	dù	
+竣	dün	0%
+竤	fãng	0%
+童	hũng	
+竦	xūng	
+竭	gèik	
+端	ön	
+競	gèin	3%
+竹	jūk	
+竺	jūk	
+竺	ūk	
+竽	yï	
+竾	chĩ	
+竿	gōn	
+竿	gön	
+竿	gôn	
+竿	gûn	
+笁	jūk	0%
+笄	gâi	
+笆	bä	
+笈	gēp	0%
+笊	jäo	
+笏	fūt	
+笑	xël	
+笓	bì	
+笙	säng	
+笛	èk	3%
+笞	chï	
+笠	lāp	0%
+笠	läp	0%
+笠	lēip	0%
+笠	lêip	0%
+笤	hẽl	
+笥	xü	0%
+符	fũ	
+笨	bùn	
+笪	ät	
+笪	hān	
+笫	dū	
+第	ài	
+笭	lẽin	
+笮	dòk	0%
+笮	dôk	0%
+笮	jä	0%
+笮	jāk	0%
+笮	jäk	0%
+笰	fūt	
+笱	gēo	
+笳	gä	
+笸	pō	
+笻	kũng	
+筁	kūk	0%
+筂	chĩ	0%
+筅	xēin	
+筆	bīt	
+筇	kũng	
+等	āng	
+筋	gïn	
+筌	tũn	
+筍	xūn	
+筏	fàt	
+筐	köng	0%
+筒	hûng	
+筓	gâi	0%
+答	āp	
+策	chāk	
+筘	këo	
+筠	gün	
+筠	yũn	
+筢	pã	
+筤	lõng	
+筥	guī	
+筧	gān	
+筭	xön	
+筮	sâi	
+筯	jì	
+筱	xēl	0%
+筲	säo	
+筴	chāk	
+筴	gäp	
+筵	yẽn	
+筷	fäi	
+筻	gäng	
+筿	xēl	
+箄	pãi	
+箅	bï	
+箋	dëin	
+箍	kû	
+箎	chĩ	
+箏	jäng	3%
+箐	dëin	3%
+箐	tëin	3%
+箑	dèp	3%
+箑	sèp	3%
+箒	jāo	
+箔	bòk	
+箕	gî	
+算	xön	
+箜	hüng	
+箝	kẽm	
+箠	chuĩ	0%
+箠	juì	0%
+管	 gōn	
+箢	yön	
+箬	ngèk	
+箭	dëin	
+箱	xëng	
+箱	xêng	
+箴	jïm	
+箵	xëin	
+箸	jì	0%
+箾	xël	
+節	dēik	
+節	dëik	
+節	dêik	
+篁	võng	
+範	fàn	
+篅	chūn	
+篆	xùn	
+篇	pëin	
+築	jūk	
+篋	gēp	0%
+篌	hẽo	
+篒	yï	0%
+篗	yòt	0%
+篙	gäo	
+篙	gâo	
+篚	fī	
+篛	ngèk	
+篝	këo	3%
+篠	xēl	0%
+篡	sän	
+篣	pãng	
+篣	põng	
+篤	ūk	
+篥	lùt	
+篦	bì	3%
+篨	chuĩ	0%
+篩	säi	0%
+篩	sâi	0%
+篪	chĩ	
+篬	tëng	0%
+篬	töng	0%
+篲	fì	0%
+篳	bīt	
+篷	pũng	
+篸	chām	3%
+篹	dōn	3%
+篹	jàn	3%
+篹	xūn	3%
+篼	ëo	
+篾	mêik	
+簀	jāk	
+簁	säi	0%
+簃	yĩ	
+簇	tūk	0%
+簉	dào	0%
+簋	gī	
+簌	tūk	0%
+簍	lêo	
+簍	luī	
+簏	lùk	0%
+簑	xäo	0%
+簒	sän	0%
+簕	läk	0%
+簛	säi	0%
+簞	än	
+簟	èin	3%
+簠	fū	
+簡	gān	
+簣	gì	
+簦	äng	
+簧	võng	
+簨	xūn	0%
+簪	däm	
+簫	xël	
+簭	sâi	0%
+簰	pãi	3%
+簴	guì	0%
+簷	sẽm	0%
+簸	bö	0%
+簸	bô	0%
+簸	bü	0%
+簸	bû	0%
+簼	këo	0%
+簽	tëm	
+簽	têm	
+簽	tïm	
+簾	lẽm	
+簿	bù	
+籀	jào	
+籃	lâm	
+籄	gì	0%
+籆	yòt	0%
+籌	chiũ	
+籌	chiû	
+籍	dèik	
+籒	jào	0%
+籖	têm	0%
+籙	lùk	
+籜	hôk	
+籝	yẽin	
+籟	lài	
+籠	lūng	3%
+籠	lũng	3%
+籠	lûng	3%
+籤	têm	
+籥	yèk	
+籧	kuĩ	0%
+籩	bëin	
+籪	òn	
+籬	lĩ	
+籬	lî	
+籮	lõ	
+籮	lũ	
+籰	yòt	
+籲	yèk	0%
+米	māi	3%
+籵	fãn	0%
+籼	xëin	
+籽	dū	
+粃	bï	
+粄	bōn	
+粇	gäng	0%
+粇	höng	0%
+粈	ngẽl	0%
+粉	fūn	
+粋	xuì	0%
+粑	bä	
+粒	līp	0%
+粒	lïp	0%
+粕	päk	
+粕	pōk	
+粗	tü	
+粘	jëm	0%
+粘	nāk	0%
+粘	nëm	0%
+粘	nẽm	0%
+粞	xäi	
+粟	xūk	
+粢	dü	3%
+粢	tĩ	3%
+粥	jūk	3%
+粦	lĩn	0%
+粧	jöng	0%
+粬	kūk	
+粱	lẽng	
+粲	tān	
+粳	gäng	3%
+粵	yòt	
+粹	xuì	3%
+粺	pâi	0%
+粼	lĩn	
+粽	dûng	
+精	dëin	3%
+粿	gō	
+糂	xām	0%
+糅	ngẽl	3%
+糈	xuï	
+糉	dûng	
+糊	vũ	
+糌	dän	0%
+糍	tĩ	
+糍	tî	
+糓	gūk	0%
+糕	gäo	
+糖	hõng	
+糗	chiü	3%
+糙	täo	
+糚	jöng	0%
+糜	mĩ	0%
+糜	mõi	0%
+糝	xām	3%
+糝	xēim	3%
+糞	fün	
+糞	fûn	
+糟	däo	
+糠	höng	
+糠	hông	
+糡	dëng	
+糣	xām	0%
+糥	nò	0%
+糥	nù	0%
+糧	lẽng	
+糨	dëng	0%
+糨	gèng	0%
+糬	sĩ	
+糭	dûng	0%
+糯	nò	
+糯	nù	
+糰	hõn	
+糲	lài	
+糴	èk	
+糵	ngēik	
+糶	hël	
+糸	xû	
+系	hài	5%
+糾	gēl	3%
+紀	gī	
+紂	jào	
+約	yēk	3%
+約	yëk	3%
+約	yël	3%
+紅	güng	5%
+紅	hũng	5%
+紅	hûng	5%
+紆	yï	
+紇	hàt	
+紇	kēik	
+紈	yõn	
+紉	yìn	0%
+紊	lùn	0%
+紊	mùn	0%
+紋	mũn	
+納	nàp	
+紐	niū	0%
+紓	sï	
+純	sũn	3%
+紕	pï	0%
+紖	yîn	3%
+紗	sä	
+紙	jī	
+級	kīp	
+紛	fün	
+紜	vũn	
+紝	ngìm	3%
+素	xü	
+紡	fōng	
+索	sōk	5%
+索	sōt	5%
+索	xōk	5%
+索	xôk	5%
+紥	jät	
+紩	èik	
+紫	dū	
+紬	chëo	
+紬	chiũ	
+紮	jät	0%
+累	luĩ	
+累	luì	
+細	xäi	
+細	xâi	
+紱	fūt	
+紲	xēik	
+紳	sïn	
+紵	chuî	
+紹	sèl	
+紺	gäm	
+紼	fūt	
+紿	òi	3%
+絀	jōt	3%
+終	jüng	
+絃	yẽn	
+組	dū	
+絆	bòn	0%
+経	gëin	0%
+絎	hõng	
+絏	xēik	
+結	gēik	3%
+結	gëik	3%
+絕	dùt	0%
+絖	köng	0%
+絛	häo	
+絜	gēik	
+絜	ngēik	
+絝	fû	
+絞	gāo	3%
+絡	lōk	3%
+絡	lôk	3%
+絢	xün	0%
+絥	bì	0%
+絥	fùk	0%
+給	kēip	
+給	kīp	
+絨	ngũng	3%
+絪	yïn	
+絮	xuî	0%
+絰	èik	
+統	hūng	
+絲	xü	
+絲	xû	
+絳	göng	
+絹	gün	
+絺	chï	
+綁	bōng	
+綃	xël	
+綆	gāng	
+綈	häi	
+綈	hãi	
+綌	kēik	0%
+綏	xuï	
+經	gëin	
+綜	düng	
+綞	ū	
+綠	lùk	
+綢	chiũ	
+綣	hün	0%
+綣	kūn	0%
+綦	kĩ	
+綫	xëin	
+綬	siù	
+維	vĩ	3%
+綮	hëin	
+綮	kāi	
+綰	vân	0%
+綱	göng	
+網	mōng	
+綳	bäng	0%
+綴	jōt	3%
+綴	juì	3%
+綵	tōi	
+綸	gän	
+綸	lũn	
+綹	liû	
+綺	yī	
+綻	jàn	
+綽	chēk	3%
+綾	lẽin	
+綿	mẽin	
+緄	kūn	0%
+緅	jiü	
+緇	dü	
+緊	gīn	
+緋	fï	
+緌	xuï	0%
+緐	fãn	
+緑	lùk	0%
+緒	xuî	
+緗	xëng	
+緘	jäm	
+緙	gāk	3%
+緙	hāk	3%
+線	xëin	
+緜	mẽin	
+緝	tīp	
+緞	òn	
+締	äi	0%
+緡	mĩn	0%
+緡	mūn	0%
+緣	yõn	3%
+緥	bāo	
+緦	xü	
+編	pëin	
+緩	fòn	0%
+緬	mēin	
+緯	vī	0%
+緱	gëo	0%
+緱	hẽo	0%
+緲	mêl	
+練	lèin	
+緶	bëin	
+緶	pëin	
+緹	hãi	
+緻	jï	
+縈	yẽin	
+縉	 dün	
+縊	äi	
+縋	juì	
+縐	jëo	
+縑	gëm	
+縕	vün	3%
+縗	tuï	
+縛	bòk	0%
+縛	fòk	0%
+縝	chīn	3%
+縝	sìn	3%
+縞	gāo	
+縟	yùk	
+縠	hùk	
+縢	hãng	
+縣	yòn	3%
+縫	fũng	3%
+縭	lĩ	
+縮	sūk	
+縮	sük	
+縮	sûk	
+縱	düng	3%
+縲	luĩ	
+縴	hëin	0%
+縵	màn	
+縶	jīp	
+縷	luî	
+縹	pël	0%
+縻	mĩ	
+總	dūng	
+績	dēik	0%
+績	dëk	0%
+繁	fãn	3%
+繁	põ	3%
+繃	bäng	3%
+繄	yï	0%
+繅	xäo	
+繆	lẽl	
+繆	mào	
+繆	mèl	
+繆	mẽo	
+繆	mùk	
+繇	jào	3%
+繇	yẽl	3%
+繇	yiũ	3%
+繈	kêng	
+繒	däng	3%
+繒	dèng	3%
+織	jēik	3%
+繕	sên	
+繙	fän	
+繚	lẽl	
+繚	lèl	
+繞	ngêl	
+繡	xiü	
+繢	köi	
+繦	kêng	0%
+繨	àt	
+繩	sẽin	
+繪	köi	
+繫	hài	3%
+繭	gān	0%
+繭	gēin	0%
+繮	gëng	
+繯	vãn	0%
+繰	chël	
+繰	xäo	
+繳	gēl	3%
+繳	sēk	3%
+繹	yèik	
+繼	gäi	
+繽	bïn	0%
+繾	hēin	
+繿	lãm	
+纂	dōn	
+纈	gēik	3%
+纊	köng	0%
+續	dùk	
+纍	luĩ	3%
+纏	chẽin	3%
+纓	yëin	
+纔	tõi	
+纖	hëin	
+纖	tïm	
+纘	dān	
+纛	ào	
+纛	ùk	
+纜	làm	
+缶	fèo	
+缷	xëh	0%
+缸	göng	
+缺	hūt	
+缺	kūt	
+缽	bôt	
+缾	pẽin	0%
+缾	pêng	0%
+罃	yëin	3%
+罄	hëin	
+罅	lâ	
+罅	lêp	
+罇	dûn	
+罈	hãn	
+罉	chäng	
+罋	ûng	0%
+罌	äng	0%
+罌	âng	0%
+罌	läng	0%
+罌	yëin	0%
+罍	luĩ	
+罎	hãn	
+罏	lũ	
+罐	gôn	
+网	mōng	0%
+罔	mông	
+罕	hōn	
+罘	fẽo	
+罝	jëh	0%
+罟	gü	0%
+罟	kü	0%
+罡	göng	
+罣	gä	0%
+罥	gün	0%
+罦	fũ	3%
+罨	yēm	
+罩	jäo	
+罩	jâo	
+罪	duì	
+置	jï	
+罰	fàt	
+罱	lâm	
+署	sï	0%
+署	sì	0%
+罳	xü	
+罵	mà	
+罷	bà	3%
+罸	fàt	
+罹	lĩ	
+罽	gäi	
+罽	gï	
+罾	däng	3%
+羂	gün	0%
+羅	lõ	
+羆	bï	
+羈	kï	
+羊	yẽng	0%
+羋	mĩ	0%
+羌	gëng	
+羍	tät	
+美	mî	
+羏	tẽng	0%
+羏	yẽng	0%
+羑	yiũ	
+羔	gäo	
+羖	gū	
+羙	gäo	0%
+羙	mî	0%
+羚	lẽin	
+羝	āi	
+羞	xiü	
+羡	xùn	0%
+羣	kũn	
+群	kũn	0%
+羥	gèin	0%
+羥	hän	0%
+羧	sö	
+義	ngì	
+羮	gäng	0%
+羯	gèik	0%
+羯	kēik	0%
+羰	hän	
+羰	höng	
+羲	hï	
+羴	sën	
+羶	sën	0%
+羸	luĩ	
+羹	gäng	3%
+羼	chān	0%
+羽	yî	
+羿	ngài	
+翀	chüng	
+翁	yüng	
+翄	chï	
+翅	chï	
+翊	yèik	
+翌	yèik	
+翎	lẽin	
+習	dìp	0%
+翔	tẽng	
+翕	kīp	3%
+翛	xël	0%
+翟	èik	
+翟	jàk	
+翠	tuï	
+翡	fī	0%
+翡	fï	0%
+翣	säp	
+翤	chï	0%
+翥	jī	0%
+翦	dēin	
+翨	chï	
+翩	pëin	
+翫	ngòn	0%
+翬	fï	
+翮	hàt	
+翯	hòk	
+翰	hòn	
+翱	ngão	0%
+翳	äi	0%
+翳	yï	0%
+翶	ngão	0%
+翹	kël	3%
+翹	kẽl	3%
+翺	ngão	
+翻	fän	
+翼	yèik	
+翼	yêik	
+翾	xün	
+耀	yèl	
+老	lāo	
+老	läo	
+考	hāo	
+耄	mào	
+者	jēh	
+耆	jī	3%
+耆	kĩ	3%
+耆	sï	3%
+耋	èik	
+而	ngĩ	0%
+耍	sā	
+耐	nòi	3%
+耑	jön	
+耑	ön	
+耒	lòi	0%
+耔	dū	
+耕	gäng	3%
+耖	säo	0%
+耗	häo	
+耘	vũn	
+耙	pã	3%
+耜	dù	0%
+耞	gä	
+耠	hàp	
+耠	vòk	
+耡	chõ	0%
+耡	chũ	0%
+耥	hōng	
+耦	ngêo	
+耨	nào	
+耨	nèo	
+耩	gōng	
+耪	pòng	3%
+耬	lẽo	
+耮	lão	
+耰	yiü	
+耱	mò	
+耲	vãi	
+耳	ngī	
+耵	ëin	0%
+耶	yëh	
+耶	yẽh	
+耷	āp	
+耼	äm	0%
+耽	äm	
+耿	gāng	0%
+聃	äm	
+聆	lẽin	
+聊	lẽl	
+聒	gāt	
+聖	sëin	
+聘	pëin	
+聚	duì	
+聝	kēik	0%
+聞	mũn	3%
+聯	lũn	
+聰	tüng	
+聱	ngão	
+聲	sëin	3%
+聲	sëng	3%
+聲	sêng	3%
+聳	xūng	
+聴	hëin	0%
+聴	hëng	0%
+聵	gì	0%
+聶	nēp	3%
+職	jēik	
+聹	nẽin	
+聽	hëin	3%
+聽	hëng	3%
+聾	lũng	
+聿	lùt	0%
+肄	yì	0%
+肅	xūk	
+肆	xï	
+肆	xü	
+肇	sèl	
+肉	ngùk	
+肉	ngûk	
+肋	läk	3%
+肋	làk	3%
+肌	gï	
+肎	hāng	
+肓	föng	
+肕	ngîn	0%
+肖	xël	3%
+肘	jāo	3%
+肚	ū	
+肛	göng	
+肜	yũng	
+肝	gön	
+肟	vü	
+股	gū	
+肢	jï	
+肥	fĩ	0%
+肩	gän	
+肪	fōng	
+肫	jün	3%
+肫	kîn	3%
+肭	nùt	0%
+肯	hāng	0%
+肱	gäng	
+育	yùk	3%
+肴	ngão	
+肶	bī	
+肶	bï	
+肶	pĩ	
+肷	hēp	0%
+肸	bìt	0%
+肺	fï	3%
+肺	pöi	3%
+肼	dēin	
+肽	häi	
+胂	sïn	0%
+胃	vì	
+胄	jào	0%
+胊	 kuĩ	
+背	bêh	
+背	böi	
+胍	gä	
+胍	gü	
+胎	höi	
+胖	bòn	0%
+胖	nūt	0%
+胖	põn	0%
+胗	chīn	0%
+胗	kîn	0%
+胙	dò	
+胚	pöi	
+胛	gāp	
+胝	chĩ	0%
+胝	jï	0%
+胞	bäo	0%
+胠	huï	
+胠	kuï	
+胡	vũ	
+胤	yìn	
+胥	xuï	
+胩	kā	
+胬	nū	
+胭	yën	
+胯	kä	0%
+胰	yĩ	
+胱	göng	
+胲	gōi	3%
+胲	hãi	3%
+胲	köi	3%
+胳	gāk	0%
+胴	ùng	
+胵	chï	
+胶	vão	
+胸	hüng	
+胺	ngät	3%
+胺	ön	3%
+胼	pëin	
+胼	pẽin	
+能	nãng	3%
+胾	dü	0%
+脁	hël	
+脁	yẽl	
+脂	jï	
+脅	hèp	0%
+脆	tuï	
+脈	mäk	0%
+脈	màk	0%
+脊	dëk	3%
+脊	dêk	3%
+脎	sät	
+脒	māi	
+脖	bòt	
+脘	gōn	0%
+脘	 gōn	0%
+脛	gèin	0%
+脝	häng	
+脞	tö	
+脡	hêin	0%
+脢	mõi	0%
+脣	sũn	
+脥	gäp	0%
+脦	tēik	
+脧	dün	
+脧	juï	
+脩	xiü	
+脫	höt	3%
+脬	päo	
+脯	fū	0%
+脯	pū	0%
+脰	èo	
+脲	nèl	
+脴	pī	0%
+脷	lì	
+脹	jëng	
+脺	xuì	0%
+脾	pĩ	
+脾	pî	
+腁	pëin	0%
+腆	ēin	
+腈	dëin	
+腊	läp	0%
+腊	xēik	0%
+腋	yìt	0%
+腌	lâ	0%
+腌	yēm	0%
+腌	yëp	0%
+腍	nëim	3%
+腎	sûn	
+腏	jōt	
+腐	fù	
+腑	fū	
+腒	guï	0%
+腓	fï	
+腔	höng	
+腕	vōn	
+腖	üng	
+腙	düng	
+腚	èin	
+腠	dëo	3%
+腡	lõ	0%
+腡	lũ	0%
+腥	xëng	3%
+腦	nāo	
+腧	sï	0%
+腩	näm	
+腩	nâm	
+腩	nëim	
+腫	jūng	
+腬	não	
+腮	xöi	
+腯	ùt	0%
+腰	yël	
+腱	gèin	0%
+腳	gēk	3%
+腳	gëk	3%
+腳	gêk	3%
+腴	yĩ	
+腷	bēik	
+腸	chẽng	
+腹	fūk	
+腺	xëin	
+腼	mēin	
+腿	huī	
+膀	bōng	3%
+膀	põng	3%
+膂	luî	0%
+膃	vūt	
+膇	uï	
+膈	gäk	
+膊	bōk	
+膍	pĩ	
+膏	gäo	3%
+膕	gōk	
+膗	tuï	
+膘	bël	
+膙	kêng	0%
+膚	fü	
+膛	hõng	
+膜	mōk	3%
+膜	môk	3%
+膝	xīp	
+膞	jōn	
+膠	gäo	
+膣	jìt	
+膥	chûn	0%
+膦	lĩn	3%
+膨	pãng	
+膩	nì	0%
+膪	chāi	
+膰	fãn	
+膳	sên	
+膵	xuì	0%
+膺	yëin	
+膻	sën	0%
+膽	ām	
+膾	köi	
+膿	nũng	
+臀	hũn	
+臁	lẽm	
+臂	bî	
+臃	yüng	0%
+臆	yēik	
+臈	làp	0%
+臉	lêm	
+臊	ngät	
+臊	xäo	
+臋	hũn	0%
+臌	gū	
+臍	tî	
+臏	bïn	0%
+臕	bël	
+臘	läp	0%
+臘	làp	0%
+臙	yën	0%
+臚	lũ	
+臝	gō	0%
+臞	kuĩ	
+臟	dòng	
+臠	lūn	0%
+臢	jā	3%
+臣	sĩn	
+臥	ngò	
+臧	döng	0%
+臨	lĩm	3%
+自	dàk	
+自	dū	
+自	dù	
+臬	ngēik	0%
+臭	chiü	
+臯	gäo	
+臲	ngēik	
+至	jï	
+致	jï	
+臺	hõi	
+臻	jün	
+臼	giü	
+臼	giù	
+臾	gì	3%
+臾	yĩ	3%
+臾	yūng	3%
+臿	chäp	
+舀	yēl	
+舁	yĩ	
+舂	jüng	
+舄	xēik	
+舅	kiû	
+與	yĩ	0%
+與	yî	0%
+興	hëin	0%
+舉	guī	
+舊	giù	
+舌	sêt	
+舍	sëh	0%
+舎	sëh	0%
+舐	sâi	3%
+舒	sï	
+舓	sâi	
+舔	lēm	
+舖	pü	3%
+舘	gōn	
+舙	tīt	0%
+舙	vâ	0%
+舛	chūn	
+舜	sün	
+舝	hàt	0%
+舞	mū	
+舟	jiü	
+舡	sõn	3%
+舢	sän	
+舨	bān	
+舩	sõn	0%
+航	hõng	
+舫	fōng	
+般	bön	3%
+舭	bī	
+舯	jüng	
+舲	lẽin	3%
+舳	jùk	
+舴	jäk	
+舵	hõ	0%
+舵	hũ	0%
+舶	bòk	0%
+舷	yẽn	
+舸	ö	
+舸	ü	
+船	sõn	
+舺	gāp	
+舾	xäi	
+艄	säo	
+艇	hêng	3%
+艉	mī	
+艊	bòk	0%
+艋	mâng	
+艏	siū	
+艗	yèik	
+艘	xēo	
+艙	töng	
+艚	tão	
+艟	chüng	3%
+艟	hũng	3%
+艢	tẽng	
+艤	ngāi	
+艥	tīp	0%
+艦	lâm	
+艨	mũng	
+艫	lũ	
+艮	gän	0%
+艮	ngïn	0%
+良	lẽng	
+艱	gän	
+色	sēik	
+色	sēt	
+艴	bòt	0%
+艷	yèm	
+艸	tāo	0%
+艼	ëin	
+艽	gäo	3%
+艽	giü	3%
+艾	ngài	
+艿	nâi	
+艿	ngẽin	
+芄	yõn	
+芊	tëin	
+芋	vû	3%
+芍	sēk	3%
+芎	güng	0%
+芏	ù	0%
+芑	gī	
+芑	hī	
+芒	möng	0%
+芒	mõng	0%
+芘	pĩ	0%
+芙	fũ	
+芝	jï	
+芟	sän	
+芡	hïm	
+芣	fẽo	
+芤	këo	3%
+芥	gäi	
+芨	gèp	0%
+芩	kĩm	
+芩	sẽim	
+芪	kĩ	
+芫	yõn	0%
+芬	fün	
+芭	bä	
+芮	yuì	
+芯	xïm	
+芯	xîm	
+芰	gì	
+花	fä	0%
+芲	fä	0%
+芳	föng	
+芴	mòt	
+芶	gēo	
+芷	jī	
+芸	vũn	
+芹	kĩn	
+芻	chö	
+芽	ngã	
+芾	fï	
+芾	fūt	
+芿	ngẽin	0%
+苄	bèin	
+苉	pīt	0%
+苊	āk	
+苑	vōn	
+苒	ngëm	
+苒	ngêm	
+苓	lẽin	
+苔	hõi	
+苕	hẽl	
+苕	sẽl	
+苗	mẽl	
+苘	gēin	
+苛	hõ	3%
+苛	hô	3%
+苜	mùk	
+苞	bäo	
+苟	gēo	3%
+苠	mĩn	
+苡	yî	
+苢	yî	
+苣	guì	
+苤	pī	
+若	ngèk	0%
+苦	fū	
+苧	chuî	
+苨	nãi	0%
+苫	sän	
+苫	sëin	
+苯	bōn	
+英	yëin	
+苲	jä	0%
+苴	duï	3%
+苶	nëp	
+苷	gäm	
+苺	mõi	0%
+苻	fũ	
+苾	bēik	0%
+茀	fūt	0%
+茁	jōt	0%
+茂	mào	
+范	fàn	
+茄	gä	0%
+茄	kêh	0%
+茅	mão	
+茆	mão	3%
+茇	bàt	3%
+茈	dū	
+茈	xũ	
+茉	mòt	
+茌	Chï	
+茓	yòt	
+茗	mẽin	
+茚	yìn	
+茛	gän	
+茜	sèn	3%
+茜	xäi	3%
+茝	tōi	
+茨	sĩ	
+茨	xũ	
+茩	hèo	
+茫	mõng	
+茬	chã	
+茭	gäo	
+茯	fùk	
+茱	jï	0%
+茲	dü	
+茲	xũ	
+茳	göng	
+茴	või	
+茵	yïn	
+茶	chã	
+茸	ngũng	
+茹	nguĩ	0%
+茺	chüng	
+茼	hũng	
+茼	tũng	
+荀	xün	
+荃	tũn	
+荄	köi	
+荇	hàng	
+草	tāo	
+荊	gëin	
+荍	kẽl	
+荏	ngìm	0%
+荑	hãi	
+荑	yĩ	
+荒	föng	
+荔	lài	
+荳	èo	
+荷	hõ	
+荷	hò	
+荸	bòt	
+荻	èik	
+荼	hũ	3%
+荽	xuï	
+莆	pũ	
+莉	lì	
+莊	jöng	
+莋	dèik	
+莋	dôk	
+莎	sä	
+莎	sö	
+莒	guī	
+莓	mõi	
+莕	hàng	
+莖	gèin	0%
+莘	xïn	
+莛	hẽin	
+莜	yiũ	
+莝	tö	
+莞	fōn	3%
+莞	gōn	3%
+莠	yiù	
+莢	gäp	
+莢	gâp	
+莧	hàn	
+莨	lẽng	3%
+莨	lõng	3%
+莩	fũ	
+莩	pẽl	
+莪	ngõ	
+莫	mòk	3%
+莰	hām	
+莽	mông	0%
+菀	vōn	0%
+菁	dëin	0%
+菁	tëin	0%
+菂	ēik	
+菅	gän	
+菇	gü	
+菈	lā	
+菉	lùk	
+菊	gūk	
+菌	kūn	0%
+菌	kûn	0%
+菍	nëp	0%
+菍	nîm	0%
+菏	hõ	
+菑	döi	0%
+菑	dü	0%
+菔	fùk	
+菕	lũn	
+菖	chëng	
+菘	xüng	
+菜	töi	
+菜	tôi	
+菝	bàt	
+菟	hü	
+菟	hũ	
+菠	bö	
+菠	bü	
+菡	hãm	0%
+菢	päo	
+菥	xēik	
+菩	pũ	
+菪	òng	
+華	vã	0%
+華	và	0%
+菰	gü	
+菱	lẽin	
+菲	fī	
+菲	fï	
+菴	äm	
+菴	yēm	
+菷	jāo	0%
+菸	yën	
+菸	yï	
+菹	duï	
+菹	juï	
+菼	häm	0%
+菽	sùk	0%
+菾	hëm	
+萁	gî	
+萁	kĩ	
+萃	xuì	
+萄	hão	
+萄	hô	
+萆	bï	
+萇	chẽng	
+萊	lõi	
+萋	täi	
+萌	mãng	
+萍	pẽin	
+萎	vī	0%
+萏	hàm	
+萑	fũn	
+萘	nòi	
+萜	hēp	
+萩	tiü	
+萬	màk	3%
+萬	màn	3%
+萮	yĩ	0%
+萱	xün	
+萵	vö	
+萸	yĩ	
+萹	bēin	0%
+萼	ngōk	
+落	lài	5%
+落	lòk	5%
+落	lôk	5%
+葆	bāo	
+葉	yèp	3%
+葉	yêp	3%
+葎	lùt	
+葑	füng	0%
+葒	hũng	
+葓	hũng	
+葖	ùt	
+著	jēk	
+著	jëk	
+著	jèk	
+著	jï	
+葙	xëng	
+葚	sìm	0%
+葛	gōt	
+葛	gût	
+葜	hät	
+葟	võng	
+葡	pũ	
+董	ūng	
+葤	jào	
+葦	vī	
+葩	bä	3%
+葫	vü	
+葬	döng	
+葭	gä	
+葯	yêk	3%
+葳	vī	
+葵	kĩ	
+葵	kî	
+葶	hẽin	
+葷	fün	
+葷	vũn	
+葷	vùn	
+葸	xāi	
+葺	tīt	
+蒂	î	0%
+蒈	gäi	
+蒎	pāi	
+蒐	xēo	
+蒓	sũn	
+蒔	sĩ	
+蒗	lòng	0%
+蒙	büng	
+蒙	mũng	
+蒜	xôn	
+蒞	lì	
+蒟	guī	
+蒡	bōng	3%
+蒦	vòk	0%
+蒨	sën	0%
+蒭	chö	0%
+蒯	gāi	0%
+蒲	pũ	3%
+蒴	sōk	
+蒸	jëin	
+蒹	gëm	
+蒺	dìp	0%
+蒻	ngèk	
+蒼	töng	3%
+蒽	yïn	
+蒿	gāo	
+蒿	häo	
+蓀	xün	
+蓁	jün	3%
+蓂	mèik	3%
+蓂	mẽin	3%
+蓄	chūk	
+蓆	dèk	
+蓇	gūt	
+蓉	yũng	
+蓊	yüng	
+蓋	gôi	3%
+蓋	gōt	3%
+蓋	köi	3%
+蓍	sï	
+蓏	gō	0%
+蓐	yùk	
+蓑	xäo	
+蓓	bòi	
+蓓	pôi	
+蓖	bï	0%
+蓢	löng	0%
+蓬	pũng	
+蓮	lẽin	
+蓯	tüng	
+蓰	xāi	
+蓴	sũn	
+蓺	ngài	
+蓼	lèl	
+蓼	lùk	
+蓽	bīt	
+蓿	xūk	
+蔆	lẽin	0%
+蔌	tūk	0%
+蔑	mèik	
+蔓	màn	3%
+蔔	bàk	
+蔗	jêh	
+蔘	täm	0%
+蔘	xäm	0%
+蔚	vï	
+蔞	lëo	3%
+蔞	lẽo	3%
+蔟	tūk	0%
+蔠	jüng	
+蔡	töi	3%
+蔣	dēng	3%
+蔥	tüng	
+蔥	tûng	
+蔦	nêl	
+蔧	fì	
+蔫	yën	
+蔬	sü	
+蔭	yïm	3%
+蔭	yîm	3%
+蔴	mã	
+蔶	jāk	0%
+蔸	ëo	
+蔻	këo	
+蔽	bäi	
+蕁	tĩm	0%
+蕃	fän	3%
+蕃	fãn	3%
+蕆	chīn	0%
+蕈	xïn	
+蕉	dêl	
+蕊	luî	0%
+蕌	luî	0%
+蕎	kẽl	
+蕒	mäi	
+蕓	vũn	
+蕕	yiũ	
+蕖	kuĩ	
+蕘	ngẽl	
+蕙	fì	
+蕚	ngōk	0%
+蕞	duï	0%
+蕢	gì	
+蕤	xuï	3%
+蕨	kūt	
+蕩	òng	
+蕪	mũ	
+蕭	xël	
+蕷	yì	
+蕹	yüng	
+蕺	tīp	0%
+蕻	hũng	
+蕾	luî	
+薄	bòk	
+薅	häo	
+薇	mĩ	
+薈	vòi	0%
+薉	vï	
+薊	gäi	
+薌	hëng	0%
+薏	yï	
+薐	lẽin	
+薑	gëng	
+薔	tẽng	3%
+薙	häi	
+薛	xēik	
+薜	pēik	3%
+薟	lêm	3%
+薢	gāi	0%
+薤	hài	
+薦	dëin	
+薨	gäng	
+薩	xät	
+薪	xïn	
+薯	sĩ	0%
+薰	fün	
+薷	yĩ	
+薸	pẽl	
+薹	hõi	
+薺	tãi	3%
+薺	tî	3%
+藁	gāo	
+藉	dèik	3%
+藊	bēin	
+藋	ël	
+藍	lãm	
+藎	dìn	0%
+藏	dòng	3%
+藏	tõng	3%
+藐	mêl	0%
+藕	ngêo	
+藜	lãi	0%
+藝	ngài	
+藟	luî	
+藠	kêl	
+藤	hãng	
+藥	yèk	3%
+藥	yêk	3%
+藩	fãn	
+藪	xēo	
+藭	kũng	
+藳	gāo	
+藶	lèik	
+藷	sĩ	0%
+藹	ōi	
+藺	lùn	
+藻	täo	
+藿	kök	
+蘀	hök	
+蘄	kĩ	
+蘅	hãng	
+蘆	lũ	
+蘇	sō	
+蘇	xü	
+蘊	vūn	5%
+蘋	pẽin	3%
+蘋	pĩn	3%
+蘑	mão	
+蘑	mõ	
+蘑	mũ	
+蘘	ngẽng	
+蘚	xēin	
+蘞	lêm	3%
+蘢	lũng	
+蘧	kuî	
+蘩	fãn	
+蘭	lãn	
+蘸	dàm	
+蘸	lëim	
+蘺	lĩ	
+蘼	mĩ	
+蘿	liũ	
+蘿	lõ	
+蘿	lũ	
+虂	lù	0%
+虆	lõ	
+虍	fū	
+虎	fū	
+虐	ngèk	
+虒	xü	
+虓	häo	
+虔	kẽin	
+處	chuī	3%
+處	chuî	3%
+虛	huï	
+虜	lû	
+虜	lû	
+虝	fū	0%
+虞	nguĩ	
+號	hão	
+號	hào	
+虡	guì	
+虢	kēik	
+虣	bào	
+虧	kï	
+虫	chũng	3%
+虬	kiũ	
+虯	kiũ	
+虱	sēt	
+虴	jäk	
+虵	sẽh	0%
+虸	dū	0%
+虹	hũng	
+虹	kũng	
+虺	fī	
+虺	föi	
+虻	mông	0%
+虼	gīt	0%
+蚄	föng	0%
+蚄	pông	0%
+蚊	mûn	
+蚋	yuì	
+蚌	pông	
+蚍	pĩ	
+蚓	yîn	
+蚖	ngũn	
+蚘	või	0%
+蚜	ngã	
+蚠	fũn	0%
+蚡	fũn	
+蚣	güng	
+蚤	dāo	
+蚦	ngẽm	0%
+蚧	gāi	
+蚨	fũ	0%
+蚩	chï	
+蚪	ēo	
+蚫	bäo	0%
+蚯	hiü	
+蚰	yiũ	
+蚱	jä	3%
+蚴	yiü	
+蚵	hō	
+蚵	hõ	
+蚶	häm	
+蚺	nãm	
+蚺	ngëm	
+蚺	ngẽm	
+蚺	ngêm	
+蚼	gēo	
+蚼	kuĩ	
+蛀	jï	
+蛄	gū	
+蛄	gü	
+蛆	juï	3%
+蛆	tuï	3%
+蛇	sẽh	
+蛇	yĩ	
+蛉	lẽin	
+蛋	àn	3%
+蛐	kūk	
+蛑	mẽo	
+蛓	xü	
+蛔	või	
+蛕	või	0%
+蛖	pông	0%
+蛘	yẽng	0%
+蛙	vä	
+蛚	lèik	
+蛛	jï	
+蛞	föt	3%
+蛟	gäo	
+蛣	kēik	
+蛤	gēip	3%
+蛤	hā	3%
+蛨	màk	
+蛩	kũng	
+蛭	jìt	
+蛸	säo	
+蛸	xël	
+蛹	ngùng	0%
+蛺	gäp	
+蛻	huï	0%
+蛾	ngõ	3%
+蛾	ngũ	3%
+蜀	sùk	
+蜂	füng	
+蜃	sûn	0%
+蜄	sûn	0%
+蜆	hēin	
+蜇	jēt	
+蜈	m̃	
+蜉	fẽo	
+蜊	lì	0%
+蜋	lõng	0%
+蜍	chuĩ	3%
+蜍	kuĩ	3%
+蜎	gün	
+蜑	àn	
+蜒	yẽn	
+蜓	hẽin	
+蜖	või	0%
+蜘	jï	
+蜚	fï	0%
+蜜	mìt	
+蜝	kĩ	0%
+蜞	kĩ	
+蜡	jä	0%
+蜢	māng	3%
+蜣	gëng	
+蜥	xēik	
+蜩	hẽl	
+蜮	vèik	0%
+蜯	pông	
+蜰	bï	0%
+蜰	fĩ	0%
+蜱	pĩ	
+蜴	yèik	
+蜵	gün	
+蜷	kũn	
+蜹	yuì	
+蜺	ngãi	
+蜻	tëin	
+蜾	gō	
+蜿	vōn	
+蝆	yẽng	0%
+蝌	fö	
+蝍	jēik	
+蝎	hòt	0%
+蝎	kēik	0%
+蝓	yĩ	
+蝕	sèik	
+蝕	sèt	
+蝗	võng	
+蝘	yēn	
+蝙	bēin	
+蝟	vì	
+蝠	fūk	
+蝣	yiũ	0%
+蝤	yiũ	0%
+蝥	mão	3%
+蝥	mẽo	3%
+蝦	hā	3%
+蝦	hä	3%
+蝦	hâ	3%
+蝦	mâ	3%
+蝨	sēt	
+蝮	fūk	
+蝯	yõn	0%
+蝰	föi	
+蝱	mông	
+蝲	lā	
+蝴	vũ	
+蝶	èp	3%
+蝸	vö	0%
+蝻	nãm	0%
+蝽	chün	
+螂	lõng	
+螃	põng	3%
+螄	xü	
+螅	xēik	
+螈	ngũn	
+螋	xēo	
+螌	bän	0%
+融	yũng	
+螎	yũng	0%
+螑	chiü	
+螓	tũn	
+螔	yĩ	
+螕	bì	0%
+螕	pĩ	0%
+螖	vàt	
+螗	hõng	
+螙	ù	
+螞	mā	
+螞	mà	
+螞	mâ	
+螟	mẽin	
+螢	yẽin	
+螣	àk	
+螣	hãng	
+螤	jüng	0%
+螫	sēik	
+螬	tão	
+螭	chï	
+螯	ngão	0%
+螯	ngào	0%
+螲	èik	0%
+螲	jìt	0%
+螳	hõng	
+螵	pël	0%
+螺	lũ	
+螺	lû	
+螻	lẽo	
+螽	jüng	
+螾	yîn	
+螿	dëng	
+蟀	xūt	
+蟄	jèik	0%
+蟆	mã	
+蟇	mã	0%
+蟈	gōk	
+蟊	mão	0%
+蟊	mẽo	0%
+蟋	xēik	
+蟎	mōn	
+蟑	jëng	
+蟒	mông	
+蟓	dèng	
+蟘	àk	0%
+蟚	pãng	0%
+蟛	pãng	
+蟟	lẽl	
+蟠	põn	3%
+蟢	hī	
+蟣	gī	3%
+蟥	võng	
+蟧	lâo	
+蟧	lẽl	
+蟪	fì	
+蟫	hâm	0%
+蟬	chên	0%
+蟬	sẽm	0%
+蟭	dël	
+蟮	sên	
+蟯	ngẽl	3%
+蟲	chũng	
+蟲	chûng	
+蟶	sëin	
+蟷	öng	
+蟹	hāi	
+蟺	sên	
+蟻	ngāi	
+蟾	sẽm	
+蟿	käi	
+蠃	lō	0%
+蠄	kã	
+蠄	kẽim	
+蠅	yẽin	
+蠅	yêin	
+蠆	chäi	
+蠊	lẽm	
+蠋	sùk	0%
+蠌	jàk	
+蠍	kēik	
+蠎	mông	0%
+蠏	hāi	
+蠐	tãi	
+蠑	vẽin	
+蠓	mũng	0%
+蠔	hão	
+蠔	hõ	
+蠕	yĩ	3%
+蠖	vòk	0%
+蠚	kök	
+蠛	mèik	
+蠟	làp	
+蠡	lâi	3%
+蠡	lĩ	3%
+蠢	chūn	
+蠣	lài	
+蠧	ù	
+蠨	xël	
+蠩	chuĩ	
+蠩	kuĩ	
+蠪	lũng	
+蠰	ngēng	
+蠰	ngẽng	
+蠰	nõng	
+蠰	sèng	
+蠰	söng	
+蠱	gū	
+蠲	gün	
+蠶	tâm	
+蠹	ù	
+蠻	mãn	
+蠻	māng	
+蠼	kōk	
+蠼	kuĩ	
+蠼	kūt	
+蠾	sùk	
+血	hūt	
+血	hüt	
+衂	nùk	
+衄	nùk	
+衊	mèik	
+行	hãng	3%
+行	hàng	3%
+行	hõng	3%
+衍	yēn	
+衒	yõn	
+術	sùt	
+衕	hũng	
+街	gâi	
+衘	hẽim	0%
+衙	ngã	
+衚	vũ	
+衛	vì	
+衝	chüng	3%
+衠	jün	
+衡	hãng	3%
+衢	kuĩ	
+衣	yï	
+表	bēl	
+衩	châ	
+衫	sām	
+衫	sâm	
+衫	xäm	
+衰	suï	
+衰	tuï	
+衲	nâ	
+衲	nàp	
+衲	nâp	
+衷	chüng	
+衽	ngìm	
+衾	gîm	
+衾	kïm	
+衿	gîm	0%
+衿	kïm	0%
+衿	kîm	0%
+袁	yõn	
+袂	mài	
+袈	gä	
+袋	òi	
+袍	pão	
+袒	hān	
+袖	diù	
+袜	mòt	0%
+袞	gūn	3%
+袠	èik	
+袢	pän	
+袤	mào	
+袪	kuï	
+被	bì	
+被	pï	
+被	pî	
+袱	fùk	
+袴	fû	
+袵	ngìm	
+袷	gäp	
+袼	gōk	0%
+袽	nguĩ	
+袾	jï	
+袿	kä	0%
+裀	yïn	
+裁	tõi	
+裂	lēik	3%
+裂	lëik	3%
+裂	lêik	3%
+裇	sōt	
+裉	hāng	
+裉	käng	
+裊	nêl	0%
+裌	gäp	0%
+裎	chēin	0%
+裎	chẽin	0%
+裏	lī	
+裒	bäo	
+裒	pão	
+裔	yuì	
+裕	yì	
+裘	kiũ	
+裙	kũn	
+補	bū	
+裝	jöng	
+裟	sä	
+裠	kũn	
+裡	lī	
+裡	lî	
+裨	bï	
+裨	pĩ	
+裩	gün	
+裰	jōt	
+裱	bēl	
+裲	lēng	
+裳	sẽng	
+裴	fĩ	
+裴	põi	
+裵	põi	0%
+裷	gūn	
+裷	yön	
+裸	gō	0%
+裹	gō	
+裼	tēik	0%
+製	jäi	
+裾	guï	
+褂	kä	0%
+褃	hāng	
+複	fūk	
+褊	bēin	3%
+褌	gün	
+褐	hòt	0%
+褒	bäo	
+褓	bāo	
+褘	fï	3%
+褙	böi	
+褚	chuî	3%
+褟	hāp	0%
+褡	āp	
+褡	äp	
+褥	ngùk	3%
+褥	yùk	3%
+褦	làk	0%
+褦	nòi	0%
+褪	huï	
+褫	chï	
+褯	dèik	
+褰	hëin	
+褲	fû	
+褳	lẽin	
+褶	jêp	3%
+褸	lëo	3%
+褸	luî	3%
+褻	xēik	
+襀	dēik	
+襁	kêng	
+襄	xëng	
+襆	fùk	
+襇	gān	
+襉	gān	0%
+襎	fãn	0%
+襖	äo	
+襖	âo	
+襝	lêm	0%
+襞	bēik	
+襟	gîm	0%
+襟	kïm	0%
+襟	kîm	0%
+襠	nòng	3%
+襤	lãm	
+襦	yĩ	
+襪	màt	0%
+襯	chïn	
+襲	dàp	0%
+襶	äi	0%
+襶	dāk	0%
+襻	pän	
+襾	yä	0%
+西	xäi	
+覀	yä	0%
+要	yël	3%
+覃	hãm	
+覃	tĩm	
+覆	fūk	3%
+覈	hàt	0%
+見	gëin	0%
+見	yèn	0%
+覎	ngũn	
+規	kï	
+覓	mìt	
+覔	mìt	
+視	sì	
+覘	jëm	0%
+覡	sâng	
+覥	ēin	
+覦	yĩ	0%
+覧	lâm	0%
+覩	ū	
+親	tïn	
+覬	kï	0%
+覯	këo	0%
+覰	huï	
+覲	gìn	0%
+覷	huï	
+覺	gäo	
+覺	gōk	
+覺	gök	
+覽	lâm	
+覿	èik	
+觀	gön	
+角	gōk	3%
+角	gök	3%
+角	gôk	3%
+觔	gïn	
+觕	tü	
+觖	kūt	
+觚	gü	
+觜	dü	
+觜	duī	
+觝	āi	
+解	gāi	0%
+解	gäi	0%
+解	hài	0%
+觥	gäng	
+觧	gāi	0%
+觫	tūk	0%
+觭	gï	
+觭	kĩ	
+觭	yï	
+觱	bēik	0%
+觳	hùk	3%
+觴	sëng	
+觵	gäng	
+觶	jï	0%
+觸	chūk	
+言	ngũn	
+訂	ëin	3%
+訂	èin	3%
+訂	èng	3%
+訃	fù	
+訄	kiũ	
+訇	gäng	
+訇	hüng	
+計	gäi	
+計	gài	
+訊	xïn	
+訌	hũng	0%
+討	hāo	
+討	hō	
+討	hū	
+訐	këik	0%
+訓	fün	
+訕	sän	
+訖	kēik	
+訖	ngàt	
+託	hōk	
+記	gï	
+訛	ngõ	
+訝	ngà	
+訟	dùng	
+訠	chīn	0%
+訢	hïm	3%
+訣	gût	
+訣	kūt	
+訥	nàp	
+訥	nùt	
+訩	hüng	
+訪	fōng	
+訬	chāo	0%
+訬	mêl	0%
+設	sēt	
+許	huī	3%
+訴	xü	
+訶	ö	
+訶	ü	
+診	chīn	0%
+註	jî	
+訾	dū	0%
+訾	dü	0%
+訿	dū	0%
+詁	gū	0%
+詄	èik	
+詆	āi	
+詈	lì	
+詎	kuî	
+詐	jä	
+詒	yĩ	3%
+詔	jël	0%
+評	pẽin	
+詘	kūt	
+詘	vūt	
+詛	jū	
+詞	xũ	
+詠	vèin	
+詡	huī	
+詢	xün	
+詣	ngài	
+試	sï	0%
+詩	sï	
+詪	fōn	0%
+詪	gïn	0%
+詪	hān	0%
+詫	chä	
+詫	jä	
+詬	giū	0%
+詭	gī	
+詮	tũn	
+詰	gēik	3%
+詰	gīt	3%
+話	và	
+該	kâo	
+該	köi	
+該	kôi	
+詳	tẽng	0%
+詳	têng	0%
+詵	xëin	3%
+詵	xïn	3%
+詹	jëm	
+詼	föi	
+詾	hüng	0%
+詿	kä	0%
+誄	lòi	0%
+誅	jï	
+誆	kõng	0%
+誇	kä	
+誌	jï	
+認	ngìn	0%
+誑	kõng	3%
+誒	ē	0%
+誒	ë	0%
+誒	è	0%
+誓	sài	
+誕	än	0%
+誖	böi	0%
+誘	yiù	
+誚	tël	0%
+語	nguî	
+誠	sẽin	
+誡	gäi	
+誣	mõ	
+誣	mũ	
+誤	m̀	
+誥	gäo	
+誦	dùng	
+誨	fōi	
+誩	gèin	0%
+說	sōt	3%
+說	suï	3%
+說	yòt	3%
+誫	jīn	0%
+誰	suī	
+誰	suĩ	
+誰	suî	
+課	fö	
+誶	xuì	0%
+誹	fī	
+誼	ngĩ	
+誼	ngì	
+調	èl	0%
+調	hẽl	0%
+諂	chēm	
+諂	chïm	
+諄	jün	0%
+談	hãm	
+諉	vī	
+諊	gūk	0%
+請	tēin	3%
+請	tēng	3%
+諍	jäng	3%
+諏	jëo	
+諐	hëin	
+諑	dēk	
+諒	lèng	3%
+論	lũn	
+論	lùn	
+諗	nām	0%
+諗	sīm	0%
+諛	yĩ	
+諜	èp	
+諝	xuï	0%
+諞	bèin	
+諞	pëin	
+諢	vùn	
+諤	ngōk	
+諦	äi	
+諧	hãi	
+諫	gän	
+諭	yì	
+諮	dü	
+諱	fï	0%
+諱	vī	0%
+諳	ām	0%
+諵	nãm	
+諶	sẽim	
+諷	fūng	
+諸	jï	
+諺	ngèin	
+諼	xün	0%
+諾	nòk	
+謀	mẽo	
+謁	yēik	0%
+謂	vì	
+謄	hãng	
+謅	jëo	3%
+謇	gēin	0%
+謊	föng	3%
+謎	mãi	0%
+謐	mìt	
+謑	hī	
+謔	ngèk	
+謖	tūk	
+謖	xūk	
+謗	bōng	0%
+謗	pōng	0%
+謙	hïm	
+謚	sï	0%
+講	gōng	
+謝	dèh	
+謠	yẽl	
+謦	hëin	0%
+謨	mũ	
+謫	jàk	
+謬	mào	
+謳	ëo	
+謹	gīn	
+謻	yĩ	
+謾	mãn	
+謾	màn	
+譈	juì	
+證	jëin	
+譎	gūt	3%
+譏	gï	
+譑	kẽl	
+譖	jîm	0%
+識	jï	
+識	sēik	
+譙	tẽl	0%
+譚	hãm	
+譚	hâm	
+譜	pū	
+警	gēin	
+譧	lẽm	
+譫	jëm	
+譬	pï	
+譯	yèik	
+議	ngì	0%
+譴	hēin	
+譶	àp	0%
+護	vù	
+護	vû	
+譽	yì	0%
+譾	dēin	
+讀	èo	3%
+讀	ùk	3%
+讅	sīm	
+變	bëin	
+讋	jëp	
+讌	yën	
+讎	siũ	
+讒	chãm	
+讒	tãm	
+讓	ngèng	
+讕	lãn	0%
+讖	tëm	0%
+讚	dän	
+讜	ōng	
+讞	ngèin	0%
+谷	gūk	
+谷	yùk	
+谿	käi	
+豀	käi	
+豁	hôt	3%
+豁	köt	3%
+豁	vàk	3%
+豆	dèo	3%
+豆	èo	3%
+豇	göng	
+豈	hī	3%
+豉	sì	
+豊	füng	0%
+豊	lâi	0%
+豌	vōn	
+豎	sī	
+豎	sì	
+豐	füng	
+豔	yèm	
+豕	sī	
+豖	chūk	
+豚	hũn	
+豝	bä	
+象	dèng	
+豢	vàn	
+豨	hï	0%
+豪	hão	
+豪	hõ	
+豫	yì	
+豬	jï	
+豳	bïn	
+豶	fũn	
+豸	jì	
+豹	bäo	
+豺	chãi	
+貂	ël	
+貅	hiü	
+貉	hòk	0%
+貉	lōk	0%
+貉	màk	0%
+貊	màk	0%
+貌	mào	
+貍	lî	0%
+貐	yĩ	
+貒	chūn	0%
+貓	māo	0%
+貓	miū	0%
+貔	pĩ	
+貘	màk	3%
+貙	kuï	0%
+貛	fön	
+貝	böi	
+貞	jëin	
+負	fù	
+財	tõi	
+貢	güng	
+貤	ngĩ	
+貤	ngì	
+貦	ngòn	0%
+貧	pĩn	
+貨	fö	0%
+販	fân	0%
+貪	häm	
+貫	gön	0%
+責	jāk	3%
+貯	chuî	3%
+貰	säi	
+貰	sãi	
+貲	dü	
+貳	ngì	
+貴	gï	
+貶	bēin	
+買	mäi	
+貸	häi	0%
+貺	fōng	
+費	fï	0%
+貼	hëp	
+貼	hïp	
+貽	yĩ	
+貿	mào	
+賀	hào	0%
+賀	hò	0%
+賁	bï	0%
+賁	bïn	0%
+賁	fũn	0%
+賂	lù	
+賃	ngìm	
+賄	hōi	
+賅	köi	
+資	dü	
+賈	gā	3%
+賈	gū	3%
+賉	xūt	
+賊	tàk	
+賑	jīn	
+賒	sëh	
+賓	bïn	0%
+賕	kiũ	
+賙	jiü	
+賚	lõi	
+賚	lòi	
+賛	dän	
+賜	xü	
+賞	sāng	
+賞	sēng	
+賠	põi	
+賡	gäng	3%
+賢	yẽn	
+賣	mài	0%
+賤	dèin	
+賦	fü	
+賧	häm	
+賨	tũng	
+質	jï	
+質	jīt	
+賬	jëng	
+賭	ū	
+賴	lài	
+賵	fūng	3%
+賺	jàn	
+賻	fù	
+購	këo	
+賽	söi	
+賾	jāk	0%
+贃	jàn	0%
+贄	jï	
+贅	juì	3%
+贇	vũn	
+贈	dàng	
+贊	dän	
+贍	jëm	
+贍	sèm	
+贏	yẽin	
+贏	yẽng	
+贐	xîm	0%
+贑	gäm	
+贑	güng	
+贓	döng	
+贔	bēik	
+贖	sùk	3%
+贗	ngàn	
+贛	gäm	3%
+赤	chēik	
+赤	chëk	
+赤	tëk	
+赦	xëh	
+赧	nân	0%
+赫	hāk	3%
+赬	jëin	0%
+赭	jēh	
+赯	hõng	
+走	dēo	
+赳	gēl	
+赴	fü	
+起	hī	
+趁	chïn	
+趄	chēh	0%
+趄	duī	0%
+趄	duï	0%
+超	chël	
+越	yòt	
+趑	dü	0%
+趒	hẽl	0%
+趔	lèik	
+趕	gōn	
+趙	jèl	3%
+趟	hōng	
+趟	höng	
+趣	tuï	3%
+趨	tuï	0%
+趫	kẽl	
+趮	täo	0%
+趯	ëk	
+趯	tēik	
+趯	yèk	
+趲	dān	0%
+足	duì	0%
+足	dūk	0%
+足	dük	0%
+足	xūk	0%
+趴	pã	
+趵	bäo	0%
+趺	fü	
+趻	chīm	
+趼	gān	
+趼	gēin	
+趾	jī	
+趿	hāt	
+跂	kï	
+跂	kĩ	
+跅	hōk	
+跆	hõi	
+跋	bàt	0%
+跌	ëik	0%
+跎	hũ	
+跏	gä	
+跐	chāi	0%
+跑	pāo	3%
+跑	pão	3%
+跕	ëm	3%
+跖	jēik	
+跗	fü	
+跙	chēh	0%
+跙	duī	0%
+跙	duï	0%
+跚	sän	
+跛	bāi	3%
+跛	pēt	3%
+距	kuî	0%
+跟	gïn	
+跡	dēik	0%
+跡	dêk	0%
+跣	xēin	
+跤	gäo	
+跥	ū	0%
+跧	kũn	
+跨	kä	
+跨	kã	
+跩	yài	
+跪	gì	
+跫	kũng	
+跬	kï	
+跬	xēik	
+跮	chì	0%
+路	lù	
+路	lû	
+跰	bèin	
+跰	pëin	
+跰	pẽin	
+跳	hël	0%
+跳	hẽl	0%
+跴	chāi	0%
+跺	ū	
+跼	gùk	
+跽	gì	
+踅	jët	3%
+踉	lẽng	3%
+踉	lèng	3%
+踎	bëo	
+踏	àp	
+踏	èip	
+踏	tät	
+踐	dèin	
+踒	vö	
+踔	chēk	
+踔	ël	
+踖	xēik	
+踘	gūk	
+踝	fö	
+踞	guï	
+踟	chĩ	
+踡	kũn	
+踢	pëk	
+踣	bòk	0%
+踥	tēp	0%
+踧	èik	0%
+踧	tūk	0%
+踩	chāi	3%
+踫	püng	
+踭	jäng	
+踭	jâng	
+踮	ëm	0%
+踰	yĩ	0%
+踱	òk	
+踳	chūn	
+踴	yūng	0%
+踵	jūng	
+踸	chīm	
+踹	chāi	3%
+踺	gèin	
+踽	guī	
+蹀	èp	
+蹁	pëin	3%
+蹂	ngẽl	0%
+蹂	niū	0%
+蹄	hãi	
+蹄	tî	
+蹅	chã	
+蹇	gēin	0%
+蹈	ào	0%
+蹉	tö	
+蹉	tü	
+蹊	hãi	
+蹊	käi	
+蹋	hāp	0%
+蹌	tëng	3%
+蹌	tōn	3%
+蹌	töng	3%
+蹍	jīn	
+蹏	hãi	
+蹐	dēik	3%
+蹓	liū	0%
+蹓	liü	0%
+蹔	dèm	
+蹕	bīt	
+蹕	blīt	
+蹙	tūk	0%
+蹚	höng	3%
+蹞	kï	0%
+蹟	dēik	
+蹠	jēik	0%
+蹡	tëng	3%
+蹢	ēik	0%
+蹢	jàk	0%
+蹣	mõn	3%
+蹣	põn	3%
+蹤	düng	
+蹦	bäng	
+蹩	pëik	
+蹬	àng	3%
+蹬	yäng	3%
+蹭	chäng	0%
+蹭	dàng	0%
+蹮	tëin	0%
+蹯	fãn	
+蹲	dün	3%
+蹲	tũn	3%
+蹴	tūk	0%
+蹵	tūk	
+蹶	kūt	3%
+蹸	lùn	0%
+蹹	àp	0%
+蹺	kël	3%
+蹻	gëk	0%
+蹻	kël	0%
+蹼	pōk	0%
+蹽	lẽl	
+蹾	ùn	
+躁	täo	
+躂	ät	
+躂	àt	
+躃	bēik	
+躄	bēik	
+躅	dùk	3%
+躇	chuĩ	3%
+躉	ūn	
+躊	chiũ	
+躋	dāi	
+躋	däi	
+躍	yèk	3%
+躐	lèp	
+躑	jàk	0%
+躒	lèik	0%
+躒	lōk	0%
+躓	jï	
+躔	chẽin	
+躕	chuĩ	0%
+躚	tëin	
+躞	xēik	0%
+躠	xēik	
+躡	nēp	
+躥	tön	
+躦	dön	
+躪	lùn	
+身	gün	0%
+身	sïn	0%
+身	sîn	0%
+躬	güng	
+躭	äm	
+躰	hāi	0%
+躱	ū	0%
+躲	ū	
+躳	güng	
+躶	gō	
+躺	hōng	
+軀	kuï	
+軄	jēik	0%
+車	chëh	5%
+車	guï	5%
+軋	gāt	3%
+軋	jät	3%
+軌	gī	
+軍	gün	
+軎	vì	0%
+軒	hëin	
+軔	yìn	
+軙	chĩn	0%
+軛	âk	3%
+軟	ngün	
+軡	kẽm	0%
+軤	fü	
+軫	chīn	3%
+軲	gū	
+軶	âk	0%
+軸	jùk	3%
+軹	jī	
+軺	yẽl	
+軻	ö	3%
+軻	ü	3%
+軼	èik	0%
+軼	yìt	0%
+軾	sēik	
+軿	pẽin	
+輂	gūk	0%
+較	gäo	3%
+輅	lù	
+輇	tũn	0%
+輈	jiü	
+載	dōi	
+載	döi	
+輊	jï	
+輋	sẽh	0%
+輒	jīp	0%
+輓	vân	
+輔	fù	
+輕	hëin	3%
+輕	hëng	3%
+輘	lẽin	
+輙	jīp	0%
+輛	lẽng	
+輜	dü	
+輝	fï	
+輞	mōng	
+輞	mông	
+輟	jōt	0%
+輡	hām	0%
+輥	gûn	0%
+輥	kûn	0%
+輦	lèin	
+輩	böi	0%
+輪	lũn	
+輪	lûn	
+輭	ngün	
+輯	tīp	
+輳	tëo	
+輶	yiũ	0%
+輷	gäng	
+輸	sï	
+輻	fūk	
+輾	jīn	3%
+輿	yĩ	
+轁	häo	0%
+轂	gūk	3%
+轄	hàt	
+轅	yõn	
+轆	lùk	0%
+轉	jōn	
+轍	chēt	
+轎	gèl	3%
+轔	lĩn	3%
+轗	hām	
+轟	gäng	
+轡	bï	
+轢	lèik	0%
+轣	lèik	
+轤	lũ	
+辛	xïn	
+辜	gü	
+辟	bēik	3%
+辟	pēik	3%
+辠	duì	
+辣	làt	
+辤	xũ	
+辦	bàn	
+辨	bèin	
+辭	xũ	
+辮	bîn	
+辯	bèin	
+辰	sĩn	
+辱	yùk	
+農	nũng	
+辵	chèk	
+迂	huï	0%
+迂	yï	0%
+迄	kēik	3%
+迄	ngàt	3%
+迅	xün	
+迆	yĩ	0%
+迍	jün	3%
+迎	ngẽin	3%
+近	gìn	
+近	kïn	
+迒	köng	0%
+迓	ngà	
+返	fän	0%
+迕	m̂	3%
+迖	ät	0%
+迢	hẽl	3%
+迤	yĩ	
+迥	gēin	
+迦	gä	0%
+迧	chĩn	0%
+迨	òi	0%
+迪	èik	
+迫	bēik	
+迭	èik	3%
+迮	jäk	0%
+述	sùt	
+迴	või	
+迷	mãi	
+迸	bèin	3%
+迺	nâi	
+迻	yĩ	
+追	juï	3%
+退	huï	
+送	xüng	
+逃	hão	
+逄	põng	
+逅	hèo	
+逆	ngèik	3%
+逋	bù	
+逋	pũ	
+逍	xël	
+透	hëo	
+逐	jùk	3%
+逑	kiũ	
+途	hũ	
+逕	gâng	0%
+逕	gèin	0%
+逖	èik	3%
+逗	èo	
+這	jëh	5%
+通	hüng	
+逛	gàng	
+逝	sài	
+逞	chēin	
+速	tūk	
+造	dào	3%
+逡	dün	3%
+逢	fũng	3%
+連	lẽin	
+逥	või	0%
+逩	bïn	
+逭	vòn	
+逮	ài	
+逯	lùk	
+週	jiü	
+進	dïn	
+逴	chēk	
+逵	gî	
+逵	kï	
+逶	vī	
+逷	èik	
+逸	yìt	
+逹	àt	0%
+逼	bēik	
+逾	yĩ	
+遁	ùn	
+遂	xuì	
+遄	chūn	0%
+遇	nguì	
+遉	jëin	0%
+遊	yiũ	0%
+運	vùn	
+遍	pëin	
+過	gö	0%
+遏	āt	0%
+遐	hã	
+遑	võng	
+遒	yiũ	
+道	ào	0%
+達	àt	3%
+違	vĩ	
+遘	këo	0%
+遙	yẽl	
+遛	lâo	
+遛	liū	
+遛	liü	
+遛	liù	
+遜	xün	
+遝	àp	
+遞	ài	3%
+遠	yōn	
+遠	yòn	
+遡	xü	
+遢	hāp	
+遢	tät	
+遢	tât	
+遣	hēin	
+遨	ngão	
+遨	ngào	
+適	sēik	3%
+遭	däo	
+遮	jëh	
+遲	chĩ	3%
+遲	jï	3%
+遴	lĩn	3%
+遵	dün	3%
+遷	tëin	
+選	xūn	0%
+遹	lùt	0%
+遺	vĩ	
+遺	vì	
+遼	lẽl	
+遽	guì	0%
+避	bì	
+邀	yël	
+邁	mài	
+邂	hâi	
+邃	xuì	0%
+還	vãn	0%
+邅	jën	
+邇	ngì	
+邈	mêl	3%
+邊	bëin	
+邊	bêin	
+邋	làt	3%
+邏	lõ	
+邐	lĩ	3%
+邑	yīp	3%
+邕	yüng	
+邗	hõn	
+邙	mõng	
+邛	kũng	
+邠	bïn	
+邡	föng	
+邢	yẽin	
+那	nä	5%
+那	nã	5%
+那	näk	5%
+那	nàk	5%
+那	nõ	5%
+邦	böng	
+邨	tûn	
+邪	tẽh	3%
+邪	yẽh	3%
+邯	hõn	3%
+邰	hõi	0%
+邱	hiü	
+邳	pī	
+邴	bēin	
+邵	sèl	
+邶	böi	0%
+邸	āi	
+邾	jï	
+郁	ngük	3%
+郁	yūk	3%
+郃	hàp	0%
+郄	kēik	0%
+郅	jìt	0%
+郇	xün	3%
+郊	gäo	
+郎	lõng	
+郎	lông	
+郗	hï	
+郚	m̃	
+郛	fũ	
+郜	gäo	
+郝	kōk	0%
+郟	gäp	
+郡	gùn	
+郢	chēin	0%
+郢	yēin	0%
+部	bù	
+郪	häi	
+郫	pĩ	
+郭	kök	
+郯	hãm	
+郴	sïm	0%
+郵	yiũ	
+都	dū	
+都	ü	
+郾	yēn	
+郿	mĩ	
+鄂	ngōk	
+鄄	gün	
+鄆	vùn	
+鄉	hëng	0%
+鄌	hõng	
+鄒	jëo	
+鄔	vü	
+鄖	vũn	
+鄗	hâo	0%
+鄘	yũng	
+鄙	pī	
+鄚	mòk	
+鄜	fũ	
+鄞	ngãn	
+鄠	fù	
+鄢	yẽn	
+鄣	jëng	
+鄧	àng	
+鄭	jèng	0%
+鄯	sèn	
+鄰	lĩn	
+鄱	bö	
+鄲	än	
+鄴	ngèp	
+鄶	köi	
+鄹	jëo	
+鄺	föng	
+鄺	köng	
+酃	lẽin	
+酆	füng	
+酈	lèik	
+酈	lĩ	
+酉	yiû	
+酊	ëin	
+酋	yiũ	0%
+酌	jēk	
+配	pöi	
+酎	jào	
+酏	yĩ	0%
+酐	gön	3%
+酒	diū	
+酕	mão	
+酖	äm	3%
+酗	huī	3%
+酗	sï	3%
+酚	fün	
+酞	häi	
+酡	hũ	
+酢	dòk	
+酢	tü	
+酣	hām	
+酣	hõn	
+酤	gü	3%
+酥	xü	
+酧	chiũ	
+酩	mẽin	
+酪	lōk	0%
+酬	chiũ	
+酮	hũng	
+酯	jī	
+酰	xëin	
+酲	chẽin	
+酴	hũ	
+酵	häo	3%
+酶	mõi	
+酷	hùk	
+酸	xön	
+酹	lài	0%
+酺	pũ	
+醃	yēm	3%
+醄	hõ	
+醅	põi	
+醇	sũn	
+醉	duï	
+醊	jōt	0%
+醋	tü	0%
+醌	kün	
+醍	hāi	
+醍	hãi	
+醐	vũ	
+醑	xuï	
+醒	xēin	3%
+醒	xēng	3%
+醚	mãi	
+醛	tũn	
+醜	chiū	
+醞	vūn	3%
+醞	vün	3%
+醢	hōi	
+醣	hõng	
+醤	dëng	0%
+醨	lĩ	
+醩	däo	0%
+醪	lão	
+醫	yï	
+醬	dëng	
+醭	pōk	0%
+醮	dël	
+醯	hï	
+醱	fät	
+醱	pöt	
+醲	ngũng	
+醴	lâi	
+醵	guì	0%
+醵	kuĩ	0%
+醸	ngèng	0%
+醺	fün	
+醻	chiũ	
+醼	yën	0%
+醾	mĩ	
+釀	ngèng	
+釁	hïm	
+釃	säi	
+釃	xü	
+釅	ngèm	
+釆	bèin	
+采	tōi	
+釉	yiũ	3%
+釉	yiù	3%
+釋	sēik	3%
+里	lî	
+重	chüng	
+重	chũng	
+重	jùng	
+野	nëh	
+野	yëh	
+野	yêh	
+量	lẽng	
+量	lèng	
+釐	lĩ	0%
+金	gïm	
+釓	gāt	3%
+釔	yōt	0%
+釕	lēl	0%
+釕	lèl	0%
+釗	jël	0%
+釘	dêng	
+釘	ëng	
+釘	êng	
+釙	päk	
+釙	pōk	
+釜	fū	
+針	jïm	
+針	jîm	
+釣	ël	
+釤	chëim	0%
+釦	këo	
+釧	chün	
+釨	dū	
+釩	fãn	
+釬	hòn	
+釵	chäi	
+釷	hū	
+釹	nuī	
+釺	tëin	
+釾	yẽh	
+鈀	bä	
+鈀	pã	
+鈁	föng	
+鈃	ngẽin	3%
+鈃	yẽin	3%
+鈄	ēo	
+鈆	yõn	0%
+鈇	fũ	
+鈈	būt	
+鈉	nàp	3%
+鈍	hün	
+鈍	ùn	
+鈎	gêo	0%
+鈎	ngêo	0%
+鈐	kẽm	
+鈑	bān	
+鈔	chäo	0%
+鈕	niū	0%
+鈞	gün	0%
+鈣	köi	
+鈥	fō	
+鈦	häi	
+鈧	köng	
+鈮	nãi	3%
+鈰	sî	
+鈳	hō	0%
+鈴	lẽin	
+鈴	lêng	
+鈷	gū	3%
+鈸	bòt	3%
+鈹	pĩ	
+鈺	ngùk	
+鈽	bü	
+鈾	yiũ	0%
+鈿	hẽin	
+鉀	gāp	
+鉅	guì	
+鉈	hä	3%
+鉈	hõ	3%
+鉈	pũ	3%
+鉉	yẽn	
+鉍	bēik	
+鉎	xëng	
+鉏	chõ	3%
+鉏	chũ	3%
+鉑	bòk	
+鉕	pō	
+鉗	kẽm	
+鉚	mâo	
+鉛	yõn	
+鉞	yòt	
+鉢	bôt	
+鉤	ngëo	0%
+鉤	ngêo	0%
+鉥	sùt	
+鉦	jëin	
+鉧	mû	
+鉫	gä	
+鉬	mùk	
+鉭	än	0%
+鉭	hān	0%
+鉶 	yẽin	
+鉸	gäo	3%
+鉺	ngī	
+鉻	lōk	3%
+鉿	hàp	3%
+銀	ngãn	
+銃	chüng	
+銅	hũng	
+銎	kũng	
+銑	xēin	
+銓	xùn	
+銕	hëik	
+銖	jï	
+銘	mẽin	
+銚	hël	3%
+銚	yẽl	3%
+銛	xëin	
+銜	hãm	0%
+銜	hẽim	0%
+銠	lāo	
+銣	nguĩ	0%
+銥	yï	0%
+銦	yïn	
+銨	ön	3%
+銩	èl	
+銪	yiû	
+銫	sēik	
+銬	hāo	0%
+銱	ël	
+銲	hòn	
+銳	yuì	
+銷	xël	
+銹	säo	
+銹	xëng	
+銻	häi	
+銻	tāi	
+銼	tö	
+銼	tô	
+鋁	luî	
+鋃	lõng	
+鋅	xïn	
+鋆	gün	
+鋇	böi	
+鋈	yūk	
+鋌	hêin	0%
+鋏	gâp	
+鋒	füng	
+鋝	lòt	0%
+鋟	tïm	0%
+鋣	yẽh	0%
+鋤	chõ	
+鋤	chũ	
+鋥	chäng	
+鋥	chãng	
+鋥	chẽin	
+鋥	dàng	
+鋦	gùk	0%
+鋧	hëin	0%
+鋧	yèn	0%
+鋨	ngõ	
+鋩	mõng	
+鋪	pü	3%
+鋬	pän	
+鋮	sẽin	
+鋯	gäo	
+鋰	lî	
+鋱	tēik	
+鋶	liû	0%
+鋸	guï	3%
+鋸	gùk	3%
+鋻	gäm	0%
+鋼	göng	0%
+鋼	gông	0%
+錁	fö	
+錁	gō	
+錄	lùk	
+錆	tëng	
+錇	põi	
+錈	gūn	3%
+錐	juï	0%
+錐	juî	0%
+錒	ä	0%
+錕	kün	0%
+錘	chuĩ	
+錘	juì	
+錙	dü	
+錚	jäng	3%
+錛	bïn	
+錞	sũn	
+錞	uï	
+錟	hãm	0%
+錠	èin	0%
+錢	tẽin	0%
+錤	gï	
+錦	gīm	
+錨	mão	
+錨	mẽo	
+錫	xēik	
+錫	xëk	
+錮	gü	
+錯	tö	3%
+錳	mâng	
+錶	bël	0%
+錸	lõi	
+鍀	āk	
+鍁	hëin	
+鍁	hïm	
+鍂	pëin	0%
+鍃	fūt	
+鍆	mõn	
+鍇	gäi	0%
+鍋	vö	
+鍋	vôk	
+鍍	ù	
+鍔	ngōk	
+鍘	jàp	0%
+鍚	yẽng	
+鍛	òn	
+鍟	xëng	0%
+鍠	võng	0%
+鍤	chäp	
+鍥	xēik	
+鍩	ngèk	
+鍩	nòk	
+鍪	mẽo	
+鍫	tël	
+鍬	tël	
+鍰	vãn	
+鍳	gäm	0%
+鍵	gèin	
+鍶	xäi	
+鍺	jēh	
+鍼	jïm	3%
+鍾	jüng	
+鎂	mî	
+鎄	öi	
+鎇	mĩ	
+鎊	bòng	
+鎋	hàt	
+鎏	liũ	
+鎔	yũng	
+鎖	xū	
+鎗	tëng	0%
+鎘	gäk	
+鎚	chuĩ	
+鎡	dü	
+鎢	vū	
+鎢	vü	
+鎣	vẽin	
+鎦	liũ	3%
+鎧	hōi	0%
+鎩	sät	
+鎪	xēo	0%
+鎬	gāo	
+鎬	hào	
+鎮	jïn	
+鎰	yìt	
+鎲	hōng	
+鎳	nēik	
+鎵	gä	
+鎻	xū	0%
+鎽	füng	0%
+鎿	nã	
+鏁	xū	
+鏃	dùk	0%
+鏇	xũn	3%
+鏈	lèin	3%
+鏊	ngão	
+鏌	mòk	
+鏍	lõ	
+鏐	liũ	
+鏑	ēik	0%
+鏖	ngão	
+鏗	häng	
+鏘	dëng	
+鏜	hõng	
+鏝	màn	0%
+鏞	yũng	
+鏟	chān	
+鏠	füng	0%
+鏡	gëng	
+鏢	bël	
+鏤	lèo	
+鏤	liũ	
+鏥	säo	0%
+鏥	xëng	0%
+鏦	tüng	
+鏨	jàm	
+鏰	bäng	
+鏵	vā	0%
+鏵	vã	0%
+鏷	bùk	
+鏹	kêng	
+鏺	pöt	
+鏻	lĩn	
+鏽	säo	
+鏽	xëng	
+鐂	liũ	0%
+鐃	nào	0%
+鐊	yẽng	0%
+鐋	höng	3%
+鐍	kūt	
+鐐	lẽl	
+鐒	lão	
+鐓	uï	
+鐓	ün	
+鐔	hãm	0%
+鐔	tĩm	0%
+鐘	jüng	
+鐙	äng	
+鐙	nàng	
+鐝	kūt	
+鐠	pū	
+鐣	chäng	0%
+鐥	sên	
+鐦	höi	
+鐧	gān	
+鐨	fï	
+鐫	dün	0%
+鐮	lẽm	
+鐯	jēk	0%
+鐱	gëm	0%
+鐲	âk	3%
+鐲	jùk	3%
+鐳	luĩ	
+鐵	hëik	
+鐶	vān	
+鐸	dòk	0%
+鐸	òk	0%
+鐺	chäng	0%
+鐺	öng	0%
+鐻	guì	3%
+鐾	bï	
+鐾	bì	
+鐿	yï	
+鑄	jï	
+鑊	vôk	
+鑌	bïn	
+鑑	gäm	
+鑒	gäm	
+鑔	châ	
+鑕	jīt	
+鑚	dön	0%
+鑛	köng	
+鑞	làp	
+鑠	sēk	
+鑣	bël	
+鑥	lû	
+鑫	hïm	
+鑭	lãn	
+鑰	yèk	
+鑲	tëng	
+鑲	xëng	
+鑷	nêp	
+鑹	tön	
+鑼	lõ	
+鑼	lũ	
+鑽	dōn	3%
+鑽	dön	3%
+鑾	lũn	
+鑿	dòk	
+鑿	tôk	
+钁	kūt	3%
+钂	hōng	
+長	chẽng	
+長	jēng	
+門	mõn	
+閂	sän	
+閂	sân	
+閃	sēm	
+閃	sëp	
+閆	yẽm	
+閉	bäi	
+開	höi	
+閌	köng	
+閎	fãng	
+閏	ngùn	
+閑	hãn	
+閒	hãn	0%
+間	gän	0%
+閔	mûn	
+閘	jàp	
+閡	hàt	3%
+閣	gōk	
+閣	gök	
+閤	âp	3%
+閤	hàp	3%
+閥	fàt	
+閨	gï	
+閩	mãn	
+閫	kūn	
+閬	lông	0%
+閭	luĩ	0%
+閱	yòt	
+閶	chëng	
+閹	yëm	
+閻	yẽm	
+閼	āt	
+閼	yën	
+閽	fün	
+閾	vèik	0%
+閿	mũn	
+闃	kēik	0%
+闅	mũn	0%
+闆	bān	
+闈	vĩ	
+闉	yën	
+闊	föt	
+闋	küt	
+闌	lãn	
+闍	sẽh	0%
+闍	ü	0%
+闐	hẽin	
+闓	hōi	0%
+闔	hàp	
+闕	kūt	
+闖	chōng	3%
+闚	kï	
+關	gän	
+闞	hām	0%
+闞	häm	0%
+闞	hân	0%
+闡	chīn	
+闢	pēik	
+闥	hāt	
+阜	fèo	
+阡	tëin	
+阢	ngūt	
+阪	bān	0%
+阮	ngũn	
+阱	dèin	0%
+阱	dēng	0%
+阱	jèin	0%
+防	fõng	
+阻	jō	
+阻	jū	
+阼	dò	
+阽	ëm	
+阽	yëm	
+阿	ä	3%
+阿	ö	3%
+陀	hõ	
+陀	hũ	
+陂	bï	3%
+陂	bö	3%
+陂	pĩ	3%
+附	fù	
+陋	lèo	
+陌	màk	0%
+降	göng	
+降	hõng	
+限	hàn	
+陔	köi	
+陗	xël	
+陘	yẽin	
+陛	bài	
+陜	hèp	0%
+陝	sēm	
+陞	sëin	0%
+陟	jēik	
+陟	jèik	
+陡	ēo	
+院	yòn	
+陣	jìn	
+除	chuĩ	3%
+陪	põi	
+陬	jëo	
+陰	yïm	3%
+陱	gūk	0%
+陲	suĩ	
+陳	chĩn	0%
+陴	pĩ	
+陵	lẽin	
+陶	hão	
+陶	hõ	
+陶	yẽl	
+陷	hàm	0%
+陷	hèim	0%
+陸	lùk	
+陽	yẽng	
+隅	nguĩ	0%
+隆	lũng	3%
+隈	vï	
+隉	nēp	0%
+隊	duì	0%
+隊	juì	0%
+隋	tuĩ	0%
+隍	võng	
+階	gäi	
+隔	gäk	3%
+隕	vùn	3%
+隗	kĩ	0%
+隗	vī	0%
+隘	äi	3%
+隙	kēik	5%
+際	däi	
+障	jëng	
+隣	lĩn	
+隤	huĩ	
+隧	xuì	0%
+隨	tuĩ	
+險	hēm	
+隮	däi	
+隰	dìp	
+隱	yîn	3%
+隳	fī	
+隴	lûng	
+隶	lài	
+隸	lài	0%
+隹	juï	
+隻	jëk	
+隼	jūn	0%
+雀	dēk	3%
+雀	dêk	3%
+雁	ngàn	
+雄	hũng	
+雅	ngâ	0%
+集	dàp	0%
+雇	gü	
+雉	jï	
+雋	dün	0%
+雌	dü	
+雍	yüng	3%
+雎	juï	
+雒	lōk	0%
+雕	ël	
+雖	xuï	
+雗	hòn	
+雙	söng	
+雛	chö	
+雜	dàp	
+雝	yüng	
+雞	gäi	
+離	lĩ	
+難	nãn	
+難	nàn	
+雥	dàp	
+雨	yî	
+雩	yĩ	
+雪	xūt	
+雯	mũn	
+雲	vũn	
+零	lẽin	3%
+零	lẽng	3%
+雷	luĩ	
+雹	bòk	
+雹	dôk	
+雹	tôk	
+電	èin	
+需	xuï	
+霄	xël	
+霅	dèp	0%
+霅	sèp	0%
+霆	hẽin	
+震	jīn	
+霈	pöi	
+霉	mõi	0%
+霍	fōk	
+霍	kōk	
+霎	sāp	
+霎	säp	
+霏	fï	
+霑	jëm	
+霓	ngãi	
+霖	lĩm	
+霜	söng	
+霞	hã	
+霥	mũng	
+霧	mù	
+霪	yĩm	
+霰	xëin	
+露	lù	3%
+霸	bä	0%
+霹	pēik	
+霽	jäi	0%
+霾	mãi	0%
+靂	lèik	
+靃	fōk	0%
+靄	ōi	
+靆	òi	
+靈	lẽin	3%
+靉	öi	0%
+靐	bèin	0%
+靑	tëin	0%
+青	tëin	3%
+青	tëng	3%
+靖	dèin	
+靚	dèin	
+靚	lëng	
+靛	èin	
+靜	dèin	
+靝	hëin	0%
+非	fï	0%
+靠	käo	
+靠	këo	
+靡	mĩ	3%
+靡	mî	3%
+面	mèin	
+靦	ēin	
+靦	mēin	
+靨	yēm	0%
+革	gāk	3%
+革	gēik	3%
+靪	ëng	
+靪	êng	
+靭	ngïn	
+靰	vü	
+靳	gìn	
+靴	hëh	
+靶	bä	0%
+靸	gīp	
+靸	hāt	
+靸	jàp	
+靺	mòt	0%
+靼	hān	
+靽	bòn	0%
+靿	yël	0%
+鞀	hão	
+鞁	bì	0%
+鞅	yēng	3%
+鞅	yëng	3%
+鞋	hãi	
+鞌	ön	
+鞍	ön	
+鞏	gūng	
+鞔	mõn	0%
+鞘	säo	
+鞘	xël	
+鞝	jēng	0%
+鞝	sèng	0%
+鞠	gūk	
+鞡	lā	3%
+鞣	ngẽl	
+鞥	häng	
+鞦	tiü	
+鞧	tiü	
+鞨	hōt	0%
+鞨	màt	0%
+鞨	sêt	0%
+鞫	gūk	
+鞬	gèin	
+鞭	bëin	
+鞮	äi	
+鞱	häo	0%
+鞲	këo	0%
+鞳	àp	0%
+鞴	bì	
+鞵	hãi	
+鞺	hõng	0%
+鞽	kẽl	
+鞾	hëh	
+韀	dëin	
+韁	gëng	0%
+韂	jëm	
+韃	hāt	3%
+韆	tëin	
+韈	màt	
+韉	dëin	
+韋	vī	
+韌	ngïn	3%
+韍	fūt	
+韓	hõn	
+韙	vī	
+韚	gāk	0%
+韛	bì	
+韜	häo	
+韝	këo	0%
+韞	vūn	3%
+韞	vün	3%
+韟	gäo	0%
+韡	vī	
+韤	màt	
+韭	giū	
+韮	giū	
+音	yïm	
+韶	sẽl	
+韻	vùn	3%
+響	hēng	
+頁	yêp	3%
+頂	ēin	3%
+頂	ēng	3%
+頃	kēin	0%
+項	hòng	
+項	hông	
+順	sùn	
+頇	hõn	0%
+須	xuï	
+頊	gūk	
+頌	dùng	0%
+頎	kĩ	
+頏	hõng	0%
+預	yì	
+頑	ngãn	
+頒	bän	3%
+頒	pän	3%
+頓	ùn	
+頓	ûn	
+頓	ùt	
+頗	pō	
+頗	pö	
+領	lêin	3%
+領	lëng	3%
+領	lêng	3%
+頜	gāp	
+頜	hàp	
+頞	āt	
+頡	gēik	3%
+頤	yĩ	
+頦	hãi	0%
+頫	fū	0%
+頭	hẽo	
+頭	hêo	
+頰	gäp	0%
+頲	hẽin	0%
+頴	vèin	
+頷	ngâm	
+頸	gēng	
+頹	huĩ	
+頻	pĩn	
+頼	lài	0%
+顆	fō	3%
+顆	gō	3%
+顇	xuì	0%
+顈	gēin	
+顋	xöi	
+題	hãi	
+額	ngäk	
+顎	ngōk	0%
+顏	ngãn	
+顒	ngũng	
+顓	jön	
+願	ngùn	
+顙	xông	
+顚	ëin	0%
+顛	ëin	
+類	luì	
+顢	mõn	0%
+顥	hâo	
+顦	tẽl	
+顧	gü	
+顫	jën	
+顬	yĩ	
+顯	hēin	
+顰	pĩn	
+顱	lũ	
+顳	nēp	0%
+顴	kũn	
+風	füng	
+颮	pão	
+颯	xēip	
+颱	hõi	
+颳	gät	
+颶	guì	
+颸	xü	0%
+颺	yẽng	
+颻	yẽl	
+颼	sāo	0%
+颼	xēo	0%
+颿	fãn	
+飀	liũ	
+飄	pël	
+飆	bël	
+飇	bël	
+飈	bël	
+飊	bël	0%
+飍	hiü	0%
+飛	fï	
+飛	fî	
+飜	fän	
+飝	fï	0%
+食	dù	3%
+食	sèik	3%
+飡	tän	
+飢	gï	
+飣	ëin	
+飥	hök	
+飦	jën	
+飧	xün	
+飩	hün	3%
+飪	ngìm	3%
+飫	yī	
+飫	yì	
+飭	chēik	3%
+飭	sēik	3%
+飯	fàn	3%
+飱	xün	
+飲	ngīm	
+飴	yĩ	
+飼	dù	
+飼	xũ	
+飽	bāo	
+飾	sēik	3%
+飿	ùt	
+餃	gāo	
+餄	hàp	
+餅	bēng	0%
+餈	tĩ	
+餉	hēng	
+養	yëng	
+養	yêng	
+餌	nì	
+餎	gōk	
+餎	lōk	
+餏	yï	
+餐	tän	
+餑	bòt	
+餒	nuî	
+餓	ngù	
+餕	dün	
+餖	èo	
+餘	yĩ	
+餚	ngão	
+餛	vũn	
+餜	gō	
+餞	dēin	0%
+餞	dèin	0%
+餟	jōt	
+餡	hàm	
+館	gōn	
+餫	vũn	
+餬	vũ	
+餮	hëik	
+餱	hẽo	
+餲	äi	
+餳	chẽin	
+餳	hõng	
+餵	vï	
+餶	gūt	
+餷	chã	
+餷	jä	
+餸	xûng	
+餺	bōk	
+餻	gäo	
+餼	hï	
+餽	gì	
+餾	liü	3%
+餾	liũ	3%
+餿	xūk	
+饃	mō	
+饅	màn	
+饈	xiü	
+饉	gīn	0%
+饊	xān	
+饋	gì	0%
+饌	jàn	3%
+饍	sên	
+饐	yï	
+饑	gï	
+饒	ngẽl	
+饔	yüng	
+饕	häo	
+饗	hēng	
+饘	jën	
+饜	yëm	0%
+饝	mō	
+饞	tãm	
+饟	hēng	0%
+饢	nõng	
+首	siū	0%
+馗	kĩ	
+馘	kēik	0%
+香	hëng	
+馝	bēik	0%
+馞	bòt	
+馥	fūk	0%
+馨	hëin	
+馫	hëin	0%
+馬	mā	
+馬	mä	
+馬	mâ	
+馭	nguì	
+馮	fũng	3%
+馮	pãng	3%
+馱	hõ	3%
+馱	hũ	3%
+馳	chĩ	
+馴	sũn	0%
+馿	luĩ	0%
+駁	bök	
+駃	fäi	
+駃	kūt	
+駊	pō	0%
+駐	jî	
+駑	nũ	
+駒	guï	
+駒	kuï	
+駓	pī	
+駔	jòng	3%
+駕	gä	
+駘	hõi	0%
+駘	òi	0%
+駙	fù	
+駛	sōi	0%
+駝	hõ	
+駝	hũ	
+駟	xü	
+駡	mà	
+駢	pẽin	
+駬	ngī	
+駭	hôi	0%
+駱	lōk	0%
+駸	tïm	
+駿	dün	
+騀	ngō	0%
+騁	chēin	0%
+騁	pëin	0%
+騂	xëin	
+騃	ngõi	0%
+騄	lùk	
+騅	juï	
+騈	pẽin	0%
+騌	düng	
+騍	fö	
+騎	kẽh	3%
+騎	kĩ	3%
+騏	kĩ	
+騖	mù	
+騘	tüng	0%
+騙	pëin	
+騞	vàk	0%
+騠	hãi	
+騣	düng	
+騫	hëin	
+騭	jēt	
+騭	jīt	
+騮	lēo	
+騮	liũ	
+騰	hãng	
+騶	jëo	
+騷	xäo	
+騸	sën	
+騾	lõ	
+騾	luĩ	
+驀	màk	0%
+驁	ngão	0%
+驂	täm	
+驃	bël	0%
+驃	pël	0%
+驄	tüng	
+驅	kuï	
+驆	bīt	0%
+驊	vã	
+驍	hël	
+驏	sãn	3%
+驐	ün	
+驕	gël	
+驗	ngèm	
+驚	gëin	3%
+驚	gëng	3%
+驛	yèik	
+驟	jào	3%
+驢	luĩ	
+驤	xëng	
+驥	kï	0%
+驪	lĩ	
+驫	bël	
+骨	gūt	
+骯	köng	0%
+骯	öng	0%
+骰	hẽo	
+骰	sēik	
+骱	gäi	0%
+骶	āi	
+骷	kü	
+骸	hãi	
+骺	hẽo	
+骼	gāk	
+骼	lōk	
+骽	huī	
+骾	gāng	0%
+骾	kāng	0%
+髀	bī	
+髁	fö	
+髂	kä	
+髄	xōi	0%
+髈	bōng	
+髏	lẽo	
+髑	ùk	
+髒	döng	
+髓	xōi	
+體	hāi	
+髕	bïn	0%
+髖	fön	
+髗	lũ	0%
+高	gāo	
+高	gäo	
+髟	bël	
+髡	kün	
+髢	häi	
+髢	hâi	
+髤	hiü	0%
+髥	ngẽm	0%
+髦	mão	
+髪	fāt	0%
+髫	hẽl	
+髭	jï	
+髮	fāt	0%
+髯	ngẽm	0%
+髲	bì	
+髲	pō	
+髹	hiü	
+髻	gâi	
+髽	jä	
+鬀	häi	
+鬁	lì	3%
+鬃	düng	0%
+鬄	häi	0%
+鬄	hâi	0%
+鬅	pãng	0%
+鬆	xüng	
+鬇	jäng	
+鬈	gūn	
+鬈	kũn	
+鬉	düng	
+鬋	dēin	0%
+鬍	vũ	
+鬎	làt	3%
+鬏	tiü	
+鬐	kĩ	
+鬒	chīn	0%
+鬘	mãn	
+鬙	xäng	0%
+鬚	xü	
+鬚	xû	
+鬟	vãn	
+鬡	nẽin	
+鬢	bïn	
+鬣	lèp	
+鬥	ëo	
+鬦	ëo	
+鬧	nào	
+鬨	hüng	0%
+鬩	ngēik	0%
+鬪	ëo	0%
+鬭	ëo	
+鬮	kiũ	0%
+鬯	chēng	
+鬰	vūt	0%
+鬱	vūt	
+鬲	gäk	
+鬲	lèik	
+鬻	jūk	
+鬻	yùk	
+鬼	gī	
+鬽	mì	0%
+魀	gäi	0%
+魁	föi	
+魂	vũn	
+魃	bàt	3%
+魄	bòk	3%
+魄	hōk	3%
+魄	pāk	3%
+魅	mì	0%
+魈	xël	
+魍	mōng	
+魍	mông	
+魎	lēng	
+魏	ngài	3%
+魏	nguì	3%
+魑	chï	0%
+魔	mō	0%
+魘	yëm	0%
+魚	nguĩ	
+魚	nguî	
+魛	äo	
+魟	hũng	3%
+魣	yĩ	0%
+魦	sä	0%
+魨	hõn	
+魭	yõn	0%
+魯	lû	
+魲	lũ	0%
+魳	jät	0%
+魳	xü	0%
+魴	fõng	
+魷	yiũ	
+魼	kuï	
+鮁	bàt	
+鮃	pẽin	
+鮄	fūt	
+鮆	dü	3%
+鮉	ël	0%
+鮊	bàk	
+鮌	gūn	
+鮍	pĩ	
+鮎	nẽm	
+鮐	hõi	0%
+鮑	bäo	
+鮒	fù	
+鮓	jä	0%
+鮕	gū	
+鮚	gēik	0%
+鮝	xēng	
+鮞	ngĩ	
+鮣	yïn	
+鮦	hũng	0%
+鮪	vī	0%
+鮫	gäo	
+鮭	gï	
+鮮	xēin	
+鮮	xëin	
+鮷	hãi	0%
+鮸	mêin	
+鮺	jä	
+鮻	sö	
+鯀	gūn	0%
+鯁	kāng	
+鯇	vân	
+鯈	hẽl	0%
+鯉	lî	
+鯊	sä	
+鯋	sä	0%
+鯔	dü	
+鯕	kĩ	
+鯖	jëin	0%
+鯖	tëin	0%
+鯗	xēng	
+鯛	ël	
+鯝	gü	
+鯡	fï	
+鯢	ngãi	
+鯤	kün	0%
+鯧	chëng	
+鯨	kẽin	
+鯪	lẽng	
+鯫	jëo	3%
+鯰	nẽm	
+鯴	sēt	
+鯷	hãi	
+鯼	düng	0%
+鯽	dāk	3%
+鯽	dēik	3%
+鯿	bēin	
+鰁	tũn	
+鰂	tàk	
+鰆	chün	
+鰈	èp	
+鰉	võng	
+鰌	tiü	
+鰍	tiü	
+鰍	tiû	
+鰐	ngōk	
+鰒	fūk	
+鰓	xöi	3%
+鰕	hâ	
+鰜	gëm	
+鰟	põng	
+鰠	xäo	0%
+鰣	sĩ	
+鰤	xü	
+鰥	gän	
+鰧	hãng	
+鰨	hāp	
+鰩	yẽl	
+鰭	kĩ	
+鰮	vün	
+鰱	lẽin	
+鰲	ngão	
+鰳	làk	
+鰵	mêin	
+鰵	mūn	
+鰶	däi	3%
+鰷	hẽl	
+鰹	gëin	
+鰻	mãn	3%
+鰼	dìp	
+鰽	tão	0%
+鰾	pël	0%
+鱅	sũng	
+鱈	xūt	
+鱉	bèik	
+鱋	kuï	0%
+鱎	gël	
+鱑	võng	
+鱒	dün	3%
+鱔	sên	
+鱖	gï	
+鱗	lĩn	
+鱘	tĩm	
+鱝	fûn	
+鱟	hèo	
+鱠	köi	0%
+鱣	jën	0%
+鱣	sên	0%
+鱧	lâi	
+鱨	sẽng	
+鱭	däi	3%
+鱮	duì	
+鱲	lèp	0%
+鱶	xēng	0%
+鱷	ngōk	
+鱸	lũ	
+鱺	lĩ	
+鱻	xëin	
+鳥	nêl	3%
+鳧	fũ	
+鳩	gëo	3%
+鳳	fùng	
+鳴	mẽin	
+鳶	yön	0%
+鳾	xü	
+鴂	kūt	
+鴃	kūt	
+鴆	jìm	
+鴇	bāo	
+鴉	ä	
+鴒	lẽin	
+鴔	fùk	
+鴕	hõ	
+鴕	hũ	
+鴛	yön	0%
+鴝	kuĩ	
+鴞	hël	
+鴟	chï	
+鴠	än	
+鴣	gü	
+鴦	yëng	
+鴨	äp	
+鴯	ngĩ	
+鴰	gāt	
+鴳	än	
+鴴	hãng	
+鴷	lèik	
+鴻	hũng	
+鴿	âp	3%
+鵁	gäo	
+鵂	hiü	
+鵃	jiü	0%
+鵊	gäp	
+鵑	gün	
+鵒	yùk	
+鵓	bòt	
+鵖	gëp	
+鵙	kūt	0%
+鵚	tūk	
+鵜	hãi	
+鵝	ngõ	
+鵝	ngũ	
+鵞	ngõ	
+鵞	ngũ	
+鵠	gūk	
+鵠	hùk	
+鵡	mû	
+鵪	ëim	
+鵫	chēk	0%
+鵬	pãng	
+鵮	jëim	0%
+鵯	bï	3%
+鵲	xēk	
+鵳	gän	
+鵶	ä	
+鵷	yön	
+鵾	kün	
+鶄	dëin	
+鶇	üng	
+鶉	sûn	
+鶊	gäng	
+鶋	guï	
+鶓	mẽl	
+鶖	tiü	
+鶗	hãi	
+鶘	vũ	
+鶚	ngōk	
+鶡	hòt	0%
+鶢	yõn	0%
+鶥	mĩ	
+鶩	mù	
+鶪	kūt	0%
+鶬	töng	3%
+鶯	äng	
+鶲	yüng	
+鶴	hòk	3%
+鶴	hôk	3%
+鶵	chö	3%
+鶹	liũ	
+鶺	dëk	3%
+鶻	gūt	
+鶼	gëm	
+鶽	jūn	0%
+鶿	xũ	
+鷀	xũ	
+鷁	yēik	
+鷂	yêl	3%
+鷃	än	
+鷈	hãi	0%
+鷉	hãi	
+鷑	gēp	
+鷓	jëh	
+鷖	yï	0%
+鷗	ëo	
+鷙	jï	
+鷚	lẽl	0%
+鷞	söng	
+鷟	jòk	0%
+鷥	xü	
+鷥	xũ	
+鷦	dël	
+鷫	xūk	
+鷯	lẽl	
+鷰	yên	
+鷲	diù	
+鷳	hãn	
+鷴	hãn	
+鷸	gūt	0%
+鷹	yëin	
+鷺	lù	
+鷾	yï	
+鷿	bēik	
+鸇	jën	
+鸊	bēik	
+鸋	nẽin	
+鸌	vù	
+鸑	ngòk	
+鸕	lũ	
+鸘	söng	
+鸚	yëin	
+鸛	gön	
+鸜	kuĩ	
+鸝	lĩ	
+鸞	lũn	
+鹵	lū	
+鹸	gān	0%
+鹹	hãm	
+鹺	tö	0%
+鹻	gān	
+鹼	gān	
+鹽	yẽm	
+鹿	lùk	3%
+麀	yiü	
+麁	tü	
+麂	gī	
+麄	tü	
+麅	bäo	
+麇	kūn	
+麇	kũn	
+麈	jī	
+麊	mĩ	0%
+麋	mĩ	0%
+麏	kūn	0%
+麑	ngãi	
+麒	kĩ	
+麓	lūk	0%
+麕	kũn	0%
+麗	lãi	3%
+麗	lài	3%
+麝	sèh	
+麞	jëng	
+麟	lĩn	
+麤	tü	
+麥	màk	0%
+麩	fü	
+麩	kü	
+麪	mèin	
+麪	mêin	
+麯	kūk	0%
+麴	kūk	
+麵	mèin	
+麵	mêin	
+麺	mèin	0%
+麻	mā	
+麻	mã	
+麼	mā	0%
+麼	mō	0%
+麼	mô	0%
+麾	fï	
+麿	mĩ	0%
+麿	möt	0%
+黃	võng	
+黇	hëm	
+黌	hũng	0%
+黌	vãng	0%
+黍	sī	
+黎	lãi	
+黏	nāk	
+黏	nẽm	
+黐	chï	
+黑	hāk	3%
+黔	kẽm	
+默	màk	
+黛	òi	
+黜	jōt	3%
+黝	yēl	
+黝	yiū	
+點	ēm	
+黟	yï	
+黠	gēik	3%
+黠	hàt	3%
+黢	chūt	
+黣	mõi	0%
+黥	kẽin	
+黧	lãi	
+黨	ōng	0%
+黯	ām	0%
+黲	tām	
+黴	mõi	
+黵	ām	0%
+黶	yēm	
+黷	dùk	
+黷	ùk	
+黹	jī	
+黻	fūt	
+黼	fū	
+黽	māng	3%
+黽	mêin	3%
+黿	yõn	
+鼂	chẽl	
+鼃	vä	
+鼄	jï	
+鼅	jï	
+鼆	mūng	
+鼇	ngão	
+鼈	bèik	0%
+鼉	hõ	
+鼎	ēin	
+鼐	nài	0%
+鼐	nâi	0%
+鼒	dü	
+鼓	gū	
+鼕	üng	0%
+鼙	pĩ	
+鼟	äng	
+鼠	sī	
+鼡	sī	0%
+鼢	fũn	
+鼥	bàt	
+鼧	hõ	
+鼩	kuĩ	
+鼪	säng	0%
+鼫	sêk	
+鼬	yiû	0%
+鼯	m̃	
+鼱	dëin	3%
+鼴	yēn	
+鼶	xü	0%
+鼷	hãi	
+鼻	bì	
+鼽	kiũ	
+鼾	hõn	
+齁	fẽo	
+齃	āt	0%
+齄	jâ	
+齆	yüng	
+齇	jâ	
+齉	nõng	
+齊	dü	3%
+齊	jäi	3%
+齊	jài	3%
+齊	tãi	3%
+齋	jäi	
+齎	dāi	0%
+齏	däi	
+齏	jäi	
+齒	chī	
+齔	chïn	
+齕	hāt	0%
+齕	ngàt	0%
+齗	ngãn	
+齙	bào	0%
+齜	dü	0%
+齟	duī	0%
+齟	duï	0%
+齠	hẽl	
+齡	lẽin	
+齣	chūt	
+齦	hāng	3%
+齦	ngãn	3%
+齧	ngàt	0%
+齩	ngāo	
+齪	tūk	
+齬	nguî	
+齲	guī	
+齶	ngōk	
+齷	ūk	
+龍	lũng	
+龐	põng	0%
+龑	yēm	0%
+龒	lũng	0%
+龔	güng	
+龕	hãm	
+龖	àt	0%
+龘	àt	
+龜	gëo	3%
+龜	gï	3%
+龜	gün	3%
+龜	hiü	3%
+龝	tiü	
+龠	yèk	
+龢	võ	
+龣	gôk	0%
+龤	hãi	0%
+龥	yèk	
+㐰	xïn	
+㐱	chīn	
+㑇	jëo	
+㒊	sēip	
+㒩	gō	
+㓕	mèik	0%
+㓤	gït	
+㓸	ēk	
+㔿	dëo	
+㕚	jāo	0%
+㕚	 jāo	0%
+㖷	hãi	
+㖷	sĩ	
+㘚	häm	
+㘥	yiũ	0%
+㘿	nēp	
+㚅	lũng	
+㚟	chèk	0%
+㚳	ö	
+㛃	gēik	
+㝀	häo	
+㝛	xūk	
+㝵	āk	
+㝵	ngòi	
+㞒	hï	
+㞕	xēik	
+㟁	ngòn	
+㟷	äp	
+㠀	āo	
+㠶	fãn	
+㡌	mào	
+㡾	hàn	
+㡿	chēik	0%
+㢃	lõng	
+㢘	lẽm	
+㥮	jëo	
+㦸	gēik	
+㧄	kiũ	
+㧊	pöt	
+㧒	yòt	
+㧙	bēik	
+㧜	läp	
+㧟	vòi	
+㧫	yĩ	
+㧬	ūng	
+㧼	pēl	
+㨅	nuì	
+㨅	yuì	
+㩙	ït	
+㩙	ît	
+㩙	xāk	
+㩳	xüng	
+㪚	xän	
+㪟	ùn	
+㬉	nön	
+㬵	gäo	
+㮌	mèin	
+㯕	xäi	
+㱃	ngīm	
+㲚	sä	
+㲥	hõng	
+㲲	èp	
+㳼	bēik	
+㵐	kūt	
+㶅	hòk	
+㷠	lĩn	
+㷫	hëin	
+㸆	këo	
+㸚	lī	
+㹭	yài	
+㺄	yĩ	
+㻞	bän	
+㻞	bïn	
+㼝	vōn	
+㾂	fõi	
+㾂	hõi	
+㾎	ät	
+㿕	yẽm	
+㿜	bëik	
+㿢	yèl	
+㿷	täo	
+䀇	gū	
+䀠	kuî	
+䀹	sēm	0%
+䁪	jām	
+䂖	sêk	
+䃁	ä	
+䃉	mĩn	
+䃎	chēik	
+䃰	chät	
+䄃	yëng	
+䄷	sêk	
+䄻	hô	
+䆋	tiü	
+䆗	gël	
+䇽	jēt	
+䈇	jäo	
+䈇	jâo	
+䉽	bōn	
+䊜	hõn	
+䊡	màn	
+䌥	yîn	
+䍉	jàt	
+䎜	fün	
+䏒	pëin	
+䏓	gōn	
+䏿	kāi	
+䐰	xiü	
+䑕	sī	
+䒂	dēng	
+䒶	hëin	
+䓴	ngün	
+䕃	yîm	
+䕌	jï	
+䕥	nãi	0%
+䖣	dāo	
+䖳	jä	0%
+䖵	kün	
+䗍	lâi	
+䘏	xūt	
+䘹	duï	
+䙡	gì	
+䚀	chîm	
+䛁	nãm	
+䛈	sài	
+䛻	yiù	
+䜘	gēin	
+䜵	sì	
+䜶	göng	
+䜺	chäi	
+䜻	sì	
+䝋	düng	0%
+䝔	fön	
+䝟	ä	
+䝼	tẽin	
+䠑	föi	0%
+䠱	dùk	
+䠶	sèh	
+䡗	gūng	
+䤈	hï	
+䤱	sài	
+䤼	xëin	
+䥈	mông	
+䥈	mû	
+䥝	ngão	
+䦛	jäng	0%
+䦟	chūn	0%
+䧺	hũng	
+䨇	söng	
+䨻	pãng	0%
+䨾	fī	
+䩞	jëm	0%
+䩺	yüng	
+䪦	hùng	
+䬒	xēo	
+䬠	fï	
+䬡	jī	
+䬪	bōk	
+䭾	hõ	
+䯌	häo	
+䯦	mòt	
+䯻	gâi	
+䱀	yëng	
+䱗	tän	
+䱷	nguĩ	
+䱽	chëng	
+䲉	xü	
+䲹	pī	
+䳘	ngõ	
+䳘	ngũ	
+䳭	dēik	
+䴭	tõi	
+䴹	gō	
+䵚	häo	
+䵟	gōn	
+䶊	nùk	
+䶕	bā	
+䶳	yêk	
+䶴	chuï	
+䶵	chĩ	
+𠀘	hëin	
+𠀡	hëin	
+𠀤	bèin	
+𠁴	gï	
+𠃾	gï	
+𠈌	sĩn	
+𠕹	hëin	
+𠘩	mũ	
+𠜱	päi	
+𠸭	sĩ	
+𠺘	nōng	
+𡈙	ngõ	
+𡊨	hân	
+𡕒	kä	
+𢫋	jüt	
+𢬿	käi	
+𢱢	sāk	
+𣏴	ngĩn	
+𣙷	möng	
+𣻯	yēin	
+𤉡	xû	
+𤕣	gï	
+𤘘	hēo	
+𤙡	xëin	
+𤞶	hòn	
+𤢕	ù	
+𤢕	yèik	
+𤮨	lũng	
+𥅻	chüng	
 𥑒	nā
-那	nä
-哪	nã
-哪	nã
-娜	nã
-拃	nã
-拏	nã
-拿	nã
-那	nã
-那	nã
-那	nã
-鎿	nã
-哪	nà
-衲	nâ
-尼	nāi
-傫	näi
-伲	nãi
-呢	nãi
-坭	nãi
-妮	nãi
-尼	nãi
-怩	nãi
-旎	nãi
-泥	nãi
-泥	nãi
-痆	nãi
-苨	nãi
-䕥	nãi
-鈮	nãi
-泥	nài
-鼐	nài
-乃	nâi
-哪	nâi
-奶	nâi
-廼	nâi
-氖	nâi
-禰	nâi
-艿	nâi
-迺	nâi
-鼐	nâi
-疒	nāk
-粘	nāk
-黏	nāk
-𪙛	nāk
-那	näk
-那	nàk
-諗	nām
-腩	näm
-南	nãm
-南	nãm
-喃	nãm
-囡	nãm
-囝	nãm
-枏	nãm
-柟	nãm
-楠	nãm
-男	nãm
-蚺	nãm
-蝻	nãm
-䛁	nãm
-諵	nãm
-腩	nâm
-撚	nān
-難	nãn
-難	nàn
-𧕴	nân
-赧	nân
-能	nãng
-鐙	nàng
-堖	nāo
-腦	nāo
-呶	não
-巙	não
-瑙	não
-硇	não
-稠	não
-腬	não
-撓	nào
-橈	nào
-檽	nào
-淖	nào
-耨	nào
-鐃	nào
-鬧	nào
-惱	nâo
-瑙	nâo
-吶	nàp
-納	nàp
-衲	nàp
-訥	nàp
-鈉	nàp
-衲	nâp
-匿	nät
-捺	nät
-焫	nät
-爇	nät
-捺	nât
-乜	nēh
-呢	nēh
-野	nëh
-吶	nẽh
-匿	nēik
-鎳	nēik
-捏	nëik
-掐	nëik
-匿	nèik
-搦	nèik
-昵	nèik
-暱	nèik
-溺	nèik
-捏	nêik
-腍	nëim
-腩	nëim
-南	nẽim
-拎	nēin
-嚀	nẽin
-甯	nẽin
-甯	nẽin
-寕	nẽin
-寧	nẽin
-寧	nẽin
-年	nẽin
-檸	nẽin
-濘	nẽin
-獰	nẽin
-聹	nẽin
-鬡	nẽin
-鸋	nẽin
-佞	nèin
-擰	nèin
-擰	nèin
-擰	nèin
-奶	nêin
-恁	nêin
-恁	nêin
-偌	nēk
-偌	nëk
-偌	nêk
-尿	nèl
-尿	nèl
-溺	nèl
-脲	nèl
-嬲	nêl
-蔦	nêl
-裊	nêl
-鳥	nêl
-拈	nëm
-捻	nëm
-撚	nëm
-粘	nëm
-粘	nẽm
-鮎	nẽm
-鯰	nẽm
-鯰	nẽm
-黏	nẽm
-唸	nèm
-埝	nèm
-念	nèm
-稔	nèm
-捻	nêm
-娘	nẽng
-娘	nẽng
-孃	nẽng
-撓	nẽo
-耨	nèo
-囁	nēp
-圼	nēp
-㘿	nēp
-懾	nēp
-捏	nēp
-揑	nēp
-攝	nēp
-涅	nēp
-湼	nēp
-灄	nēp
-聶	nēp
-躡	nēp
-隉	nēp
-顳	nēp
-苶	nëp
-菍	nëp
-鑷	nêp
-佤	ngā
-瓦	ngā
-瓦	ngā
-瓦	ngā
-伢	ngã
-岈	ngã
-枒	ngã
-牙	ngã
-琊	ngã
-琊	ngã
-芽	ngã
-蚜	ngã
-衙	ngã
-厊	ngà
-砑	ngà
-訝	ngà
-迓	ngà
-疋	ngâ
-疨	ngâ
-雅	ngâ
-檥	ngāi
-艤	ngāi
-蟻	ngāi
-倪	ngãi
-危	ngãi
-崖	ngãi
-嵬	ngãi
-巍	ngãi
-挨	ngãi
-捱	ngãi
-涯	ngãi
-猊	ngãi
-睚	ngãi
-睨	ngãi
-蜺	ngãi
-霓	ngãi
-鯢	ngãi
-麑	ngãi
-乂	ngài
-乂	ngài
-偽	ngài
-刈	ngài
-囈	ngài
-堄	ngài
-外	ngài
-毅	ngài
-睨	ngài
-砹	ngài
-羿	ngài
-艾	ngài
-艾	ngài
-蓺	ngài
-藝	ngài
-詣	ngài
-魏	ngài
-呃	ngāk
-額	ngäk
-啱	ngām
-岩	ngãm
-嵓	ngãm
-嵒	ngãm
-巖	ngãm
-巗	ngãm
-癌	ngãm
-碞	ngãm
-礹	ngãm
-頷	ngâm
-眼	ngān
-研	ngān
-嚚	ngãn
-圻	ngãn
-垠	ngãn
-狺	ngãn
-珢	ngãn
-鄞	ngãn
-銀	ngãn
-頑	ngãn
-顏	ngãn
-齗	ngãn
-齦	ngãn
-研	ngãn
-贗	ngàn
-雁	ngàn
-硬	ngāng
-硬	ngàng
-咬	ngāo
-齩	ngāo
-崤	ngão
-廒	ngão
-敖	ngão
-殽	ngão
-洨	ngão
-淆	ngão
-熬	ngão
-熬	ngão
-爻	ngão
-獒	ngão
-翱	ngão
-翶	ngão
-翺	ngão
-聱	ngão
-肴	ngão
-螯	ngão
-遨	ngão
-鏊	ngão
-鏖	ngão
-䥝	ngão
-餚	ngão
-餚	ngão
-驁	ngão
-鰲	ngão
-鼇	ngão
-傲	ngào
-嗷	ngào
-奡	ngào
-嶅	ngào
-敖	ngào
-熬	ngào
-螯	ngào
-遨	ngào
-噏	ngāp
-噏	ngäp
-掖	ngãp
-胺	ngät
-臊	ngät
-嚙	ngàt
-屹	ngàt
-訖	ngàt
-迄	ngàt
-齕	ngàt
-齧	ngàt
-惹	ngēh
-喏	ngêh
-惹	ngêh
-孼	ngēik
-孽	ngēik
-抑	ngēik
-挈	ngēik
-櫱	ngēik
-糵	ngēik
-絜	ngēik
-臬	ngēik
-臲	ngēik
-鬩	ngēik
-渃	ngèik
-熱	ngèik
-逆	ngèik
-奀	ngēin
-研	ngëin
-仍	ngẽin
-凝	ngẽin
-妍	ngẽin
-楹	ngẽin
-然	ngẽin
-燃	ngẽin
-盈	ngẽin
-研	ngẽin
-礽	ngẽin
-艿	ngẽin
-芿	ngẽin
-迎	ngẽin
-鈃	ngẽin
-唁	ngèin
-彥	ngèin
-諺	ngèin
-讞	ngèin
-瘧	ngēk
-瘧	ngēk
-偌	ngèk
-叒	ngèk
-婼	ngèk
-婼	ngèk
-弱	ngèk
-渃	ngèk
-箬	ngèk
-篛	ngèk
-若	ngèk
-蒻	ngèk
-虐	ngèk
-謔	ngèk
-鍩	ngèk
-僥	ngẽl
-垚	ngẽl
-嬈	ngẽl
-峱	ngẽl
-嶢	ngẽl
-揉	ngẽl
-柔	ngẽl
-橈	ngẽl
-澆	ngẽl
-猱	ngẽl
-磽	ngẽl
-禸	 ngẽl
-粈	ngẽl
-糅	ngẽl
-蕘	ngẽl
-蟯	ngẽl
-蹂	ngẽl
-鞣	ngẽl
-饒	ngẽl
-嬈	ngêl
-擾	ngêl
-繞	ngêl
-儼	ngëm
-冉	ngëm
-染	ngëm
-苒	ngëm
-蚺	ngëm
-嚴	ngẽm
-蚦	ngẽm
-蚺	ngẽm
-髥	ngẽm
-髯	ngẽm
-釅	ngèm
-驗	ngèm
-冉	ngêm
-染	ngêm
-苒	ngêm
-蚺	ngêm
-蠰	ngēng
-壤	ngẽng
-攘	ngẽng
-禳	ngẽng
-穣	ngẽng
-穰	ngẽng
-穰	ngẽng
-蘘	ngẽng
-蠰	ngẽng
-嚷	ngèng
-嚷	ngèng
-讓	ngèng
-醸	ngèng
-釀	ngèng
-仰	ngêng
-牛	ngēo
-勾	ngëo
-勾	ngëo
-句	ngëo
-鉤	ngëo
-牛	ngẽo
-吽	ngèo
-牛	ngèo
-偶	ngêo
-耦	ngêo
-藕	ngêo
-鈎	ngêo
-鉤	ngêo
-業	ngèp
-鄴	ngèp
-兒	ngī
-洱	ngī
-珥	ngī
-耳	ngī
-鉺	ngī
-駬	ngī
-儀	ngĩ
-兒	ngĩ
-兒	ngĩ
-宜	ngĩ
-宜	ngĩ
-嶷	ngĩ
-洏	ngĩ
-疑	ngĩ
-而	ngĩ
-誼	ngĩ
-貤	ngĩ
-鮞	ngĩ
-鴯	ngĩ
-二	ngì
-佴	ngì
-弍	ngì
-擬	ngì
-毦	ngì
-義	ngì
-誼	ngì
-議	ngì
-貤	ngì
-貳	ngì
-邇	ngì
-劓	ngì
-二	ngî
-爾	ngî
-㱃	ngīm
-飲	ngīm
-飲	ngīm
-任	ngĩm
-吟	ngĩm
-壬	ngĩm
-妊	ngĩm
-姙	ngĩm
-崟	ngĩm
-任	ngìm
-妊	ngìm
-姙	ngìm
-紝	ngìm
-荏	ngìm
-衽	ngìm
-袵	ngìm
-賃	ngìm
-飪	ngìm
-哏	ngïn
-忍	ngïn
-艮	ngïn
-靭	ngïn
-韌	ngïn
-人	ngĩn
-仁	ngĩn
-儿	ngĩn
-𣏴	ngĩn
-認	ngìn
-仁	ngîn
-忍	ngîn
-肕	ngîn
-廿	ngìp
-日	ngït
-日	ngìt
-氜	ngìt
-日	ngît
-騀	ngō
+𥓿	pũ	
+𥓿	hõ
+𥔲	ngōk	
+𥦗	töng	
+𥱼	pãi	
+𥳑	gān	
+𥻟	nò	
+𥻟	nù	
+𦜐	gōn	
+𦟤	xiü	
+𦡚	yüng	
+𦥙	yài	
+𦧇	sâi	
+𦧺	lâi	
+𦨴	hũng	
+𦪪	pũng	
+𦴞	hëin	
+𦾽	àp	
+𧋍	jēt	
+𧎮	dāo	
+𧑴	gï	
+𧓊	fï	
+𧕱	hàt	
+𧕴	nân	
+𧘉	yuì	
+𧠿	chĩm	
+𧡝	ēin	
+𧨸	hūn	
+𧨸	tūn	
+𧺣	hùng	
+𨇨	xēik	
+𨎹	lâm	
+𨧜	bông	
+𨰻	bāo	
+𨰻	ngùk	
+𨻲	lâ	
+𩍘	bì	
+𩒵	kēin	
+𩢰	fùk
+𩪬	lẽm	
 𩭝	ngō
-俄	ngõ
-哦	ngõ
-囮	ngõ
-𡈙	ngõ
-娥	ngõ
-峩	ngõ
-峨	ngõ
-硪	ngõ
-莪	ngõ
-蛾	ngõ
-訛	ngõ
-鋨	ngõ
-鵝	ngõ
-鵞	ngõ
-䳘	ngõ
-臥	ngò
-我	ngô
-我	ngöi
-呆	ngõi
-呆	ngõi
-獃	ngõi
-獃	ngõi
-皚	ngõi
-騃	ngõi
-騃	ngõi
-騃	ngõi
-外	ngòi
-㝵	ngòi
-礙	ngòi
-偔	ngôi
-噩	ngōk
-愕	ngōk
-𥔲	ngōk
-萼	ngōk
-蕚	ngōk
-諤	ngōk
-鄂	ngōk
-鍔	ngōk
-顎	ngōk
-鰐	ngōk
-鱷	ngōk
-鶚	ngōk
-齶	ngōk
-岳	ngòk
-嶽	ngòk
-樂	ngòk
-櫟	ngòk
-鸑	ngòk
-㟁	ngòn
-岸	ngòn
-玩	ngòn
-翫	ngòn
-貦	ngòn
-昂	ngōng
-昂	ngõng
-戇	ngòng
-囮	ngũ
-峨	ngũ
-蛾	ngũ
-鵝	ngũ
-鵞	ngũ
-䳘	ngũ
-餓	ngù
-侞	nguĩ
-危	nguĩ
-喁	nguĩ
-如	nguĩ
-娛	nguĩ
-嵬	nguĩ
-巍	nguĩ
-愚	nguĩ
-洳	nguĩ
-漁	nguĩ
-璵	nguĩ
-禺	nguĩ
-茹	nguĩ
-虞	nguĩ
-袽	nguĩ
-銣	nguĩ
-隅	nguĩ
-魚	nguĩ
-䱷	nguĩ
-偽	nguì
-寓	nguì
-庽	nguì
-御	nguì
-禦	nguì
-遇	nguì
-馭	nguì
-魏	nguì
-乳	nguî
-俁	nguî
-圄	nguî
-圉	nguî
-嵎	nguî
-語	nguî
-語	nguî
-魚	nguî
-齬	nguî
-兀	ngük
-郁	ngük
-獄	ngùk
-玉	ngùk
-肉	ngùk
-褥	ngùk
-鈺	ngùk
-𨰻	ngùk
-肉	ngûk
-䓴	ngün
-軟	ngün
-輭	ngün
-元	ngũn
-原	ngũn
-厵	ngũn
-塬	ngũn
-嫄	ngũn
-沅	ngũn
-源	ngũn
-蚖	ngũn
-螈	ngũn
-覎	ngũn
-言	ngũn
-阮	ngũn
-潤	ngùn
-閏	ngùn
-願	ngùn
-朊	ngûn
-硯	ngûn
-喁	ngũng
-濃	ngũng
-絨	ngũng
-茸	ngũng
-醲	ngũng
-顒	ngũng
-蛹	ngùng
-兀	ngūt
-刖	ngūt
-卼	ngūt
-杌	ngūt
-矻	ngūt
-阢	ngūt
-抈	ngùt
-月	ngùt
-焫	ngùt
-玥	ngùt
-月	ngût
-你	nï
-弭	nì
-敉	nì
-洱	nì
-珥	nì
-餌	nì
-膩	nì
-你	nî
-您	nî
-旎	nî
-汝	nî
-禰	nî
-淰	nĩm
-棯	nîm
-棯	nîm
-稔	nîm
-菍	nîm
-凹	nïp
-凹	nîp
-捏	nīt
-妞	niū
-忸	niū
-扭	niū
-扭	niū
-狃	niū
-紐	niū
-蹂	niū
-鈕	niū
-嬲	niü
-怒	niü
-儺	nõ
-娜	nõ
-挪	nõ
-挼	nõ
-那	nõ
-稬	nò
-穤	nò
-𥻟	nò
-糥	nò
-糯	nò
-佴	nòi
-奈	nòi
-柰	nòi
-耐	nòi
-萘	nòi
-褦	nòi
-喏	nòk
-諾	nòk
-鍩	nòk
-暖	nön
-㬉	nön
-煖	nön
-煗	nön
-暖	nôn
-𠺘	nōng
-囔	nōng
-攮	nōng
-儾	nõng
-囊	nõng
-囊	nõng
-囔	nõng
-曩	nõng
-瓤	nõng
-蠰	nõng
-饢	nõng
-饢	nõng
-齉	nõng
-凼	nòng
-襠	nòng
-囊	nông
-曩	nông
-努	nū
-呶	nū
-弩	nū
-胬	nū
-奴	nũ
-孥	nũ
-帑	nũ
-挼	nũ
-駑	nũ
-怒	nù
-懦	nù
-稬	nù
-穤	nù
-𥻟	nù
-糥	nù
-糯	nù
-女	nuī
-釹	nuī
-內	nuì
-㨅	nuì
-氝	nuì
-氞	nuì
-餒	nuî
-勗	nūk
-勖	nūk
-恧	nūk
-忸	nük
-按	nük
-朒	nük
-衂	nùk
-衄	nùk
-䶊	nùk
-嫩	nùn
-燶	nüng
-儂	nũng
-噥	nũng
-濃	nũng
-膿	nũng
-農	nũng
-燶	nûng
-胖	nūt
-慄	nùt
-肭	nùt
-訥	nùt
-剁	ō
-朵	ō
-橢	ō
-哦	ö
-噢	ö
-㚳	ö
-妿	ö
-娿	ö
-婀	ö
-柯	ö
-猗	ö
-痾	ö
-痾	ö
-舸	ö
-訶	ö
-軻	ö
-軻	ö
-阿	ö
-哦	ò
-墮	ò
-惰	ò
-噯	ōi
-曖	ōi
-藹	ōi
-靄	ōi
-哀	öi
-嬡	öi
-愛	öi
-璦	öi
-鎄	öi
-靉	öi
-代	òi
-埭	òi
-岱	òi
-帒	òi
-待	òi
-待	òi
-怠	òi
-殆	òi
-玳	òi
-瑇	òi
-甙	òi
-紿	òi
-袋	òi
-迨	òi
-靆	òi
-駘	òi
-黛	òi
-噁	ōk
-堊	ōk
-惡	ōk
-惡	ōk
-惡	ök
-度	òk
-踱	òk
-鐸	òk
-短	ōn
-安	ön
-按	ön
-摁	ön
-桉	ön
-案	ön
-氨	ön
-端	ön
-耑	ön
-胺	ön
-銨	ön
-鞍	ön
-鞌	ön
-塅	òn
-斷	òn
-椴	òn
-段	òn
-煅	òn
-籪	òn
-緞	òn
-鍛	òn
-擋	ōng
-擋	ōng
-欓	ōng
-盎	ōng
-讜	ōng
-黨	ōng
-噹	öng
-檔	öng
-璫	öng
-當	öng
-當	öng
-當	öng
-蟷	öng
-鐺	öng
-骯	öng
-宕	òng
-盎	òng
-盪	òng
-碭	òng
-菪	òng
-蕩	òng
-怕	pä
-划	pã
-扒	pã
-掱	pã
-杷	pã
-爬	pã
-爬	pã
-琶	pã
-琶	pã
-筢	pã
-耙	pã
-耙	pã
-趴	pã
-鈀	pã
-哌	pāi
-派	pāi
-派	pāi
-蒎	pāi
-𠜱	päi
-批	päi
-派	päi
-砒	päi
-磇	päi
-俳	pãi
-徘	pãi
-排	pãi
-排	pãi
-棑	pãi
-牌	pãi
-箄	pãi
-𥱼	pãi
-簰	pãi
-稗	pâi
-粺	pâi
-柏	pāk
-柏	pāk
-柏	pāk
-栢	pāk
-檗	pāk
-珀	pāk
-魄	pāk
-啪	päk
-帕	päk
-拍	päk
-粕	päk
-釙	päk
-噴	pän
-扳	pän
-攀	pän
-盼	pän
-袢	pän
-襻	pän
-鋬	pän
-頒	pän
-嘭	päng
-烹	päng
-堋	pãng
-彭	pãng
-憑	pãng
-搒	pãng
-朋	pãng
-棚	pãng
-澎	pãng
-澎	pãng
-甏	pãng
-硼	pãng
-篣	pãng
-膨	pãng
-蟛	pãng
-蟚	pãng
-䨻	pãng
-馮	pãng
-鬅	pãng
-鵬	pãng
-棒	pâng
-砰	pâng
-稖	pâng
-剖	pāo
-掊	pāo
-瓿	pāo
-跑	pāo
-咆	päo
-抱	päo
-拋	päo
-泡	päo
-泡	päo
-炮	päo
-炮	päo
-炮	päo
-爆	päo
-皰	päo
-砲	päo
-礟	päo
-礮	päo
-脬	päo
-菢	päo
-刨	pão
-刨	pão
-匏	pão
-庖	pão
-掊	pão
-袍	pão
-裒	pão
-跑	pão
-颮	pão
-刨	pâo
-泡	pâo
-秕	pât
-疲	pêh
-僻	pēik
-噼	pēik
-擗	pēik
-甓	pēik
-癖	pēik
-薜	pēik
-辟	pēik
-辟	pēik
-闢	pēik
-霹	pēik
-瞥	pëik
-蹩	pëik
-泵	pēim
-片	pēin
-俜	pëin
-偏	pëin
-姘	pëin
-娉	pëin
-徧	pëin
-扁	pëin
-拚	pëin
-拼	pëin
-片	pëin
-片	pëin
-犏	pëin
-篇	pëin
-編	pëin
-緶	pëin
-翩	pëin
-聘	pëin
-䏒	pëin
-胼	pëin
-腁	pëin
-諞	pëin
-跰	pëin
-蹁	pëin
-遍	pëin
-鍂	pëin
-騁	pëin
-騙	pëin
-便	pẽin
-坪	pẽin
-屏	pẽin
-帡	pẽin
-幈	pẽin
-平	pẽin
-怦	pẽin
-抨	pẽin
-摒	pẽin
-枰	pẽin
-瓶	pẽin
-砰	pẽin
-缾	pẽin
-胼	pẽin
-萍	pẽin
-蘋	pẽin
-評	pẽin
-跰	pẽin
-軿	pẽin
-駢	pẽin
-騈	pẽin
-鮃	pẽin
-劈	pëk
-劈	pëk
-踢	pëk
-劈	pêk
-㧼	pēl
-剽	pël
-嘌	pël
-摽	pël
-漂	pël
-漂	pël
-漂	pël
-瓢	pël
-瞟	pël
-縹	pël
-縹	pël
-螵	pël
-飄	pël
-驃	pël
-鰾	pël
-嫖	pẽl
-摽	pẽl
-樸	pẽl
-莩	pẽl
-薸	pẽl
-殍	pêl
-票	pêl
-平	pẽng
-坪	pêng
-瓶	pêng
-缾	pêng
-撇	pēt
-跛	pēt
-撇	pët
-撇	pët
-氕	pët
-丿	pêt
-撇	pêt
-丕	pī
-否	pī
-呸	pī
-嚭	pī
-圮	pī
-帔	pī
-痞	pī
-脴	pī
-苤	pī
-邳	pī
-鄙	pī
-駓	pī
-䲹	pī
-屁	pï
-披	pï
-狉	pï
-紕	pï
-被	pï
-譬	pï
-嬖	pĩ
-枇	pĩ
-琵	pĩ
-疲	pĩ
-皮	pĩ
-肶	pĩ
-脾	pĩ
-膍	pĩ
-芘	pĩ
-蚍	pĩ
-蜱	pĩ
-螕	pĩ
-裨	pĩ
-貔	pĩ
-郫	pĩ
-鈹	pĩ
-陂	pĩ
-陴	pĩ
-鮍	pĩ
-鼙	pĩ
-婢	pî
-睥	pî
-睥	pî
-脾	pî
-被	pî
-嚬	pĩn
-瀕	pĩn
-牝	pĩn
-矉	pĩn
-蘋	pĩn
-貧	pĩn
-頻	pĩn
-顰	pĩn
-牝	pîn
-匹	pīt
-疋	pīt
-苉	pīt
-叵	pō
-笸	pō
-鉕	pō
-頗	pō
-駊	pō
-髲	pō
-破	pö
-頗	pö
-婆	põ
-媻	põ
-皤	põ
-繁	põ
-佩	pöi
-旆	pöi
-棑	pöi
-沛	pöi
-淠	pöi
-焙	pöi
-珮	pöi
-肺	pöi
-胚	pöi
-配	pöi
-霈	pöi
-培	põi
-抔	põi
-掊	põi
-掊	põi
-瓿	põi
-裴	põi
-裵	põi
-賠	põi
-醅	põi
-錇	põi
-陪	põi
-倍	pôi
-坯	pôi
-碚	pôi
-蓓	pôi
-噗	pōk
-撲	pōk
-攴	pōk
-攵	pōk
-朴	pōk
-朴	pōk
-樸	pōk
-泡	pōk
-皰	pōk
-粕	pōk
-蹼	pōk
-醭	pōk
-釙	pōk
-璞	pök
-判	pön
-拚	pön
-拼	pön
-泮	pön
-潘	pön
-番	pön
-媻	põn
-柈	põn
-柈	põn
-槃	põn
-盤	põn
-磐	põn
-磻	põn
-胖	põn
-蟠	põn
-蹣	põn
-伴	pôn
-謗	pōng
-傍	põng
-嗙	põng
-彷	põng
-徬	põng
-房	põng
-旁	põng
-滂	põng
-牻	põng
-磅	põng
-篣	põng
-膀	põng
-膀	põng
-螃	põng
-逄	põng
-鰟	põng
-龐	põng
-耪	pòng
-硥	pông
-蚌	pông
-蚌	pông
-蚄	pông
-蛖	pông
-蜯	pông
-㧊	pöt
-潑	pöt
-醱	pöt
-鏺	pöt
-圃	pū
-普	pū
-氆	pū
-浦	pū
-溥	pū
-甫	pū
-脯	pū
-脯	pū
-譜	pū
-鐠	pū
-甫	pü
-舖	pü
-鋪	pü
-鋪	pü
-匍	pũ
-婆	pũ
-浦	pũ
-皤	pũ
-砣       pũ
-𥓿     	pũ
-莆	pũ
-菩	pũ
-葡	pũ
-蒲	pũ
-逋	pũ
-酺	pũ
-鉈	pũ
-婆	pû
-仆	pūk
-仆	pük
-仆	pûk
-噴	pün
-噴	pün
-濆	pün
-湓	pûn
-盆	pûn
-捧	pūng
-掽	püng
-碰	püng
-踫	püng
-篷	pũng
-𦪪	pũng
-蓬	pũng
-蓬	pũng
-灑	sā
-耍	sā
-挲	sä
-㲚	sä
-沙	sä
-沙	sä
-痧	sä
-紗	sä
-莎	sä
-裟	sä
 𩵮	sä
-魦	sä
-鯊	sä
-鯋	sä
-挱	sâ
-挲	sâ
-沙	sâ
-砂	sâ
-丗	säi
-世	säi
-勢	säi
-卋	säi
-曬	säi
-篩	säi
-簁	säi
-簛	säi
-貰	säi
-釃	säi
-貰	sãi
-䛈	sài
-誓	sài
-逝	sài
-䤱	sài
-噬	sâi
-狧	sâi
-筮	sâi
-篩	sâi
-簭	sâi
-𦧇	sâi
-舐	sâi
-舓	sâi
-側	sāk
-嗦	sāk
-𢱢	sāk
-摻	sām
-衫	sām
-彡	sâm
-穇	sâm
-衫	sâm
-刪	sän
-埏	sän
-姍	sän
-山	sän
-拴	sän
-柵	sän
-氙	sän
-汕	sän
-涮	sän
-潸	sän
-珊	sän
-疝	sän
-篡	sän
-簒	sän
-舢	sän
-芟	sän
-苫	sän
-訕	sän
-跚	sän
-閂	sän
-孱	sãn
-孱	sãn
-潺	sãn
-驏	sãn
-栓	sân
-殘	sân
-閂	sân
-省	sāng
-眚	sāng
-賞	sāng
-牲	säng
-狌	säng
-生	säng
-甥	säng
-笙	säng
-鼪	säng
-生	sâng
-覡	sâng
-稍	sāo
-稍	sāo
-颼	sāo
-哨	säo
-嘯	säo
-捎	säo
-捎	säo
-梢	säo
-潲	säo
-筲	säo
-耖	säo
-艄	säo
-蛸	säo
-銹	säo
-鏥	säo
-鏽	säo
-鞘	säo
-扔	sào
-歃	sāp
-霎	sāp
-唼	säp
-眨	säp
-翣	säp
-霎	säp
-煮	sàp
-剎	sāt
-剎	sät
-殺	sät
-煞	sät
-煞	sät
-脎	sät
-鎩	sät
-捨	sēh
-厙	sëh
-啥	sëh
-猞	sëh
-舍	sëh
-舎	sëh
-賒	sëh
-佘	sẽh
-畬	sẽh
-畲	sẽh
-虵	sẽh
-蛇	sẽh
-輋	sẽh
-闍	sẽh
-射	sèh
-䠶	sèh
-麝	sèh
-社	sêh
-奭	sēik
-式	sēik
-拭	sēik
-歮	sēik
-穡	sēik
-色	sēik
-色	sēik
-螫	sēik
-識	sēik
-軾	sēik
-適	sēik
-釋	sēik
-銫	sēik
-飭	sēik
-飾	sēik
-骰	sēik
-蝕	sèik
-食	sèik
-抋	sëim
-沁	sëim
-滲	sëim
-岑	sẽim
-忱	sẽim
-愖	sẽim
-森	sẽim
-涔	sẽim
-芩	sẽim
-諶	sẽim
-諶	sẽim
-升	sēin
-升	sëin
-檉	sëin
-聖	sëin
-聲	sëin
-勝	sëin
-苫	sëin
-蟶	sëin
-陞	sëin
-丞	sẽin
-乘	sẽin
-城	sẽin
-堘	sẽin
-塍	sẽin
-宬	sẽin
-成	sẽin
-承	sẽin
-晟	sẽin
-晠	sẽin
-澠	sẽin
-珹	sẽin
-盛	sẽin
-繩	sẽin
-誠	sẽin
-鋮	sẽin
-乘	sèin
-單	sèin
-嵊	sèin
-晟	sèin
-晠	sèin
-盛	sèin
-升	sêin
-㒊	sēip
-澁	sēip
-澀	sēip
-勺	sēk
-妁	sēk
-杓	sēk
-灼	sēk
-爍	sēk
-繳	sēk
-芍	sēk
-鑠	sēk
-濕	sëk
-石	sèk
-石	sèk
-炻	sêk
-䂖	sêk
-碩	sêk
-祏	sêk
-䄷	sêk
-鼫	sêk
-石	sêk
-少	sēl
-少	sël
-燒	sël
-苕	sẽl
-韶	sẽl
-劭	sèl
-召	sèl
-紹	sèl
-肇	sèl
-邵	sèl
-兆	sêl
-䀹	sēm
-閃	sēm
-陝	sēm
-儃	sẽm
-單	sẽm
-嬋	sẽm
-檐	sẽm
-禪	sẽm
-簷	sẽm
-蟬	sẽm
-蟾	sẽm
-剡	sèm
-贍	sèm
-扇	sën
-扇	sën
-搧	sën
-煽	sën
-羴	sën
-羶	sën
-膻	sën
-蒨	sën
-騸	sën
-倩	sèn
-善	sèn
-墡	sèn
-嬗	sèn
-掞	sèn
-撣	sèn
-擅	sèn
-禪	sèn
-茜	sèn
-鄯	sèn
-繕	sên
-膳	sên
-蟮	sên
-蟺	sên
-鐥	sên
-饍	sên
-鱔	sên
-鱣	sên
-賞	sēng
-上	sëng
-傷	sëng
-商	sëng
-墒	sëng
-殤	sëng
-湯	sëng
-熵	sëng
-聲	sëng
-觴	sëng
-倘	sẽng
-償	sẽng
-嘗	sẽng
-城	sẽng
-嫦	sẽng
-常	sẽng
-徜	sẽng
-成	sẽng
-甞	sẽng
-裳	sẽng
-裳	sẽng
-鱨	sẽng
-上	sèng
-上	sèng
-上	sèng
-尙	sèng
-尚	sèng
-尚	sèng
-蠰	sèng
-鞝	sèng
-聲	sêng
-瘦	sëo
-愁	sẽo
-曅	sēp
-曄	sēp
-燁	sēp
-熠	sēp
-爗	sēp
-閃	sëp
-拾	sèp
-歙	sèp
-涉	sèp
-渉	sèp
-箑	sèp
-霅	sèp
-色	sēt
-虱	sēt
-蝨	sēt
-設	sēt
-鯴	sēt
-折	sèt
-蝕	sèt
-揲	sêt
-舌	sêt
-鞨	sêt
-屎	sī
-暑	sī
-矢	sī
-豎	sī
-豕	sī
-黍	sī
-鼡	sī
-䑕	sī
-鼠	sī
-俞	sï
-嗜	sï
-噓	sï
-尸	sï
-屍	sï
-庶	sï
-庻	sï
-弒	sï
-恕	sï
-戍	sï
-抒	sï
-摴	sï
-摴	sï
-攄	sï
-施	sï
-曙	sï
-書	sï
-樗	sï
-樗	sï
-樞	sï
-毹	sï
-紓	sï
-署	sï
-耆	sï
-腧	sï
-舒	sï
-蓍	sï
-詩	sï
-試	sï
-謚	sï
-輸	sï
-酗	sï
-匙	sĩ
-匙	sĩ
-𠸭	sĩ
-㖷	sĩ
-塒	sĩ
-旹	sĩ
-時	sĩ
-曙	sĩ
-杸	sĩ
-殊	sĩ
-殳	sĩ
-糬	sĩ
-茨	sĩ
-蒔	sĩ
-蒔	sĩ
-薯	sĩ
-藷	sĩ
-鰣	sĩ
-侍	sì
-峙	sì
-峙	sì
-忕	sì
-是	sì
-昰	sì
-曙	sì
-樹	sì
-氏	sì
-澍	sì
-示	sì
-社	sì
-署	sì
-視	sì
-豉	sì
-䜵	sì
-豎	sì
-䜻	sì
-市	sî
-恃	sî
-時	sî
-柹	sî
-柿	sî
-鈰	sî
-嬸	sīm
-審	sīm
-沈	sīm
-瀋	sīm
-瀋	sīm
-諗	sīm
-讅	sīm
-深	sïm
-琛	sïm
-郴	sïm
-什	sìm
-椹	sìm
-甚	sìm
-甚	sìm
-葚	sìm
-葚	sìm
-伸	sïn
-呻	sïn
-抻	sïn
-珅	sïn
-申	sïn
-砷	sïn
-紳	sïn
-胂	sïn
-身	sïn
-𠈌	sĩn
-娠	sĩn
-宸	sĩn
-晨	sĩn
-神	sĩn
-臣	sĩn
-辰	sĩn
-慎	sìn
-愼	sìn
-眘	sìn
-縝	sìn
-身	sîn
-濕	sīp
-澀	sīp
-什	sìp
-十	sìp
-拾	sìp
-失	sīt
-室	sīt
-瑟	sīt
-実	sìt
-寔	sìt
-實	sìt
-守	siū
-扌	siū
-手	siū
-狩	siū
-艏	siū
-首	siū
-收	siü
-狩	siü
-仇	siũ
-售	siũ
-讎	siũ
-受	siù
-售	siù
-壽	siù
-授	siù
-綬	siù
-唆	sō
-嗦	sō
-所	sō
-蘇	sō
-唆	sö
-娑	sö
-挱	sö
-挲	sö
-梭	sö
-桫	sö
-梳	sö
-羧	sö
-莎	sö
-鮻	sö
-睃	sò
-傻	sô
-梭	sô
-使	sōi
-駛	sōi
-噻	söi
-塞	söi
-揌	söi
-賽	söi
-塑	sōk
-愬	sōk
-搠	sōk
-數	sōk
-朔	sōk
-槊	sōk
-索	sōk
-蒴	sōk
-嗍	sök
-舡	sõn
-舩	sõn
-船	sõn
-吮	sôn
-楯	sôn
-爽	sōng
-孀	söng
-瀧	söng
-蠰	söng
-雙	söng
-䨇	söng
-霜	söng
-鷞	söng
-鸘	söng
-恤	sōt
-索	sōt
-裇	sōt
-說	sōt
-數	sū
-娑	sü
-數	sü
-梳	sü
-疋	sü
-疏	sü
-蔬	sü
-水	suī
-誰	suī
-帥	suï
-稅	suï
-衰	suï
-說	suï
-垂	suĩ
-誰	suĩ
-誰	suĩ
-陲	suĩ
-睡	suì
-誰	suî
-倏	sūk
-叔	sūk
-縮	sūk
-縮	sūk
-縮	sük
-塾	sùk
-孰	sùk
-屬	sùk
-淑	sùk
-熟	sùk
-熟	sùk
-菽	sùk
-蜀	sùk
-蠋	sùk
-蠾	sùk
-贖	sùk
-縮	sûk
-舜	sün
-唇	sũn
-淳	sũn
-純	sũn
-脣	sũn
-蒓	sũn
-蓴	sũn
-醇	sũn
-錞	sũn
-馴	sũn
-順	sùn
-瞬	sûn
-腎	sûn
-蜃	sûn
-蜄	sûn
-鶉	sûn
-崇	sũng
-鱅	sũng
-沭	sùt
-秫	sùt
-術	sùt
-術	sùt
-述	sùt
-鉥	sùt
-呔	tāi
-銻	tāi
-凄	täi
-切	täi
-棲	täi
-沏	täi
-淒	täi
-砌	täi
-砌	täi
-萋	täi
-薺	tãi
-蠐	tãi
-齊	tãi
-賊	tàk
-鰂	tàk
-參	tām
-慘	tām
-黲	tām
-參	täm
-參	täm
-叅	täm
-噆	täm
-摻	täm
-摻	täm
-攙	täm
-瘮	täm
-穇	täm
-蔘	täm
-驂	täm
-巉	tãm
-慚	tãm
-欃	tãm
-讒	tãm
-饞	tãm
-蠶	tâm
-燦	tān
-璨	tān
-粲	tān
-嘆	tän
-湌	tän
-飡	tän
-餐	tän
-䱗	tän
-殘	tãn
-殘	tân
-層	tãng
-曾	tãng
-屮	tāo
-艸	tāo
-草	tāo
-噪	täo
-操	täo
-澡	täo
-燥	täo
-㿷	täo
-糙	täo
-藻	täo
-趮	täo
-躁	täo
-嘈	tão
-曹	tão
-槽	tão
-漕	tão
-艚	tão
-螬	tão
-鰽	tão
-撻	tāt
-羍	tät
-踏	tät
-遢	tät
-遢	tät
-遢	tât
-斜	tẽh
-邪	tẽh
-倜	tēik
-俶	tēik
-切	tēik
-剔	tēik
-嘁	tēik
-忑	tēik
-忒	tēik
-忒	tēik
-忒	tēik
-惕	tēik
-慝	tēik
-慽	tēik
-慼	tēik
-戚	tēik
-槭	tēik
-脦	tēik
-裼	tēik
-裼	tēik
-趯	tēik
-鋱	tēik
-切	tëik
-竊	tëik
-淺	tēin
-請	tēin
-仟	tëin
-千	tëin
-圊	tëin
-扦	tëin
-氰	tëin
-淸	tëin
-清	tëin
-箐	tëin
-芊	tëin
-菁	tëin
-蜻	tëin
-蹮	tëin
-躚	tëin
-遷	tëin
-釺	tëin
-阡	tëin
-青	tëin
-靑	tëin
-韆	tëin
-鯖	tëin
-兛	tëinhāk
-瓩	tëinngā
-前	tẽin
-情	tẽin
-䝼	tẽin
-錢	tẽin
-疼	tëk
-赤	tëk
-悄	tēl
-悄	tēl
-愀	tēl
-俏	tël
-峭	tël
-誚	tël
-鍬	tël
-鍫	tël
-憔	tẽl
-樵	tẽl
-癄	tẽl
-瞧	tẽl
-譙	tẽl
-顦	tẽl
-懺	tëm
-暹	tëm
-殲	tëm
-簽	tëm
-讖	tëm
-撏	tẽm
-撏	tẽm
-潛	tẽm
-塹	têm
-槧	têm
-簽	têm
-籖	têm
-籤	têm
-搶	tēng
-搶	tēng
-請	tēng
-嗆	tëng
-嗆	tëng
-戧	tëng
-戧	tëng
-槍	tëng
-牄	tëng
-瑲	tëng
-篬	tëng
-蹌	tëng
-蹡	tëng
-蹡	tëng
-錆	tëng
-鎗	tëng
-鑲	tëng
-青	tëng
-墻	tẽng
-嬙	tẽng
-庠	tẽng
-廧	tẽng
-戕	tẽng
-晴	tẽng
-檣	tẽng
-爿	tẽng
-牆	tẽng
-祥	tẽng
-羏	tẽng
-翔	tẽng
-艢	tẽng
-薔	tẽng
-詳	tẽng
-詳	têng
-楱	tëo
-湊	tëo
-輳	tëo
-呫	tēp
-妾	tēp
-踥	tēp
-揌	tï
-粢	tĩ
-糍	tĩ
-餈	tĩ
-似	tî
-糍	tî
-臍	tî
-薺	tî
-蹄	tî
-寑	tīm
-寢	tīm
-梫	tīm
-侵	tïm
-僉	tïm
-唚	tïm
-摻	tïm
-簽	tïm
-纖	tïm
-鋟	tïm
-駸	tïm
-尋	tĩm
-潯	tĩm
-灥	tĩm
-蕁	tĩm
-蕁	tĩm
-覃	tĩm
-鐔	tĩm
-鱘	tĩm
-尋	tîm
-親	tïn
-親	tïn
-戢	tīp
-揖	tīp
-楫	tīp
-檝	tīp
-緝	tīp
-緝	tīp
-艥	tīp
-蕺	tīp
-輯	tīp
-七	tīt
-咠	tīt
-柒	tīt
-漆	tīt
-舙	tīt
-葺	tīt
-啾	tiü
-揪	tiü
-楸	tiü
-湫	tiü
-湊	tiü
-秋	tiü
-䆋	tiü
-龝	tiü
-萩	tiü
-鞦	tiü
-鞧	tiü
-鬏	tiü
-鰍	tiü
-鰌	tiü
-鶖	tiü
-囚	tiũ
-泅	tiũ
-鰍	tiû
-剉	tö
-唑	tö
-坐	tö
-嵯	tö
-挫	tö
-搓	tö
-痤	tö
-瘥	tö
-矬	tö
-磋	tö
-脞	tö
-莝	tö
-蹉	tö
-銼	tö
-錯	tö
-鹺	tö
-痤	tô
-銼	tô
-埰	tōi
-埰	tōi
-寀	tōi
-寀	tōi
-彩	tōi
-採	tōi
-睬	tōi
-綵	tōi
-茝	tōi
-采	tōi
-采	tōi
-菜	töi
-蔡	töi
-才	tõi
-材	tõi
-纔	tõi
-裁	tõi
-財	tõi
-䴭	tõi
-菜	tôi
-鑿	tôk
-雹	tôk
-爨	tōn
-竄	tōn
-蹌	tōn
-攛	tön
-爨	tön
-躥	tön
-鑹	tön
-倉	töng
-傖	töng
-傖	töng
-囱	töng
-愴	töng
-滄	töng
-熗	töng
-牎	töng
-牕	töng
-窓	töng
-窗	töng
-𥦗	töng
-窻	töng
-篬	töng
-艙	töng
-蒼	töng
-蹌	töng
-鶬	töng
-藏	tõng
-卒	tōt
-撮	tōt
-撮	tōt
-猝	tōt
-厝	tü
-唑	tü
-坐	tü
-嵯	tü
-措	tü
-搓	tü
-粗	tü
-觕	tü
-蹉	tü
-酢	tü
-醋	tü
-麁	tü
-麄	tü
-麤	tü
-徂	tũ
-殂	tũ
-吐	tû
-唾	tû
-取	tuī
-娶	tuī
-催	tuï
-啐	tuï
-娶	tuï
-崔	tuï
-推	tuï
-摧	tuï
-榱	tuï
-毳	tuï
-淬	tuï
-漼	tuï
-焌	tuï
-璀	tuï
-縗	tuï
-翠	tuï
-脆	tuï
-膗	tuï
-蛆	tuï
-衰	tuï
-趣	tuï
-趨	tuï
-徐	tuĩ
-隋	tuĩ
-隨	tuĩ
-促	tūk
-涑	tūk
-禿	tūk
-簇	tūk
-簌	tūk
-蔟	tūk
-蔌	tūk
-觫	tūk
-謖	tūk
-踧	tūk
-蹙	tūk
-蹴	tūk
-蹵	tūk
-速	tūk
-鵚	tūk
-齪	tūk
-𧨸	tūn
-吋	tün
-寸	tün
-村	tün
-佺	tũn
-全	tũn
-嗪	tũn
-囤	tũn
-存	tũn
-巡	tũn
-廵	tũn
-循	tũn
-旬	tũn
-栒	tũn
-栓	tũn
-泉	tũn
-溱	tũn
-痊	tũn
-秦	tũn
-筌	tũn
-荃	tũn
-螓	tũn
-詮	tũn
-蹲	tũn
-輇	tũn
-醛	tũn
-鰁	tũn
-屯	tûn
-村	tûn
-邨	tûn
-慫	tūng
-匆	tüng
-怱	tüng
-悤	tüng
-樅	tüng
-璁       tüng
-瑽	tüng
-聰	tüng
-蔥	tüng
-蓯	tüng
-鏦	tüng
-騘	tüng
-驄	tüng
-叢	tũng
-從	tũng
-松	tũng
-淞	tũng
-茼	tũng
-賨	tũng
-蔥	tûng
-擦	tüt
-哚	ū
-垛	ū
-垛	ū
-埵	ū
-堵	ū
-朵	ū
-朵	ū
-橢	ū
-睹	ū
-綞	ū
-肚	ū
-肚	ū
-覩	ū
-賭	ū
-跺	ū
-跥	ū
-躲	ū
-躱	ū
-哆	ü
-嘟	ü
-多	ü
-屙	ü
-柯	ü
-珂	ü
-痾	ü
-痾	ü
-砢	ü
-舸	ü
-訶	ü
-軻	ü
-軻	ü
-都	ü
-都	ü
-闍	ü
-妒	ù
-妬	ù
-度	ù
-斁	ù
-杜	ù
-渡	ù
-𤢕	ù
-芏	ù
-螙	ù
-蠧	ù
-蠹	ù
-鍍	ù
-兌	uï
-堆	uï
-對	uï
-敦	uï
-磓	uï
-膇	uï
-錞	uï
-鐓	uï
-鐓	uï
-堆	uì
-堆	uî
-對	uî
-碓	uî
-厾	ūk
-喔	ūk
-屋	ūk
-督	ūk
-竺	ūk
-篤	ūk
-齷	ūk
-督	ük
-毒	ùk
-獨	ùk
-碡	ùk
-纛	ùk
-讀	ùk
-髑	ùk
-黷	ùk
-嗝	ûk
-噸	ūn
-囤	ūn
-墪	ūn
-墩	ūn
-屯	ūn
-拴	ūn
-礅	ūn
-躉	ūn
-敦	ün
-暾	ün
-鐓	ün
-驐	ün
-惇	ùn
-扽	ùn
-撴	ùn
-敦	ùn
-㪟	ùn
-楯	ùn
-沌	ùn
-炖	ùn
-燉	ùn
-燉	ùn
-盾	ùn
-砘	ùn
-蹾	ùn
-遁	ùn
-鈍	ùn
-頓	ùn
-盹	ûn
-頓	ûn
-懂	ūng
-㧬	ūng
-棟	ūng
-董	ūng
-冬	üng
-凍	üng
-咚	üng
-峂	üng
-崠	üng
-崬	üng
-東	üng
-氡	üng
-湩	üng
-腖	üng
-鶇	üng
-鼕	üng
-𪔜	üng
-侗	ùng
-動	ùng
-垌	ùng
-峒	ùng
-崠	ùng
-幢	ùng
-恫	ùng
-慟	ùng
-棟	ùng
-洞	ùng
-硐	ùng
-胴	ùng
-瓮	ûng
-甕	ûng
-罋	ûng
-凸	ùt
-奪	ùt
-突	ùt
-腯	ùt
-葖	ùt
-頓	ùt
-飿	ùt
-突	ût
-娃	vā
-搲	vā
-搲	vā
-搲	vā
-攨	vā
-鏵	vā
-哇	vä
-哇	vä
-嘩	vä
-屲	vä
-洼	vä
-窊	vä
-窪	vä
-蛙	vä
-鼃	vä
-凹	vä
-嘩	vã
-樺	vã
-華	vã
-鏵	vã
-驊	vã
-嘩	và
-畫	và
-砉	và
-華	và
-話	và
-舙	vâ
-歪	vāi
-懷	vãi
-槐	vãi
-淮	vãi
-耲	vãi
-壞	vài
-域	vāk
-棫	vāk
-划	vàk
-劃	vàk
-劃	vàk
-惐	vàk
-惑	vàk
-或	vàk
-畫	vàk
-砉	vàk
-豁	vàk
-騞	vàk
-劃	vâk
-畫	vâk
-鐶	vān
-彎	vän
-灣	vän
-圜	vãn
-嬛	vãn
-嬛	vãn
-寰	vãn
-擐	vãn
-澴	vãn
-灣	vãn
-環	vãn
-繯	vãn
-還	vãn
-還	vãn
-鍰	vãn
-鬟	vãn
-宦	vàn
-患	vàn
-漶	vàn
-豢	vàn
-幻	vân
-挽	vân
-環	vân
-綰	vân
-輓	vân
-鯇	vân
-揘	vãng
-橫	vãng
-黌	vãng
-橫	vàng
-吼	vāo
-胶	vão
-挖	vät
-斡	vät
-穵	vät
-滑	vàt
-猾	vàt
-螖	vàt
-域	vèik
-役	vèik
-棫	vèik
-淢	vèik
-疫	vèik
-蜮	vèik
-閾	vèik
-嶸	vẽin
-榮	vẽin
-蠑	vẽin
-鎣	vẽin
-扔	vèin
-泳	vèin
-潁	vèin
-穎	vèin
-詠	vèin
-頴	vèin
-永	vêin
-倭	vī
-偉	vī
-喟	vī
-委	vī
-委	vī
-洧	vī
-煒	vī
-瑋	vī
-痏	vī
-痿	vī
-緯	vī
-萎	vī
-葳	vī
-葦	vī
-諉	vī
-諱	vī
-逶	vī
-隗	vī
-韋	vī
-韙	vī
-韡	vī
-鮪	vī
-偎	vï
-噦	vï
-威	vï
-尉	vï
-崴	vï
-崴	vï
-慰	vï
-煨	vï
-猥	vï
-畏	vï
-穢	vï
-蔚	vï
-蔚	vï
-薉	vï
-隈	vï
-餵	vï
-唯	vĩ
-唯	vĩ
-囗	vĩ
-圍	vĩ
-囲	vĩ
-圩	vĩ
-帷	vĩ
-幃	vĩ
-惟	vĩ
-桅	vĩ
-溈	vĩ
-潿	vĩ
-濰	vĩ
-為	vĩ
-爲	vĩ
-維	vĩ
-違	vĩ
-遺	vĩ
-闈	vĩ
-位	vì
-喂	vì
-渭	vì
-為	vì
-爲	vì
-碨	vì
-碨	vì
-胃	vì
-蝟	vì
-衛	vì
-謂	vì
-軎	vì
-遺	vì
-倭	vö
-和	vö
-喎	vö
-堝	vö
-媧	vö
-撾	vö
-渦	vö
-窠	vö
-窩	vö
-窼	vö
-萵	vö
-蝸	vö
-踒	vö
-鍋	vö
-俰	võ
-和	võ
-禾	võ
-龢	võ
-和	vò
-禍	vò
-煨	vöi
-穢	vöi
-佪	või
-佪	või
-回	või
-徊	või
-徊	või
-洄	või
-痐	või
-茴	või
-蚘	või
-蛔	või
-蛕	või
-蜖	või
-迴	või
-逥	või
-匯	vòi
-彙	vòi
-㧟	vòi
-會	vòi
-會	vòi
-會	vòi
-燴	vòi
-薈	vòi
-會	vôi
-劐	vòk
-彠	vòk
-獲	vòk
-矱	vòk
-穫	vòk
-耠	vòk
-蒦	vòk
-蠖	vòk
-鍋	vôk
-鑊	vôk
-剜	vōn
-婉	vōn
-宛	vōn
-帵	vōn
-惋	vōn
-椀	vōn
-琬	vōn
-㼝	vōn
-畹	vōn
-盌	vōn
-碗	vōn
-腕	vōn
-苑	vōn
-菀	vōn
-蜿	vōn
-豌	vōn
-換	vòn
-逭	vòn
-尢	vōng
-尣	vōng
-尪	vōng
-尫	vōng
-尩	vōng
-枉	vōng
-汪	vōng
-凰	võng
-喤	võng
-徨	võng
-惶	võng
-湟	võng
-潢	võng
-煌	võng
-王	võng
-瑝	võng
-璜	võng
-癀	võng
-皇	võng
-磺	võng
-篁	võng
-簧	võng
-葟	võng
-蝗	võng
-蟥	võng
-遑	võng
-鍠	võng
-隍	võng
-鰉	võng
-鱑	võng
-黃	võng
-旺	vòng
-王	vòng
-往	vông
-徃	vông
-活	vòt
-鎢	vū
-嗚	vü
-圬	vü
-埡	vü
-塢	vü
-惡	vü
-惡	vü
-於	vü
-汙	vü
-汚	vü
-污	vü
-烏	vü
-烏	vü
-祜	vü
-肟	vü
-葫	vü
-鄔	vü
-鎢	vü
-靰	vü
-和	vũ
-嘸	vũ
-嘸	vũ
-壺	vũ
-弧	vũ
-湖	vũ
-煳	vũ
-狐	vũ
-猢	vũ
-瑚	vũ
-瓠	vũ
-糊	vũ
-糊	vũ
-糊	vũ
-胡	vũ
-蝴	vũ
-衚	vũ
-醐	vũ
-餬	vũ
-鬍	vũ
-鶘	vũ
-互	vù
-冱	vù
-楛	vù
-瓠	vù
-護	vù
-鸌	vù
-芋	vû
-護	vû
-搵	vūn
-穩	vūn
-蘊	vūn
-醞	vūn
-韞	vūn
-員	vün
-員	vün
-慍	vün
-榲	vün
-氳	vün
-溫	vün
-瘟	vün
-縕	vün
-縕	vün
-醞	vün
-韞	vün
-鰮	vün
-云	vũn
-勻	vũn
-暈	vũn
-暈	vũn
-煇	vũn
-畇	vũn
-紜	vũn
-耘	vũn
-芸	vũn
-葷	vũn
-蕓	vũn
-贇	vũn
-鄖	vũn
-雲	vũn
-餛	vũn
-餫	vũn
-魂	vũn
-惲	vùn
-殞	vùn
-混	vùn
-混	vùn
-渾	vùn
-溷	vùn
-熨	vùn
-琿	vùn
-葷	vùn
-諢	vùn
-運	vùn
-鄆	vùn
-隕	vùn
-韻	vùn
-允	vûn
-尹	vûn
-狁	vûn
-尉	vūt
-屈	vūt
-欝	vūt
-熨	vūt
-膃	vūt
-詘	vūt
-鬰	vūt
-鬱	vūt
-煀	vüt
-核	vût
-嘥	xāi
-壐	xāi
-屣	xāi
-徙	xāi
-枲	xāi
-洗	xāi
-璽	xāi
-葸	xāi
-蓰	xāi
-嗮	xäi
-嶲	xäi
-巂	xäi
-恓	xäi
-棲	xäi
-樨	xäi
-㯕	xäi
-氥	xäi
-犀	xäi
-硒	xäi
-粞	xäi
-細	xäi
-舾	xäi
-茜	xäi
-西	xäi
-鍶	xäi
-壻	xâi
-婿	xâi
-細	xâi
-噻	xāk
-塞	xāk
-塞	xāk
-揌	xāk
-㩙	xāk
-噻	xâk
-糂	xām
-糝	xām
-糝	xām
-糣	xām
-糣	xām
-三	xäm
-仨	xäm
-叄	xäm
-弎	xäm
-毿	xäm
-蔘	xäm
-衫	xäm
-三	xâm
-散	xān
-饊	xān
-傘	xän
-散	xän
-㪚	xän
-潵	xän
-僧	xäng
-鬙	xäng
-嫂	xāo
-埽	xäo
-掃	xäo
-掃	xäo
-搔	xäo
-瘙	xäo
-簑	xäo
-繅	xäo
-繰	xäo
-臊	xäo
-臊	xäo
-蓑	xäo
-騷	xäo
-鰠	xäo
-掃	xâo
-卅	xàp
-撒	xāt
-撒	xät
-撒	xät
-潵	xät
-薩	xät
-寫	xēh
-些	xëh
-卸	xëh
-瀉	xëh
-缷	xëh
-赦	xëh
-噓	xêh
-嗇	xēik
-契	xēik
-媟	xēik
-媳	xēik
-㞕	xēik
-屑	xēik
-息	xēik
-息	xēik
-惜	xēik
-悉	xēik
-昔	xēik
-晰	xēik
-晳	xēik
-析	xēik
-枻	xēik
-楔	xēik
-榍	xēik
-泄	xēik
-洩	xēik
-淅	xēik
-渫	xēik
-潟	xēik
-熄	xēik
-燮	xēik
-皙	xēik
-窸	xēik
-紲	xēik
-絏	xēik
-腊	xēik
-舄	xēik
-菥	xēik
-薛	xēik
-蜥	xēik
-螅	xēik
-蟋	xēik
-褻	xēik
-跬	xēik
-踖	xēik
-躠	xēik
-𨇨	xēik
-躞	xēik
-錫	xēik
-鍥	xēik
-糝	xēim
-冼	xēin
-洗	xēin
-燹	xēin
-獮	xēin
-癬	xēin
-省	xēin
-筅	xēin
-蘚	xēin
-跣	xēin
-醒	xēin
-銑	xēin
-銑	xēin
-鮮	xēin
-仙	xëin
-仚	xëin
-佡	xëin
-僊	xëin
-先	xëin
-姓	xëin
-性	xëin
-惺	xëin
-旌	xëin
-星	xëin
-𤙡	xëin
-狌	xëin
-猩	xëin
-秈	xëin
-箵	xëin
-籼	xëin
-綫	xëin
-線	xëin
-線	xëin
-腺	xëin
-詵	xëin
-酰	xëin
-銛	xëin
-䤼	xëin
-霰	xëin
-霰	xëin
-騂	xëin
-鮮	xëin
-鱻	xëin
-圾	xēip
-颯	xēip
-削	xēk
-鵲	xēk
-削	xëk
-惜	xëk
-錫	xëk
-小	xēl
-皛	xēl
-筱	xēl
-筿	xēl
-篠	xēl
-嘯	xël
-宵	xël
-峭	xël
-消	xël
-瀟	xël
-硝	xël
-笑	xël
-箾	xël
-簫	xël
-綃	xël
-翛	xël
-肖	xël
-肖	xël
-蕭	xël
-蛸	xël
-蠨	xël
-逍	xël
-銷	xël
-陗	xël
-霄	xël
-鞘	xël
-魈	xël
-想	xēng
-醒	xēng
-鮝	xēng
-鯗	xēng
-鱶	xēng
-廂	xëng
-湘	xëng
-瓖	xëng
-相	xëng
-相	xëng
-箱	xëng
-緗	xëng
-腥	xëng
-葙	xëng
-襄	xëng
-鉎	xëng
-銹	xëng
-鍟	xëng
-鏥	xëng
-鏽	xëng
-鑲	xëng
-驤	xëng
-星	xêng
-箱	xêng
-傁	xēo
-叟	xēo
-叜	xēo
-嗖	xēo
-嗾	xēo
-廋	xēo
-搜	xēo
-擻	xēo
-溲	xēo
-漱	xēo
-瞍	xēo
-艘	xēo
-蒐	xēo
-藪	xēo
-螋	xēo
-鎪	xēo
-颼	xēo
-䬒	xēo
-嗽	xëo
-揳	xëp
-楔	xëp
-楔	xêp
-死	xī
-四	xï
-肆	xï
-四	xî
-唚	xīm
-心	xïm
-芯	xïm
-心	xîm
-芯	xîm
-贐	xîm
-㐰	xïn
-信	xïn
-囟	xïn
-擤	xïn
-新	xïn
-燊	xïn
-汛	xïn
-莘	xïn
-莘	xïn
-蕈	xïn
-薪	xïn
-訊	xïn
-詵	xïn
-辛	xïn
-鋅	xïn
-厀	xīp
-膝	xīp
-卌	xìp
-修	xiü
-宿	xiü
-琇	xiü
-秀	xiü
-繡	xiü
-羞	xiü
-脩	xiü
-𦟤	xiü
-䐰	xiü
-饈	xiü
-髄	xōi
-髓	xōi
-腮	xöi
-顋	xöi
-鰓	xöi
-索	xōk
-索	xôk
-狻	xön
-痠	xön
-祘	xön
-筭	xön
-算	xön
-酸	xön
-蒜	xôn
-喪	xöng
-喪	xöng
-桑	xöng
-嗓	xông
-搡	xông
-桑	xông
-磉	xông
-顙	xông
-使	xū
-史	xū
-嗩	xū
-此	xū
-泚	xū
-瑣	xū
-鎖	xū
-鎻	xū
-鏁	xū
-佽	xü
-刺	xü
-刺	xü
-厶	xü
-司	xü
-嗉	xü
-嘶	xü
-噝	xü
-四	xü
-塑	xü
-師	xü
-廁	xü
-廁	xü
-廝	xü
-思	xü
-思	xü
-思	xü
-恣	xü
-愫	xü
-愬	xü
-撕	xü
-撕	xü
-斯	xü
-榡	xü
-次	xü
-泗	xü
-溯	xü
-溮	xü
-澌	xü
-獅	xü
-私	xü
-穌	xü
-笥	xü
-素	xü
-絲	xü
-緦	xü
-罳	xü
-肆	xü
-蘇	xü
-虒	xü
-蛓	xü
-螄	xü
-訴	xü
-賜	xü
-遡	xü
-酥	xü
-釃	xü
-颸	xü
-駟	xü
-鬚	xü
-魳	xü
-鰤	xü
-䲉	xü
-鳾	xü
-鷥	xü
-鼶	xü
-慈	xũ
-瓷	xũ
-甆	xũ
-磁	xũ
-祠	xũ
-茨	xũ
-茈	xũ
-茲	xũ
-詞	xũ
-辤	xũ
-辭	xũ
-飼	xũ
-鶿	xũ
-鷀	xũ
-鷥	xũ
-事	xù
-仕	xù
-伺	xù
-伺	xù
-侍	xù
-士	xù
-似	xû
-似	xû
-兕	xû
-姒	xû
-𤉡	xû
-疵	xû
-眥	xû
-糸	xû
-絲	xû
-鬚	xû
-夊	xuï
-晬	xuï
-桵	xuï
-歲	xuï
-浽	xuï
-濉	xuï
-眭	xuï
-睢	xuï
-碎	xuï
-稰	xuï
-稰	xuï
-糈	xuï
-綏	xuï
-緌	xuï
-胥	xuï
-荽	xuï
-蕤	xuï
-諝	xuï
-諝	xuï
-醑	xuï
-雖	xuï
-需	xuï
-須	xuï
-悴	xuì
-淬	xuì
-燧	xuì
-瑞	xuì
-疩	xuì
-瘁	xuì
-祟	xuì
-穗	xuì
-粋	xuì
-粹	xuì
-脺	xuì
-膵	xuì
-萃	xuì
-誶	xuì
-遂	xuì
-遂	xuì
-邃	xuì
-隧	xuì
-顇	xuì
-墅	xuî
-碎	xuî
-絮	xuî
-緒	xuî
-僳	xūk
-夙	xūk
-宿	xūk
-宿	xūk
-㝛	xūk
-粟	xūk
-肅	xūk
-蓿	xūk
-謖	xūk
-足	xūk
-餿	xūk
-鷫	xūk
-損	xūn
-榫	xūn
-筍	xūn
-篹	xūn
-簨	xūn
-選	xūn
-儇	xün
-儇	xün
-吅	xün
-咺	xün
-喧	xün
-噀	xün
-孫	xün
-宣	xün
-峋	xün
-巽	xün
-徇	xün
-恂	xün
-揎	xün
-晅	xün
-暄	xün
-楦	xün
-殉	xün
-洵	xün
-浚	xün
-渲	xün
-烜	xün
-煊	xün
-狥	xün
-猻	xün
-珣	xün
-瑄	xün
-碹	xün
-絢	xün
-翾	xün
-荀	xün
-萱	xün
-蓀	xün
-詢	xün
-諼	xün
-迅	xün
-遜	xün
-郇	xün
-郇	xün
-飧	xün
-飱	xün
-悛	xũn
-旋	xũn
-旋	xũn
-漩	xũn
-璇	xũn
-璿	xũn
-鏇	xũn
-鏇	xũn
-拴	xùn
-篆	xùn
-羡	xùn
-銓	xùn
-凇	xūng
-崧	xūng
-嵩	xūng
-悚	xūng
-愯	xūng
-慫	xūng
-竦	xūng
-聳	xūng
-娀	xüng
-宋	xüng
-從	xüng
-忪	xüng
-㩳	xüng
-鬆	xüng
-樅	xüng
-菘	xüng
-送	xüng
-餸	xûng
-恤	xūt
-戌	xūt
-戌	xūt
-摔	xūt
-率	xūt
-窣	xūt
-窣	xūt
-蟀	xūt
-䘏	xūt
-賉	xūt
-雪	xūt
-鱈	xūt
-吔	yä
-襾	yä
-覀	yä
-呀	yã
-也	yâ
-吔	yâ
-孬	yãi
-窳	yãi
-拽	yài
-拽	yài
-拽	yài
-曳	yài
-枻	yài
-泄	yài
-㹭	yài
-𦥙	yài
-跩	yài
-蹬	yäng
-爹	yēh
-爺	yēh
-嘢	yëh
-耶	yëh
-野	yëh
-倻	yẽh
-揶	yẽh
-椰	yẽh
-爺	yẽh
-玡	yẽh
-耶	yẽh
-耶	yẽh
-邪	yẽh
-釾	yẽh
-鋣	yẽh
-鋣	yẽh
-夜	yèh
-冶	yêh
-夜	yêh
-爺	yêh
-野	yêh
-億	yēik
-咽	yēik
-嚥	yēik
-嗌	yēik
-噎	yēik
-憶	yēik
-暍	yēik
-癔	yēik
-益	yēik
-臆	yēik
-謁	yēik
-鷁	yēik
-亦	yèik
-埸	yèik
-奕	yèik
-嶧	yèik
-弈	yèik
-弋	yèik
-役	yèik
-懌	yèik
-斁	yèik
-易	yèik
-昳	yèik
-榏	yèik
-液	yèik
-燚	yèik
-𤢕	yèik
-疫	yèik
-繹	yèik
-翊	yèik
-翌	yèik
-翼	yèik
-艗	yèik
-蜴	yèik
-譯	yèik
-驛	yèik
-翼	yêik
-影	yēin
-映	yēin
-暎	yēin
-𣻯	yēin
-郢	yēin
-嚶	yëin
-嬰	yëin
-應	yëin
-應	yëin
-攖	yëin
-桜	yëin
-櫻	yëin
-濙	yëin
-濴	yëin
-瀅	yëin
-瑛	yëin
-瓔	yëin
-甖	yëin
-癭	yëin
-纓	yëin
-罃	yëin
-罌	yëin
-膺	yëin
-英	yëin
-鷹	yëin
-鸚	yëin
-刑	yẽin
-型	yẽin
-塋	yẽin
-夃	yẽin
-嬴	yẽin
-形	yẽin
-滎	yẽin
-滎	yẽin
-瀛	yẽin
-瀠	yẽin
-熒	yẽin
-營	yẽin
-瑩	yẽin
-瑩	yẽin
-硎	yẽin
-籝	yẽin
-縈	yẽin
-螢	yẽin
-蠅	yẽin
-贏	yẽin
-邢	yẽin
-鈃	yẽin
-鉶 	yẽin
-陘	yẽin
-媵	yèin
-蠅	yêin
-約	yēk
-約	yëk
-亦	yèk
-吁	yèk
-瀹	yèk
-籥	yèk
-籲	yèk
-藥	yèk
-趯	yèk
-躍	yèk
-鑰	yèk
-鑰	yèk
-龠	yèk
-龥	yèk
-葯	yêk
-藥	yêk
-䶳	yêk
-夭	yēl
-妖	yēl
-抌	yēl
-窈	yēl
-窅	yēl
-舀	yēl
-黝	yēl
-黝	yēl
-么	yël
-吆	yël
-崾	yël
-幺	yël
-徼	yël
-穾	yël
-穾	yël
-約	yël
-腰	yël
-要	yël
-要	yël
-邀	yël
-靿	yël
-傜	yẽl
-垚	yẽl
-垚	yẽl
-姚	yẽl
-徭	yẽl
-搖	yẽl
-珧	yẽl
-瑤	yẽl
-窯	yẽl
-窰	yẽl
-繇	yẽl
-脁	yẽl
-謠	yẽl
-軺	yẽl
-遙	yẽl
-銚	yẽl
-陶	yẽl
-颻	yẽl
-鰩	yẽl
-曜	yèl
-㿢	yèl
-耀	yèl
-鷂	yêl
-俺	yēm
-厴	yēm
-垵	yēm
-埯	yēm
-奄	yēm
-崦	yēm
-弇	yēm
-掩	yēm
-淹	yēm
-罨	yēm
-腌	yēm
-菴	yēm
-醃	yēm
-靨	yēm
-黶	yēm
-龑	yēm
-厭	yëm
-厭	yëm
-懨	yëm
-閹	yëm
-阽	yëm
-饜	yëm
-魘	yëm
-嫌	yẽm
-㿕	yẽm
-閆	yẽm
-閻	yẽm
-鹽	yẽm
-剡	yèm
-灧	yèm
-灩	yèm
-炎	yèm
-焔	yèm
-焰	yèm
-焱	yèm
-燄	yèm
-琰	yèm
-艷	yèm
-豔	yèm
-偃	yēn
-匽	yēn
-堰	yēn
-演	yēn
-蝘	yēn
-衍	yēn
-郾	yēn
-鼴	yēn
-嚥	yën
-咽	yën
-堙	yën
-嫣	yën
-宴	yën
-晏	yën
-殷	yën
-湮	yën
-焉	yën
-煙	yën
-燕	yën
-燕	yën
-胭	yën
-臙	yën
-菸	yën
-蔫	yën
-讌	yën
-醼	yën
-閼	yën
-闉	yën
-埏	yẽn
-廴	yẽn
-延	yẽn
-弦	yẽn
-涎	yẽn
-焉	yẽn
-痃	yẽn
-筵	yẽn
-絃	yẽn
-舷	yẽn
-蜒	yẽn
-賢	yẽn
-鄢	yẽn
-鉉	yẽn
-峴	yèn
-現	yèn
-見	yèn
-鋧	yèn
-燕	yên
-鷰	yên
-影	yēng
-鞅	yēng
-央	yëng
-怏	yëng
-柍	yëng
-殃	yëng
-泱	yëng
-䄃	yëng
-秧	yëng
-鞅	yëng
-養	yëng
-䱀	yëng
-鴦	yëng
-佯	yẽng
-垟	yẽng
-徉	yẽng
-揚	yẽng
-暘	yẽng
-楊	yẽng
-氜	yẽng
-洋	yẽng
-烊	yẽng
-烊	yẽng
-煬	yẽng
-瑒	yẽng
-瘍	yẽng
-羊	yẽng
-羏	yẽng
-蛘	yẽng
-蝆	yẽng
-贏	yẽng
-鍚	yẽng
-鐊	yẽng
-陽	yẽng
-颺	yẽng
-恙	yèng
-樣	yèng
-漾	yèng
-氧	yêng
-癢	yêng
-養	yêng
-腌	yëp
-葉	yèp
-枼	yêp
-枽	yêp
-楪	yêp
-葉	yêp
-頁	yêp
-依	yī
-倚	yī
-傴	yī
-吚	yī
-咿	yī
-嫗	yī
-於	yī
-旖	yī
-椅	yī
-欹	yī
-淤	yī
-漪	yī
-瘀	yī
-綺	yī
-飫	yī
-于	yï
-伊	yï
-依	yï
-咿	yï
-噫	yï
-意	yï
-扆	yï
-於	yï
-椅	yï
-殪	yï
-漪	yï
-犄	yï
-猗	yï
-玗	yï
-畬	yï
-瘞	yï
-瞖	yï
-禕	yï
-竽	yï
-篒	yï
-紆	yï
-繄	yï
-翳	yï
-菸	yï
-薏	yï
-衣	yï
-觭	yï
-迂	yï
-醫	yï
-銥	yï
-鐿	yï
-餏	yï
-饐	yï
-鷖	yï
-鷖	yï
-鷾	yï
-黟	yï
-予	yĩ
-余	yĩ
-俞	yĩ
-儒	yĩ
-匜	yĩ
-咦	yĩ
-嚅	yĩ
-圯	yĩ
-夷	yĩ
-妤	yĩ
-姨	yĩ
-媮	yĩ
-婾	yĩ
-孺	yĩ
-宧	yĩ
-嵛	yĩ
-嶼	yĩ
-庾	yĩ
-彞	yĩ
-怡	yĩ
-愉	yĩ
-㧫	yĩ
-揄	yĩ
-擩	yĩ
-椸	yĩ
-榆	yĩ
-歟	yĩ
-毹	yĩ
-沂	yĩ
-渝	yĩ
-濡	yĩ
-狳	yĩ
-㺄	yĩ
-瑜	yĩ
-痍	yĩ
-瘐	yĩ
-盂	yĩ
-眙	yĩ
-移	yĩ
-窬	yĩ
-簃	yĩ
-胰	yĩ
-腴	yĩ
-臾	yĩ
-舁	yĩ
-與	yĩ
-荑	yĩ
-萸	yĩ
-萮	yĩ
-薷	yĩ
-蛇	yĩ
-蝓	yĩ
-螔	yĩ
-蠕	yĩ
-襦	yĩ
-覦	yĩ
-詒	yĩ
-諛	yĩ
-謻	yĩ
-貐	yĩ
-貽	yĩ
-踰	yĩ
-輿	yĩ
-迆	yĩ
-迆	yĩ
-迤	yĩ
-迤	yĩ
-迻	yĩ
-逾	yĩ
-酏	yĩ
-雩	yĩ
-頤	yĩ
-顬	yĩ
-飴	yĩ
-餘	yĩ
-餘	yĩ
-魣	yĩ
-勩	yì
-喻	yì
-峪	yì
-愈	yì
-懿	yì
-易	yì
-澦	yì
-異	yì
-瘉	yì
-癒	yì
-矣	yì
-肄	yì
-蕷	yì
-裕	yì
-諭	yì
-譽	yì
-豫	yì
-預	yì
-飫	yì
-予	yî
-以	yî
-姨	yî
-宇	yî
-已	yî
-敧	yî
-瑀	yî
-禹	yî
-窳	yî
-羽	yî
-與	yî
-與	yî
-苡	yî
-苢	yî
-雨	yî
-喑	yïm
-愔	yïm
-瘖	yïm
-蔭	yïm
-陰	yïm
-音	yïm
-淫	yĩm
-霪	yĩm
-窨	yîm
-蔭	yîm
-䕃	yîm
-引	yīn
-印	yïn
-囙	yïn
-因	yïn
-姻	yïn
-婣	yïn
-恩	yïn
-殷	yïn
-氤	yïn
-洇	yïn
-湮	yïn
-絪	yïn
-茵	yïn
-蒽	yïn
-裀	yïn
-銦	yïn
-鮣	yïn
-夤	yĩn
-寅	yĩn
-仞	yìn
-刃	yìn
-孕	yìn
-牣	yìn
-紉	yìn
-胤	yìn
-茚	yìn
-軔	yìn
-吲	yîn
-廴	yîn
-引	yîn
-癮	yîn
-紖	yîn
-䌥	yîn
-蚓	yîn
-螾	yîn
-隱	yîn
-唈	yīp
-悒	yīp
-挹	yīp
-揖	yīp
-浥	yīp
-邑	yīp
-入	yìp
-一	yīt
-壹	yīt
-弌	yīt
-佚	yìt
-佾	yìt
-掖	yìt
-掖	yìt
-泆	yìt
-液	yìt
-溢	yìt
-腋	yìt
-軼	yìt
-逸	yìt
-鎰	yìt
-黝	yiū
-優	yiü
-呦	yiü
-幼	yiü
-幽	yiü
-憂	yiü
-有	yiü
-耰	yiü
-蚴	yiü
-麀	yiü
-㘥	yiũ
-尢	yiũ
-尤	yiũ
-悠	yiũ
-攸	yiũ
-柚	yiũ
-油	yiũ
-油	yiũ
-游	yiũ
-犰	yiũ
-狖	yiũ
-猶	yiũ
-猷	yiũ
-珧	yiũ
-由	yiũ
-疣	yiũ
-繇	yiũ
-羑	yiũ
-莜	yiũ
-蕕	yiũ
-蚰	yiũ
-蝣	yiũ
-蝤	yiũ
-蝤	yiũ
-輶	yiũ
-遊	yiũ
-遒	yiũ
-郵	yiũ
-酋	yiũ
-釉	yiũ
-鈾	yiũ
-魷	yiũ
-佑	yiù
-侑	yiù
-又	yiù
-右	yiù
-囿	yiù
-宥	yiù
-有	yiù
-牖	yiù
-祐	yiù
-莠	yiù
-誘	yiù
-䛻	yiù
-釉	yiù
-丣	yiû
-卣	yiû
-友	yiû
-有	yiû
-柚	yiû
-櫾	yiû
-酉	yiû
-銪	yiû
-鼬	yiû
-唷	yō
-喲	yō
-喲	yō
-兗	yōn
-遠	yōn
-冤	yön
-宛	yön
-怨	yön
-淵	yön
-眢	yön
-箢	yön
-裷	yön
-鳶	yön
-鴛	yön
-鵷	yön
-丸	yõn
-元	yõn
-員	yõn
-園	yõn
-圓	yõn
-圜	yõn
-媛	yõn
-媛	yõn
-媴	yõn
-完	yõn
-懸	yõn
-援	yõn
-椽	yõn
-櫞	yõn
-泫	yõn
-沿	yõn
-湲	yõn
-溳	yõn
-炫	yõn
-烷	yõn
-爰	yõn
-猨	yõn
-猿	yõn
-玄	yõn
-瑗	yõn
-眩	yõn
-紈	yõn
-緣	yõn
-芄	yõn
-芫	yõn
-芫	yõn
-蝯	yõn
-衒	yõn
-袁	yõn
-轅	yõn
-鈆	yõn
-鉛	yõn
-鉛	yõn
-魭	yõn
-鶢	yõn
-黿	yõn
-垸	yòn
-掾	yòn
-縣	yòn
-遠	yòn
-院	yòn
-圓	yôn
-戎	yõng
-乙	yōt
-釔	yōt
-噦	yòt
-岤	yòt
-悅	yòt
-㧒	yòt
-曰	yòt
-樾	yòt
-穴	yòt
-篗	yòt
-籆	yòt
-籰	yòt
-粵	yòt
-茓	yòt
-說	yòt
-越	yòt
-鉞	yòt
-閱	yòt
-叡	yuì
-㨅	yuì
-枘	yuì
-汭	yuì
-睿	yuì
-芮	yuì
-蚋	yuì
-蜹	yuì
-𧘉	yuì
-裔	yuì
-銳	yuì
-勗	yūk
-勖	yūk
-彧	yūk
-昱	yūk
-毓	yūk
-沃	yūk
-煜	yūk
-燏	yūk
-燠	yūk
-郁	yūk
-鋈	yūk
-峪	yùk
-慾	yùk
-欲	yùk
-浴	yùk
-淯	yùk
-溽	yùk
-縟	yùk
-育	yùk
-育	yùk
-蓐	yùk
-褥	yùk
-谷	yùk
-辱	yùk
-鬻	yùk
-鵒	yùk
-勻	yũn
-昀	yũn
-筠	yũn
-俑	yūng
-冗	yūng
-嗡	yūng
-恿	yūng
-惥	yūng
-慂	yūng
-擁	yūng
-湧	yūng
-滃	yūng
-甬	yūng
-臾	yūng
-踴	yūng
-壅	yüng
-暡	yüng
-滃	yüng
-灉	yüng
-癰	yüng
-翁	yüng
-𦡚	yüng
-臃	yüng
-蓊	yüng
-蕹	yüng
-邕	yüng
-雍	yüng
-雝	yüng
-䩺	yüng
-饔	yüng
-鶲	yüng
-齆	yüng
-傭	yũng
-喁	yũng
-墉	yũng
-容	yũng
-庸	yũng
-慵	yũng
-榕	yũng
-溶	yũng
-熔	yũng
-狨       yũng
-瑢	yũng
-肜	yũng
-蓉	yũng
-融	yũng
-螎	yũng
-鄘	yũng
-鎔	yũng
-鏞	yũng
-傭	yùng
-用	yùng
-勇	yûng
+𩶁	bēin	
+𩷏	kẽin
+𩿅	hũng	
+𪂿	hãi	
+𪔜	üng	
+𪙛	nāk	
+𪚦	gï
+𪚧	gï	
+𪚨	gï
+𪚴	gï
+𪚺	gï	
+𪚿	gï
