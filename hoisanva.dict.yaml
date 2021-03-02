@@ -3,7 +3,7 @@
 # Rime dictionary
 # Taishanese - 台山話
 # encoding: utf-8
-# 空埃 （stickytoffeepuddingwithcaramel@gmail.com), suspiciouscactus (https://github.com/suspiciouscactus)
+# 𥹘𥼱 （stickytoffeepuddingwithcaramel@gmail.com), suspiciouscactus (https:github.comsuspiciouscactus)
 
 ---
 max_phrase_length: 7
@@ -73,7 +73,7 @@ import_tables:
 阿	ä	3%
 鴉	ä
 鵶	ä
-嗄	ä/	0%
+嗄	ä	0%
 咑	ā	3%
 啞	ā	3%
 喔	ā	3%
@@ -1915,8 +1915,8 @@ import_tables:
 誒	è	0%
 欸	ë	3%
 誒	ë	0%
-欸	ë/	3%
-誒	ë/	0%
+欸	ë	3%
+誒	ë	0%
 欸	ē	3%
 誒	ē	0%
 爹	ëh
@@ -6327,7 +6327,7 @@ import_tables:
 劙	lâi
 澧	lâi
 禮	lâi
-𦧺	lâi/
+𦧺	lâi
 䗍	lâi
 蠡	lâi	3%
 醴	lâi
