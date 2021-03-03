@@ -52,6 +52,36 @@ speller:
   alphabet: abcdefghijklmnopqrstuvwxyz
   delimiter: " '"
   algebra:
+    - xform/ā/a/
+    - xform/ē/e/
+    - xform/ī/i/
+    - xform/ō/o/
+    - xform/ū/u/
+    - xform/m̄/m/
+    - xform/ä/a/
+    - xform/ë/e/
+    - xform/ï/i/
+    - xform/ö/o/
+    - xform/ü/u/
+    - xform/m̈/m/
+    - xform/ã/a/
+    - xform/ẽ/e/
+    - xform/ĩ/i/
+    - xform/õ/o/
+    - xform/ũ/u/
+    - xform/m̃/m/
+    - xform/à/a/
+    - xform/è/e/
+    - xform/ì/i/
+    - xform/ò/o/
+    - xform/ù/u/
+    - xform/m̀/m/
+    - xform/â/a/
+    - xform/ê/e/
+    - xform/î/i/
+    - xform/ô/o/
+    - xform/û/u/
+    - xform/m̂/m/
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
     - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼
 
