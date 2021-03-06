@@ -45,8 +45,11 @@ engine:
     - simplifier
     - uniquifier
 
+menu:
+  alternative_select_keys: "ABCDEFGHIJ"
+
 speller:
-  alphabet: abcdefghijklmnopqrstuvwxyz
+  alphabet: abcdefghijklmnopstuvwxy
   delimiter: " '"
   algebra:
     - derive/[0-9]//
