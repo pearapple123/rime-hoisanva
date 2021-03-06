@@ -1,0 +1,66 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: hoisanva-numerals
+  name: 台山話聲調數碼
+  version: "1.0.0"
+  author:
+    - 𥹘𥼱〈Discord 𥹘𥼱#3329〉
+    - suspiciouscactus〈Discord suspiciouscactus#2120〉
+  description:
+    用「Gene Chin」拼音和聲調數碼的台山話的輸入法
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: simplification
+    states: [漢字, 汉字]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 中式, 西式 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: abcdefghijklmnopqrstuvwxyz
+  delimiter: " '"
+  algebra:
+    - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
+    - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼
+
+translator:
+  dictionary: hoisanva-numerals
+  spelling_hints: 5
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
