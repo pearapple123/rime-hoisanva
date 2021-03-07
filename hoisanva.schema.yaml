@@ -60,6 +60,8 @@ speller:
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
     - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼
 
+menu:
+  alternative_select_keys: "ABCDEFGHIJ"
 
 translator:
   dictionary: hoisanva
