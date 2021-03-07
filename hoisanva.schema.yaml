@@ -64,16 +64,6 @@ speller:
 translator:
   dictionary: hoisanva
   spelling_hints: 5
-  comment_format:
-    - xform/55/˥˥/
-    - xform/325/˧˨˥/
-    - xform/215/˨˩˥/
-    - xform/33/˧˧/
-    - xform/35/˧˥/
-    - xform/11/˩˩/
-    - xform/15/˩˥/
-    - xform/31/˧˩/
-    - xform/21/˨˩/
 
 punctuator:
   import_preset: default
