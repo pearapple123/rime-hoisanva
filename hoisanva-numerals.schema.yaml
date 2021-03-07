@@ -57,7 +57,7 @@ speller:
     - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼
 
 translator:
-  dictionary: hoisanva-numerals
+  dictionary: hoisanva
   spelling_hints: 5
 
 punctuator:
