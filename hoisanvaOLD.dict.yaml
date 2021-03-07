@@ -8,12 +8,13 @@
 ---
 max_phrase_length: 7
 min_phrase_weight: 100
-name: hoisanvaOLD
+name: hoisanvaold
 sort: by_weight
 use_preset_vocabulary: true
 version: "1.2.0"
 import_tables:
   - hoisanva.words
+  - hoisanva.lettered
 ...
 
 啊	à

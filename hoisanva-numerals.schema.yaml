@@ -45,9 +45,6 @@ engine:
     - simplifier
     - uniquifier
 
-menu:
-  alternative_select_keys: "ABCDEFGHIJ"
-
 speller:
   alphabet: abcdefghijklmnopstuvwxy
   delimiter: " '"
@@ -59,6 +56,9 @@ speller:
 translator:
   dictionary: hoisanva
   spelling_hints: 5
+
+menu:
+  alternative_select_keys: "ABCDEFGHIJ"
 
 punctuator:
   import_preset: default

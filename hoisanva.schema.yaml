@@ -49,23 +49,26 @@ speller:
   alphabet: abcdefghijklmnopqrstuvwxyz
   delimiter: " '"
   algebra:
-    - derive/33/w/
-    - derive/35/w/
-    - derive/11/q/
-    - derive/15/q/
-    - derive/31/r/
-    - derive/325/r/
-    - derive/215/z/
-    - derive/21/z/
+    - derive/[12345]//
+    - xform/33/w/
+    - xform/35/w/
+    - xform/11/q/
+    - xform/15/q/
+    - xform/31/r/
+    - xform/325/r/
+    - xform/215/z/
+    - xform/21/z/
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
     - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼
-
-menu:
-  alternative_select_keys: "ABCDEFGHIJ"
 
 translator:
   dictionary: hoisanva
   spelling_hints: 5
+  preedit_format:
+    - xform/w/³³/
+    - xform/q/¹¹/
+    - xform/r/³¹/
+    - xform/z/²¹/
 
 punctuator:
   import_preset: default
