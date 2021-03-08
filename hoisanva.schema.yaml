@@ -11,7 +11,7 @@ schema:
 
   description:
     用「Gene Chin」拼音的台山話的輸入法
-    
+
   dependencies:
     - luna_pinyin
 
@@ -112,3 +112,5 @@ recognizer:
 
 style:
   font_face: "Yu Gothic UI"
+  layout:
+    border_width: 0
