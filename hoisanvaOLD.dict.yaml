@@ -1,0 +1,12105 @@
+#
+# Date: 2021-03-02
+# Rime dictionary
+# Taishanese - 台山話
+# encoding: utf-8
+# 𥹘𥼱 （stickytoffeepuddingwithcaramel@gmail.com), suspiciouscactus (https://github.com/suspiciouscactus)
+
+---
+max_phrase_length: 7
+min_phrase_weight: 100
+name: hoisanvaold
+sort: by_weight
+use_preset_vocabulary: true
+version: "1.2.0"
+import_tables:
+  - hoisanva.words
+  - hoisanva.lettered
+...
+
+啊	à
+呀	à
+枒	à
+丫	â
+椏	â
+嗄	ä
+丫	ä	3%
+亞	ä
+吖	ä
+啊	ä
+埡	ä	3%
+婭	ä
+掗	ä
+椏	ä	0%
+氬	ä
+猰	ä
+䃁	ä
+䝟	ä	3%
+錒	ä
+阿	ä
+鴉	ä
+鵶	ä
+嗄	ä
+咑	ā	0%
+啞	ā
+喔	ā	0%
+打	ā
+瘂	ā
+噯	ài	0%
+唉	ài
+俤	ài
+大	ài	3%
+弟	ài
+悌	ài
+杕	ài	0%
+棣	ài	3%
+第	ài	3%
+䑯	ài	0%
+苐	ài
+逓	ài	3%
+逮	ài
+遞	ài	3%
+帶	âi	3%
+鞮	äi	3%
+低	äi	0%
+唉	äi
+嗌	äi
+埃	äi	0%
+娭	äi	0%
+帝	äi
+帶	äi
+戴	äi
+挨	äi
+揥	äi
+渧	äi
+瞖	äi	0%
+碲	äi
+禘	äi
+締	äi	0%
+縊	äi	3%
+翳	äi	0%
+蝃	äi	3%
+螮	äi
+襶	äi	0%
+諦	äi	3%
+鍉	äi	3%
+隘	äi	3%
+餲	äi
+腣	äi
+哎	āi
+噯	āi
+坻	āi	0%
+底	āi	3%
+弤	āi
+抵	āi
+柢	āi
+欸	āi
+歹	āi
+歺	āi	3%
+氐	āi	0%
+牴	āi
+矮	āi	3%
+砥	āi	3%
+羝	āi
+觝	āi	3%
+詆	āi
+邸	āi
+𩑾	āi	3%
+骶	āi
+揳	àk
+特	àk
+螣	àk	0%
+蟘	àk
+軛	âk
+軶	âk	0%
+鐲	âk
+得	äk
+扼	äk
+握	äk	3%
+厄	āk	0%
+呃	āk
+㝵	āk
+幄	āk
+得	āk	0%
+德	āk	0%
+扼	āk	0%
+握	āk	3%
+渥	āk
+苊	āk
+鍀	āk
+啖	àm
+氮	àm	0%
+淡	àm
+澹	àm	3%
+暗	äm
+俺	äm	3%
+儋	äm
+唵	äm	5%
+垵	äm
+埯	äm
+媕	äm	3%
+广	äm
+庵	äm	0%
+擔	äm
+盦	äm	0%
+盫	äm
+眈	äm
+耽	äm
+耼	äm	3%
+聃	äm	3%
+菴	äm
+躭	äm	0%
+酖	äm
+丼	ām
+揞	ām
+暗	ām
+膽	ām
+諳	ām
+黯	ām	3%
+黵	ām
+亶	àn
+但	àn	0%
+彈	àn
+憚	àn
+撣	àn
+澶	àn	0%
+疍	àn
+蛋	àn
+蜑	àn
+旦	än	0%
+丹	än
+單	än
+晏	än
+殫	än
+癉	än
+簞	än
+誕	än
+鄲	än	0%
+鉭	än	0%
+鴠	än
+鴳	än	3%
+鷃	än
+旦	ān	0%
+蹬	àng	3%
+鄧	àng
+罌	âng	3%
+凳	âng
+噔	äng
+嶝	äng
+𣩟	äng	0%
+燈	äng
+登	äng
+瞪	äng	3%
+磴	äng
+簦	äng
+罌	äng	3%
+鐙	äng
+鶯	äng
+鼟	äng	3%
+戥	āng
+等	āng
+導	ào
+𡭑	ào
+幬	ào	3%
+悼	ào	3%
+燾	ào
+盜	ào	0%
+稻	ào
+纛	ào
+衜	ào	0%
+衟	ào
+蹈	ào	0%
+道	ào
+襖	âo	0%
+凹	âo	3%
+垇	âo	3%
+坳	âo	0%
+凹	äo
+到	äo
+拗	äo
+刀	äo
+叨	äo	3%
+塢	äo	0%
+奧	äo
+媼	äo
+嶴	äo	0%
+忉	äo	0%
+懊	äo
+氘	äo
+澳	äo
+襖	äo
+魛	äo	3%
+倒	āo
+到	āo	0%
+島	āo	3%
+㠀	āo	0%
+抝	āo
+拗	āo	3%
+捯	āo	3%
+搗	āo	5%
+匼	àp
+沓	àp
+𦾽	àp
+譶	àp
+踏	àp	0%
+蹹	àp	0%
+遝	àp
+鞳	àp	3%
+閤	âp	0%
+鴿	âp	0%
+瘩	äp
+褡	äp	0%
+墶	äp
+㟷	äp
+搭	äp	0%
+搕	äp	5%
+狎	äp	3%
+鴨	äp
+嗒	āp	5%
+瘩	āp
+答	āp
+耷	āp	3%
+褡	āp
+躂	àt
+噠	àt
+繨	àt
+逹	àt
+達	àt	3%
+龖	àt
+龘	àt
+噠	ât	0%
+押	ät	0%
+撻	ät
+澾	ät
+㾎	ät
+笪	ät	3%
+躂	ät
+迖	ät
+擖	āt
+壓	āt
+恝	āt	3%
+戛	āt
+戞	āt
+揠	āt
+遏	āt
+閼	āt
+頞	āt
+齃	āt
+吧	bà
+罷	bà
+巴	bä
+吧	bä
+壩	bä
+岜	bä	0%
+扒	bä	3%
+灞	bä	0%
+疤	bä
+笆	bä
+粑	bä	0%
+芭	bä
+葩	bä
+豝	bä	3%
+鈀	bä	3%
+霸	bä	0%
+靶	bä	0%
+叭	bā
+峇	bā
+巴	bā
+把	bā
+爸	bā	3%
+䶕	bā	3%
+爸	bã	3%
+唄	bài	3%
+𡚁	bài	3%
+幣	bài	0%
+弊	bài	3%
+憊	bài	3%
+敝	bài
+斃	bài	3%
+棑	bài
+獙	bài
+獘	bài	3%
+敗	bài	0%
+贁	bài
+陛	bài
+拜	bäi
+湃	bäi	0%
+狴	bäi
+蔽	bäi	0%
+閉	bäi	3%
+拜	bāi	0%
+捭	bāi	0%
+擺	bāi	3%
+跛	bāi
+百	bàk
+僰	bàk
+匐	bàk
+卜	bàk
+帛	bàk	0%
+白	bàk	0%
+蔔	bàk
+鮊	bàk
+伯	bâk
+百	bäk	3%
+佰	bäk
+伯	bāk	0%
+北	bāk	0%
+百	bāk	3%
+扮	bàn
+湴	bàn
+爿	bàn
+瓣	bàn
+辦	bàn
+扳	bän
+攽	bän
+斑	bän
+班	bän	3%
+㻞	bän	0%
+瘢	bän	3%
+癍	bän
+螌	bän	0%
+頒	bän
+坂	bān
+岅	bān
+扳	bān
+板	bān
+版	bān
+舨	bān	0%
+鈑	bān	0%
+闆	bān	0%
+阪	bān
+憑	bàng	0%
+嘣	bâng
+崩	bäng
+傍	bäng
+榜	bäng	0%
+琫	bäng
+祊	bäng
+綳	bäng
+繃	bäng
+誁	bäng
+𧩱	bäng	0%
+蹦	bäng	0%
+鏰	bäng
+䩬	bäng
+鞛	bäng
+崩	bāng
+孵	bào
+暴	bào
+曝	bào
+瀑	bào
+虣	bào
+齙	bào	3%
+包	bâo
+勹	bäo	3%
+包	bäo
+報	bäo
+孢	bäo
+煲	bäo
+爆	bäo
+狍	bäo
+胞	bäo
+苞	bäo
+蚫	bäo	3%
+裒	bäo
+褒	bäo	3%
+豹	bäo
+趵	bäo
+鮑	bäo	0%
+麅	bäo
+𨰻	bǎo	0%
+𨰻	bāo
+保	bāo
+堡	bāo
+寳	bāo	0%
+寶	bāo
+緥	bāo
+葆	bāo	0%
+褓	bāo
+飽	bāo
+𩭍	bāo
+䯽	bāo
+鴇	bāo
+拔	bàt	0%
+茇	bàt	0%
+菝	bàt
+跋	bàt
+魃	bàt	0%
+鮁	bàt
+鼥	bàt	0%
+八	bät
+丷	bät
+捌	bät
+八	bāt	3%
+孭	bêh
+背	bêh
+啤	bēh
+癟	bèik
+別	bèik
+憋	bèik	0%
+鱉	bèik
+鼈	bèik
+癟	bëik
+㿜	bëik
+偪	bēik	3%
+壁	bēik
+廹	bēik	3%
+必	bēik	3%
+愎	bēik	0%
+愊	bēik
+㧙	bēik
+㳼	bēik	3%
+滭	bēik
+珌	bēik
+璧	bēik
+皕	bēik
+碧	bēik
+腷	bēik
+苾	bēik
+襞	bēik
+觱	bēik
+贔	bēik
+躄	bēik
+躃	bēik
+辟	bēik	3%
+迫	bēik
+逼	bēik	0%
+鉍	bēik
+䩛	bēik
+鞸	bēik
+馝	bēik
+鷿	bēik	0%
+鸊	bēik	3%
+泵	bēim
+鞸	bèin	0%
+屏	bèin	3%
+𠀤	bèin
+並	bèin	3%
+併	bèin
+便	bèin
+偋	bèin
+卞	bèin
+堋	bèin
+弁	bèin
+忭	bèin
+抃	bèin	3%
+汴	bèin
+竝	bèin
+苄	bèin
+䒪	bèin
+䗒	bèin
+諞	bèin
+跰	bèin
+辨	bèin
+辯	bèin
+迸	bèin
+釆	bèin
+靐	bèin	0%
+鞞	bèin
+邊	bêin
+兵	bëin
+冫	bëin	3%
+冰	bëin
+并	bëin
+掤	bëin
+摒	bëin
+栟	bëin
+氷	bëin
+煸	bëin
+籩	bëin
+緶	bëin
+變	bëin
+邊	bëin
+鞭	bëin	0%
+丙	bēin
+匾	bēin
+屏	bēin
+扁	bēin
+抦	bēin
+昞	bēin	0%
+炳	bēin	0%
+眪	bēin
+砭	bēin
+碥	bēin	0%
+秉	bēin
+稨	bēin
+窆	bēin
+苪	bēin
+萹	bēin	3%
+藊	bēin
+蛃	bēin	3%
+蝙	bēin
+褊	bēin
+貶	bēin	0%
+邴	bēin
+𩶁	bēin
+鯿	bēin
+彪	bël	3%
+杓	bël
+標	bël	3%
+猋	bël	0%
+瘭	bël	0%
+膘	bël
+臕	bël
+錶	bël	0%
+鏢	bël
+鑣	bël
+飆	bël
+飇	bël
+飈	bël
+飊	bël
+驃	bël
+驫	bël
+髟	bël
+俵	bēl	3%
+婊	bēl
+表	bēl
+裱	bēl	3%
+病	bèng	3%
+柄	bêng
+棅	bêng	3%
+屏	bëng
+窉	bëng	3%
+鉼	bēng
+餅	bēng
+踎	bëo
+鐾	bì	0%
+備	bì	0%
+濞	bì	3%
+笓	bì
+篦	bì
+絥	bì
+螕	bì	3%
+被	bì
+避	bì	0%
+鞁	bì	0%
+鞴	bì
+𩍘	bì
+韛	bì
+髲	bì
+鼻	bì	0%
+臂	bî	0%
+痹	bï
+䩛	bï
+鞞	bï	0%
+媲	bï
+秕	bï
+肶	bï
+仳	bï	3%
+匕	bï	3%
+卑	bï	3%
+埤	bï
+庇	bï	0%
+庳	bï
+悲	bï	3%
+椑	bï
+毖	bï
+毗	bï	3%
+毘	bï
+泌	bï
+淠	bï
+疪	bï
+痹	bï
+痺	bï
+碑	bï	0%
+祕	bï
+秘	bï	3%
+箅	bï	0%
+粃	bï
+羆	bï	3%
+萆	bï	0%
+蓖	bï	3%
+蜰	bï
+裨	bï
+賁	bï
+貱	bï
+轡	bï	0%
+鐾	bï
+陂	bï
+鵯	bï	3%
+俾	bī
+吡	bī	0%
+夶	bī	0%
+妣	bī	0%
+媲	bī
+庀	bī	0%
+彼	bī
+比	bī
+沘	bī
+秕	bī
+肶	bī
+舭	bī	0%
+髀	bī
+辮	bîn	3%
+攽	bïn
+㻞	bïn
+栟	bïn	3%
+賁	bïn
+倴	bïn
+儐	bïn	3%
+奔	bïn	0%
+嬪	bïn
+彬	bïn
+擯	bïn
+斌	bïn
+梹	bïn	3%
+檳	bïn
+殯	bïn
+濱	bïn
+瀕	bïn
+犇	bïn
+玢	bïn	0%
+繽	bïn
+臏	bïn	0%
+豳	bïn	3%
+賓	bïn
+賔	bïn	3%
+逩	bïn
+邠	bïn
+錛	bïn
+鑌	bïn
+髕	bïn
+鬢	bïn	0%
+乒	bīn	0%
+品	bīn
+榀	bīn
+砰	bīn
+稟	bīn
+弼	bìt
+拂	bìt
+肸	bìt	3%
+鞸	bīt	0%
+鞞	bīt
+韠	bīt
+嗶	bīt
+潷	bīt
+畢	bīt
+筆	bīt	0%
+篳	bīt
+蓽	bīt	0%
+蹕	bīt	0%
+驆	bīt
+蹕	blīt	0%
+簸	bô	0%
+陂	bö
+玻	bö	3%
+啵	bö	3%
+坡	bö	0%
+嶓	bö
+播	bö
+波	bö
+皤	bö	0%
+皪	bö	0%
+簸	bö	0%
+菠	bö
+鄱	bö	0%
+玻	bō
+焙	bòi
+蓓	bòi	3%
+背	böi
+孛	böi
+悖	böi
+揹	böi
+杯	böi
+桮	böi
+狽	böi	3%
+褙	böi
+誖	böi	3%
+貝	böi	0%
+輩	böi
+邶	böi	0%
+鋇	böi	0%
+搵	bōi	0%
+亳	bòk
+嶨	bòk
+欂	bòk
+泊	bòk	3%
+濼	bòk
+礡	bòk
+礴	bòk
+箔	bòk
+縛	bòk
+舶	bòk
+艊	bòk	3%
+薄	bòk	3%
+踣	bòk
+鉑	bòk
+雹	bòk
+魄	bòk
+駁	bök
+博	bōk
+搏	bōk
+膊	bōk
+䬪	bōk	3%
+餺	bōk
+伴	bòn
+叛	bòn
+拌	bòn	3%
+沜	bòn	3%
+畔	bòn	0%
+絆	bòn
+胖	bòn	3%
+靽	bòn	0%
+半	bôn
+半	bön	3%
+搬	bön
+般	bön
+本	bōn
+畚	bōn
+粄	bōn
+䉽	bōn	0%
+苯	bōn
+傍	bòng	3%
+榜	bòng
+搒	bòng
+磅	bòng
+鎊	bòng	0%
+梆	bông
+𨧜	bông
+幫	böng	3%
+浜	böng
+𤱵	böng	0%
+邦	böng
+榜	bōng
+乓	bōng
+梆	bōng	0%
+綁	bōng
+膀	bōng
+蒡	bōng
+謗	bōng
+髈	bōng	0%
+孛	bòt	0%
+悖	bòt
+勃	bòt
+撥	bòt
+桲	bòt
+浡	bòt
+渤	bòt
+㶿	bòt
+脖	bòt
+艴	bòt
+荸	bòt
+鈸	bòt	3%
+餑	bòt	0%
+馞	bòt	3%
+鵓	bòt
+癶	bôt	0%
+缽	bôt
+鉢	bôt	3%
+潑	bōt
+孵	bù
+哺	bù
+峬	bù
+庯	bù
+捕	bù
+步	bù
+歨	bù	0%
+簿	bù	3%
+逋	bù	3%
+部	bù
+簸	bû
+簸	bü
+菠	bü
+佈	bü	0%
+埔	bü
+布	bü	0%
+怖	bü
+晡	bü
+鈽	bü
+玻	bū
+斧	bū
+補	bū
+暴	bùk
+曝	bùk	0%
+瀑	bùk	0%
+僕	bùk
+濮	bùk
+鏷	bùk
+卜	būk
+卟	būk	0%
+坌	bùn
+夯	bùn
+笨	bùn
+崩	büng
+蒙	büng
+泵	būng
+捧	būng
+甭	būng
+不	būt
+吥	būt
+鈈	būt
+叉	châ	3%
+岔	châ	0%
+扠	châ
+杈	châ	0%
+碴	châ	0%
+衩	châ	0%
+鑔	châ
+叉	chä	0%
+侘	chä
+喳	chä
+嗏	chä
+垞	chä	3%
+奼	chä
+差	chä	0%
+汊	chä	0%
+詫	chä	3%
+赤	chä	3%
+叉	chā	3%
+塗	chã
+嵖	chã
+搽	chã
+查	chã
+槎	chã
+楂	chã
+猹	chã
+茶	chã	0%
+茬	chã
+蹅	chã
+餷	chã
+喍	châi
+柴	châi
+瘥	châi
+䓱	châi
+差	chäi	0%
+嘬	chäi
+搋	chäi	0%
+猜	chäi	3%
+瘛	chäi
+蠆	chäi	3%
+䜺	chäi
+釵	chäi	0%
+歪	chāi
+膪	chāi	0%
+跐	chāi
+跴	chāi	0%
+踩	chāi	0%
+踹	chāi
+豺	chãi
+坼	chäk
+拆	chäk
+冊	chāk	0%
+惻	chāk	3%
+擦	chāk
+敇	chāk	0%
+柵	chāk
+測	chāk
+策	chāk
+筴	chāk	0%
+篸	chām
+讒	chãm	0%
+剗	chān	0%
+滻	chān	3%
+產	chān
+羼	chān	0%
+鏟	chān
+撐	chäng
+槍	chäng
+牚	chäng	0%
+睜	chäng
+䁎	chäng
+瞠	chäng	0%
+罉	chäng
+䟓	chäng
+蹭	chäng
+鋥	chäng
+鐣	chäng	0%
+鐺	chäng
+䁎	chãng
+鋥	chãng
+棖	chãng	0%
+橙	chãng
+剿	chäo	5%
+抄	chäo	3%
+鈔	chäo
+吵	chāo	0%
+炒	chāo
+煼	chāo
+訬	chāo
+巢	chão
+皺	chão
+窼	chão	0%
+扱	chäp
+插	chäp
+歃	chäp
+臿	chäp	3%
+鍤	chäp
+刷	chât	0%
+獺	chât
+擦	chät
+刷	chät
+唰	chät
+嚓	chät
+攃	chät
+礤	chät
+䃰	chät	0%
+礸	chät
+察	chāt
+檫	chāt	3%
+唓	chëh	0%
+奢	chëh
+硨	chëh	0%
+車	chëh	3%
+且	chēh	3%
+尺	chēh
+扯	chēh
+撦	chēh	3%
+趄	chēh
+跙	chēh
+赤	chēik	0%
+尺	chēik
+仄	chēik	0%
+勅	chēik	0%
+勑	chēik
+叱	chēik	0%
+哧	chēik
+屮	chēik	0%
+㡿	chēik
+彳	chēik
+徹	chēik
+𢮓	chēik
+掣	chēik
+撤	chēik
+敕	chēik	3%
+斥	chēik
+沏	chēik
+澈	chēik
+䃎	chēik	3%
+飭	chēik
+參	chëim
+杉	chëim
+釤	chëim	0%
+稱	chêin
+秤	chêin
+𦓬	chêin	0%
+偁	chëin
+稱	chëin
+穪	chëin
+逞	chēin	3%
+郢	chēin	3%
+拯	chēin
+裎	chēin
+騁	chēin
+𩧢	chēin	0%
+澶	chẽin
+鋥	chẽin
+裎	chẽin
+侱	chẽin
+呈	chẽin
+埕	chẽin	3%
+徎	chẽin	0%
+懲	chẽin	3%
+浧	chẽin
+澄	chẽin	3%
+澂	chẽin
+珵	chẽin
+程	chẽin	0%
+纏	chẽin	0%
+躔	chẽin
+逞	chẽin
+𨙼	chẽin	0%
+郢	chẽin	3%
+酲	chẽin
+餳	chẽin
+㚟	chèk
+辶	chèk
+⻌	chèk
+⻍	chèk
+⻎	chèk
+辵	chèk
+尺	chêk
+赤	chëk
+尺	chëk
+呎	chëk	3%
+倬	chēk
+卓	chēk
+焯	chēk
+綽	chēk
+踔	chēk
+逴	chēk
+鵫	chēk
+怊	chël	3%
+繰	chël
+超	chël	3%
+晁	chẽl
+朝	chẽl
+潮	chẽl
+瞅	chẽl
+瞧	chẽl
+鼂	chẽl
+諂	chēm
+蟬	chên
+廛	chẽn
+瀍	chẽn
+丈	chêng
+倡	chëng	0%
+倀	chëng	0%
+唱	chëng	0%
+娼	chëng	0%
+昌	chëng	0%
+晿	chëng
+猖	chëng	3%
+琩	chëng
+菖	chëng
+閶	chëng
+鯧	chëng
+䱽	chëng	0%
+悵	chēng
+暢	chēng
+瑒	chēng
+鬯	chēng	0%
+澄	chẽng	0%
+場	chẽng
+塲	chẽng
+腸	chẽng
+萇	chẽng
+長	chẽng
+抽	chëo
+瘳	chëo
+篘	chëo
+紬	chëo
+轍	chēt
+㗣	chì
+嚏	chì	0%
+杘	chì
+跮	chì
+峙	chî
+差	chï
+侈	chï
+呲	chï	0%
+啻	chï
+嗤	chï	3%
+媸	chï
+幟	chï	0%
+旘	chï	0%
+滍	chï
+熾	chï	3%
+癡	chï
+眙	chï	0%
+眵	chï	0%
+笞	chï
+絺	chï	0%
+翅	chï
+翄	chï
+翤	chï	0%
+翨	chï
+胵	chï	3%
+蚩	chï
+蚳	chï
+螭	chï
+褫	chï
+魑	chï
+鴟	chï
+黐	chï
+茌	Chï	3%
+始	chī	3%
+恥	chī	0%
+歯	chī	0%
+齒	chī	0%
+坻	chĩ	0%
+蚳	chĩ
+俿	chĩ
+倁	chĩ
+墀	chĩ	0%
+弛	chĩ
+持	chĩ
+池	chĩ
+疷	chĩ
+竾	chĩ
+筂	chĩ
+箎	chĩ	0%
+篪	chĩ
+胝	chĩ	0%
+踟	chĩ	0%
+遲	chĩ
+馳	chĩ
+䶵	chĩ	0%
+䚀	chîm	0%
+諂	chïm	3%
+磣	chīm	3%
+趻	chīm	0%
+踸	chīm
+沉	chĩm
+沈	chĩm	0%
+𧠿	chĩm
+磣	chïn	0%
+儭	chïn	0%
+嗔	chïn	0%
+櫬	chïn
+瞋	chïn	0%
+襯	chïn
+趁	chïn
+齔	chïn	3%
+㐱	chīn
+哂	chīn
+殄	chīn
+畛	chīn
+疹	chīn
+矧	chīn
+䂧	chīn
+稹	chīn
+縝	chīn
+胗	chīn
+蕆	chīn
+訠	chīn
+診	chīn	0%
+軫	chīn
+闡	chīn	3%
+鬒	chīn
+𨻰	chĩn
+塵	chĩn
+敶	chĩn
+樄	chĩn
+軙	chĩn	0%
+迧	chĩn
+陳	chĩn
+籌	chiû
+嗅	chiü
+溴	chiü
+獸	chiü	0%
+糗	chiü	3%
+臭	chiü
+螑	chiü
+丑	chiū	3%
+醜	chiū
+幬	chiũ	0%
+紬	chiũ
+儔	chiũ	0%
+惆	chiũ
+疇	chiũ	3%
+稠	chiũ
+籌	chiũ
+綢	chiũ
+躊	chiũ
+酧	chiũ
+酬	chiũ	0%
+醻	chiũ
+初	chö	0%
+𥝢	chö
+芻	chö
+蒭	chö
+雛	chö	0%
+鶵	chö	3%
+憷	chō
+楚	chō	0%
+礎	chō
+矬	chõ
+耡	chõ	3%
+鉏	chõ
+鋤	chõ	0%
+剒	chôk	3%
+戳	chôk
+剒	chök	3%
+戳	chök
+竄	chōn
+傳	chõn	0%
+瘡	chông
+創	chōng
+廠	chōng
+惝	chōng	3%
+敞	chōng	0%
+昶	chōng	0%
+氅	chōng
+闖	chōng
+噇	chõng	3%
+床	chõng	3%
+橦	chõng	3%
+牀	chõng	0%
+幢	chõng	0%
+耡	chũ	0%
+鉏	chũ	0%
+鋤	chũ	0%
+處	chuî	0%
+佇	chuî	3%
+儲	chuî
+壴	chuî	3%
+宁	chuî	0%
+杼	chuî
+杵	chuî
+柱	chuî	3%
+楮	chuî
+槌	chuî
+砫	chuî	0%
+紵	chuî	3%
+苧	chuî
+褚	chuî
+貯	chuî
+吹	chuï
+炊	chuï
+䶴	chuï
+処	chuī
+處	chuī	0%
+幮	chuĩ	3%
+廚	chuĩ	0%
+捶	chuĩ	3%
+椎	chuĩ
+棰	chuĩ
+櫥	chuĩ	3%
+滁	chuĩ
+箠	chuĩ
+篨	chuĩ
+蜍	chuĩ
+蠩	chuĩ
+躇	chuĩ
+躕	chuĩ
+錘	chuĩ
+鎚	chuĩ
+除	chuĩ
+亍	chūk	0%
+俶	chūk
+怵	chūk
+搐	chūk
+束	chūk	0%
+畜	chūk
+矗	chūk	0%
+蓄	chūk	0%
+觸	chūk
+豖	chūk	3%
+串	chûn
+膥	chûn	0%
+串	chün
+川	chün
+巛	chün
+攢	chün
+旾	chün
+春	chün
+椿	chün
+氚	chün	0%
+汌	chün
+穿	chün
+蝽	chün
+釧	chün
+鰆	chün
+喘	chūn
+忖	chūn
+湍	chūn
+猯	chūn
+篅	chūn
+舛	chūn	3%
+蠢	chūn
+貒	chūn	3%
+踳	chūn
+遄	chūn
+䦟	chūn
+揣	chūn
+傳	chũn
+蟲	chûng
+涌	chûng
+橦	chüng	0%
+充	chüng	3%
+冢	chüng
+寵	chüng
+𡺪	chüng
+忡	chüng
+㤝	chüng	5%
+憧	chüng	3%
+憃	chüng
+揰	chüng
+沖	chüng
+㳘	chüng
+浺	chüng
+珫	chüng
+𥅻	chüng
+䆔	chüng
+䆹	chüng	3%
+罿	chüng
+翀	chüng
+艟	chüng
+茺	chüng
+衝	chüng	3%
+衷	chüng	3%
+䘪	chüng
+謥	chüng	0%
+重	chüng
+銃	chüng
+重	chũng
+种	chũng
+虫	chũng
+蟲	chũng	0%
+出	chūt
+黢	chūt
+齣	chūt
+打	dā
+咑	dã	0%
+濟	dài
+䍤	dâi	3%
+懠	däi
+濟	däi
+躋	däi
+儕	däi
+嚌	däi
+瘵	däi	0%
+祭	däi	0%
+穄	däi	0%
+際	däi	0%
+隮	däi	0%
+䱥	däi
+鰶	däi
+鱭	däi
+齏	däi	3%
+底	dāi	0%
+呔	dāi
+懠	dāi	0%
+濟	dāi	0%
+賫	dāi
+躋	dāi
+齎	dāi	0%
+自	dàk	0%
+得	däk	0%
+則	däk
+襶	dāk
+則	dāk
+嘚	dāk
+鯽	dāk	3%
+蘸	dàm	3%
+昨	dâm
+簪	däm
+泵	dām
+彈	dàn	0%
+瓚	dän	0%
+偺	dän	0%
+喒	dän	3%
+昝	dän	0%
+糌	dän
+讚	dän
+賛	dän
+贊	dän	0%
+攢	dān	3%
+瓚	dān
+纘	dān
+趲	dān
+蹭	dàng
+鋥	dàng
+贈	dàng	3%
+甑	dâng
+噌	däng	0%
+增	däng	0%
+嶒	däng
+憎	däng
+曾	däng	3%
+矰	däng
+繒	däng
+罾	däng
+叨	dào
+唣	dào
+慥	dào
+皁	dào
+皂	dào
+簉	dào
+造	dào	3%
+灶	dâo
+竈	dâo
+糟	däo
+遭	däo
+醩	däo
+倒	dāo
+早	dāo
+棗	dāo	3%
+蚤	dāo
+䖣	dāo
+𧎮	dāo
+什	dàp
+矺	dàp	3%
+襲	dàp
+集	dàp
+雜	dàp
+雥	dàp	3%
+噠	dät
+嗟	dèh	3%
+榭	dèh
+謝	dèh
+借	dëh	0%
+嗟	dëh
+姐	dēh
+借	dèik
+夕	dèik	0%
+寂	dèik
+席	dèik	3%
+截	dèik
+昳	dèik	0%
+汐	dèik
+矽	dèik
+穸	dèik
+籍	dèik	0%
+莋	dèik
+藉	dèik	0%
+褯	dèik	0%
+節	dêik
+卩	dêik
+節	dëik	3%
+鯽	dēik
+勣	dēik
+即	dēik
+卽	dēik
+唧	dēik	0%
+櫛	dēik
+漬	dēik
+癤	dēik
+的	dēik
+磧	dēik
+稷	dēik	3%
+積	dēik	3%
+節	dēik
+績	dēik
+襀	dēik
+蹐	dēik
+蹟	dēik	3%
+跡	dēik	0%
+䲙	dēik
+䳭	dēik
+泵	dēim
+餞	dèin
+濺	dèin
+凈	dèin
+凊	dèin
+婧	dèin
+汬	dèin	3%
+淨	dèin
+穽	dèin	3%
+竫	dèin
+賤	dèin	0%
+踐	dèin
+阱	dèin
+靖	dèin
+靘	dèin
+靚	dèin
+靜	dèin	3%
+𩓞	dèin
+墊	dëin
+戔	dëin	3%
+旌	dëin
+晶	dëin
+𦜳	dëin
+毯	dëin
+淺	dëin
+湔	dëin
+𣻓	dëin	0%
+𣻒	dëin	0%
+濺	dëin	3%
+煎	dëin
+牋	dëin	0%
+牮	dëin	3%
+睛	dëin	3%
+箋	dëin	0%
+箐	dëin	0%
+箭	dëin	3%
+精	dëin	3%
+腈	dëin	3%
+菁	dëin
+薦	dëin	3%
+韀	dëin	3%
+韉	dëin
+𩓨	dëin
+鶄	dëin	0%
+鼱	dëin
+井	dēin	0%
+剪	dēin
+劗	dēin
+戩	dēin
+揃	dēin
+翦	dēin	3%
+肼	dēin	0%
+譾	dēin
+𨙷	dēin	3%
+餞	dēin	3%
+鬋	dēin
+席	dèk	0%
+蓆	dèk
+跡	dêk
+雀	dêk
+脊	dêk
+績	dëk
+嵴	dëk
+瘠	dëk	3%
+脊	dëk	3%
+鶺	dëk
+叕	dēk	3%
+啄	dēk	3%
+嚼	dēk
+斫	dēk
+椓	dēk
+櫡	dēk	0%
+涿	dēk
+爝	dēk	0%
+爵	dēk	3%
+琢	dēk	0%
+罬	dēk	3%
+諑	dēk	0%
+雀	dēk	3%
+噍	dèl
+蕉	dêl	0%
+嚼	dël
+僬	dël
+劁	dël
+噍	dël
+椒	dël
+焦	dël	3%
+礁	dël
+蟭	dël
+醮	dël	0%
+鷦	dël
+剿	dēl
+湫	dēl
+瞧	dẽl	0%
+漸	dèm	0%
+僭	dèm
+暫	dèm	0%
+蹔	dèm
+尖	dêm
+櫼	dêm
+尖	dëm
+櫼	dëm	3%
+漸	dëm	3%
+瀸	dëm
+繒	dèng	0%
+凈	dèng	0%
+淨	dèng
+像	dèng
+匞	dèng	3%
+匠	dèng
+橡	dèng
+蟓	dèng	3%
+象	dèng	3%
+釘	dêng	3%
+將	dëng	0%
+漿	dëng	3%
+糡	dëng	0%
+糨	dëng
+螿	dëng
+醤	dëng	0%
+醬	dëng
+鏘	dëng
+丼	dēng	0%
+井	dēng
+阱	dēng
+槳	dēng	3%
+汫	dēng	0%
+獎	dēng	0%
+䒂	dēng
+蔣	dēng
+豆	dèo	0%
+㔿	dëo	0%
+奏	dëo	0%
+揍	dëo
+楱	dëo	0%
+甃	dëo
+腠	dëo	0%
+龰	dēo	0%
+走	dēo	0%
+婕	dèp
+捷	dèp
+洽	dèp	0%
+睫	dèp
+箑	dèp
+霅	dèp
+接	dëp
+接	dēp
+地	dì	0%
+螆	dî
+螆	dï
+姊	dī
+姉	dī	3%
+秭	dī
+浸	dïm
+祲	dïm
+怎	dīm
+儘	dìn
+濜	dìn	0%
+燼	dìn
+盡	dìn
+藎	dìn
+進	dïn
+嫉	dìp
+嶍	dìp
+疾	dìp	0%
+習	dìp
+蒺	dìp
+隰	dìp
+鰼	dìp	0%
+僦	diù
+就	diù
+岫	diù
+袖	diù
+鷲	diù	0%
+叫	diû	0%
+召	diü	0%
+叫	diü
+酒	diū	0%
+坐	dò
+座	dò
+怍	dò
+祚	dò
+胙	dò	0%
+阼	dò	0%
+在	dòi
+扗	dòi
+載	döi
+再	döi	3%
+哉	döi
+栽	döi	0%
+災	döi	0%
+甾	döi	3%
+菑	döi
+仔	dōi	3%
+囝	dōi
+宰	dōi
+崽	dōi	3%
+滓	dōi
+籭	dōi	0%
+載	dōi
+怍	dòk
+柞	dòk
+砟	dòk
+笮	dòk	0%
+酢	dòk	0%
+鐸	dòk
+鑿	dòk	3%
+雹	dôk
+昨	dôk
+莋	dôk
+柞	dôk
+笮	dôk
+葃	dôk
+作	dök
+作	dōk
+鑽	dön
+躦	dön
+鑚	dön	0%
+攥	dōn	3%
+篹	dōn
+纂	dōn	3%
+鑽	dōn
+牂	dòng	0%
+臟	dòng	0%
+藏	dòng
+檔	döng
+臧	döng
+葬	döng
+贓	döng
+髒	döng
+擋	dōng
+嘬	döt	0%
+嘬	dōt
+自	dù
+伺	dù
+俟	dù
+嗣	dù	0%
+字	dù	3%
+寺	dù
+巳	dù	0%
+汜	dù
+牸	dù
+祀	dù
+禩	dù
+竢	dù
+耜	dù	0%
+食	dù
+飼	dù
+呲	dü
+甾	dü
+菑	dü	3%
+訾	dü
+佐	dü
+做	dü	3%
+咨	dü	0%
+嗞	dü
+姿	dü
+孜	dü
+孳	dü	3%
+孶	dü
+嵫	dü
+淄	dü	0%
+滋	dü
+租	dü
+秶	dü
+粢	dü
+緇	dü
+胾	dü
+茲	dü
+觜	dü	0%
+諮	dü	0%
+資	dü	0%
+貲	dü
+趑	dü
+輜	dü	3%
+錙	dü
+鎡	dü
+雌	dü
+鮆	dü
+鯔	dü
+鼒	dü	0%
+齊	dü
+齜	dü	0%
+自	dū
+仔	dū	0%
+呰	dū	0%
+子	dū	0%
+左	dū
+梓	dū	0%
+泚	dū	0%
+祖	dū
+笫	dū
+籽	dū
+組	dū
+紫	dū	3%
+耔	dū
+茈	dū	0%
+虸	dū
+訾	dū
+訿	dū	0%
+都	dū	0%
+釨	dū
+嶼	duì	0%
+序	duì
+敘	duì	0%
+漵	duì
+罪	duì	0%
+聚	duì	0%
+足	duì
+辠	duì
+隊	duì	3%
+鱮	duì	3%
+趄	duï	3%
+跙	duï
+沮	duï
+狙	duï	3%
+疽	duï
+齟	duï
+晬	duï
+最	duï	3%
+槜	duï
+檇	duï	0%
+苴	duï
+菹	duï	0%
+蕞	duï	0%
+䘹	duï	0%
+醉	duï	3%
+趄	duī
+跙	duī
+觜	duī
+咀	duī
+嘴	duī
+沮	duī
+狙	duī	0%
+疽	duī
+齟	duī
+俗	dùk
+匵	dùk	3%
+娖	dùk
+族	dùk	0%
+柚	dùk	3%
+櫝	dùk	3%
+濁	dùk
+瀆	dùk	0%
+牘	dùk
+犢	dùk
+續	dùk	3%
+躅	dùk	3%
+䠱	dùk	3%
+鏃	dùk	0%
+黷	dùk	0%
+足	dük
+足	dūk
+浞	dūk	3%
+扽	dùn	0%
+樽	dûn
+罇	dûn
+縉	dün	0%
+俊	dün
+尊	dün	0%
+峻	dün
+悛	dün
+搢	dün	0%
+撙	dün
+晉	dün
+朘	dün
+浚	dün
+濬	dün
+焌	dün
+皴	dün
+稕	dün
+竣	dün
+縉	dün
+脧	dün	0%
+蹲	dün
+逡	dün
+遵	dün
+鐫	dün
+雋	dün	0%
+餕	dün
+駿	dün
+鱒	dün	3%
+吅	dùng
+瘲	dùng
+訟	dùng	0%
+誦	dùng
+頌	dùng
+粽	dûng
+糉	dûng
+糭	dûng
+𧄓	dûng	0%
+𠕌	düng
+㚇	düng
+宗	düng
+嵷	düng
+嵸	düng	0%
+棕	düng	0%
+椶	düng
+樅	düng
+𣯨	düng
+淙	düng
+潀	düng
+潨	düng
+猔	düng
+𤡆	düng
+琮	düng
+綜	düng
+緵	düng	0%
+縱	düng	3%
+翪	düng
+腙	düng	0%
+䝋	düng	3%
+豵	düng	0%
+蹤	düng	3%
+鍐	düng	0%
+騌	düng	3%
+騣	düng	0%
+鬃	düng	3%
+𩭤	düng	0%
+鬉	düng
+鬷	düng
+鯮	düng
+鯼	düng
+傯	dūng
+愡	dūng
+憁	dūng
+懂	dūng	5%
+搃	dūng	3%
+摠	dūng
+䁓	dūng
+𦁕	dūng
+總	dūng
+𨍈	dūng
+𨍉	dūng
+絕	dùt
+卒	dūt	0%
+嘟	dūt
+捽	dūt
+欸	è
+誒	è	0%
+欸	ë	0%
+誒	ë	3%
+欸	ë
+誒	ë	3%
+欸	ē
+誒	ē
+爹	ëh	0%
+嗲	ēh
+佚	èik
+垤	èik
+帙	èik
+敵	èik
+滌	èik	0%
+滴	èik	0%
+狄	èik
+瓞	èik
+秩	èik
+紩	èik	3%
+絰	èik
+翟	èik
+耋	èik
+荻	èik
+螲	èik	3%
+袠	èik	0%
+覿	èik
+詄	èik
+踧	èik
+軼	èik	3%
+迭	èik
+迪	èik
+逖	èik
+逷	èik	3%
+渧	ëik
+跌	ëik	0%
+鍉	ēik
+的	ēik
+嘀	ēik
+嫡	ēik
+菂	ēik	3%
+蹢	ēik
+鏑	ēik
+鵪	ëim
+𥇓	èin
+碘	èin
+訂	èin	0%
+佃	èin	3%
+啶	èin
+奠	èin	3%
+㝎	èin	3%
+定	èin
+掟	èin	0%
+椗	èin
+殿	èin	3%
+澱	èin
+甸	èin
+癜	èin	0%
+矴	èin
+碇	èin
+簟	èin
+腚	èin
+錠	èin
+電	èin
+靛	èin
+䟓	ëin
+奵	ëin
+丁	ëin
+仃	ëin
+叮	ëin
+巔	ëin	3%
+㣔	ëin
+攧	ëin
+汀	ëin
+滇	ëin
+玎	ëin
+町	ëin	3%
+疔	ëin
+癲	ëin
+耵	ëin
+艼	ëin	5%
+訂	ëin
+酊	ëin	3%
+顛	ëin
+顚	ëin	5%
+飣	ëin	3%
+典	ēin
+奵	ēin	3%
+㴿	ēin	0%
+濎	ēin	0%
+碘	ēin
+䅍	ēin	0%
+𥟐	ēin	3%
+腆	ēin	0%
+覥	ēin	0%
+𧡝	ēin
+靦	ēin
+頂	ēin
+𩕢	ēin
+𩠑	ēin
+鼎	ēin
+踏	èip
+𢱕	èip	0%
+笛	èk
+糴	èk
+渧	ëk
+琢	ëk
+滴	ëk
+趯	ëk
+啄	ēk
+斫	ēk
+滴	ēk
+剁	ēk	0%
+㓸	ēk
+斮	ēk	5%
+斲	ēk
+斵	ēk
+丟	èl
+掉	èl
+敦	èl	5%
+窕	èl	0%
+調	èl	0%
+銩	èl
+窅	êl	3%
+踔	ël	0%
+凋	ël
+刁	ël
+叼	ël
+吊	ël	3%
+弔	ël	3%
+彫	ël
+汈	ël	3%
+碉	ël
+窵	ël
+藋	ël	0%
+貂	ël	3%
+釣	ël
+銱	ël	3%
+雕	ël	3%
+鮉	ël	3%
+鯛	ël	3%
+掂	èm
+坫	ëm
+埝	ëm	3%
+店	ëm
+惦	ëm
+掂	ëm	3%
+敁	ëm
+玷	ëm
+痁	ëm	3%
+跕	ëm
+踮	ëm
+阽	ëm	0%
+丶	ēm	3%
+點	ēm	0%
+訂	èng	3%
+定	èng
+釘	êng
+丁	êng
+靪	êng
+釘	ëng
+掟	ëng
+盯	ëng
+靪	ëng
+頂	ēng	0%
+豆	èo
+痘	èo
+竇	èo
+脰	èo	3%
+荳	èo
+讀	èo	0%
+逗	èo
+餖	èo
+竇	êo
+媼	ëo
+唗	ëo	3%
+嘔	ëo
+兜	ëo
+區	ëo	3%
+嫗	ëo	0%
+慪	ëo
+歐	ëo
+毆	ëo	0%
+漚	ëo	3%
+甌	ëo	3%
+瞘	ëo
+篼	ëo
+蔸	ëo
+謳	ëo	3%
+鬥	ëo	3%
+鬦	ëo
+鬪	ëo	3%
+鬭	ëo	0%
+鷗	ëo	0%
+唗	ēo
+嘔	ēo
+抖	ēo
+斗	ēo
+枓	ēo
+蚪	ēo
+鈄	ēo	3%
+陡	ēo
+喋	èp	3%
+堞	èp
+挕	èp
+揲	èp
+楪	èp	3%
+㲲	èp
+牒	èp
+疊	èp
+碟	èp	0%
+蝶	èp
+諜	èp	3%
+蹀	èp
+鰈	èp
+喋	ēp	3%
+化	fâ	0%
+𠆧	fä
+化	fä	3%
+芲	fä	3%
+花	fä
+傀	fäi
+噲	fäi	0%
+塊	fäi
+快	fäi
+筷	fäi
+駃	fäi
+撥	fāk
+樊	fàn	0%
+泛	fàn
+犯	fàn
+範	fàn	0%
+范	fàn
+飯	fàn	3%
+瓣	fân
+幡	fân
+畈	fân
+販	fân	0%
+幡	fän
+番	fän
+繙	fän
+翻	fän
+蕃	fän
+返	fän
+飜	fän
+反	fān	3%
+蕃	fãn
+凡	fãn
+㠶	fãn
+帆	fãn	0%
+梵	fãn
+樊	fãn
+煩	fãn
+燔	fãn
+璠	fãn	0%
+礬	fãn
+笲	fãn
+籓	fãn
+籵	fãn
+緐	fãn	3%
+繁	fãn
+膰	fãn	0%
+藩	fãn	0%
+蘩	fãn	3%
+襎	fãn	0%
+蹯	fãn	0%
+軬	fãn	0%
+釩	fãn
+颿	fãn
+吰	fãng
+宏	fãng
+弘	fãng	0%
+汯	fãng	0%
+泓	fãng
+竑	fãng
+竤	fãng
+閎	fãng
+乏	fàt
+伐	fàt
+垡	fàt
+栰	fàt
+筏	fàt
+罰	fàt	3%
+罸	fàt	0%
+閥	fàt
+發	fät	3%
+醱	fät
+法	fāt
+琺	fāt
+發	fāt
+砝	fāt	0%
+髪	fāt
+髮	fāt
+啡	fêh
+啡	fēh
+埠	fèo	0%
+缶	fèo	0%
+阜	fèo
+否	fēo
+桴	fẽo	0%
+浮	fẽo	3%
+涪	fẽo
+罘	fẽo	0%
+芣	fẽo
+蜉	fẽo
+齁	fẽo
+僡	fì
+吠	fì	0%
+喙	fì	3%
+彗	fì
+恚	fì
+惠	fì
+慧	fì	3%
+憓	fì
+槥	fì
+㱱	fì	0%
+潓	fì
+篲	fì	3%
+蔧	fì	0%
+蕙	fì	0%
+蟪	fì
+飛	fî
+剕	fï	3%
+翡	fï
+菲	fï	0%
+剕	fï
+妃	fï
+徽	fï	0%
+怫	fï
+扉	fï
+揮	fï
+撝	fï	0%
+暉	fï
+沸	fï
+煇	fï
+狒	fï
+琿	fï
+緋	fï
+翬	fï	3%
+肺	fï
+腓	fï	0%
+芾	fï
+蜚	fï
+𧓊	fï
+褘	fï
+諱	fï
+費	fï	0%
+輝	fï	0%
+鐨	fï	0%
+霏	fï
+非	fï	0%
+飛	fï
+䬠	fï
+飝	fï
+鯡	fï	0%
+麾	fï
+匪	fī
+卉	fī
+廢	fī
+悱	fī
+斐	fī	0%
+榧	fī
+毀	fī
+燬	fī
+痱	fī	3%
+篚	fī
+翡	fī
+菲	fī
+虺	fī
+誹	fī	0%
+隳	fī
+䨾	fī
+蜰	fĩ
+淝	fĩ	0%
+肥	fĩ
+裴	fĩ
+匼	fö
+堁	fö
+戈	fö
+科	fö
+稞	fö	0%
+蝌	fö
+課	fö
+貨	fö
+踝	fö
+錁	fö	0%
+騍	fö
+髁	fö	0%
+伙	fō
+夥	fō	0%
+棵	fō
+火	fō
+灬	fō
+鈥	fō
+顆	fō
+傀	föi	0%
+虺	föi	0%
+咴	föi
+喹	föi
+奎	föi
+恢	föi
+悝	föi
+灰	föi
+盔	föi
+蝰	föi
+詼	föi	0%
+䠑	föi
+魁	föi	0%
+悔	fōi	3%
+晦	fōi	0%
+誨	fōi	3%
+咍	fõi	0%
+㾂	fõi
+縛	fòk
+霍	fōk
+靃	fōk
+喚	fòn	3%
+奐	fòn	3%
+渙	fòn
+煥	fòn
+瘓	fòn
+緩	fòn
+寛	fön	0%
+寬	fön	3%
+歡	fön
+獾	fön
+䝔	fön
+貛	fön
+髖	fön	3%
+欵	fōn
+款	fōn	3%
+浣	fōn
+澣	fōn
+皖	fōn
+盥	fōn
+睆	fōn
+莞	fōn	0%
+詪	fōn
+房	fông
+枋	föng
+匚	föng
+塃	föng
+慌	föng	0%
+放	föng
+方	föng
+肓	föng
+芳	föng
+荒	föng
+蚄	föng
+謊	föng
+邡	föng
+鄺	föng
+鈁	föng	3%
+眪	fōng
+仿	fōng	0%
+倣	fōng
+坊	fōng
+幌	fōng	0%
+彷	fōng
+怳	fōng
+恍	fōng
+昉	fōng	0%
+晄	fōng
+晃	fōng
+曠	fōng
+枋	fōng
+況	fōng
+皝	fōng
+皩	fōng
+眆	fōng
+紡	fōng
+肪	fōng
+舫	fōng	0%
+訪	fōng
+貺	fōng
+妨	fõng
+防	fõng
+魴	fõng
+蛞	föt
+闊	föt
+柎	fù
+父	fù	3%
+付	fù
+傅	fù	3%
+怙	fù
+戶	fù
+戸	fù
+扈	fù
+敷	fù
+滬	fù
+祜	fù	0%
+腐	fù	0%
+訃	fù
+負	fù
+賻	fù
+輔	fù
+鄠	fù
+附	fù
+駙	fù
+鮒	fù
+呼	fû
+扶	fû
+婦	fû
+絝	fû
+袴	fû
+褲	fû
+柎	fü	0%
+仆	fü	0%
+伕	fü
+副	fü
+呋	fü	0%
+呼	fü
+咐	fü
+唿	fü
+夫	fü
+富	fü
+庫	fü
+戲	fü	0%
+戽	fü
+枎	fü
+滹	fü
+膚	fü	3%
+虖	fü	0%
+賦	fü
+赴	fü	0%
+趺	fü
+跗	fü
+軤	fü
+麩	fü
+𩭍	fū
+䯽	fū
+斧	fū
+俿	fū
+乕	fū	0%
+俛	fū	0%
+俯	fū
+唬	fū	0%
+府	fū
+拊	fū
+撫	fū	0%
+柎	fū
+楛	fū
+滏	fū	3%
+滸	fū
+父	fū
+狜	fū
+琥	fū
+甫	fū
+盙	fū
+簠	fū	0%
+脯	fū
+腑	fū
+苦	fū	3%
+虍	fū
+虎	fū
+虝	fū
+釜	fū
+頫	fū	3%
+黼	fū
+孵	fũ	0%
+桴	fũ
+夫	fũ	0%
+枎	fũ
+虖	fũ
+乎	fũ	0%
+俘	fũ
+孚	fũ
+扶	fũ
+烀	fũ	0%
+稃	fũ
+符	fũ
+罦	fũ	0%
+芙	fũ
+苻	fũ
+莩	fũ
+蚨	fũ	3%
+郛	fũ
+鄜	fũ
+鈇	fũ
+鳧	fũ	0%
+匐	fùk	0%
+絥	fùk
+復	fùk
+伏	fùk
+宓	fùk	0%
+幞	fùk
+斛	fùk	0%
+服	fùk	0%
+栿	fùk	3%
+洑	fùk
+茯	fùk
+菔	fùk
+袱	fùk	0%
+襆	fùk	0%
+𩢰	fùk
+鴔	fùk	0%
+伏	fûk
+幅	fūk
+復	fūk	0%
+福	fūk	0%
+腹	fūk
+蝠	fūk	0%
+蝮	fūk
+複	fūk
+覆	fūk	3%
+輻	fūk
+馥	fūk
+鰒	fūk	3%
+坌	fùn	3%
+分	fùn
+份	fùn
+糞	fûn
+僨	fûn
+奮	fûn
+忿	fûn
+憤	fûn
+瀵	fûn
+鱝	fûn
+玢	fün
+煇	fün
+分	fün
+勛	fün
+勳	fün
+吩	fün
+塤	fün	0%
+壎	fün
+婚	fün	3%
+惛	fün
+昏	fün
+曛	fün	0%
+棼	fün	3%
+氛	fün	0%
+涽	fün
+湣	fün	0%
+熏	fün
+燻	fün
+獯	fün
+瞓	fün
+窨	fün
+糞	fün
+紛	fün
+䎜	fün
+芬	fün
+葷	fün
+薰	fün	0%
+訓	fün
+酚	fün
+醺	fün
+閽	fün
+粉	fūn
+賁	fũn	0%
+垣	fũn
+墳	fũn
+桓	fũn
+汾	fũn
+洹	fũn
+濆	fũn
+焚	fũn
+萑	fũn	0%
+蚠	fũn
+蚡	fũn
+豶	fũn	0%
+鼢	fũn
+塳	fùng
+奉	fùng
+甮	fùng	0%
+鳳	fùng	0%
+捀	füng
+仹	füng
+𡊋	füng
+夆	füng	3%
+妦	füng	3%
+㛔	füng
+封	füng
+峯	füng	3%
+峰	füng
+楓	füng
+灃	füng	3%
+烽	füng
+㷭	füng	3%
+瘋	füng
+碸	füng
+莑	füng	3%
+葑	füng	3%
+蘴	füng	0%
+蜂	füng	0%
+豊	füng
+𧯮	füng
+豐	füng	3%
+酆	füng
+鋒	füng	0%
+鎽	füng
+鏠	füng
+風	füng	0%
+麷	füng	0%
+䩬	fūng	3%
+俸	fūng
+唪	fūng
+捀	fūng	0%
+諷	fūng
+賵	fūng
+𠗦	fũng	0%
+摓	fũng
+渢	fũng
+漨	fũng
+縫	fũng
+艂	fũng
+菶	fũng
+逢	fũng
+馮	fũng
+怫	fùt
+佛	fùt
+忽	fût	0%
+㧾	füt
+拂	fūt
+𦁕	fūt
+怫	fūt
+芾	fūt	3%
+唿	fūt	3%
+佛	fūt
+囫	fūt
+堀	fūt
+弗	fūt	0%
+忽	fūt	3%
+惚	fūt
+㧾	fūt
+氟	fūt
+淴	fūt	0%
+䀟	fūt
+𥄱	fūt	3%
+矻	fūt
+砩	fūt
+祓	fūt	3%
+窟	fūt
+笏	fūt
+笰	fūt
+紼	fūt
+紱	fūt
+茀	fūt
+鍃	fūt
+韍	fūt
+鮄	fūt	0%
+黻	fūt
+嘎	gâ
+家	gâ	0%
+架	gâ
+瓜	gâ
+尕	gâ
+痂	gâ	0%
+嘎	gä
+伽	gä
+傢	gä
+價	gä
+加	gä	0%
+卦	gä	3%
+咖	gä	3%
+嘉	gä
+嫁	gä
+家	gä	0%
+尜	gä	0%
+架	gä
+枷	gä	3%
+玍	gä
+珈	gä
+瓜	gä	0%
+稼	gä	3%
+笳	gä
+罣	gä
+耞	gä
+胍	gä	0%
+茄	gä
+葭	gä
+袈	gä
+跏	gä
+迦	gä
+鉫	gä	0%
+鎵	gä
+駕	gä	3%
+假	gā
+剮	gā
+呱	gā
+嘎	gā	3%
+嘏	gā
+寡	gā
+徦	gā
+斚	gā
+斝	gā
+旮	gā
+榎	gā
+檟	gā
+瘕	gā
+賈	gā	0%
+偈	gài
+計	gài
+笄	gâi
+筓	gâi
+街	gâi
+髻	gâi
+䯻	gâi
+嚌	gäi
+䁓	gäi
+解	gäi
+乖	gäi
+介	gäi
+价	gäi
+佳	gäi
+偈	gäi
+偕	gäi
+喈	gäi
+垓	gäi	0%
+堦	gäi
+夬	gäi
+㝏	gäi	0%
+尬	gäi
+屆	gäi	0%
+彐	gäi
+怪	gäi
+恠	gäi
+戒	gäi	0%
+揩	gäi	0%
+楷	gäi
+湝	gäi	0%
+玠	gäi	0%
+界	gäi
+畍	gäi
+疥	gäi	0%
+皆	gäi
+秸	gäi
+繼	gäi
+罽	gäi	3%
+芥	gäi
+蒈	gäi
+薊	gäi
+計	gäi	3%
+誡	gäi	0%
+鍇	gäi	3%
+階	gäi	0%
+雞	gäi
+骱	gäi	3%
+䯰	gäi	3%
+魀	gäi
+魪	gäi	0%
+鷄	gäi
+拐	gāi	0%
+蒯	gāi
+薢	gāi	0%
+蚧	gāi
+解	gāi
+觧	gāi
+格	gâk
+嗝	gäk
+摑	gäk
+滆	gäk
+膈	gäk
+鎘	gäk	3%
+隔	gäk	0%
+鬲	gäk	0%
+塥	gāk
+格	gāk
+緙	gāk
+胳	gāk
+革	gāk
+韚	gāk
+骼	gāk
+柑	gâm
+坩	gäm
+尲	gäm
+尶	gäm
+尷	gäm
+橄	gäm	3%
+泔	gäm
+淦	gäm
+灨	gäm
+甘	gäm	0%
+甙	gäm
+疳	gäm
+監	gäm
+紺	gäm
+苷	gäm	0%
+贑	gäm
+贛	gäm
+鋻	gäm
+鍳	gäm
+鑑	gäm
+鑒	gäm
+感	gām	0%
+敢	gām	0%
+減	gām
+澉	gām
+丱	gän
+奸	gän
+姦	gän	0%
+慣	gän
+摜	gän	0%
+瘝	gän
+矜	gän
+矝	gän	0%
+綸	gän
+肩	gän
+艮	gän
+艱	gän	0%
+茛	gän	0%
+菅	gän
+諫	gän
+間	gän
+關	gän	0%
+鰥	gän
+鵳	gän
+揀	gān	0%
+柬	gān	3%
+梘	gān	0%
+澗	gān	3%
+癇	gān	3%
+礆	gān
+筧	gān
+簡	gān
+𥳑	gān
+繭	gān
+襇	gān
+襉	gān	3%
+趼	gān
+鐧	gān
+鹸	gān
+鹻	gān
+鹼	gān
+逛	gàng	0%
+逕	gâng	0%
+侊	gäng
+埂	gäng
+庚	gäng	0%
+更	gäng	0%
+秔	gäng
+稉	gäng
+筻	gäng
+粇	gäng
+粳	gäng
+羮	gäng
+羹	gäng
+耕	gäng	3%
+肱	gäng	3%
+薨	gäng
+觥	gäng
+觵	gäng
+訇	gäng
+謍	gäng
+賡	gäng
+輷	gäng
+轟	gäng
+鶊	gäng
+亙	gāng
+亘	gāng
+哽	gāng
+梗	gāng
+硬	gāng	0%
+綆	gāng	3%
+耿	gāng
+骾	gāng
+嚿	gào	3%
+交	gâo
+篙	gâo
+高	gäo
+交	gäo
+告	gäo
+峧	gäo	3%
+教	gäo
+斠	gäo
+㬵	gäo	3%
+校	gäo
+槔	gäo	0%
+櫜	gäo
+滘	gäo
+漖	gäo
+皋	gäo
+睾	gäo
+窌	gäo
+窖	gäo
+篙	gäo	0%
+糕	gäo
+羔	gäo
+羙	gäo
+膏	gäo
+膠	gäo
+臯	gäo	0%
+艽	gäo
+茭	gäo
+蛟	gäo	3%
+覺	gäo
+誥	gäo
+跤	gäo
+較	gäo
+郊	gäo
+郜	gäo
+鉸	gäo
+鋯	gäo
+韟	gäo	3%
+餻	gäo
+鮫	gäo	3%
+鵁	gäo
+佼	gāo
+姣	gāo	3%
+搞	gāo	3%
+攪	gāo	0%
+晈	gāo
+杲	gāo	0%
+槁	gāo
+槀	gāo
+狡	gāo
+皎	gāo	0%
+稁	gāo
+稾	gāo	0%
+稿	gāo
+絞	gāo
+縞	gāo
+蒿	gāo
+藁	gāo
+藳	gāo
+鎬	gāo
+餃	gāo
+高	gāo
+甲	gâp	0%
+夾	gâp
+莢	gâp
+合	gâp	3%
+鋏	gâp
+筴	gäp	3%
+夾	gäp	3%
+搛	gäp
+搿	gäp	100%
+浹	gäp	3%
+脥	gäp
+莢	gäp
+蛺	gäp
+袷	gäp	3%
+裌	gäp
+郟	gäp	0%
+頰	gäp	3%
+鵊	gäp	3%
+岬	gāp
+柙	gāp
+甲	gāp
+胛	gāp
+舺	gāp
+鉀	gāp	3%
+頜	gāp	3%
+刮	gät
+擖	gät	0%
+颳	gät
+括	gāt
+栝	gāt
+聒	gāt	3%
+軋	gāt
+釓	gāt	3%
+鴰	gāt	3%
+嘅	gëh	3%
+呱	gēh	0%
+偈	gèik	3%
+傑	gèik	0%
+桀	gèik
+極	gèik
+竭	gèik
+羯	gèik
+結	gëik	0%
+革	gēik
+亟	gēik
+墼	gēik
+㛃	gēik
+戟	gēik	3%
+㦸	gēik	3%
+拮	gēik
+挈	gēik
+擊	gēik	3%
+棘	gēik
+殛	gēik	0%
+潔	gēik	0%
+激	gēik	0%
+結	gēik	0%
+絜	gēik	0%
+纈	gēik
+詰	gēik
+頡	gēik
+鮚	gēik
+黠	gēik	3%
+逕	gèin
+件	gèin	3%
+俓	gèin
+健	gèin
+𠗊	gèin
+勁	gèin
+建	gèin
+弳	gèin
+徑	gèin	5%
+楗	gèin	0%
+毽	gèin
+獍	gèin
+痙	gèin
+竟	gèin
+競	gèin	0%
+𥯙	gèin
+羥	gèin
+脛	gèin	3%
+腱	gèin
+莖	gèin
+誩	gèin
+踁	gèin
+踺	gèin	0%
+鍵	gèin
+鞬	gèin
+矜	gëin	0%
+矝	gëin
+京	gëin
+兢	gëin
+堅	gëin
+婛	gëin
+巠	gëin
+敬	gëin
+涇	gëin	0%
+犍	gëin
+経	gëin
+經	gëin	3%
+荊	gëin
+䔔	gëin
+𦽁	gëin
+見	gëin
+豜	gëin
+豣	gëin
+驚	gëin
+鰹	gëin
+鶁	gëin
+麖	gëin
+麠	gëin
+繭	gēin
+趼	gēin
+儆	gēin
+冂	gēin
+冏	gēin
+剄	gēin
+囧	gēin
+境	gēin	0%
+幜	gēin
+𢇺	gēin
+憬	gēin	0%
+扃	gēin
+扄	gēin
+擏	gēin
+景	gēin
+暻	gēin
+𣕄	gēin	3%
+檾	gēin	3%
+泂	gēin	3%
+浻	gēin
+瀽	gēin	0%
+炅	gēin	0%
+炯	gēin	3%
+烱	gēin	0%
+煛	gēin	0%
+熲	gēin	3%
+璄	gēin
+璟	gēin
+絅	gēin
+綗	gēin
+苘	gēin
+𧑊	gēin
+褧	gēin	3%
+謇	gēin
+警	gēin
+䜘	gēin
+蹇	gēin	0%
+迥	gēin
+𨴀	gēin	0%
+頸	gēin	3%
+顈	gēin	3%
+駉	gēin
+蛤	gēip	0%
+腳	gêk
+腳	gëk	3%
+屩	gëk
+屫	gëk	0%
+蹻	gëk	0%
+腳	gēk
+嶠	gèl	0%
+撬	gèl
+轎	gèl	0%
+叫	gël
+敫	gël
+呌	gël	0%
+嘦	gël
+嘂	gël
+嬌	gël
+徼	gël
+䆗	gël	0%
+驕	gël	0%
+鱎	gël	0%
+撟	gēl	0%
+敫	gēl
+矯	gēl	3%
+糾	gēl
+繳	gēl
+赳	gēl	3%
+瞼	gèm
+儉	gèm
+搛	gëm
+兼	gëm
+剣	gëm
+剱	gëm
+劍	gëm
+劎	gëm
+劒	gëm
+劔	gëm
+縑	gëm	0%
+蒹	gëm
+鐱	gëm
+鰜	gëm	0%
+鶼	gëm	0%
+撿	gēm	3%
+檢	gēm
+瞼	gēm
+糨	gèng
+強	gèng
+彊	gèng
+犟	gèng	0%
+驚	gëng	3%
+僵	gëng	3%
+姜	gëng	3%
+弶	gëng
+殭	gëng	3%
+猄	gëng
+畺	gëng
+疆	gëng
+礓	gëng	3%
+繮	gëng
+羌	gëng	0%
+薑	gëng	3%
+蜣	gëng	3%
+鏡	gëng	0%
+韁	gëng
+頸	gēng	3%
+亅	gêo
+勾	gêo
+鈎	gêo	0%
+佝	gëo
+夠	gëo	0%
+廄	gëo	0%
+彀	gëo
+攰	gëo	3%
+穋	gëo
+緱	gëo
+鳩	gëo
+龜	gëo
+垢	gēo	0%
+岣	gēo
+枸	gēo
+狗	gēo	3%
+笱	gēo
+芶	gēo	0%
+苟	gēo	0%
+蚼	gēo	0%
+伋	gèp
+及	gèp
+狹	gèp
+芨	gèp	0%
+劫	gëp
+澀	gëp
+鵖	gëp	0%
+劫	gēp	0%
+匧	gēp	3%
+喼	gēp
+笈	gēp
+篋	gēp
+鷑	gēp
+疙	gēt
+刏	gì
+瞶	gì	0%
+胿	gì
+伎	gì
+几	gì
+匱	gì
+妓	gì
+徛	gì
+忌	gì	3%
+忮	gì	5%
+惎	gì
+憒	gì
+技	gì
+檵	gì
+櫃	gì	0%
+洎	gì
+潰	gì
+簣	gì
+籄	gì
+聵	gì	0%
+臾	gì
+芰	gì	0%
+蕢	gì
+䙡	gì
+跪	gì
+跽	gì	0%
+餽	gì
+饋	gì
+基	gî
+箕	gî	0%
+萁	gî	0%
+逵	gî	0%
+罽	gï
+炅	gï
+龜	gï	0%
+嘰	gï
+幾	gï
+丌	gï
+𠁴	gï	0%
+乩	gï
+亀	gï
+𠃾	gï	0%
+刉	gï
+刏	gï
+刲	gï	3%
+剞	gï
+劌	gï
+咭	gï
+圭	gï
+基	gï	0%
+奇	gï
+媯	gï
+嬀	gï
+季	gï
+寄	gï
+巋	gï	0%
+帰	gï
+悸	gï
+敧	gï
+既	gï
+旣	gï
+期	gï
+桂	gï
+機	gï
+歸	gï
+殨	gï
+𣱚	gï
+溈	gï
+潙	gï
+𤕣	gï
+犄	gï
+瑰	gï
+璣	gï
+瓌	gï
+畸	gï
+畿	gï
+癸	gï	5%
+皈	gï
+瞶	gï
+硅	gï
+磯	gï
+竒	gï
+肌	gï
+胿	gï
+𧑴	gï
+觭	gï	0%
+記	gï
+譏	gï
+貴	gï
+錤	gï	3%
+閨	gï
+飢	gï
+饑	gï
+鮭	gï
+鱖	gï
+𪚧	gï
+𪚦	gï	3%
+𪚨	gï	0%
+𪚺	gï
+𪚿	gï	0%
+𪚴	gï
+匭	gī	3%
+嘰	gī
+宄	gī
+屺	gī
+己	gī	0%
+幾	gī
+庋	gī
+掎	gī	0%
+晷	gī	0%
+朹	gī
+杞	gī	0%
+簋	gī
+紀	gī
+芑	gī
+蟣	gī
+詭	gī	3%
+軌	gī
+鬼	gī
+麂	gī
+監	gìm
+撳	gìm	0%
+禁	gîm	0%
+衿	gîm
+衾	gîm	0%
+襟	gîm
+今	gïm
+禁	gïm
+金	gïm	0%
+𢀷	gīm
+錦	gīm
+覲	gìn
+近	gìn	3%
+靳	gìn
+詪	gïn	3%
+哏	gïn	3%
+巾	gïn	3%
+斤	gïn
+根	gïn
+筋	gïn	3%
+觔	gïn	0%
+跟	gïn
+僅	gīn
+卺	gīn
+厪	gīn	3%
+堇	gīn
+巹	gīn	0%
+廑	gīn	3%
+憖	gīn	3%
+槿	gīn
+殣	gīn
+瑾	gīn
+緊	gīn
+謹	gīn
+饉	gīn
+急	gīp
+靸	gīp
+吉	gìt
+拮	gït
+㓤	gït	0%
+詰	gīt
+仡	gīt	3%
+佶	gīt
+劼	gīt	3%
+吉	gīt
+桔	gīt	0%
+虼	gīt	3%
+柩	giù
+臼	giù
+舊	giù
+艽	giü	0%
+廄	giü
+匛	giü	0%
+咎	giü	3%
+捄	giü
+救	giü
+柩	giü	0%
+灸	giü	0%
+疚	giü
+究	giü	0%
+臼	giü
+久	giū
+九	giū
+玖	giū
+韮	giū	3%
+詬	giū
+韭	giū
+和	gô
+歌	gô	3%
+咼	gö
+渦	gö	3%
+過	gö
+顆	gō
+錁	gō	0%
+倮	gō
+㒩	gō
+哿	gō	3%
+哥	gō
+果	gō	0%
+牁	gō	3%
+猓	gō
+粿	gō
+臝	gō	3%
+蓏	gō
+蜾	gō
+裸	gō
+裹	gō
+躶	gō
+餜	gō
+䴹	gō	0%
+蓋	gôi
+個	göi
+箇	göi	0%
+改	gōi	3%
+胲	gōi
+𨮂	gōi
+角	gôk
+桷	gôk
+梏	gôk
+龣	gôk
+覺	gök
+擱	gök
+角	gök
+閣	gök
+摑	gōk
+斠	gōk
+覺	gōk
+各	gōk	0%
+咯	gōk	3%
+囗	gōk	0%
+國	gōk
+幗	gōk	3%
+擱	gōk	3%
+玨	gōk	3%
+珏	gōk	0%
+硌	gōk
+膕	gōk	3%
+蟈	gōk
+袼	gōk
+角	gōk	0%
+閣	gōk	3%
+餎	gōk
+瓹	gòn
+竿	gôn
+乾	gôn	0%
+罐	gôn
+擀	gön	3%
+稈	gön
+竿	gön
+乾	gön
+倌	gön
+冠	gön
+官	gön
+干	gön
+幹	gön
+旰	gön	0%
+杆	gön
+桿	gön
+棺	gön
+榦	gön
+涫	gön
+灌	gön
+矸	gön
+肝	gön	0%
+觀	gön
+貫	gön
+酐	gön
+鸛	gön
+玕	gön
+管	gōn
+脘	gōn
+𦜐	gōn	0%
+莞	gōn
+擀	gōn	0%
+琯	gōn
+皯	gōn
+稈	gōn	3%
+竿	gōn
+管	gōn	0%
+篢	gōn
+䏓	gōn
+脘	gōn	0%
+舘	gōn
+趕	gōn
+館	gōn
+䵟	gōn
+光	gông
+岡	gông
+崗	gông
+鋼	gông
+杠	göng
+光	göng
+剛	göng
+咣	göng
+堽	göng
+夅	göng	0%
+岡	göng
+崗	göng
+扛	göng
+掆	göng	0%
+棡	göng
+槓	göng
+江	göng
+洚	göng	0%
+洸	göng	3%
+犅	göng
+珖	göng	3%
+疘	göng
+𥭗	göng
+絳	göng
+綱	göng	3%
+缸	göng
+罡	göng
+肛	göng	3%
+胱	göng
+茳	göng
+豇	göng
+䜶	göng
+鋼	göng
+降	göng
+廣	gōng
+杠	gōng
+桄	gōng
+耩	gōng	3%
+講	gōng
+割	göt	0%
+擖	gōt
+蓋	gōt
+劜	gōt
+噶	gōt
+葛	gōt	3%
+䦪	gōt
+𪆰	gōt
+咕	gù
+怙	gü
+胍	gü
+估	gü
+蛄	gü	3%
+僱	gü
+固	gü	3%
+堌	gü
+姑	gü	3%
+孤	gü	0%
+岵	gü
+崮	gü
+故	gü
+沽	gü
+痼	gü
+罟	gü
+菇	gü
+菰	gü
+觚	gü
+辜	gü	0%
+酤	gü
+錮	gü	3%
+雇	gü
+顧	gü
+鯝	gü
+鴣	gü	0%
+嘏	gū
+賈	gū
+哥	gū	0%
+估	gū
+古	gū
+咕	gū
+夃	gū	0%
+牯	gū
+䀇	gū
+瞽	gū	0%
+羖	gū	0%
+𦍩	gū
+股	gū	3%
+臌	gū
+蛄	gū	3%
+蠱	gū
+詁	gū	5%
+軲	gū
+鈷	gū
+鮕	gū	3%
+鼓	gū	3%
+𦜐	guǎn
+俱	guì
+具	guì
+巨	guì
+懼	guì	3%
+炬	guì	0%
+犋	guì
+窶	guì	0%
+簴	guì
+苣	guì
+虡	guì	3%
+遽	guì
+醵	guì
+鉅	guì	0%
+鐻	guì
+颶	guì
+句	guî
+硨	guï
+車	guï
+岣	guï
+倨	guï
+句	guï
+居	guï
+屨	guï
+拘	guï
+據	guï	3%
+椐	guï
+泃	guï
+澽	guï
+琚	guï
+腒	guï	0%
+裾	guï
+踞	guï	0%
+鋸	guï
+駒	guï
+鶋	guï
+偊	guī	0%
+柜	guī	0%
+椇	guī
+榘	guī
+櫸	guī	3%
+矩	guī	0%
+筥	guī
+舉	guī	0%
+莒	guī
+蒟	guī
+踽	guī	0%
+齲	guī	3%
+鋸	gùk	0%
+侷	gùk
+局	gùk
+焗	gùk
+跼	gùk
+鋦	gùk
+梏	gūk	3%
+嚳	gūk	3%
+掬	gūk
+旭	gūk
+榖	gūk
+毩	gūk
+毱	gūk	0%
+瀔	gūk	3%
+牿	gūk
+穀	gūk	0%
+糓	gūk
+菊	gūk
+諊	gūk
+谷	gūk
+踘	gūk
+輂	gūk	0%
+轂	gūk
+陱	gūk
+鞠	gūk
+鞫	gūk
+頊	gūk
+鵠	gūk
+倦	gùn	0%
+捃	gùn	0%
+珺	gùn
+郡	gùn
+竿	gûn
+丨	gûn
+棍	gûn
+輥	gûn	0%
+龜	gün
+君	gün
+均	gün	0%
+娟	gün
+捐	gün
+昀	gün
+昆	gün
+涓	gün	0%
+狷	gün	3%
+畇	gün
+皸	gün	3%
+眷	gün
+睠	gün
+筠	gün	0%
+絹	gün	3%
+罥	gün
+羂	gün
+蜎	gün
+蜵	gün
+蠲	gün
+裩	gün
+褌	gün
+身	gün
+軍	gün
+鄄	gün
+鈞	gün
+鋆	gün
+鵑	gün
+悃	gūn
+滾	gūn
+磙	gūn
+袞	gūn	5%
+裷	gūn
+錈	gūn
+鬈	gūn	0%
+鮌	gūn
+鯀	gūn
+共	gùng
+公	gûng
+贑	güng	3%
+篢	güng
+公	güng
+供	güng
+功	güng
+嗊	güng	0%
+塨	güng
+𡎴	güng
+𡔕	güng
+宮	güng
+工	güng
+弓	güng
+恭	güng
+𢙄	güng
+攻	güng	3%
+紅	güng
+羾	güng
+𦏺	güng
+芎	güng
+蚣	güng	0%
+貢	güng	3%
+躬	güng
+躳	güng	3%
+魟	güng
+䰸	güng
+䳍	güng
+龔	güng	0%
+公	gūng	0%
+廾	gūng
+拱	gūng	3%
+拲	gūng
+栱	gūng	3%
+珙	gūng	3%
+䡗	gūng
+鞏	gūng	0%
+倔	gùt
+崛	gùt	3%
+掘	gùt
+䘿	gùt	0%
+葛	gût	0%
+訣	gût	0%
+榾	gūt
+橘	gūt	0%
+汩	gūt
+蓇	gūt	3%
+譎	gūt	3%
+餶	gūt	0%
+骨	gūt	3%
+鶻	gūt	0%
+鷸	gūt
+嗄	hà
+下	hà
+夏	hà	0%
+廈	hà
+暇	hà	0%
+蝦	hâ	100%
+下	hâ
+疨	hâ	0%
+鰕	hâ
+蝦	hä
+下	hä
+他	hä
+她	hä
+它	hä	5%
+怹	hä
+牠	hä	3%
+祂	hä
+鉈	hä	3%
+蛤	hā	3%
+哈	hā
+蝦	hā
+徦	hã
+瑕	hã	0%
+遐	hã	0%
+霞	hã	0%
+解	hài	3%
+㜎	hài
+盻	hài
+係	hài
+傒	hài
+匸	hài
+廨	hài
+械	hài
+瀣	hài
+獬	hài
+禊	hài	3%
+系	hài
+繋	hài
+繫	hài
+薤	hài
+弟	hâi
+髢	hâi
+鬄	hâi
+娣	hâi	0%
+懈	hâi
+灺	hâi
+邂	hâi
+揥	häi	0%
+傣	häi
+㑷	häi
+剃	häi
+太	häi
+妻	häi
+𡝣	häi
+屜	häi	0%
+忕	häi	3%
+態	häi	3%
+替	häi
+梯	häi
+汰	häi
+洟	häi
+泰	häi	0%
+涕	häi
+綈	häi
+肽	häi
+薙	häi
+裼	häi
+褅	häi
+䙗	häi
+𧝐	häi	3%
+貸	häi	3%
+郪	häi
+酞	häi
+鈦	häi
+銻	häi
+髢	häi
+鬀	häi
+鬄	häi
+咳	hāi	3%
+嗨	hāi
+澥	hāi	3%
+睇	hāi	0%
+蟹	hāi
+蠏	hāi
+躰	hāi
+軆	hāi
+醍	hāi	0%
+骵	hāi
+體	hāi
+渧	hãi
+鍉	hãi
+苐	hãi
+偕	hãi
+胲	hãi
+醍	hãi	3%
+綈	hãi
+偍	hãi
+兮	hãi	3%
+㖒	hãi	0%
+啼	hãi
+㖷	hãi
+嗁	hãi
+堤	hãi
+奚	hãi
+媞	hãi
+㜎	hãi
+孩	hãi
+𡱍	hãi
+惿	hãi
+提	hãi
+盻	hãi
+䄺	hãi
+稊	hãi
+䅠	hãi
+緹	hãi
+膎	hãi
+荑	hãi
+蕛	hãi
+𧀰	hãi	0%
+𧙣	hãi
+諧	hãi
+蹄	hãi
+蹊	hãi
+蹏	hãi	0%
+隄	hãi
+鞋	hãi
+𩋘	hãi
+鞮	hãi
+𩋣	hãi	0%
+鞵	hãi
+頦	hãi
+題	hãi	0%
+騠	hãi	0%
+𩤢	hãi
+骸	hãi	3%
+鮷	hãi	3%
+鯷	hãi	0%
+鵜	hãi	0%
+鶗	hãi	0%
+𪂿	hãi	0%
+鷈	hãi	3%
+鷉	hãi
+鼷	hãi
+龤	hãi
+唬	häk
+客	häk
+嚇	häk	0%
+緙	hāk	3%
+克	hāk
+刻	hāk	3%
+剋	hāk	3%
+可	hāk	0%
+喀	hāk
+客	hāk
+揢	hāk
+氪	hāk
+赫	hāk
+黒	hāk
+黑	hāk
+嵌	hàm	0%
+憾	hàm	3%
+撼	hàm	3%
+萏	hàm	0%
+豏	hàm	3%
+陷	hàm	0%
+餡	hàm	0%
+毯	hâm
+譚	hâm	0%
+凼	hâm
+蟫	hâm
+淡	häm
+毯	häm	0%
+坩	häm	3%
+坎	häm
+闞	häm
+勘	häm
+喊	häm	0%
+㘚	häm
+堪	häm
+墈	häm	0%
+崁	häm	0%
+憨	häm
+戡	häm
+探	häm
+撖	häm	3%
+撢	häm
+檻	häm
+瞰	häm
+矙	häm	0%
+磡	häm
+菼	häm
+蚶	häm
+貪	häm
+賧	häm	0%
+佄	hām
+坎	hām
+忐	hām
+砍	hām	0%
+莰	hām	3%
+輡	hām
+轗	hām
+酣	hām	0%
+闞	hām
+澹	hãm	0%
+函	hãm	0%
+咸	hãm
+曇	hãm
+榃	hãm
+涵	hãm
+潭	hãm
+痰	hãm
+菡	hãm
+覃	hãm	0%
+談	hãm
+譚	hãm
+郯	hãm
+銜	hãm	0%
+錟	hãm
+鐔	hãm	0%
+鹹	hãm
+龕	hãm	0%
+狠	hàn	0%
+㡾	hàn
+恨	hàn
+莧	hàn
+限	hàn
+闞	hân
+壇	hân
+𡊨	hân
+痕	hân
+羥	hän
+坍	hän
+嘆	hän
+慳	hän
+歎	hän	0%
+炭	hän
+碳	hän
+羰	hän
+鉭	hān
+亶	hān	3%
+笪	hān
+毯	hān
+詪	hān
+忐	hān
+刋	hān	0%
+刊	hān
+坍	hān
+坦	hān
+墾	hān
+妲	hān	3%
+很	hān	3%
+怛	hān
+懇	hān
+攤	hān
+栞	hān
+灘	hān
+狠	hān
+疸	hān
+癱	hān
+袒	hān
+靼	hān
+𤞶	hān	3%
+彈	hãn
+癇	hãn
+壇	hãn	0%
+壜	hãn
+嫻	hãn
+檀	hãn	0%
+罈	hãn
+罎	hãn
+閒	hãn
+閑	hãn	0%
+鷳	hãn
+鷴	hãn
+行	hàng
+倖	hàng
+啈	hàng	0%
+婞	hàng
+幸	hàng
+悻	hàng	3%
+杏	hàng	0%
+荇	hàng
+莕	hàng
+坑	hâng	3%
+桁	hâng
+亨	häng
+吭	häng
+哼	häng
+坑	häng
+𥑒	häng	3%
+硜	häng	3%
+硻	häng
+脝	häng
+鏗	häng
+鞥	häng
+夯	hāng	0%
+啃	hāng	0%
+掯	hāng	0%
+肎	hāng
+肯	hāng	0%
+裉	hāng	0%
+褃	hāng
+齦	hāng
+珢	hāng
+螣	hãng
+姮	hãng
+恆	hãng
+滕	hãng	0%
+珩	hãng
+縢	hãng
+藤	hãng
+蘅	hãng
+行	hãng
+衡	hãng
+謄	hãng	0%
+騰	hãng
+鰧	hãng	0%
+鴴	hãng
+鎬	hào	0%
+校	hào
+號	hào
+俲	hào
+傚	hào
+効	hào
+效	hào
+昊	hào	0%
+晧	hào
+暠	hào
+暤	hào
+曍	hào	0%
+皓	hào
+皞	hào	0%
+皡	hào
+皥	hào
+賀	hào
+桃	hâo
+皓	hâo
+何	hâo
+浩	hâo
+滈	hâo	0%
+灝	hâo	3%
+鄗	hâo	0%
+顥	hâo
+叨	häo
+蒿	häo
+好	häo
+烤	häo	3%
+哮	häo
+嚆	häo
+套	häo
+孝	häo
+㝀	häo
+尻	häo	0%
+弢	häo
+挑	häo
+滔	häo	0%
+犒	häo
+猇	häo
+絛	häo
+耗	häo
+薅	häo
+虓	häo	0%
+轁	häo	0%
+酵	häo
+鞱	häo
+韜	häo	0%
+饕	häo
+䯌	häo	0%
+䵚	häo
+吼	hāo
+好	hāo
+拷	hāo
+敲	hāo	0%
+栲	hāo	3%
+烤	hāo	0%
+禱	hāo	3%
+考	hāo
+討	hāo	3%
+銬	hāo	0%
+燾	hão
+匋	hão
+咷	hão
+啕	hão
+嗥	hão
+噑	hão
+嘷	hão
+嚎	hão
+壕	hão
+掏	hão	3%
+桃	hão
+洮	hão
+淘	hão	3%
+濠	hão	3%
+濤	hão	0%
+萄	hão	0%
+號	hão
+蠔	hão
+豪	hão	0%
+逃	hão	3%
+陶	hão
+鞀	hão
+閤	hàp
+峇	hàp	0%
+頜	hàp
+合	hàp	0%
+嗑	hàp
+榼	hàp	0%
+盇	hàp	3%
+盍	hàp	3%
+耠	hàp	3%
+郃	hàp	0%
+鉿	hàp	0%
+闔	hàp
+餄	hàp
+狎	hâp	3%
+柙	hâp
+匣	hâp	3%
+盒	hâp
+呷	häp
+嗒	hāp
+嗑	hāp
+塔	hāp
+塌	hāp	0%
+墖	hāp
+恰	hāp	0%
+拓	hāp
+榻	hāp
+溚	hāp	3%
+溻	hāp
+溘	hāp
+漯	hāp
+瞌	hāp	5%
+磕	hāp
+褟	hāp	3%
+蹋	hāp
+遢	hāp
+鰨	hāp	3%
+黠	hàt	0%
+劾	hàt
+搳	hàt
+核	hàt
+檄	hàt
+瞎	hàt
+紇	hàt	3%
+翮	hàt
+舝	hàt	0%
+𧕱	hàt	3%
+覈	hàt
+轄	hàt
+鎋	hàt	0%
+閡	hàt	0%
+鶷	hàt	0%
+墶	hât	0%
+葜	hät	0%
+撻	hāt
+靸	hāt	0%
+乞	hāt
+趿	hāt
+闥	hāt
+韃	hāt	0%
+齕	hāt
+靴	hëh	0%
+鞾	hëh	0%
+銕	hëik
+鐵	hëik	0%
+餮	hëik
+息	hēik	0%
+歇	hēik	0%
+陷	hèim	0%
+坎	hêim	0%
+潭	hêim
+凼	hêim
+凵	hêim
+埳	hêim	0%
+氹	hêim	0%
+扻	hēim
+銜	hẽim
+含	hẽim
+啣	hẽim
+晗	hẽim
+浛	hẽim
+焓	hẽim
+衘	hẽim	0%
+天	hèin	0%
+珽	hêin
+侹	hêin	0%
+娗	hêin	0%
+挺	hêin
+梃	hêin	0%
+珽	hêin
+脡	hêin
+鋌	hêin	0%
+凊	hëin
+靘	hëin
+𠀘	hëin	0%
+𠀡	hëin
+兄	hëin
+兲	hëin
+𠕹	hëin
+卿	hëin
+夐	hëin	0%
+天	hëin
+岍	hëin
+愆	hëin	0%
+慶	hëin	3%
+憲	hëin
+掀	hëin	0%
+掔	hëin
+搴	hëin
+敻	hëin
+杴	hëin
+氫	hëin	0%
+汧	hëin
+烴	hëin	3%
+㷫	hëin	0%
+牽	hëin
+瑱	hëin	0%
+磬	hëin
+祆	hëin
+綎	hëin	0%
+𦀚	hëin
+綮	hëin
+縴	hëin
+纖	hëin
+罄	hëin
+聴	hëin
+聽	hëin
+胜	hëin
+興	hëin
+䒶	hëin	3%
+𦴞	hëin
+褰	hëin
+諐	hëin
+謦	hëin	0%
+軒	hëin
+輕	hëin	3%
+鋧	hëin
+鍁	hëin
+靝	hëin
+鞓	hëin
+馨	hëin
+馫	hëin
+騫	hëin
+殄	hēin	3%
+峴	hēin
+繾	hēin
+蜆	hēin
+譴	hēin
+遣	hēin
+顯	hēin	0%
+䁎	hẽin
+滇	hẽin
+佃	hẽin
+亭	hẽin
+停	hẽin
+填	hẽin
+婷	hẽin
+庭	hẽin
+廷	hẽin
+楟	hẽin
+渟	hẽin	0%
+畑	hẽin	3%
+田	hẽin	0%
+畋	hẽin	3%
+𥥶	hẽin	3%
+筳	hẽin	3%
+𦝞	hẽin
+莛	hẽin	0%
+葶	hẽin	0%
+蜓	hẽin
+蝏	hẽin	0%
+諪	hẽin
+鈿	hẽin	0%
+闐	hẽin
+霆	hẽin
+頲	hẽin	0%
+嗑	hēip	3%
+溘	hēip
+瞌	hēip
+磕	hēip	3%
+吃	hëk	0%
+喫	hëk	3%
+挑	hël
+僥	hël
+佻	hël	0%
+囂	hël	0%
+嚻	hël
+朓	hël	0%
+枵	hël
+梟	hël
+橇	hël
+澆	hël
+眺	hël
+祧	hël	0%
+竅	hël	3%
+糶	hël
+脁	hël	0%
+跳	hël
+銚	hël
+驍	hël
+鴞	hël	0%
+徼	hēl	0%
+僥	hēl	3%
+儌	hēl	3%
+嘵	hēl
+曉	hēl	0%
+調	hẽl	0%
+跳	hẽl	0%
+岧	hẽl
+條	hẽl	0%
+窱	hẽl	0%
+笤	hẽl
+苕	hẽl
+䖺	hẽl
+蜩	hẽl	0%
+趒	hẽl
+迢	hẽl
+髫	hẽl
+鯈	hẽl
+鰷	hẽl	3%
+齠	hẽl
+哼	hèm	0%
+忝	hèm
+恬	hèm
+掭	hèm	0%
+㮇	hèm	0%
+恬	hêm
+掭	hêm
+添	hëm
+菾	hëm
+黇	hëm
+忝	hēm
+獫	hēm
+玁	hēm	0%
+險	hēm
+甜	hẽm
+艇	hêng
+卿	hëng
+聴	hëng
+聽	hëng	0%
+輕	hëng
+向	hëng
+嚮	hëng
+廳	hëng
+曏	hëng
+桯	hëng
+薌	hëng	0%
+鄉	hëng
+香	hëng	0%
+扄	hēng	0%
+享	hēng
+垧	hēng
+晌	hēng
+響	hēng
+餉	hēng
+饗	hēng	0%
+饟	hēng
+後	hèo	3%
+后	hèo
+瘊	hèo
+候	hèo
+垕	hèo
+堠	hèo
+茩	hèo
+逅	hèo
+鱟	hèo
+頭	hêo
+厚	hêo
+偸	hëo	3%
+偷	hëo
+媮	hëo
+婾	hëo
+後	hëo	3%
+透	hëo
+口	hēo
+唞	hēo	3%
+𤘘	hēo	0%
+緱	hẽo	0%
+亠	hẽo	0%
+侯	hẽo
+后	hẽo	0%
+喉	hẽo	3%
+投	hẽo	3%
+猴	hẽo	0%
+瘊	hẽo	0%
+篌	hẽo
+頭	hẽo
+餱	hẽo
+骰	hẽo	3%
+骺	hẽo
+狹	hèp
+怯	hèp	0%
+俠	hèp	3%
+劦	hèp	0%
+勰	hèp
+協	hèp	3%
+叶	hèp	0%
+峽	hèp
+愜	hèp
+慊	hèp
+挾	hèp	3%
+硤	hèp
+脅	hèp	0%
+陜	hèp
+帖	hëp
+貼	hëp
+呫	hēp
+嗛	hēp
+帖	hēp
+怯	hēp
+歉	hēp
+肷	hēp
+萜	hēp	0%
+娭	hï
+扱	hï
+戲	hï
+嘻	hï
+榿	hï
+禧	hï
+僖	hï	0%
+唏	hï
+器	hï
+嬉	hï
+㞒	hï	0%
+屓	hï
+屭	hï
+希	hï	0%
+憇	hï
+憩	hï
+晞	hï
+曦	hï
+棄	hï
+欷	hï	0%
+欺	hï	3%
+气	hï
+氣	hï	3%
+汽	hï	0%
+浠	hï
+炁	hï
+烯	hï	3%
+熙	hï
+熈	hï	0%
+熹	hï	0%
+爔	hï
+犧	hï	0%
+狶	hï
+稀	hï
+羲	hï
+豨	hï
+郗	hï
+䤈	hï
+醯	hï
+餼	hï
+芑	hī	3%
+喜	hī
+嘿	hī
+嘻	hī
+榿	hī
+禧	hī
+蟢	hī
+謑	hī	3%
+豈	hī
+起	hī	3%
+掀	hïm	3%
+杴	hïm
+鍁	hïm
+慊	hïm
+嶔	hïm
+忻	hïm	0%
+昕	hïm	0%
+欠	hïm
+欣	hïm
+歆	hïm	3%
+焮	hïm	0%
+芡	hïm
+訢	hïm
+謙	hïm
+釁	hïm	3%
+欽	hïm
+鑫	hïm	0%
+貼	hïp
+泣	hīp	3%
+龜	hiü	0%
+丘	hiü
+休	hiü	3%
+咻	hiü	0%
+庥	hiü	3%
+蚯	hiü
+貅	hiü
+邱	hiü	0%
+飍	hiü
+髤	hiü	3%
+髹	hiü
+鵂	hiü
+朽	hiū
+賀	hò
+荷	hò
+桃	hô
+萄	hô
+苛	hô
+妥	hô
+橢	hô	0%
+䄻	hô
+呵	hö	0%
+可	hō
+討	hō	0%
+呵	hō
+嗬	hō
+坷	hō	0%
+岢	hō	0%
+蚵	hō	0%
+鈳	hō
+杕	hõ
+鉈	hõ	3%
+匋	hõ
+嗥	hõ
+壕	hõ
+桃	hõ	0%
+淘	hõ	0%
+濠	hõ
+蠔	hõ
+豪	hõ
+陶	hõ	0%
+何	hõ	3%
+蚵	hõ
+佗	hõ
+坨	hõ
+柁	hõ
+毫	hõ	3%
+河	hõ
+沱	hõ
+沲	hõ
+獆	hõ
+獋	hõ
+砣	hõ
+𥓿	hõ	3%
+舵	hõ	0%
+苛	hõ
+荷	hõ	3%
+菏	hõ
+醄	hõ	0%
+陀	hõ
+馱	hõ
+䭾	hõ
+駝	hõ
+鴕	hõ	0%
+鼉	hõ
+鼧	hõ
+亥	hòi	0%
+嗐	hòi	0%
+害	hòi
+氦	hòi
+枱	hôi
+檯	hôi
+駭	hôi
+胎	höi
+鐦	höi	0%
+開	höi
+凱	hōi	3%
+剴	hōi
+塏	hōi	0%
+愷	hōi	3%
+海	hōi
+皚	hōi
+賄	hōi
+醢	hōi	0%
+鎧	hōi
+闓	hōi
+咍	hõi	0%
+㾂	hõi	0%
+台	hõi
+抬	hõi
+擡	hõi
+炱	hõi
+臺	hõi	0%
+苔	hõi	3%
+薹	hõi	3%
+跆	hõi
+邰	hõi
+颱	hõi
+駘	hõi
+鮐	hõi
+學	hòk
+澩	hòk
+㶅	hòk	0%
+翯	hòk	3%
+貉	hòk
+鶴	hòk
+鶴	hôk	0%
+殼	hôk
+籜	hôk	0%
+托	hök	0%
+蘀	hök
+飥	hök
+魄	hōk	0%
+矺	hōk
+拓	hōk
+乇	hōk
+庹	hōk
+托	hōk
+柝	hōk
+槖	hōk
+橐	hōk
+託	hōk	5%
+跅	hōk	0%
+𤞶	hòn	0%
+旰	hòn
+撖	hòn
+彖	hòn	0%
+汗	hòn	0%
+兯	hòn	3%
+悍	hòn
+扞	hòn	0%
+捍	hòn
+瀚	hòn
+犴	hòn
+猂	hòn
+翰	hòn
+釬	hòn
+銲	hòn	0%
+雗	hòn
+旱	hôn
+斷	hön
+旱	hön
+漢	hön	3%
+看	hön
+刋	hōn
+刊	hōn	3%
+栞	hōn	3%
+侃	hōn
+偘	hōn
+厂	hōn
+罕	hōn
+佄	hõn	0%
+酣	hõn
+團	hõn
+寒	hõn	3%
+彖	hõn
+摶	hõn
+汗	hõn
+畽	hõn
+疃	hõn
+䊜	hõn
+糰	hõn
+邗	hõn	0%
+邯	hõn
+韓	hõn
+頇	hõn
+魨	hõn
+鼾	hõn
+桁	hòng
+巷	hòng	3%
+缿	hòng	3%
+閧	hòng
+項	hòng	3%
+糠	hông
+塘	hông
+項	hông
+粇	höng
+羰	höng
+趟	höng
+劏	höng
+匡	höng
+康	höng
+槺	höng
+湯	höng
+熨	höng	0%
+燙	höng
+㾤	höng
+穅	höng	3%
+糠	höng	3%
+腔	höng
+蹚	höng
+鐋	höng
+惝	hōng	0%
+倘	hōng
+儻	hōng	3%
+巷	hōng
+帑	hōng
+淌	hōng
+爣	hōng
+耥	hōng
+趟	hōng
+躺	hōng	0%
+鎲	hōng
+钂	hōng
+餳	hõng
+夅	hõng
+降	hõng
+吭	hõng
+行	hõng
+桁	hõng
+唐	hõng
+嘡	hõng
+堂	hõng
+塘	hõng
+搪	hõng
+杭	hõng
+棠	hõng
+樘	hõng
+㲥	hõng
+溏	hõng
+瑭	hõng
+糖	hõng
+絎	hõng
+膛	hõng	0%
+航	hõng	0%
+蓎	hõng	3%
+螗	hõng	0%
+螳	hõng	0%
+赯	hõng	0%
+鄌	hõng	3%
+醣	hõng	3%
+鏜	hõng	0%
+鞺	hõng	3%
+頏	hõng	3%
+曷	hòt
+蝎	hòt
+褐	hòt	0%
+鶡	hòt	0%
+豁	hôt
+喝	höt	3%
+暍	höt
+渴	höt
+脫	höt
+鞨	hōt
+兔	hü
+吐	hü
+堍	hü	3%
+拖	hü	3%
+菟	hü
+討	hū	0%
+土	hū
+釷	hū	0%
+塗	hũ
+𠆧	hũ
+逃	hũ
+坨	hũ
+沱	hũ	0%
+沲	hũ
+舵	hũ
+陀	hũ
+馱	hũ
+駝	hũ
+鴕	hũ
+菟	hũ
+圖	hũ
+屠	hũ	0%
+徒	hũ
+涂	hũ
+荼	hũ
+跎	hũ	0%
+途	hũ
+酡	hũ	3%
+酴	hũ	0%
+墟	huî
+去	huï	3%
+噓	huï
+墟	huï	3%
+歔	huï
+煺	huï	0%
+盱	huï
+祛	huï
+胠	huï
+虛	huï	0%
+蛻	huï
+褪	huï
+覰	huï	0%
+覷	huï
+迂	huï	3%
+退	huï
+吁	huï
+滸	huī
+昫	huī	3%
+栩	huī	0%
+煦	huī
+腿	huī
+許	huī	0%
+詡	huī
+酗	huī
+骽	huī
+尵	huĩ
+穨	huĩ
+隤	huĩ
+頹	huĩ
+斛	hùk	0%
+鵠	hùk	0%
+槲	hùk
+焅	hùk	3%
+縠	hùk
+觳	hùk	0%
+酷	hùk
+哭	hük
+哭	hūk
+圈	hûn	0%
+桊	hûn	0%
+券	hûn
+屯	hûn	3%
+盾	hûn
+券	hün
+勸	hün	0%
+呑	hün
+吞	hün	0%
+暾	hün
+氽	hün
+獻	hün	5%
+禤	hün
+綣	hün
+鈍	hün
+飩	hün
+圈	hūn	0%
+圏	hūn	3%
+桊	hūn	0%
+棬	hūn	0%
+犬	hūn
+甽	hūn
+畎	hūn
+𧨸	hūn
+屯	hũn	0%
+篿	hũn
+臀	hũn
+臋	hũn
+豚	hũn
+叿	hùng
+𧺣	hùng
+䪦	hùng
+紅	hûng
+筒	hûng
+筩	hûng
+訇	hüng
+閧	hüng
+倥	hüng	3%
+兇	hüng
+凶	hüng	0%
+㓙	hüng	0%
+匈	hüng
+吽	hüng	3%
+哄	hüng
+囪	hüng
+囱	hüng
+𡠙	hüng
+崆	hüng
+彤	hüng
+恫	hüng
+恟	hüng	0%
+悾	hüng
+控	hüng
+汞	hüng
+洶	hüng
+涳	hüng	0%
+𣶑	hüng
+𣻢	hüng
+烘	hüng
+熥	hüng
+疼	hüng
+痌	hüng
+痛	hüng
+空	hüng
+箜	hüng
+絧	hüng
+胸	hüng
+胷	hüng	3%
+𦱇	hüng	5%
+蓪	hüng
+訩	hüng
+詾	hüng	3%
+賯	hüng
+通	hüng	0%
+鞚	hüng
+𩐠	hüng
+鬨	hüng
+𪚑	hüng
+䆹	hūng
+嗵	hūng
+𢖶	hūng
+恐	hūng
+捅	hūng
+桶	hūng
+統	hūng
+𦶐	hūng
+橦	hũng	0%
+罿	hũng
+艟	hũng
+紅	hũng	3%
+羾	hũng
+𦏺	hũng
+魟	hũng
+彤	hũng
+疼	hũng
+絧	hũng
+仝	hũng
+佟	hũng
+侗	hũng
+僮	hũng
+同	hũng
+㗢	hũng
+垌	hũng
+峒	hũng
+彋	hũng
+曈	hũng
+朣	hũng
+桐	hũng
+氃	hũng
+洪	hũng
+潼	hũng
+灴	hũng
+烔	hũng
+熊	hũng
+犝	hũng
+玒	hũng
+㼧	hũng
+瞳	hũng
+砼	hũng
+䃔	hũng
+秱	hũng	0%
+穜	hũng
+童	hũng
+篊	hũng
+𦍻	hũng
+𦏆	hũng
+𦨴	hũng
+茼	hũng
+葓	hũng	0%
+葒	hũng
+蕻	hũng
+虹	hũng	0%
+衕	hũng
+訌	hũng
+詷	hũng
+酮	hũng
+銅	hũng	0%
+鉷	hũng	0%
+雄	hũng	0%
+䧺	hũng
+𩗄	hũng	90%
+鮦	hũng
+𩿅	hũng
+鴻	hũng
+黌	hũng
+血	hüt
+桖	hūt
+缺	hūt
+血	hūt	0%
+地	ì
+疐	î
+蒂	î
+知	ï
+畀	ī
+椹	îm	0%
+砧	îm	0%
+碪	îm	0%
+塞	ît	0%
+㩙	ît	3%
+塞	ït	3%
+㩙	ït
+噎	īt	3%
+厏	jà	0%
+渣	jâ
+皻	jâ
+齄	jâ
+齇	jâ
+侘	jä	0%
+垞	jä
+奼	jä
+詫	jä
+查	jä
+楂	jä
+餷	jä	0%
+矺	jä
+柞	jä	0%
+砟	jä	3%
+笮	jä	0%
+乍	jä	0%
+吒	jä
+咋	jä
+哳	jä	0%
+奓	jä
+抓	jä
+拃	jä
+抯	jä	3%
+挓	jä	3%
+揸	jä
+撾	jä
+摣	jä
+榨	jä
+樝	jä
+溠	jä
+炸	jä
+煠	jä
+痄	jä	3%
+苲	jä
+蚱	jä
+䖳	jä
+蜡	jä
+詐	jä	0%
+髽	jä
+鮓	jä
+鮺	jä
+喳	jā	0%
+咱	jā
+臢	jā
+齊	jài	0%
+寨	jài
+滯	jài	3%
+砦	jài
+𢮓	jäi
+掣	jäi
+嚌	jäi	3%
+䱥	jäi
+齏	jäi	0%
+齊	jäi
+亝	jäi
+傺	jäi	0%
+債	jäi	0%
+制	jäi	0%
+劑	jäi
+擠	jäi
+穧	jäi
+製	jäi
+霽	jäi	0%
+齋	jäi	0%
+矺	jàk
+蹢	jàk	0%
+翟	jàk	3%
+宅	jàk	0%
+摘	jàk
+擇	jàk
+擲	jàk	0%
+澤	jàk	3%
+砸	jàk	0%
+磔	jàk
+蠌	jàk
+謫	jàk
+躑	jàk	0%
+柞	jäk	3%
+笮	jäk
+岞	jäk	3%
+窄	jäk
+舴	jäk
+虴	jäk
+迮	jäk	3%
+笮	jāk	0%
+側	jāk	0%
+嘖	jāk
+幘	jāk
+溭	jāk	0%
+㺓	jāk	3%
+簀	jāk
+蔶	jāk
+責	jāk	0%
+賾	jāk	0%
+暫	jàm
+站	jàm	3%
+鏨	jàm	3%
+戡	jäm	0%
+湛	jäm	3%
+緘	jäm	0%
+嶄	jām	3%
+斬	jām	3%
+眨	jām	3%
+䁪	jām
+篹	jàn	3%
+撰	jàn	0%
+棧	jàn
+綻	jàn	3%
+賺	jàn	3%
+贃	jàn	0%
+饌	jàn
+咱	jân	3%
+盞	jān
+撐	jàng
+掙	jàng	0%
+踭	jâng
+丁	jäng	3%
+崢	jäng	0%
+掙	jäng
+爭	jäng
+猙	jäng	3%
+琤	jäng
+箏	jäng
+諍	jäng
+踭	jäng
+錚	jäng
+䦛	jäng
+鬇	jäng	0%
+睜	jāng	0%
+倀	jāng	0%
+鮦	jào	3%
+宙	jào
+棹	jào
+櫂	jào
+籀	jào	3%
+籒	jào	0%
+紂	jào
+繇	jào
+胄	jào	0%
+葤	jào
+酎	jào	3%
+驟	jào	3%
+䈇	jâo
+罩	jâo
+嘲	jäo	0%
+笊	jäo
+䈇	jäo	0%
+罩	jäo
+㕚	jāo	3%
+抓	jāo
+㕚	jāo	3%
+帚	jāo
+找	jāo
+爪	jāo
+箒	jāo	0%
+肘	jāo
+菷	jāo
+靸	jàp
+牐	jàp	0%
+鍘	jàp	0%
+閘	jàp	0%
+喋	jâp	3%
+劄	jāp	0%
+咂	jāp	3%
+執	jāp
+帀	jāp
+䍉	jàt
+扎	jât
+匝	jât	0%
+挃	jât	5%
+軋	jät
+哳	jät
+砸	jät
+咂	jät
+扎	jät
+匝	jät
+拶	jät
+紥	jät	0%
+紮	jät
+魳	jät
+猰	jāt
+劄	jāt
+扎	jāt
+札	jāt	0%
+毑	jêh	0%
+蔗	jêh
+嗻	jëh
+柘	jëh
+罝	jëh	0%
+這	jëh	3%
+遮	jëh
+鷓	jëh
+者	jēh
+赭	jēh	0%
+鍺	jēh
+陟	jèik	0%
+值	jèik	0%
+値	jèik	0%
+埴	jèik	3%
+植	jèik
+殖	jèik
+湜	jèik
+直	jèik
+稙	jèik
+蟄	jèik
+仄	jēik
+摭	jēik	0%
+昃	jēik	0%
+炙	jēik
+織	jēik
+職	jēik
+蝍	jēik	3%
+跖	jēik
+軄	jēik
+陟	jēik
+蹠	jēik
+鵮	jëim	0%
+阱	jèin	0%
+剩	jèin
+賸	jèin
+佂	jëin
+偵	jëin
+媜	jëin
+幀	jëin
+𢌛	jëin
+征	jëin
+徴	jëin
+徵	jëin
+怔	jëin
+政	jëin
+楨	jëin	0%
+正	jëin
+湞	jëin
+烝	jëin	0%
+𤇶	jëin
+𤏾	jëin
+症	jëin
+癥	jëin	0%
+禎	jëin
+篜	jëin
+聇	jëin
+𦙫	jëin
+𦡅	jëin
+䒱	jëin
+蒸	jëin
+𧗆	jëin	3%
+𧘿	jëin
+証	jëin	0%
+證	jëin
+貞	jëin
+赬	jëin	0%
+𧾸	jëin
+𨒌	jëin	3%
+遉	jëin	3%
+𨜓	jëin	0%
+鉦	jëin
+𩜎	jëin	0%
+鯖	jëin
+拯	jēin	3%
+抍	jēin
+整	jēin	0%
+氶	jēin	0%
+著	jèk	0%
+著	jëk
+隻	jëk
+棹	jēk	3%
+桌	jēk	3%
+禚	jēk	0%
+著	jēk
+酌	jēk	0%
+鐯	jēk	0%
+就	jèl
+趙	jèl
+朝	jël
+召	jël
+招	jël	0%
+昭	jël
+曌	jël
+炤	jël
+照	jël
+瞾	jël
+詔	jël
+釗	jël
+沼	jēl
+呫	jëm
+佔	jëm	0%
+占	jëm
+沾	jëm
+瞻	jëm
+粘	jëm
+覘	jëm	0%
+詹	jëm	3%
+譫	jëm
+贍	jëm
+霑	jëm
+䩞	jëm
+韂	jëm
+戰	jën
+旃	jën
+氊	jën
+氈	jën
+邅	jën
+顫	jën
+飦	jën
+饘	jën
+鱣	jën
+鸇	jën
+丈	jèng
+仗	jèng
+杖	jèng
+鄭	jèng
+正	jëng
+仗	jëng
+嫜	jëng
+嶂	jëng
+帳	jëng	0%
+幛	jëng
+張	jëng
+彰	jëng
+樟	jëng
+漳	jëng
+漲	jëng	3%
+獐	jëng
+璋	jëng
+瘴	jëng
+章	jëng
+脹	jëng	3%
+蟑	jëng
+賬	jëng	3%
+鄣	jëng	3%
+障	jëng	0%
+麞	jëng
+長	jēng	3%
+仉	jēng	3%
+掌	jēng
+鞝	jēng	3%
+皺	jëo
+㑇	jëo
+㥮	jëo	0%
+縐	jëo
+諏	jëo
+謅	jëo
+鄒	jëo
+鄹	jëo
+陬	jëo
+騶	jëo
+鯫	jëo	0%
+皺	jēo	0%
+褶	jêp
+折	jëp
+摺	jëp	0%
+讋	jëp
+折	jët
+踅	jët	0%
+矺	jēt
+折	jēt
+哲	jēt
+喆	jēt
+嚞	jēt
+晣	jēt
+晢	jēt	0%
+浙	jēt	0%
+䇽	jēt	3%
+蜇	jēt	0%
+𧋍	jēt
+騭	jēt
+櫡	jì	0%
+乿	jì
+住	jì	3%
+廌	jì
+治	jì
+痔	jì
+筯	jì	0%
+箸	jì
+豸	jì
+注	jî
+珠	jî
+疰	jî
+註	jî
+駐	jî
+疷	jï	3%
+胝	jï	3%
+遲	jï
+忮	jï
+䄺	jï
+知	jï
+疐	jï
+著	jï
+吱	jï
+之	jï
+侏	jï	0%
+卮	jï
+厔	jï
+姝	jï
+寘	jï
+彘	jï
+志	jï
+摯	jï
+支	jï
+智	jï
+朱	jï
+枝	jï
+株	jï
+栺	jï
+梽	jï
+梔	jï	0%
+椥	jï
+櫫	jï
+櫧	jï
+氏	jï
+洙	jï
+瀦	jï	0%
+炷	jï
+痣	jï
+硃	jï
+稚	jï
+稺	jï
+穉	jï
+緻	jï
+置	jï
+肢	jï
+脂	jï
+至	jï
+致	jï
+芝	jï
+茱	jï
+䕌	jï
+蛀	jï
+蛛	jï
+蜘	jï
+袾	jï	0%
+觶	jï	0%
+誅	jï
+誌	jï	0%
+諸	jï	3%
+識	jï
+豬	jï	3%
+質	jï
+贄	jï
+躓	jï
+輊	jï
+邾	jï
+銖	jï
+鑄	jï	3%
+雉	jï
+髭	jï
+鷙	jï
+鼄	jï
+鼅	jï
+䵹	jï
+徴	jī	0%
+徵	jī	0%
+主	jī
+只	jī	0%
+吱	jī	3%
+咫	jī
+嘁	jī
+址	jī
+夂	jī
+扺	jī
+拄	jī
+指	jī
+旨	jī	3%
+枳	jī
+止	jī
+沚	jī
+渚	jī	0%
+煮	jī
+煑	jī
+祇	jī
+祉	jī	3%
+祗	jī
+紙	jī
+翥	jī	0%
+耆	jī	0%
+芷	jī
+趾	jī
+軹	jī
+酯	jī
+䬡	jī
+麈	jī	3%
+黹	jī
+浸	jìm
+朕	jìm	3%
+鴆	jìm
+針	jîm	3%
+譖	jîm	0%
+斟	jïm
+箴	jïm
+針	jïm	3%
+鍼	jïm
+枕	jīm
+陣	jìn
+稹	jïn
+瑱	jïn	0%
+珍	jïn	0%
+甄	jïn	0%
+真	jïn	3%
+眞	jïn
+鎮	jïn	0%
+囅	jīn	3%
+㜊	jīn
+展	jīn
+振	jīn	0%
+搌	jīn
+碾	jīn
+誫	jīn	0%
+賑	jīn
+蹍	jīn
+輾	jīn
+震	jīn
+執	jīp
+汁	jīp
+縶	jīp
+輒	jīp
+輙	jīp
+螲	jìt	3%
+侄	jìt
+姪	jìt
+桎	jìt
+窒	jìt
+膣	jìt
+蛭	jìt
+郅	jìt
+挃	jīt
+騭	jīt
+厔	jīt	0%
+質	jīt
+鑕	jīt
+咒	jiû
+晝	jiû
+洲	jiû
+侜	jiü	3%
+周	jiü	0%
+咒	jiü	3%
+咮	jiü	0%
+啁	jiü	3%
+州	jiü
+晝	jiü
+洲	jiü
+盩	jiü
+緅	jiü
+舟	jiü	0%
+賙	jiü	0%
+輈	jiü
+週	jiü
+鵃	jiü
+助	jò	0%
+阻	jō	0%
+咮	jôi
+喙	jöi	3%
+擢	jòk	0%
+濯	jòk	3%
+鷟	jòk	0%
+捉	jök
+浞	jōk	0%
+傳	jòn
+篿	jön
+專	jön	0%
+磚	jön	0%
+耑	jön
+顓	jön
+囀	jōn
+孨	jōn
+膞	jōn	0%
+轉	jōn	0%
+幢	jòng	3%
+壵	jòng
+撞	jòng	0%
+狀	jòng
+駔	jòng
+僮	jöng
+壯	jöng	3%
+奘	jöng	0%
+妝	jöng
+娤	jöng	3%
+戇	jöng	3%
+樁	jöng	0%
+粧	jöng
+糚	jöng	0%
+莊	jöng	0%
+裝	jöng
+䚎	jöng
+蝃	jōt	3%
+怵	jōt
+咄	jōt
+啜	jōt
+惙	jōt	0%
+拙	jōt
+掇	jōt
+敪	jōt	0%
+敠	jōt	3%
+柮	jōt
+梲	jōt	0%
+棳	jōt	3%
+絀	jōt
+綴	jōt
+茁	jōt
+裰	jōt	3%
+輟	jōt	0%
+醊	jōt	3%
+腏	jōt
+餟	jōt
+黜	jōt
+阻	jū
+俎	jū	0%
+詛	jū	3%
+箠	juì	3%
+錘	juì	0%
+叕	juì
+隊	juì
+綴	juì
+墜	juì	3%
+惴	juì
+憝	juì	3%
+懟	juì	3%
+縋	juì
+譈	juì	3%
+贅	juì	3%
+錐	juî
+且	juï
+椎	juï	3%
+菹	juï
+脧	juï
+濉	juï	3%
+睢	juï
+蛆	juï
+追	juï	0%
+錐	juï
+隹	juï	3%
+雎	juï
+騅	juï
+鐲	jùk
+牘	jùk
+妯	jùk	0%
+瘃	jùk	3%
+舳	jùk	0%
+軸	jùk
+逐	jùk
+囑	jük	3%
+囑	jūk
+屬	jūk
+燭	jūk	3%
+矚	jūk
+祝	jūk	3%
+竹	jūk
+竺	jūk	0%
+笁	jūk	3%
+築	jūk
+粥	jūk
+鬻	jūk	3%
+汌	jùn	0%
+津	jùn	0%
+汌	jûn
+圳	jûn
+屯	jün
+圳	jün
+榛	jün
+津	jün
+溱	jün
+獉	jün
+窀	jün
+肫	jün
+臻	jün
+蓁	jün
+衠	jün
+諄	jün
+迍	jün	3%
+准	jūn
+埻	jūn
+準	jūn
+隼	jūn
+鶽	jūn
+重	jùng	0%
+仲	jùng
+盅	jûng
+橦	jüng
+憃	jüng
+穜	jüng
+種	jüng
+中	jüng
+乑	jüng
+伀	jüng
+㐺	jüng
+忪	jüng
+忠	jüng
+盅	jüng	0%
+眾	jüng
+䈺	jüng
+終	jüng
+舂	jüng
+舯	jüng
+蔠	jüng
+螤	jüng	3%
+螽	jüng	0%
+衆	jüng	0%
+衶	jüng	0%
+衳	jüng	0%
+蹱	jüng
+鍾	jüng	0%
+鐘	jüng
+穜	jūng
+種	jūng
+腫	jūng	0%
+踵	jūng
+𢫋	jüt
+捽	jüt
+侉	kä
+咵	kä
+垮	kä
+𡕒	kä
+夸	kä
+姱	kä
+挎	kä	3%
+掛	kä
+胯	kä	0%
+袿	kä	0%
+褂	kä	0%
+誇	kä	0%
+詿	kä
+跨	kä
+髂	kä
+佧	kā	0%
+卡	kā
+咔	kā
+胩	kā
+跨	kã
+曱	kã
+蠄	kã
+揩	käi	3%
+蹊	käi
+傒	käi
+稽	käi	3%
+契	käi	0%
+嵇	käi	0%
+嵠	käi	3%
+徯	käi	0%
+愒	käi
+𢬿	käi
+溪	käi	3%
+蟿	käi
+谿	käi
+豀	käi
+綮	kāi
+啟	kāi
+啓	kāi	0%
+啔	kāi
+棨	kāi	0%
+稽	kāi
+䏿	kāi
+契	kãi	0%
+咯	kâk	0%
+卡	kâk
+卡	käk	3%
+旮	kāk	0%
+卡	kāk	3%
+冚	kām	0%
+框	kâng
+夼	kâng	0%
+裉	käng	0%
+亢	käng
+框	käng	3%
+骾	kāng	0%
+鯁	kāng	3%
+框	kãng	3%
+巧	kâo	0%
+該	kâo	3%
+尻	käo	3%
+犒	käo
+靠	käo	0%
+巧	kāo	3%
+刮	kät	0%
+咳	kät	3%
+咭	kāt
+咳	kāt	3%
+卡	kāt	0%
+伽	kêh	0%
+茄	kêh	0%
+瘸	kêh
+𨁐	kēh	0%
+騎	kẽh	0%
+揭	këik
+訐	këik
+挈	kēik
+羯	kēik
+疙	kēik	3%
+仡	kēik	0%
+紇	kēik	0%
+蝎	kēik	5%
+圪	kēik	0%
+孑	kēik
+屹	kēik
+擷	kēik
+楬	kēik
+汔	kēik
+洫	kēik
+淢	kēik	0%
+碣	kēik
+綌	kēik
+聝	kēik	5%
+虢	kēik
+蛣	kēik
+蠍	kēik
+訖	kēik
+迄	kēik
+郄	kēik
+闃	kēik
+隙	kēik
+馘	kēik
+冚	kēim
+蠄	kẽim
+冚	kẽim
+傾	këin
+傾	kēin
+廎	kēin
+頃	kēin
+𩒵	kēin
+擏	kẽin
+犍	kẽin
+乾	kẽin
+勍	kẽin
+𡞦	kẽin
+㝁	kẽin
+𡦃	kẽin
+惸	kẽin
+掮	kẽin
+擎	kẽin
+𢶇	kẽin
+檠	kẽin
+㯳	kẽin
+橩	kẽin	3%
+㷀	kẽin
+焭	kẽin
+煢	kẽin
+瓊	kẽin
+睘	kẽin
+瞏	kẽin
+葝	kẽin	3%
+𦽓	kẽin
+藑	kẽin	0%
+虔	kẽin	3%
+𩷏	kẽin	3%
+鯨	kẽin	0%
+䲔	kẽin	3%
+黥	kẽin
+扱	kēip
+給	kēip
+佉	kêk
+屐	kêk
+𠊬	kēk
+劇	kēk
+卻	kēk	0%
+噱	kēk
+藠	kêl
+蹻	kël
+翹	kël	0%
+蹺	kël	0%
+嶠	kẽl
+翹	kẽl	0%
+僑	kẽl	0%
+喬	kẽl
+橋	kẽl
+礄	kẽl	0%
+荍	kẽl	0%
+蕎	kẽl
+譑	kẽl
+趫	kẽl
+鞽	kẽl
+拑	kẽm
+箝	kẽm	0%
+軡	kẽm
+鈐	kẽm	0%
+鉗	kẽm	0%
+黔	kẽm
+強	kêng
+彊	kêng
+繈	kêng
+繦	kêng	0%
+膙	kêng
+襁	kêng	0%
+鏹	kêng
+強	kẽng	3%
+彊	kẽng	0%
+擎	kẽng	3%
+檠	kẽng
+瞘	këo
+敲	këo	0%
+靠	këo
+冦	këo	0%
+叩	këo	0%
+媾	këo	0%
+宼	këo	0%
+寇	këo
+扣	këo
+摳	këo
+構	këo	0%
+溝	këo
+㸆	këo	0%
+窛	këo
+筘	këo
+篝	këo	0%
+簼	këo	0%
+芤	këo
+蔻	këo
+購	këo	0%
+遘	këo	0%
+釦	këo	0%
+鞲	këo	0%
+韝	këo	0%
+覯	këo
+企	kî
+葵	kî
+盔	kï
+亟	kï
+剞	kï	0%
+畸	kï
+洎	kï
+潰	kï	0%
+逵	kï
+企	kï	0%
+冀	kï	0%
+垍	kï
+姬	kï
+媿	kï
+巂	kï
+巙	kï
+愧	kï	0%
+暨	kï
+歧	kï
+窺	kï
+羈	kï	3%
+虧	kï	3%
+規	kï
+覬	kï
+跂	kï
+跬	kï	3%
+蹞	kï
+闚	kï
+驥	kï
+企	kī	0%
+俟	kĩ
+丌	kĩ
+奇	kĩ
+敧	kĩ
+期	kĩ
+竒	kĩ
+觭	kĩ
+萁	kĩ
+祇	kĩ
+耆	kĩ
+騎	kĩ
+歧	kĩ
+跂	kĩ
+亓	kĩ
+其	kĩ
+圻	kĩ
+埼	kĩ
+夔	kĩ	3%
+岐	kĩ	3%
+崎	kĩ
+揆	kĩ
+攜	kĩ
+攲	kĩ	0%
+旂	kĩ
+旗	kĩ
+暌	kĩ
+棋	kĩ
+棊	kĩ	0%
+欹	kĩ
+沂	kĩ	0%
+淇	kĩ
+琦	kĩ
+琪	kĩ
+畦	kĩ
+眭	kĩ
+睽	kĩ
+碁	kĩ
+祁	kĩ	0%
+祈	kĩ	0%
+祺	kĩ
+禥	kĩ	3%
+綦	kĩ	0%
+芪	kĩ
+葵	kĩ	0%
+蘄	kĩ	0%
+蜝	kĩ
+蜞	kĩ
+隗	kĩ
+頎	kĩ
+馗	kĩ
+騏	kĩ
+鬐	kĩ	0%
+鯕	kĩ	3%
+鰭	kĩ
+麒	kĩ	3%
+衿	kîm
+襟	kîm
+妗	kîm	3%
+禁	kïm
+衿	kïm
+衾	kïm
+襟	kïm	3%
+噤	kïm	0%
+噙	kĩm
+擒	kĩm
+檎	kĩm	3%
+琴	kĩm
+禽	kĩm
+芩	kĩm
+胗	kîn
+肫	kîn
+近	kïn
+矜	kĩn
+廑	kĩn
+勤	kĩn
+芹	kĩn
+扱	kīp
+給	kīp
+吸	kīp
+噏	kīp
+岌	kīp
+歙	kīp
+汲	kīp
+級	kīp	0%
+翕	kīp
+桕	kiû
+舅	kiû
+穋	kiũ
+仇	kiũ	100%
+俅	kiũ
+巰	kiũ	3%
+㧄	kiũ	3%
+毬	kiũ	0%
+求	kiũ
+球	kiũ	0%
+璆	kiũ	0%
+虬	kiũ
+虯	kiũ
+裘	kiũ
+訄	kiũ	3%
+賕	kiũ
+逑	kiũ	0%
+鬮	kiũ	3%
+鼽	kiũ
+該	kôi
+噲	köi	0%
+垓	köi	0%
+嘅	köi	3%
+刏	köi	0%
+胲	köi	0%
+蓋	köi	0%
+剴	köi
+該	köi
+丐	köi
+乢	köi
+儈	köi
+劊	köi
+匃	köi
+匄	köi
+峐	köi
+慨	köi
+愾	köi
+戤	köi	0%
+摡	köi
+概	köi
+檜	köi	0%
+欬	köi
+溉	köi
+漑	köi	0%
+澮	köi	0%
+燴	köi
+獪	köi
+痎	köi
+繢	köi
+繪	köi
+膾	köi
+荄	köi
+賅	köi
+鄶	köi
+鈣	köi
+陔	köi
+鱠	köi	5%
+嚯	kök	3%
+廓	kök	0%
+攉	kök	3%
+椁	kök	0%
+槨	kök
+涸	kök
+漷	kök
+藿	kök	0%
+蠚	kök
+郭	kök
+霍	kōk
+埆	kōk
+壑	kōk	3%
+崞	kōk
+恪	kōk
+愙	kōk
+愨	kōk	3%
+慤	kōk	3%
+搉	kōk
+擴	kōk	0%
+攫	kōk
+榷	kōk
+矍	kōk
+确	kōk	0%
+確	kōk
+蠼	kōk	3%
+郝	kōk	3%
+框	köng
+曠	köng
+鄺	köng	0%
+丱	köng	0%
+扛	köng	0%
+硻	köng	0%
+匡	köng
+亢	köng	0%
+夼	köng
+擴	köng
+伉	köng
+匟	köng	0%
+哐	köng	3%
+壙	köng
+抗	köng
+沆	köng	0%
+洭	köng	3%
+炕	köng	3%
+獷	köng
+眶	köng
+礦	köng	0%
+筐	köng
+絖	köng
+纊	köng
+䡰	köng	3%
+迒	köng
+鈧	köng
+鑛	köng
+閌	köng
+骯	köng	0%
+慷	kōng	0%
+港	kōng
+狂	kõng
+誆	kõng
+誑	kõng
+豁	köt
+箍	kû	100%
+麩	kü
+罟	kü
+刳	kü
+枯	kü
+骷	kü	0%
+瞿	kuî
+拒	kuî
+䀠	kuî
+蘧	kuî	0%
+詎	kuî
+距	kuî	3%
+區	kuï
+拘	kuï
+駒	kuï	0%
+俱	kuï
+祛	kuï
+胠	kuï
+佢	kuï
+嶇	kuï
+樞	kuï
+渠	kuï
+袪	kuï
+貙	kuï	3%
+軀	kuï
+驅	kuï	0%
+魼	kuï
+鱋	kuï
+胊	kuĩ	3%
+蜍	kuĩ
+蠩	kuĩ
+蚼	kuĩ
+醵	kuĩ
+蠼	kuĩ
+渠	kuĩ	0%
+劬	kuĩ
+朐	kuĩ
+氍	kuĩ	0%
+𣰽	kuĩ
+璩	kuĩ	0%
+癯	kuĩ	0%
+瞿	kuĩ
+磲	kuĩ	0%
+籧	kuĩ
+臞	kuĩ
+蕖	kuĩ
+衢	kuĩ
+鴝	kuĩ
+鸜	kuĩ
+鼩	kuĩ	0%
+曲	kūk
+筁	kūk	0%
+粬	kūk
+蛐	kūk
+麯	kūk	0%
+麴	kūk
+輥	kûn	0%
+菌	kûn
+昆	kün
+僒	kün	3%
+困	kün	0%
+囷	kün	3%
+坤	kün
+崑	kün
+崐	kün
+晜	kün	0%
+琨	kün	0%
+睏	kün
+窘	kün
+䖵	kün	0%
+醌	kün
+錕	kün
+髡	kün	0%
+鯤	kün
+鵾	kün	3%
+悃	kūn
+捃	kūn
+綣	kūn
+卷	kūn	0%
+壼	kūn
+捆	kūn
+捲	kūn
+緄	kūn
+菌	kūn
+閫	kūn
+麇	kūn
+麏	kūn
+鬈	kũn
+麇	kũn
+啳	kũn
+帬	kũn	0%
+惓	kũn
+拳	kũn
+權	kũn
+羣	kũn
+群	kũn
+蜷	kũn
+裙	kũn	0%
+裠	kũn
+跧	kũn
+踡	kũn	3%
+顴	kũn
+麕	kũn	0%
+龹	kūndùhẽo
+窮	kûng
+烘	küng
+灴	küng
+焪	küng
+悾	kūng	3%
+孔	kūng
+虹	kũng	3%
+穹	kũng
+窮	kũng	0%
+竆	kũng
+筇	kũng
+笻	kũng
+藭	kũng	3%
+蛩	kũng
+跫	kũng	0%
+邛	kũng
+銎	kũng
+闋	küt	3%
+駃	kūt
+訣	kūt	0%
+缺	kūt
+噱	kūt
+蠼	kūt
+劂	kūt
+厥	kūt	3%
+噘	kūt
+孓	kūt
+屈	kūt	3%
+抉	kūt
+撅	kūt
+橜	kūt
+橛	kūt	0%
+決	kūt	0%
+㵐	kūt
+炔	kūt	0%
+獗	kūt
+玃	kūt	3%
+玦	kūt
+蕨	kūt
+觖	kūt	3%
+詘	kūt	3%
+蹶	kūt
+鐍	kūt
+鐝	kūt
+钁	kūt	3%
+闕	kūt	3%
+鴂	kūt	3%
+鴃	kūt
+鵙	kūt
+鶪	kūt
+罅	lâ	0%
+腌	lâ
+𨻲	lâ	3%
+喇	lä
+剌	lā
+啦	lā
+喇	lā
+拉	lā	0%
+揦	lā
+菈	lā
+蝲	lā
+鞡	lā
+癩	lài
+麗	lài
+例	lài
+儷	lài
+勵	lài	5%
+厲	lài
+巁	lài
+捩	lài
+栵	lài
+𣛒	lài	0%
+瀨	lài
+𤃀	lài
+癘	lài	0%
+𥊨	lài	0%
+𥌤	lài
+𥌿	lài	0%
+礪	lài
+籟	lài
+䊪	lài
+糲	lài
+荔	lài
+落	lài	3%
+藾	lài
+蠣	lài
+䚕	lài	3%
+賴	lài	3%
+酹	lài
+隶	lài	0%
+𨽻	lài
+隸	lài
+頼	lài	0%
+𦧺	lâi
+豊	lâi
+劙	lâi
+澧	lâi	0%
+禮	lâi	3%
+𦧺	lâi
+䗍	lâi
+蠡	lâi	3%
+醴	lâi	3%
+鱧	lâi
+拉	läi	0%
+癩	läi	3%
+孻	lāi	3%
+悷	lãi
+𢮃	lãi	0%
+犁	lãi
+犂	lãi	0%
+𥌛	lãi	99%
+蔾	lãi	0%
+藜	lãi	3%
+麗	lãi	3%
+黎	lãi	0%
+黧	lãi	3%
+蠡	lãi
+肋	làk	0%
+仂	làk
+勒	làk
+叻	làk
+泐	làk
+褦	làk	0%
+鰳	làk
+勒	lâk
+嘞	läk
+簕	läk	0%
+肋	läk
+旯	lāk
+攬	làm
+濫	làm	0%
+纜	làm
+檻	lâm
+灠	lâm
+壈	lâm
+籃	lâm	0%
+罱	lâm
+艦	lâm
+覧	lâm
+覽	lâm
+𨎹	lâm	3%
+𨏸	lâm
+攬	lām	0%
+欖	lām
+婪	lãm	0%
+嵐	lãm
+灠	lãm
+繿	lãm
+藍	lãm
+襤	lãm	0%
+爛	làn
+嬾	län
+懶	län	0%
+攔	lãn
+斕	lãn
+欄	lãn	0%
+瀾	lãn
+蘭	lãn
+讕	lãn
+鑭	lãn
+闌	lãn	3%
+冷	lâng	3%
+𠘤	lâng
+唥	lâng
+罌	läng
+冷	läng
+跉	läng
+冷	lāng
+吟	lãng	3%
+漏	lào	0%
+癆	lâo
+潦	lâo
+澇	lâo
+蟧	lâo
+遛	lâo
+老	läo
+撈	läo
+佬	lāo	0%
+嚕	lāo
+姥	lāo	3%
+栳	lāo
+老	lāo
+銠	lāo	3%
+撈	lão	0%
+勞	lão	0%
+嘮	lão	0%
+囉	lão
+嶗	lão
+牢	lão	0%
+癆	lão
+耮	lão	3%
+醪	lão	0%
+鐒	lão	0%
+擖	làp
+臘	làp	3%
+臈	làp	3%
+蠟	làp	3%
+鑞	làp	3%
+笠	läp	0%
+㧜	läp
+擸	läp
+腊	läp	3%
+臘	läp
+笠	lāp	3%
+剌	làt	3%
+拉	làt	3%
+揦	làt
+攋	làt	0%
+瘌	làt
+辣	làt	0%
+邋	làt
+鬎	làt
+甩	lāt
+咧	lêh
+皪	lèik
+鬲	lèik
+巁	lèik
+捩	lèik	0%
+栵	lèik	0%
+櫟	lèik
+瀝	lèik
+礫	lèik
+冽	lèik
+列	lèik	3%
+力	lèik	3%
+嚦	lèik	3%
+壢	lèik
+曆	lèik	3%
+歷	lèik	0%
+烈	lèik	3%
+藶	lèik
+蛚	lèik	3%
+趔	lèik	3%
+躒	lèik
+轢	lèik
+轣	lèik	3%
+酈	lèik
+靂	lèik
+鴷	lèik	3%
+裂	lêik
+咧	lëik
+裂	lëik
+洌	lëik
+櫟	lēik	3%
+櫪	lēik	3%
+瀝	lēik
+癧	lēik	3%
+礫	lēik	3%
+裂	lēik
+蘸	lëim
+婪	lẽim
+令	lèin
+璉	lèin
+另	lèin
+呤	lèin
+楝	lèin	0%
+煉	lèin
+練	lèin
+輦	lèin
+鏈	lèin
+嶺	lêin
+攆	lêin
+領	lêin	3%
+令	lēin	0%
+跉	lẽin
+伶	lẽin
+凌	lẽin
+刢	lẽin
+𠱠	lẽin
+囹	lẽin	3%
+坽	lẽin
+堎	lẽin
+塄	lẽin
+婈	lẽin
+崚	lẽin
+彾	lẽin
+𢔁	lẽin
+㥄	lẽin
+愣	lẽin
+㪮	lẽin
+昤	lẽin
+𣌟	lẽin
+柃	lẽin
+棱	lẽin
+楞	lẽin
+櫺	lẽin	3%
+欞	lẽin
+㱥	lẽin
+㲆	lẽin
+泠	lẽin
+淩	lẽin
+漣	lẽin	3%
+澪	lẽin
+玲	lẽin
+璉	lẽin
+𤫊	lẽin
+瓴	lẽin
+㾉	lẽin
+睖	lẽin
+砱	lẽin
+磷	lẽin
+𥖟	lẽin
+𥘃	lẽin
+祾	lẽin
+秢	lẽin
+軨	lẽin
+稜	lẽin	3%
+𥢴	lẽin
+𥤞	lẽin
+竛	lẽin
+笭	lẽin
+䈊	lẽin	0%
+䉖	lẽin
+綾	lẽin
+䍅	lẽin
+𦉢	lẽin
+羚	lẽin
+𦏪	lẽin
+𦏰	lẽin
+翎	lẽin
+聆	lẽin
+舲	lẽin
+苓	lẽin
+菱	lẽin
+蓮	lẽin
+䔖	lẽin
+蔆	lẽin
+薐	lẽin
+蕶	lẽin
+䕘	lẽin
+蘦	lẽin
+蛉	lẽin
+袊	lẽin
+褳	lẽin
+䙥	lẽin	3%
+𧟙	lẽin
+𧰻	lẽin	3%
+輘	lẽin
+連	lẽin
+酃	lẽin
+𨠎	lẽin
+醽	lẽin
+𨤍	lẽin
+鈴	lẽin
+錂	lẽin
+𨯻	lẽin
+閝	lẽin
+𨷰	lẽin
+陵	lẽin	3%
+零	lẽin	0%
+霝	lẽin	0%
+靈	lẽin
+靇	lẽin	3%
+𩊂	lẽin
+𩚹	lẽin
+𩬔	lẽin	3%
+𩰂	lẽin	0%
+魿	lẽin
+鰱	lẽin
+鴒	lẽin	0%
+麢	lẽin
+齡	lẽin	0%
+龗	lẽin	6%
+垃	lèip
+笠	lêip	0%
+笠	lēip	6%
+掠	lèk	3%
+撂	lèk
+略	lèk
+畧	lèk
+叻	lēk
+釕	lèl	3%
+繚	lèl
+廖	lèl	0%
+料	lèl
+蓼	lèl
+了	lēl
+撩	lēl	0%
+釕	lēl
+蟧	lẽl
+了	lẽl
+撩	lẽl
+僚	lẽl
+嘹	lẽl
+寥	lẽl
+寮	lẽl	0%
+尥	lẽl
+燎	lẽl
+獠	lẽl	3%
+療	lẽl	0%
+瞭	lẽl
+繆	lẽl	3%
+繚	lẽl	3%
+聊	lẽl	0%
+蟟	lẽl
+蹽	lẽl	0%
+遼	lẽl
+鐐	lẽl
+鷚	lẽl
+鷯	lẽl
+斂	lêm
+殮	lêm
+瀲	lêm
+臉	lêm
+薟	lêm
+蘞	lêm
+襝	lêm	3%
+舔	lēm
+亷	lẽm
+奩	lẽm
+帘	lẽm
+廉	lẽm	3%
+㢘	lẽm
+濂	lẽm	3%
+濓	lẽm	3%
+簾	lẽm	3%
+臁	lẽm
+蠊	lẽm
+譧	lẽm	0%
+𨎷	lẽm	0%
+鐮	lẽm
+𩪬	lẽm
+踉	lèng	3%
+量	lèng
+亮	lèng
+喨	lèng
+諒	lèng
+鈴	lêng
+嶺	lêng
+領	lêng	3%
+領	lëng
+靚	lëng
+倆	lēng	3%
+兩	lēng	3%
+啢	lēng
+脼	lēng
+裲	lēng	3%
+魎	lēng	3%
+零	lẽng
+𡆨	lẽng
+〇	lẽng	3%
+墚	lẽng	3%
+梁	lẽng
+椋	lẽng
+樑	lẽng
+涼	lẽng
+粱	lẽng	0%
+糧	lẽng
+良	lẽng
+莨	lẽng
+踉	lẽng
+輛	lẽng
+量	lẽng
+鯪	lẽng	3%
+漏	lèo	3%
+剅	lèo
+瘻	lèo	3%
+瘺	lèo
+鏤	lèo	3%
+陋	lèo
+簍	lêo
+䱾	lêo	0%
+撈	lëo
+蔞	lëo
+褸	lëo
+騮	lēo
+窶	lẽo
+撈	lẽo	0%
+蔞	lẽo
+僂	lẽo
+嘍	lẽo
+塿	lẽo	0%
+婁	lẽo
+嶁	lẽo
+摟	lẽo	0%
+樓	lẽo
+漊	lẽo
+瞜	lẽo
+耬	lẽo
+螻	lẽo
+鞻	lẽo
+髏	lẽo
+巤	lèp
+獵	lèp	0%
+躐	lèp
+鬣	lèp	3%
+鱲	lèp
+罅	lêp	3%
+𥝢	lì
+厲	lì
+俐	lì
+利	lì
+吏	lì
+娌	lì	3%
+猁	lì
+痢	lì	0%
+脷	lì
+莉	lì
+蒞	lì
+蜊	lì	3%
+詈	lì
+鬁	lì
+悝	lî
+哩	lî
+裡	lî
+狸	lî
+籬	lî
+俚	lî	3%
+履	lî
+浬	lî	0%
+理	lî
+貍	lî
+里	lî
+鋰	lî	3%
+鯉	lî
+哩	lī
+喱	lī
+李	lī	0%
+㸚	lī	3%
+璃	lī
+瓈	lī	3%
+裡	lī
+裏	lī	0%
+蠡	lĩ	3%
+酈	lĩ	0%
+刕	lĩ
+嫠	lĩ
+梨	lĩ
+棃	lĩ
+氂	lĩ
+灕	lĩ
+犛	lĩ	3%
+狸	lĩ
+籬	lĩ	0%
+縭	lĩ
+纚	lĩ
+罹	lĩ
+蘺	lĩ
+邐	lĩ
+醨	lĩ
+釐	lĩ
+離	lĩ
+驪	lĩ
+鯬	lĩ
+鱺	lĩ	0%
+鸝	lĩ
+凜	lîm
+廩	lîm
+懍	lîm
+檁	lîm
+啉	lĩm
+惏	lĩm
+林	lĩm	0%
+淋	lĩm
+琳	lĩm	3%
+痳	lĩm	3%
+臨	lĩm	3%
+霖	lĩm
+磷	lĩn
+魿	lĩn
+厸	lĩn
+嶙	lĩn
+憐	lĩn	3%
+㷠	lĩn
+燐	lĩn	0%
+璘	lĩn	0%
+瞵	lĩn
+粦	lĩn	0%
+粼	lĩn
+膦	lĩn	0%
+轔	lĩn
+遴	lĩn	0%
+鄰	lĩn
+鏻	lĩn	3%
+隣	lĩn	0%
+鱗	lĩn	3%
+麟	lĩn
+砬	lìp	3%
+立	lìp	0%
+粒	lïp
+粒	līp
+遛	liù	3%
+栁	liû	3%
+柳	liû
+桺	liû	0%
+綹	liû
+鋶	liû
+遛	liü
+溜	liü
+蹓	liü
+餾	liü
+遛	liū
+溜	liū
+蹓	liū	0%
+騮	liũ	0%
+鏤	liũ
+溜	liũ
+餾	liũ	3%
+劉	liũ	0%
+旈	liũ
+旒	liũ
+榴	liũ
+流	liũ	3%
+瀏	liũ
+熘	liũ	0%
+琉	liũ
+畄	liũ
+留	liũ	3%
+畱	liũ	3%
+瘤	liũ	0%
+癅	liũ
+硫	liũ
+蘿	liũ
+鎏	liũ
+鎦	liũ
+鏐	liũ
+鐂	liũ	3%
+飀	liũ
+鶹	liũ
+漯	lô
+咯	lö
+蠃	lō	0%
+猓	lō
+嚕	lō
+囉	lō
+囉	lõ
+蘿	lõ
+儸	lõ
+摞	lõ
+欏	lõ
+玀	lõ
+籮	lõ	0%
+羅	lõ	0%
+腡	lõ	3%
+虆	lõ
+邏	lõ
+鏍	lõ
+鑼	lõ
+騾	lõ
+睞	lòi
+䚅	lòi
+賚	lòi
+耒	lòi	0%
+誄	lòi	5%
+來	lõi	3%
+倈	lõi	5%
+崍	lõi	3%
+徠	lõi	3%
+棶	lõi	0%
+淶	lõi
+睞	lõi	3%
+萊	lõi	0%
+䚅	lõi
+賚	lõi	0%
+錸	lõi
+鯠	lõi	0%
+濼	lòk
+落	lòk	0%
+樂	lòk	0%
+落	lôk	3%
+絡	lôk	0%
+咯	lök	3%
+皪	lōk	0%
+骼	lōk	3%
+咯	lōk	0%
+硌	lōk	0%
+餎	lōk	0%
+貉	lōk
+恪	lōk	3%
+躒	lōk
+𣎆	lōk
+洛	lōk
+烙	lōk	0%
+犖	lōk
+珞	lōk
+絡	lōk	3%
+酪	lōk
+鉻	lōk
+雒	lōk
+駱	lōk	0%
+乿	lòn
+亂	lòn
+卵	lôn	0%
+晾	lòng	3%
+浪	lòng	0%
+埌	lòng
+蒗	lòng
+琅	lông
+郎	lông
+崀	lông
+朗	lông
+朤	lông
+䕞	lông
+閬	lông
+晾	löng
+浪	löng
+蓢	löng
+莨	lõng	0%
+啷	lõng
+嫏	lõng
+㢃	lõng
+廊	lõng	0%
+桹	lõng	0%
+榔	lõng	0%
+烺	lõng	0%
+狼	lõng	0%
+琅	lõng
+瑯	lõng
+硠	lõng	0%
+稂	lõng
+筤	lõng
+蜋	lõng
+螂	lõng	3%
+郎	lõng
+鋃	lõng
+捋	lòt
+埒	lòt
+鋝	lòt
+捋	lôt
+捋	löt
+潞	lù
+璐	lù
+虂	lù
+賂	lù
+路	lù
+輅	lù
+露	lù	3%
+鷺	lù
+嚕	lû
+螺	lû	3%
+路	lû
+擄	lû	0%
+櫓	lû
+氌	lû	0%
+虜	lû
+虜	lû
+鑥	lû
+魯	lû
+擼	lü
+嚕	lū
+嘍	lū
+滷	lū	3%
+鹵	lū	3%
+蠡	lũ
+蘿	lũ	3%
+蠃	lũ
+籮	lũ
+腡	lũ
+鑼	lũ
+壚	lũ
+廬	lũ
+櫨	lũ
+瀘	lũ
+爐	lũ	0%
+盧	lũ	0%
+䊨	lũ
+罏	lũ
+臚	lũ
+艫	lũ	0%
+蘆	lũ	3%
+螺	lũ	0%
+轤	lũ	3%
+顱	lũ	3%
+髗	lũ	0%
+魲	lũ
+鱸	lũ
+鸕	lũ	0%
+累	luì
+傫	luì
+儽	luì
+唳	luì
+慮	luì
+戾	luì	3%
+沴	luì	3%
+淚	luì
+濾	luì
+礌	luì	0%
+礧	luì	0%
+類	luì
+捩	luî
+褸	luî
+僂	luî	0%
+呂	luî	0%
+淚	luî	0%
+侶	luî
+儡	luî
+堆	luî
+壘	luî
+屢	luî
+惢	luî
+旅	luî
+瘰	luî
+磊	luî
+穭	luî	3%
+縷	luî	0%
+膂	luî
+蕊	luî
+蕌	luî
+蕾	luî
+藟	luî	3%
+鋁	luî
+簍	luī
+呂	luī	0%
+騾	luĩ
+㗊	luĩ
+嫘	luĩ	0%
+擂	luĩ
+檑	luĩ
+櫚	luĩ	0%
+畾	luĩ
+𤼘	luĩ
+累	luĩ
+縲	luĩ
+纍	luĩ	3%
+罍	luĩ	0%
+羸	luĩ
+鐳	luĩ	0%
+閭	luĩ
+雷	luĩ
+靁	luĩ
+馿	luĩ
+驘	luĩ	0%
+驢	luĩ
+穋	lùk
+蓼	lùk
+六	lùk	0%
+剹	lùk
+勠	lùk	0%
+彔	lùk
+戮	lùk
+氯	lùk
+淥	lùk
+漉	lùk
+盝	lùk
+祿	lùk	3%
+稑	lùk	3%
+簏	lùk	3%
+籙	lùk	3%
+綠	lùk	3%
+緑	lùk	0%
+菉	lùk
+轆	lùk
+逯	lùk
+醁	lùk	0%
+錄	lùk
+陸	lùk	0%
+騄	lùk
+騼	lùk
+鹿	lùk	0%
+碌	lûk
+碌	lük	0%
+碌	lūk
+磟	lūk
+麓	lūk
+論	lùn
+吝	lùn
+恡	lùn	0%
+紊	lùn
+藺	lùn
+蹸	lùn
+躪	lùn
+輪	lûn
+攣	lün
+戀	lūn
+臠	lūn
+綸	lũn
+侖	lũn
+倫	lũn
+圇	lũn
+孌	lũn
+孿	lũn
+崙	lũn
+崘	lũn
+巒	lũn
+掄	lũn
+欒	lũn
+淪	lũn	0%
+灤	lũn
+羉	lũn
+聯	lũn
+菕	lũn
+論	lũn	3%
+輪	lũn	0%
+鑾	lũn
+鸞	lũn
+哢	lùng
+𡋱	lùng
+𡷟	lùng	0%
+弄	lùng	3%
+𢙱	lùng
+挵	lùng
+㳥	lùng	3%
+篢	lûng
+籠	lûng
+槞	lûng
+櫳	lûng
+㰍	lûng
+壟	lûng
+壠	lûng
+竉	lûng
+隴	lûng
+攏	lūng	0%
+籠	lūng	0%
+𪚑	lũng
+靇	lũng
+籠	lũng
+嚨	lũng	0%
+𡃡	lũng
+㚅	lũng
+尨	lũng	0%
+嶐	lũng
+巃	lũng
+巄	lũng
+㡣	lũng
+𢤲	lũng
+𢸭	lũng
+曨	lũng
+朧	lũng
+槞	lũng	0%
+湰	lũng
+漋	lũng
+瀧	lũng
+瓏	lũng
+𤮨	lũng
+癃	lũng
+𤼃	lũng
+矓	lũng	3%
+䃧	lũng
+礱	lũng
+窿	lũng
+竜	lũng	0%
+𥳌	lũng	0%
+聾	lũng
+蘢	lũng
+蠪	lũng
+襱	lũng
+躘	lũng
+䥢	lũng	3%
+隆	lũng
+䪊	lũng	3%
+𪔳	lũng
+龍	lũng	0%
+龐	lũng
+龒	lũng	0%
+櫳	lũng
+傈	lùt	3%
+凓	lùt	3%
+律	lùt	3%
+慄	lùt
+栗	lùt	0%
+溧	lùt
+率	lùt	0%
+篥	lùt	0%
+聿	lùt
+葎	lùt
+遹	lùt
+捋	lüt
+劣	lūt
+甪	lūt	3%
+呣	m̀	0%
+嗯	m̀
+梧	m̀
+寤	m̀	0%
+忤	m̀	3%
+悟	m̀
+捂	m̀
+摀	m̀	3%
+晤	m̀
+焐	m̀	3%
+痦	m̀
+誤	m̀	3%
+伍	m̂
+嗯	m̂	3%
+忤	m̂
+仵	m̂
+午	m̂
+牾	m̂
+迕	m̂
+五	m̄	0%
+伍	m̄
+吾	m̃	3%
+吳	m̃
+呣	m̃	0%
+唔	m̃
+嗯	m̃
+噷	m̃
+梧	m̃
+浯	m̃	3%
+珸	m̃	3%
+蜈	m̃
+郚	m̃
+鼯	m̃
+嗎	mà
+螞	mà	3%
+傌	mà
+禡	mà
+罵	mà
+駡	mà	3%
+鬕	mà	3%
+蝦	mâ	0%
+嗎	mâ	3%
+獁	mâ
+螞	mâ
+馬	mâ
+榪	mâ
+瑪	mâ	0%
+碼	mâ	3%
+嗎	mä
+馬	mä
+乸	mä
+孖	mä
+嗎	mā
+媽	mā
+嬤	mā
+摩	mā	3%
+獁	mā	3%
+螞	mā
+馬	mā
+麻	mā	0%
+麼	mā	3%
+媽	mã
+麻	mã	0%
+嘛	mã	0%
+痲	mã
+蔴	mã
+蟆	mã
+蟇	mã	0%
+侎	mài	0%
+勱	mài
+敉	mài
+袂	mài	0%
+賣	mài	3%
+邁	mài	0%
+蕒	mäi	3%
+買	mäi	0%
+咪	māi	0%
+米	māi	0%
+脒	māi	0%
+埋	mãi
+眯	mãi	0%
+瞇	mãi	3%
+謎	mãi
+迷	mãi	0%
+醚	mãi	3%
+霾	mãi	0%
+嘿	màk
+貉	màk	0%
+嚜	màk	3%
+脈	màk	0%
+冒	màk
+獏	màk	3%
+萬	màk	3%
+蛨	màk
+貊	màk	0%
+貘	màk
+陌	màk
+驀	màk
+麥	màk
+墨	màk	3%
+默	màk	0%
+墨	mâk
+擘	mäk
+脈	mäk
+嘜	māk	3%
+嚜	māk	0%
+萬	màn
+謾	màn	3%
+卐	màn
+卍	màn
+墁	màn
+幔	màn
+慢	màn
+曼	màn	3%
+漫	màn
+熳	màn
+䊡	màn
+縵	màn
+蔓	màn
+鏝	màn
+饅	màn
+娩	mân
+晚	mân
+蠻	mãn
+謾	mãn	3%
+閩	mãn	3%
+鬘	mãn	0%
+鰻	mãn
+孟	màng	3%
+猛	mâng
+勐	mâng
+艋	mâng
+錳	mâng
+掹	mäng	0%
+猛	mäng	0%
+蠻	māng
+掹	māng
+猛	māng
+蜢	māng
+黽	māng
+氓	mãng
+甍	mãng
+盟	mãng
+盲	mãng
+萌	mãng
+繆	mào
+冒	mào
+旄	mào	0%
+冃	mào	3%
+㡌	mào
+帽	mào
+懋	mào	0%
+瑁	mào	0%
+眊	mào	3%
+瞀	mào	0%
+耄	mào	0%
+茂	mào	3%
+袤	mào
+謬	mào
+貌	mào	3%
+貿	mào
+卯	mâo	3%
+昴	mâo	0%
+泖	mâo
+鉚	mâo
+冇	mäo
+貓	māo	3%
+氂	mão	0%
+犛	mão	0%
+旄	mão	0%
+毛	mão
+矛	mão
+茅	mão
+茆	mão	0%
+蘑	mão
+蝥	mão
+蟊	mão	0%
+酕	mão
+錨	mão
+髦	mão	0%
+鞨	màt
+帓	màt
+襪	màt
+韈	màt
+韤	màt	0%
+孭	mêh	3%
+乜	mēh	3%
+咩	mēh
+哶	mēh
+㓕	mèik
+汨	mèik
+滅	mèik	0%
+烕	mèik
+蓂	mèik
+蔑	mèik	3%
+蠛	mèik	3%
+衊	mèik
+篾	mêik
+掰	mëik
+搣	mëik
+命	mèin	0%
+㮌	mèin
+䒌	mèin
+面	mèin
+麪	mèin
+麺	mèin
+麵	mèin	0%
+俛	mêin
+娩	mêin
+黽	mêin	0%
+棉	mêin
+麪	mêin
+麵	mêin
+僶	mêin
+免	mêin
+冕	mêin
+刎	mêin
+勉	mêin
+吻	mêin	0%
+憫	mêin
+抿	mêin	3%
+敏	mêin
+泯	mêin
+澠	mêin
+皿	mêin	3%
+鮸	mêin
+鰵	mêin
+腼	mēin
+靦	mēin
+丏	mēin
+沔	mēin
+湎	mēin
+眄	mēin
+緬	mēin
+蓂	mẽin
+佲	mẽin
+𠋶	mẽin
+冥	mẽin	3%
+名	mẽin
+姳	mẽin
+嫇	mẽin
+宀	mẽin
+明	mẽin	0%
+㫥	mẽin
+暝	mẽin	3%
+朙	mẽin
+棉	mẽin
+洺	mẽin
+溟	mẽin
+眀	mẽin
+眠	mẽin
+瞑	mẽin
+䄙	mẽin
+綿	mẽin
+緜	mẽin
+茗	mẽin
+螟	mẽin
+鄍	mẽin	3%
+酩	mẽin
+銘	mẽin	0%
+䫤	mẽin	0%
+鳴	mẽin
+繆	mèl	0%
+妙	mèl	3%
+廟	mèl
+玅	mèl
+訬	mêl
+厸	mêl
+杳	mêl
+杪	mêl	3%
+淼	mêl
+渺	mêl	3%
+眇	mêl	0%
+秒	mêl
+緲	mêl
+藐	mêl	0%
+邈	mêl
+喵	mẽl	0%
+描	mẽl
+瞄	mẽl	3%
+苗	mẽl	0%
+鶓	mẽl
+命	mèng
+詺	mèng
+名	mẽng
+厶	mêo	3%
+峁	mêo
+某	mêo
+牡	mêo
+畝	mêo
+痞	mēo
+繆	mẽo
+蝥	mẽo	0%
+蟊	mẽo
+錨	mẽo
+侔	mẽo
+哞	mẽo	0%
+毪	mẽo	0%
+牟	mẽo	0%
+眸	mẽo	0%
+蛑	mẽo	3%
+謀	mẽo
+鍪	mẽo
+敉	mì	0%
+媚	mì	3%
+味	mì
+寐	mì
+未	mì
+汆	mì
+鬽	mì	0%
+魅	mì
+羙	mî
+靡	mî
+弭	mî
+美	mî
+鎂	mî
+眯	mï
+瞇	mï
+亹	mī	0%
+娓	mī
+尾	mī
+艉	mī
+媚	mĩ
+嵋	mĩ	0%
+彌	mĩ
+微	mĩ	0%
+楣	mĩ
+湄	mĩ
+溦	mĩ
+猸	mĩ
+獼	mĩ
+眉	mĩ	3%
+糜	mĩ
+縻	mĩ	0%
+羋	mĩ	0%
+薇	mĩ	0%
+蘼	mĩ	0%
+郿	mĩ
+醾	mĩ
+鎇	mĩ
+靡	mĩ
+鶥	mĩ
+麋	mĩ
+麊	mĩ	0%
+麿	mĩ
+抿	mīn
+民	mīn	0%
+賯	mĩn
+民	mĩn
+岷	mĩn
+玟	mĩn
+珉	mĩn
+砇	mĩn
+䃉	mĩn
+緡	mĩn	0%
+苠	mĩn
+宓	mìt	3%
+冖	mìt	0%
+冪	mìt	0%
+嘧	mìt	0%
+密	mìt	3%
+蜜	mìt
+覓	mìt
+覔	mìt
+謐	mìt	0%
+貓	miū
+磨	mò
+耱	mò
+麼	mô
+摩	mö
+嬤	mō	3%
+麼	mō	0%
+尛	mō	3%
+摸	mō
+摹	mō
+饃	mō
+饝	mō
+魔	mō
+蘑	mõ
+毪	mõ
+劘	mõ
+嫫	mõ
+模	mõ	3%
+磨	mõ
+誣	mõ
+昧	mòi
+眛	mòi
+妹	môi	0%
+每	môi	0%
+浼	môi
+妹	mōi	3%
+糜	mõi
+妹	mõi	0%
+媒	mõi	0%
+枚	mõi
+梅	mõi	3%
+楳	mõi
+槑	mõi
+煤	mõi	3%
+玫	mõi	3%
+脢	mõi
+苺	mõi	3%
+莓	mõi	3%
+酶	mõi
+霉	mõi
+黣	mõi
+黴	mõi
+莫	mòk	0%
+鄚	mòk	0%
+鏌	mòk
+膜	môk	0%
+剝	mök
+𠚪	mök
+摸	mōk
+剝	mōk	0%
+寞	mōk
+幕	mōk	3%
+漠	mōk
+瘼	mōk
+膜	mōk	0%
+懣	mòn	0%
+燜	mòn	0%
+悶	mòn	0%
+滿	mōn	0%
+蟎	mōn
+亹	mõn	0%
+們	mõn
+捫	mõn
+瞞	mõn	0%
+蹣	mõn
+鍆	mõn
+門	mõn	0%
+鞔	mõn
+顢	mõn	0%
+望	mòng
+朢	mòng	0%
+氓	mông
+輞	mông
+魍	mông
+妄	mông	0%
+惘	mông
+漭	mông	0%
+硥	mông
+罔	mông
+莽	mông
+虻	mông	0%
+蝱	mông	0%
+蟒	mông	3%
+蠎	mông
+䥈	mông	0%
+杧	möng
+𣙷	möng
+芒	möng
+網	mōng	0%
+网	mōng
+輞	mōng
+魍	mōng	0%
+尨	mõng
+氓	mõng
+芒	mõng	0%
+亡	mõng
+忙	mõng
+忘	mõng	3%
+牤	mõng
+硭	mõng	0%
+茫	mõng	0%
+邙	mõng
+鋩	mõng	0%
+帓	mòt	0%
+勿	mòt
+妺	mòt	0%
+末	mòt	0%
+歿	mòt	0%
+沒	mòt	3%
+沫	mòt
+物	mòt	3%
+瞐	mòt
+秣	mòt
+芴	mòt
+茉	mòt
+袜	mòt
+靺	mòt
+䯦	mòt
+麿	möt
+抹	möt
+乜	mōt
+呣	mù
+瞀	mù
+牟	mù
+務	mù
+募	mù
+墓	mù
+婺	mù
+慕	mù
+戊	mù
+暮	mù
+霧	mù
+騖	mù	0%
+鶩	mù
+姥	mû
+䥈	mû	3%
+毋	mû
+侮	mû
+姆	mû
+娬	mû
+嫵	mû
+廡	mû
+憮	mû
+拇	mû
+武	mû
+母	mû
+鉧	mû	3%
+鵡	mû
+摸	mū
+舞	mū	3%
+蘑	mũ
+毪	mũ
+摹	mũ	3%
+劘	mũ
+嫫	mũ
+模	mũ
+磨	mũ
+誣	mũ
+𠘩	mũ
+嘸	mũ
+巫	mũ
+无	mũ
+毋	mũ
+無	mũ
+蕪	mũ
+謨	mũ
+繆	mùk	3%
+仫	mùk	0%
+坶	mùk	5%
+木	mùk	0%
+牧	mùk
+目	mùk	3%
+睦	mùk
+穆	mùk
+苜	mùk
+鉬	mùk	0%
+木	mûk
+沐	mûk
+卜	mük
+卜	mūk
+紊	mùn
+文	mùn	0%
+璺	mùn
+問	mùn
+湣	mûn
+吻	mûn	5%
+憫	mûn
+汶	mûn
+璺	mûn	3%
+愍	mûn
+旻	mûn	0%
+蚊	mûn
+閔	mûn	3%
+鰵	mūn
+緡	mūn
+炆	mūn
+玟	mũn
+抆	mũn
+文	mũn
+汶	mũn
+紋	mũn	3%
+聞	mũn
+閿	mũn
+闅	mũn
+雯	mũn
+夢	mùng
+夣	mùng
+霥	mùng	3%
+懜	mūng
+懞	mūng
+懵	mūng	5%
+檬	mūng	5%
+鼆	mūng	3%
+霥	mũng
+蒙	mũng
+尨	mũng
+懞	mũng
+檬	mũng
+冡	mũng
+𡁏	mũng	0%
+幪	mũng
+曚	mũng
+朦	mũng
+氋	mũng
+濛	mũng	0%
+獴	mũng
+瞢	mũng
+𥉕	mũng
+矇	mũng
+礞	mũng
+艨	mũng
+蠓	mũng	5%
+𧭊	mũng
+䝉	mũng	5%
+靀	mũng
+饛	mũng
+物	mùt
+𠰌	müt
+哪	nà
+衲	nâ	3%
+那	nä	0%
+䬷	nä	5%
+𥑒	nā
+乸	nā	0%
+拃	nã	0%
+那	nã	3%
+哪	nã	0%
+娜	nã	0%
+拏	nã
+拿	nã	0%
+鎿	nã
+泥	nài
+鼐	nài
+哪	nâi
+鼐	nâi	5%
+乃	nâi
+奶	nâi
+廼	nâi
+氖	nâi
+禰	nâi	3%
+艿	nâi	0%
+迺	nâi	0%
+傫	näi	0%
+尼	nāi
+尼	nãi	3%
+伲	nãi	5%
+呢	nãi	5%
+坭	nãi	0%
+妮	nãi	0%
+怩	nãi
+旎	nãi
+泥	nãi
+痆	nãi
+苨	nãi	0%
+䕥	nãi
+鈮	nãi	3%
+那	nàk
+那	näk
+粘	nāk	0%
+疒	nāk
+黏	nāk
+𪙛	nāk
+腩	nâm	0%
+腩	näm
+諗	nām
+囝	nãm
+南	nãm
+喃	nãm
+囡	nãm	0%
+枏	nãm	6%
+柟	nãm
+楠	nãm
+男	nãm
+蚺	nãm	3%
+蝻	nãm
+䛁	nãm	0%
+諵	nãm	3%
+難	nàn	3%
+𧕴	nân
+赧	nân	0%
+撚	nān
+難	nãn
+鐙	nàng
+儜	nãng
+能	nãng
+𧭈	nãng
+撓	nào	0%
+橈	nào	0%
+檽	nào
+淖	nào
+耨	nào
+鐃	nào
+鬧	nào
+瑙	nâo
+惱	nâo
+堖	nāo	3%
+腦	nāo
+稠	não	3%
+巙	não
+呶	não
+瑙	não	3%
+硇	não
+腬	não
+衲	nàp	0%
+吶	nàp	5%
+納	nàp
+訥	nàp	3%
+鈉	nàp	0%
+衲	nâp	0%
+捺	nât	0%
+匿	nät	0%
+捺	nät
+焫	nät
+爇	nät
+野	nëh	3%
+乜	nēh
+呢	nēh	3%
+吶	nẽh
+匿	nèik	3%
+搦	nèik
+昵	nèik
+暱	nèik	0%
+溺	nèik	0%
+捏	nêik	0%
+捏	nëik	0%
+掐	nëik
+匿	nēik
+鎳	nēik
+腩	nëim	0%
+腍	nëim	0%
+南	nẽim	0%
+𧦣	nèin
+佞	nèin	0%
+擰	nèin
+奶	nêin
+恁	nêin
+拎	nēin	3%
+儜	nẽin
+𧭈	nẽin
+嚀	nẽin
+甯	nẽin
+寕	nẽin
+寧	nẽin	3%
+年	nẽin	3%
+檸	nẽin	3%
+濘	nẽin	0%
+獰	nẽin	3%
+聹	nẽin
+薴	nẽin	0%
+鬡	nẽin
+鸋	nẽin	0%
+寍	nẽin	3%
+寜	nẽin
+偌	nêk
+偌	nëk	3%
+偌	nēk	3%
+溺	nèl	0%
+尿	nèl	6%
+脲	nèl	3%
+嬲	nêl	0%
+蔦	nêl	3%
+裊	nêl	0%
+鳥	nêl
+埝	nèm
+唸	nèm
+念	nèm
+稔	nèm
+捻	nêm
+粘	nëm	0%
+撚	nëm
+捻	nëm
+拈	nëm	0%
+捻	nēm
+粘	nẽm
+黏	nẽm	3%
+鮎	nẽm	0%
+鯰	nẽm
+娘	nẽng
+孃	nẽng	3%
+耨	nèo
+撓	nẽo	0%
+鑷	nêp
+苶	nëp	3%
+菍	nëp
+捏	nēp	0%
+囁	nēp	0%
+圼	nēp	0%
+㘿	nēp
+懾	nēp
+揑	nēp
+攝	nēp	0%
+涅	nēp	3%
+湼	nēp	0%
+灄	nēp
+聶	nēp	0%
+躡	nēp	3%
+隉	nēp
+顳	nēp	3%
+厊	ngà
+砑	ngà	3%
+訝	ngà
+迓	ngà
+疨	ngâ
+疋	ngâ
+雅	ngâ
+佤	ngā
+瓦	ngā
+枒	ngã
+伢	ngã	0%
+岈	ngã
+牙	ngã
+琊	ngã	0%
+芽	ngã
+蚜	ngã
+衙	ngã
+栺	ngài
+睨	ngài
+乂	ngài
+偽	ngài
+刈	ngài
+囈	ngài
+堄	ngài	3%
+埶	ngài
+外	ngài
+毅	ngài
+砹	ngài
+秇	ngài
+羿	ngài
+艾	ngài	3%
+蓺	ngài
+藝	ngài	3%
+藙	ngài
+詣	ngài
+魏	ngài
+劓	ngài
+淣	ngäi
+檥	ngāi	0%
+艤	ngāi
+螘	ngāi	0%
+蟻	ngāi	0%
+挨	ngãi
+淣	ngãi
+倪	ngãi
+危	ngãi
+厓	ngãi	0%
+啀	ngãi
+嘊	ngãi
+堐	ngãi	0%
+崖	ngãi
+嵬	ngãi
+巍	ngãi
+捱	ngãi
+涯	ngãi
+漄	ngãi
+猊	ngãi
+睚	ngãi	3%
+睨	ngãi
+蜺	ngãi
+輗	ngãi
+霓	ngãi	0%
+鯢	ngãi
+麑	ngãi	0%
+額	ngäk
+呃	ngāk
+頷	ngâm
+啱	ngām
+岩	ngãm	3%
+嵓	ngãm	3%
+嵒	ngãm	0%
+巖	ngãm
+巗	ngãm	3%
+癌	ngãm
+碞	ngãm
+礹	ngãm
+贗	ngàn
+雁	ngàn
+眼	ngān	3%
+研	ngān
+齦	ngãn
+珢	ngãn
+圻	ngãn
+研	ngãn
+嚚	ngãn	3%
+垠	ngãn	3%
+狺	ngãn	0%
+鄞	ngãn
+銀	ngãn
+頑	ngãn
+顏	ngãn
+齗	ngãn
+硬	ngàng
+硬	ngāng
+敖	ngào	3%
+熬	ngào	3%
+螯	ngào	0%
+遨	ngào
+傲	ngào	3%
+嗷	ngào
+奡	ngào
+嶅	ngào	0%
+咬	ngāo	0%
+齩	ngāo	3%
+崤	ngão	0%
+廒	ngão
+敖	ngão
+殽	ngão
+洨	ngão	0%
+淆	ngão
+熬	ngão
+爻	ngão
+獒	ngão
+翱	ngão
+翶	ngão	0%
+翺	ngão
+聱	ngão
+肴	ngão
+螯	ngão
+遨	ngão
+鏊	ngão	3%
+鏖	ngão	0%
+䥝	ngão	3%
+餚	ngão
+驁	ngão	3%
+鰲	ngão	3%
+鼇	ngão
+噏	ngäp
+啽	ngäp
+噏	ngāp
+掖	ngãp
+齕	ngàt
+屹	ngàt
+訖	ngàt
+迄	ngàt	3%
+嚙	ngàt	3%
+囓	ngàt
+齧	ngàt
+胺	ngät
+臊	ngät
+惹	ngêh	0%
+喏	ngêh
+惹	ngēh	0%
+渃	ngèik
+熱	ngèik	0%
+𤑄	ngèik	3%
+逆	ngèik	3%
+挈	ngēik
+絜	ngēik
+孼	ngēik	0%
+孽	ngēik	3%
+抑	ngēik	3%
+櫱	ngēik
+糵	ngēik	3%
+臬	ngēik
+臲	ngēik	0%
+鬩	ngēik
+迎	ngèin
+唁	ngèin
+彥	ngèin
+諺	ngèin
+讞	ngèin
+研	ngëin
+奀	ngēin
+艿	ngẽin
+研	ngẽin	0%
+仍	ngẽin
+凝	ngẽin
+妍	ngẽin
+楹	ngẽin	3%
+然	ngẽin	3%
+燃	ngẽin
+𤟣	ngẽin	3%
+盈	ngẽin
+礽	ngẽin	0%
+𦝚	ngẽin	0%
+芿	ngẽin
+䚮	ngẽin
+𧥰	ngẽin
+辸	ngẽin	0%
+迎	ngẽin
+鈃	ngẽin
+陾	ngẽin
+偌	ngèk
+渃	ngèk	3%
+叒	ngèk
+婼	ngèk
+弱	ngèk	0%
+箬	ngèk	0%
+篛	ngèk	3%
+若	ngèk	3%
+蒻	ngèk
+虐	ngèk	3%
+謔	ngèk	0%
+鍩	ngèk
+瘧	ngēk	0%
+嬈	ngêl
+擾	ngêl	0%
+繞	ngêl
+禸	ngẽl
+僥	ngẽl	0%
+澆	ngẽl	0%
+橈	ngẽl	3%
+垚	ngẽl
+嬈	ngẽl	3%
+峱	ngẽl	0%
+嶢	ngẽl
+揉	ngẽl
+柔	ngẽl
+猱	ngẽl
+磽	ngẽl
+禸	ngẽl
+粈	ngẽl
+糅	ngẽl
+蕘	ngẽl
+蟯	ngẽl
+蹂	ngẽl
+鞣	ngẽl
+饒	ngẽl
+釅	ngèm
+驗	ngèm
+蚺	ngêm	0%
+冉	ngêm	0%
+染	ngêm	0%
+苒	ngêm
+蚺	ngëm
+儼	ngëm	0%
+冉	ngëm
+染	ngëm	0%
+苒	ngëm
+蚺	ngẽm
+嚴	ngẽm	0%
+蚦	ngẽm	3%
+髥	ngẽm
+髯	ngẽm	0%
+嚷	ngèng	0%
+讓	ngèng
+醸	ngèng	0%
+釀	ngèng
+仰	ngêng	0%
+蠰	ngēng
+蠰	ngẽng	0%
+壤	ngẽng
+攘	ngẽng
+禳	ngẽng
+穣	ngẽng	0%
+穰	ngẽng	3%
+蘘	ngẽng	0%
+吽	ngèo
+牛	ngèo
+鈎	ngêo
+鉤	ngêo
+偶	ngêo
+耦	ngêo
+藕	ngêo
+勾	ngëo
+句	ngëo	0%
+鉤	ngëo
+牛	ngēo	0%
+牛	ngẽo	0%
+業	ngèp
+鄴	ngèp	0%
+劓	ngì
+懝	ngì
+誼	ngì
+貤	ngì
+二	ngì
+佴	ngì
+弍	ngì	3%
+擬	ngì	3%
+毦	ngì
+義	ngì
+議	ngì
+貳	ngì
+邇	ngì
+二	ngî	3%
+爾	ngî
+𠇍	ngî
+兒	ngī
+洱	ngī	3%
+珥	ngī	0%
+耳	ngī
+衈	ngī
+鉺	ngī
+駬	ngī	3%
+兒	ngĩ
+儀	ngĩ	3%
+宜	ngĩ
+嶷	ngĩ
+懝	ngĩ
+栭	ngĩ
+洏	ngĩ	0%
+疑	ngĩ
+而	ngĩ
+誼	ngĩ
+貤	ngĩ
+鮞	ngĩ
+鴯	ngĩ	3%
+任	ngìm
+妊	ngìm	0%
+姙	ngìm
+紝	ngìm
+荏	ngìm	3%
+衽	ngìm
+袵	ngìm
+賃	ngìm	0%
+飪	ngìm
+㱃	ngīm	3%
+飲	ngīm
+吟	ngĩm
+任	ngĩm	0%
+壬	ngĩm	0%
+妊	ngĩm	0%
+姙	ngĩm
+崟	ngĩm
+認	ngìn
+忍	ngîn
+仁	ngîn	0%
+肕	ngîn
+艮	ngïn	0%
+哏	ngïn	0%
+忍	ngïn	0%
+靭	ngïn	0%
+韌	ngïn	0%
+𠆧	ngĩn
+人	ngĩn
+仁	ngĩn	0%
+儿	ngĩn
+𣏴	ngĩn
+廿	ngìp
+日	ngìt	3%
+氜	ngìt
+日	ngît
+日	ngït
+臥	ngò
+我	ngô
+騀	ngō
+𩣣	ngō	0%
+𩭝	ngō	0%
+俄	ngõ	3%
+哦	ngõ
+囮	ngõ	3%
+𡈙	ngõ
+娥	ngõ
+峩	ngõ
+峨	ngõ
+硪	ngõ
+莪	ngõ
+蛾	ngõ
+訛	ngõ
+譌	ngõ
+鋨	ngõ
+鵝	ngõ
+鵞	ngõ	0%
+䳘	ngõ
+麌	ngõ	0%
+㝵	ngòi	3%
+外	ngòi	3%
+懝	ngòi
+礙	ngòi
+偔	ngôi
+我	ngöi
+皚	ngõi
+呆	ngõi
+獃	ngõi
+騃	ngõi	0%
+櫟	ngòk
+樂	ngòk
+岳	ngòk
+嶽	ngòk	0%
+鸑	ngòk
+噩	ngōk
+愕	ngōk
+𥔲	ngōk
+萼	ngōk
+蕚	ngōk
+諤	ngōk	3%
+鄂	ngōk	0%
+鍔	ngōk	0%
+顎	ngōk
+鰐	ngōk	0%
+鱷	ngōk	0%
+鶚	ngōk
+齶	ngōk
+㟁	ngòn
+岸	ngòn	3%
+玩	ngòn
+翫	ngòn
+貦	ngòn
+戇	ngòng	0%
+昂	ngōng
+昂	ngõng	3%
+餓	ngù
+囮	ngũ
+峨	ngũ
+蛾	ngũ
+鵝	ngũ
+鵞	ngũ
+䳘	ngũ
+偽	nguì
+魏	nguì
+寓	nguì
+庽	nguì
+御	nguì
+禦	nguì
+遇	nguì
+馭	nguì
+魚	nguî
+乳	nguî
+俁	nguî
+圄	nguî
+圉	nguî
+嵎	nguî
+語	nguî
+齬	nguî
+危	nguĩ
+嵬	nguĩ
+巍	nguĩ	3%
+麌	nguĩ
+侞	nguĩ	0%
+喁	nguĩ
+如	nguĩ
+娛	nguĩ	0%
+愚	nguĩ	0%
+洳	nguĩ
+漁	nguĩ
+璵	nguĩ
+禺	nguĩ
+䋈	nguĩ
+茹	nguĩ
+虞	nguĩ	3%
+袽	nguĩ
+銣	nguĩ
+隅	nguĩ
+魚	nguĩ	3%
+䱷	nguĩ
+𨰻	ngùk
+獄	ngùk
+玉	ngùk	3%
+肉	ngùk	3%
+褥	ngùk
+鈺	ngùk
+肉	ngûk
+兀	ngük
+郁	ngük
+潤	ngùn	3%
+閏	ngùn	0%
+願	ngùn
+朊	ngûn
+硯	ngûn
+耎	ngün
+䓴	ngün
+軟	ngün
+輭	ngün
+元	ngũn
+原	ngũn
+厵	ngũn	0%
+塬	ngũn
+嫄	ngũn
+沅	ngũn	0%
+源	ngũn
+蚖	ngũn	3%
+螈	ngũn
+覎	ngũn
+言	ngũn
+阮	ngũn
+蛹	ngùng
+喁	ngũng
+毧	ngũng
+濃	ngũng
+穠	ngũng
+絨	ngũng
+羢	ngũng	3%
+茸	ngũng
+襛	ngũng
+醲	ngũng
+顒	ngũng
+焫	ngùt
+抈	ngùt
+月	ngùt
+玥	ngùt	3%
+月	ngût
+矻	ngūt
+兀	ngūt	0%
+刖	ngūt
+卼	ngūt	0%
+杌	ngūt
+阢	ngūt	5%
+敉	nì
+弭	nì	0%
+洱	nì
+珥	nì
+餌	nì
+膩	nì	3%
+旎	nî	0%
+禰	nî	3%
+你	nî	3%
+您	nî	3%
+汝	nî	3%
+禰	nï
+你	nï	0%
+儞	nï
+妳	nï	0%
+稔	nîm	0%
+菍	nîm	3%
+棯	nîm	0%
+淰	nĩm	0%
+凹	nîp	0%
+凹	nïp	0%
+捏	nīt
+嬲	niü	0%
+怒	niü
+蹂	niū	0%
+妞	niū
+忸	niū	5%
+扭	niū	3%
+狃	niū
+紐	niū
+鈕	niū
+稬	nò	0%
+穤	nò	0%
+𥻟	nò
+糥	nò
+糯	nò	3%
+那	nõ
+娜	nõ
+儺	nõ
+挪	nõ
+挼	nõ	0%
+褦	nòi	0%
+佴	nòi
+奈	nòi	0%
+柰	nòi
+耐	nòi
+萘	nòi	3%
+喏	nòk
+鍩	nòk
+諾	nòk
+暖	nôn
+暖	nön
+㬉	nön
+煖	nön
+煗	nön
+凼	nòng	0%
+襠	nòng
+囊	nông
+曩	nông
+𠺘	nōng	0%
+囔	nōng
+攮	nōng
+涳	nõng
+蠰	nõng
+囔	nõng
+儾	nõng
+囊	nõng	0%
+曩	nõng
+瓤	nõng	0%
+饢	nõng
+齉	nõng
+怒	nù
+稬	nù
+穤	nù
+𥻟	nù
+糥	nù
+糯	nù
+懦	nù	3%
+呶	nū
+努	nū
+弩	nū
+胬	nū
+帑	nũ
+挼	nũ
+奴	nũ	0%
+孥	nũ
+駑	nũ	3%
+內	nuì	3%
+㨅	nuì
+氝	nuì	3%
+氞	nuì
+餒	nuî
+女	nuī
+釹	nuī
+衂	nùk	0%
+衄	nùk	0%
+䶊	nùk	0%
+忸	nük
+按	nük
+朒	nük
+勗	nūk
+勖	nūk
+恧	nūk
+嫩	nùn	0%
+燶	nûng
+燶	nüng	0%
+濃	nũng
+儂	nũng	3%
+噥	nũng	0%
+膿	nũng
+農	nũng	3%
+慄	nùt	3%
+訥	nùt	3%
+肭	nùt
+抐	nüt	0%
+胖	nūt
+抐	nūt
+哦	ò
+墮	ò	3%
+惰	ò
+阿	ö
+哦	ö
+噢	ö	3%
+㚳	ö	3%
+妿	ö	0%
+娿	ö
+婀	ö
+柯	ö	0%
+猗	ö
+痾	ö
+舸	ö
+訶	ö	0%
+軻	ö	0%
+剁	ō
+橢	ō
+朵	ō
+甙	òi
+駘	òi	3%
+代	òi
+埭	òi	0%
+岱	òi
+帒	òi
+待	òi
+怠	òi
+殆	òi
+玳	òi
+瑇	òi
+紿	òi	0%
+袋	òi	3%
+迨	òi
+靆	òi
+黛	òi
+哀	öi	0%
+嬡	öi
+愛	öi
+璦	öi	3%
+鎄	öi	0%
+靉	öi
+噯	ōi	3%
+曖	ōi
+藹	ōi
+靄	ōi
+鐸	òk
+度	òk
+踱	òk
+惡	ök
+噁	ōk
+堊	ōk
+惡	ōk	3%
+斷	òn
+塅	òn
+椴	òn	0%
+段	òn	0%
+煅	òn
+籪	òn
+緞	òn
+鍛	òn	3%
+耑	ön
+胺	ön
+按	ön
+安	ön
+摁	ön
+桉	ön	0%
+案	ön
+氨	ön
+端	ön
+銨	ön
+鞍	ön	0%
+鞌	ön
+短	ōn	0%
+盎	òng
+宕	òng
+盪	òng
+碭	òng
+菪	òng
+蕩	òng
+𦿆	òng
+鐺	öng
+檔	öng	0%
+骯	öng
+噹	öng	3%
+璫	öng
+當	öng	3%
+蟷	öng
+擋	ōng
+欓	ōng
+盎	ōng
+讜	ōng
+黨	ōng	3%
+怕	pä
+扒	pã	3%
+鈀	pã	0%
+划	pã
+掱	pã
+杷	pã
+爬	pã
+琶	pã
+筢	pã	0%
+耙	pã
+趴	pã
+稗	pâi
+粺	pâi
+派	päi
+𠂢	päi
+𠜱	päi	3%
+批	päi
+砒	päi
+磇	päi
+哌	pāi
+派	pāi
+蒎	pāi
+棑	pãi
+俳	pãi	3%
+徘	pãi	3%
+排	pãi	3%
+牌	pãi
+𤗋	pãi
+箄	pãi
+𥱼	pãi	3%
+簰	pãi
+啪	päk	3%
+帕	päk	3%
+拍	päk
+粕	päk	3%
+釙	päk
+魄	pāk
+柏	pāk
+栢	pāk
+檗	pāk
+珀	pāk	3%
+扳	pän
+頒	pän
+乑	pän
+噴	pän
+攀	pän
+盼	pän
+袢	pän	0%
+襻	pän	3%
+鋬	pän	3%
+砰	pâng
+棒	pâng	3%
+稖	pâng
+嘭	päng	0%
+烹	päng
+閛	päng
+𨳵	päng	0%
+憑	pãng
+堋	pãng
+搒	pãng	3%
+𠗦	pãng	3%
+馮	pãng
+弸	pãng
+彭	pãng
+朋	pãng	0%
+棚	pãng	0%
+澎	pãng	0%
+澋	pãng
+熢	pãng	3%
+甏	pãng
+硼	pãng	0%
+篣	pãng	0%
+膨	pãng
+蟛	pãng	0%
+蟚	pãng
+䨻	pãng	3%
+鬅	pãng	3%
+鵬	pãng
+泡	pâo	0%
+刨	pâo	0%
+爆	päo
+咆	päo
+奅	päo
+抱	päo
+拋	päo	0%
+泡	päo	0%
+炮	päo	3%
+皰	päo
+砲	päo
+礟	päo
+礮	päo	0%
+脬	päo	3%
+菢	päo
+剖	pāo	0%
+掊	pāo	0%
+瓿	pāo	0%
+跑	pāo
+𩭍	pão
+䯽	pão
+裒	pão
+掊	pão
+跑	pão
+刨	pão
+匏	pão
+庖	pão
+袍	pão	3%
+颮	pão	0%
+秕	pât	3%
+疲	pêh
+瞥	pëik
+蹩	pëik
+辟	pēik
+僻	pēik
+噼	pēik
+擗	pēik
+甓	pēik
+癖	pēik	0%
+薜	pēik
+闢	pēik
+霹	pēik
+泵	pēim
+扁	pëin
+緶	pëin	3%
+諞	pëin
+跰	pëin	3%
+鉼	pëin	5%
+騁	pëin
+𩧢	pëin
+片	pëin
+俜	pëin
+偏	pëin
+姘	pëin
+娉	pëin
+徧	pëin
+拚	pëin
+拼	pëin
+涄	pëin
+犏	pëin	0%
+甹	pëin
+䀻	pëin	3%
+砯	pëin
+篇	pëin
+編	pëin
+翩	pëin	0%
+聘	pëin
+䏒	pëin
+胼	pëin
+腁	pëin	3%
+荓	pëin	0%
+蹁	pëin	0%
+𨉂	pëin
+𨉯	pëin
+遍	pëin	3%
+鍂	pëin
+頩	pëin
+騙	pëin
+片	pēin	3%
+屏	pẽin
+摒	pẽin
+便	pẽin
+跰	pẽin	3%
+鉼	pẽin	0%
+砰	pẽin	0%
+胼	pẽin
+荓	pẽin	0%
+伻	pẽin
+坪	pẽin
+帡	pẽin
+幈	pẽin
+平	pẽin	0%
+怦	pẽin
+抨	pẽin
+枰	pẽin
+瓶	pẽin	3%
+竮	pẽin
+箳	pẽin
+簈	pẽin
+𥵪	pẽin
+缾	pẽin
+萍	pẽin	0%
+蓱	pẽin
+𦶊	pẽin
+蘋	pẽin	3%
+蛢	pẽin	3%
+評	pẽin
+軿	pẽin
+郱	pẽin
+駢	pẽin
+騈	pẽin	3%
+骿	pẽin	0%
+鮃	pẽin
+劈	pêk
+劈	pëk	3%
+踢	pëk
+㺓	pèl
+僄	pèl	0%
+殍	pêl	0%
+票	pêl	0%
+驃	pël
+僄	pël	0%
+剽	pël
+嘌	pël
+摽	pël	3%
+漂	pël	3%
+瓢	pël	3%
+瞟	pël
+縹	pël
+螵	pël	0%
+飄	pël	0%
+鰾	pël
+㧼	pēl
+莩	pẽl
+摽	pẽl
+嫖	pẽl	3%
+樸	pẽl
+薸	pẽl
+坪	pêng
+瓶	pêng	3%
+缾	pêng
+呯	pêng
+𩩍	pêng
+坪	pēng	0%
+平	pẽng
+撇	pêt
+丿	pêt
+撇	pët
+氕	pët
+跛	pēt	0%
+撇	pēt
+被	pî	0%
+脾	pî	0%
+婢	pî
+睥	pî
+被	pï
+屁	pï	0%
+披	pï
+狉	pï	0%
+紕	pï
+譬	pï
+否	pī
+痞	pī
+丕	pī
+呸	pī
+嚭	pī	0%
+圮	pī	3%
+帔	pī	3%
+脴	pī
+苤	pī	0%
+邳	pī
+鄙	pī
+駓	pī
+魾	pī
+䲹	pī	3%
+鞞	pĩ
+肶	pĩ
+裨	pĩ
+陂	pĩ
+螕	pĩ
+疲	pĩ
+嬖	pĩ
+枇	pĩ	3%
+琵	pĩ	0%
+皮	pĩ
+脾	pĩ	0%
+膍	pĩ
+芘	pĩ
+蚍	pĩ	3%
+蜱	pĩ
+貔	pĩ
+郫	pĩ	0%
+鈹	pĩ
+陴	pĩ
+鮍	pĩ
+鼙	pĩ
+牝	pîn
+瀕	pĩn	0%
+蘋	pĩn
+嚬	pĩn
+牝	pĩn
+矉	pĩn
+貧	pĩn
+頻	pĩn
+顰	pĩn
+疋	pīt	0%
+匹	pīt
+苉	pīt	3%
+頗	pö
+破	pö
+髲	pō
+叵	pō
+笸	pō
+鉕	pō	3%
+頗	pō
+駊	pō	0%
+皤	põ
+繁	põ	0%
+婆	põ
+媻	põ
+蓓	pôi
+倍	pôi
+坯	pôi
+碚	pôi
+棑	pöi
+淠	pöi
+焙	pöi	0%
+肺	pöi	0%
+佩	pöi	3%
+旆	pöi
+沛	pöi	0%
+珮	pöi
+胚	pöi
+配	pöi
+霈	pöi
+裴	põi
+掊	põi
+瓿	põi
+培	põi	3%
+抔	põi
+裵	põi	3%
+賠	põi
+醅	põi	3%
+錇	põi
+陪	põi	0%
+璞	pök	0%
+粕	pōk	0%
+釙	pōk
+泡	pōk	0%
+皰	pōk	3%
+樸	pōk	3%
+噗	pōk	3%
+撲	pōk	5%
+攴	pōk
+攵	pōk
+朴	pōk
+蹼	pōk	0%
+𨠘	pōk	3%
+醭	pōk
+伴	pôn
+番	pön
+拚	pön
+拼	pön
+判	pön	3%
+泮	pön	3%
+潘	pön	3%
+胖	põn	0%
+蹣	põn	0%
+媻	põn
+柈	põn
+槃	põn	0%
+盤	põn
+磐	põn	0%
+磻	põn
+蟠	põn	3%
+耪	pòng
+蚄	pông
+硥	pông	3%
+玤	pông	3%
+蚌	pông
+蛖	pông	0%
+蜯	pông
+謗	pōng	3%
+傍	põng	3%
+膀	põng	3%
+磅	põng
+彷	põng	3%
+房	põng
+逢	põng	3%
+尨	põng
+龐	põng
+篣	põng	3%
+嗙	põng
+徬	põng
+旁	põng
+滂	põng
+牻	põng	3%
+螃	põng
+逄	põng	3%
+鰟	põng	3%
+潑	pöt	0%
+醱	pöt	0%
+㧊	pöt
+鏺	pöt
+婆	pû	0%
+甫	pü
+破	pü
+舖	pü
+鋪	pü
+甫	pū
+脯	pū	3%
+圃	pū	3%
+普	pū	3%
+氆	pū	0%
+浦	pū
+溥	pū	3%
+譜	pū	3%
+鐠	pū
+砣	pũ	0%
+𥓿	pũ	3%
+皤	pũ
+逋	pũ
+鉈	pũ
+砣	pũ	3%
+婆	pũ
+浦	pũ
+匍	pũ	0%
+莆	pũ
+菩	pũ
+葡	pũ
+蒲	pũ
+酺	pũ	3%
+仆	pûk
+仆	pük
+仆	pūk
+湓	pûn	0%
+盆	pûn
+濆	pün
+噴	pün
+閛	püng
+掽	püng
+碰	püng
+踫	püng	3%
+捧	pūng
+捀	pūng
+摓	pūng
+淎	pūng
+莑	pũng
+漨	pũng
+菶	pũng
+逢	pũng
+塳	pũng
+𥭗	pũng
+塜	pũng
+篷	pũng
+𥴣	pũng
+𦪪	pũng
+芃	pũng
+蓬	pũng
+髼	pũng
+胊	qú
+瑢	róng
+挲	sâ
+沙	sâ
+挱	sâ
+砂	sâ	0%
+㲚	sä
+沙	sä	0%
+痧	sä
+紗	sä
+莎	sä
+裟	sä
+𩵮	sä
+魦	sä
+鯊	sä
+鯋	sä	0%
+挲	sä
+灑	sā
+耍	sā	0%
+䛈	sài	0%
+誓	sài
+逝	sài	3%
+䤱	sài
+篩	sâi
+噬	sâi
+狧	sâi
+筮	sâi	0%
+簭	sâi
+𦧇	sâi
+舐	sâi	0%
+䑛	sâi
+舓	sâi	0%
+籭	säi	0%
+埶	säi	0%
+丗	säi
+世	säi
+勢	säi
+卋	säi
+曬	säi	0%
+篩	säi
+簁	säi
+簛	säi
+貰	säi	3%
+釃	säi	3%
+貰	sãi
+側	sāk
+嗦	sāk
+𢱢	sāk
+衫	sâm	0%
+彡	sâm
+穇	sâm	3%
+摻	sām	3%
+衫	sām
+閂	sân	3%
+栓	sân
+殘	sân
+柵	sän	0%
+刪	sän	0%
+埏	sän
+姍	sän
+山	sän
+拴	sän	0%
+氙	sän
+汕	sän
+涮	sän
+潸	sän
+珊	sän
+疝	sän
+篡	sän	0%
+簒	sän
+舢	sän	3%
+芟	sän
+苫	sän
+訕	sän
+跚	sän	3%
+閂	sän	0%
+孱	sãn
+潺	sãn
+驏	sãn
+生	sâng	0%
+覡	sâng
+胜	säng
+牲	säng
+狌	säng
+生	säng
+甥	säng
+笙	säng
+鼪	säng
+渻	sāng	0%
+省	sāng	3%
+眚	sāng
+𧍖	sāng	3%
+賞	sāng
+𨜜	sāng	0%
+扔	sào
+哨	säo
+嘯	säo
+捎	säo	0%
+梢	säo
+潲	säo
+筲	säo
+耖	säo	0%
+艄	säo
+蛸	säo
+銹	säo
+鏥	säo	3%
+鏽	säo
+鞘	säo	0%
+稍	sāo
+颼	sāo
+煮	sàp
+眨	säp	0%
+霎	säp
+唼	säp
+翣	säp
+歃	sāp
+霎	sāp	0%
+𣻑	sät
+剎	sät
+殺	sät
+煞	sät	0%
+脎	sät
+鎩	sät	0%
+剎	sāt
+射	sèh	0%
+䠶	sèh	0%
+麝	sèh
+䬷	sêh
+社	sêh
+厙	sëh
+啥	sëh	0%
+猞	sëh
+舍	sëh	0%
+舎	sëh
+賒	sëh	0%
+䬷	sēh
+捨	sēh
+佘	sẽh	0%
+畬	sẽh	3%
+畲	sẽh
+虵	sẽh	3%
+蛇	sẽh
+輋	sẽh
+闍	sẽh
+食	sèik	0%
+蝕	sèik
+飭	sēik
+骰	sēik
+識	sēik
+奭	sēik	3%
+式	sēik	3%
+拭	sēik
+歮	sēik	3%
+穡	sēik	0%
+色	sēik
+螫	sēik
+軾	sēik
+適	sēik
+釋	sēik
+銫	sēik	0%
+飾	sēik
+抋	sëim
+沁	sëim
+滲	sëim	5%
+芩	sẽim
+岑	sẽim
+忱	sẽim
+愖	sẽim	0%
+森	sẽim
+涔	sẽim
+諶	sẽim
+單	sèin
+乘	sèin
+娍	sèin
+晟	sèin
+晠	sèin
+盛	sèin
+嵊	sèin
+𦛙	sèin
+升	sêin
+苫	sëin
+升	sëin
+𠅫	sëin
+𠙟	sëin	3%
+勝	sëin
+𡕲	sëin
+昇	sëin	0%
+檉	sëin
+琞	sëin	0%
+𤳔	sëin	0%
+聖	sëin
+聲	sëin	3%
+蟶	sëin	0%
+阩	sëin
+陞	sëin
+升	sēin
+澠	sẽin
+丞	sẽin
+乘	sẽin	3%
+城	sẽin
+堘	sẽin	0%
+塍	sẽin
+塖	sẽin	0%
+娍	sẽin
+宬	sẽin
+成	sẽin	0%
+𢦩	sẽin
+承	sẽin
+晟	sẽin
+晠	sẽin
+𣎒	sẽin
+洆	sẽin
+珹	sẽin
+畻	sẽin
+盛	sẽin
+繩	sẽin
+荿	sẽin	3%
+誠	sẽin
+郕	sẽin
+鋮	sẽin
+𨭘	sẽin
+𨹚	sẽin
+䫆	sẽin
+澀	sēip
+㒊	sēip
+澁	sēip
+石	sèk	6%
+石	sêk
+炻	sêk	3%
+䂖	sêk
+碩	sêk
+祏	sêk
+䄷	sêk	3%
+鼫	sêk	3%
+濕	sëk
+杓	sēk	0%
+繳	sēk
+勺	sēk
+妁	sēk
+灼	sēk
+爍	sēk
+芍	sēk
+鑠	sēk
+召	sèl
+劭	sèl
+紹	sèl
+肇	sèl
+邵	sèl
+兆	sêl	0%
+少	sël
+燒	sël
+少	sēl	0%
+苕	sẽl	5%
+韶	sẽl	0%
+贍	sèm	0%
+剡	sèm	0%
+䀹	sēm
+閃	sēm
+陝	sēm
+單	sẽm	0%
+蟬	sẽm	0%
+儃	sẽm
+嬋	sẽm
+檐	sẽm	0%
+禪	sẽm	3%
+簷	sẽm
+蟾	sẽm
+撣	sèn	3%
+禪	sèn
+倩	sèn	0%
+善	sèn
+墡	sèn
+嬗	sèn
+掞	sèn
+擅	sèn
+茜	sèn
+鄯	sèn
+鱣	sên
+繕	sên
+膳	sên
+蟮	sên
+蟺	sên	0%
+鐥	sên	0%
+饍	sên	0%
+鱔	sên
+扇	sën	0%
+搧	sën
+煽	sën
+羴	sën	0%
+羶	sën
+膻	sën	3%
+蒨	sën	3%
+騸	sën	3%
+鞝	sèng
+蠰	sèng
+上	sèng
+尙	sèng
+尚	sèng
+聲	sêng
+湯	sëng
+聲	sëng
+上	sëng	3%
+傷	sëng	3%
+商	sëng	3%
+墒	sëng
+殤	sëng
+熵	sëng
+觴	sëng
+賞	sēng	0%
+倘	sẽng
+城	sẽng
+成	sẽng
+償	sẽng
+嘗	sẽng
+嫦	sẽng
+常	sẽng	3%
+徜	sẽng	0%
+甞	sẽng	0%
+裳	sẽng	3%
+鱨	sẽng	3%
+瘦	sëo
+愁	sẽo	0%
+箑	sèp
+霅	sèp
+歙	sèp	0%
+拾	sèp	0%
+涉	sèp	3%
+渉	sèp
+閃	sëp	3%
+曅	sēp	0%
+曄	sēp
+燁	sēp
+熠	sēp
+爗	sēp
+折	sèt
+蝕	sèt
+揲	sêt	0%
+鞨	sêt
+舌	sêt
+色	sēt
+虱	sēt
+蝨	sēt	0%
+設	sēt
+鯴	sēt	0%
+峙	sì	0%
+忕	sì
+媞	sì
+惿	sì
+氏	sì
+社	sì
+豎	sì
+曙	sì
+署	sì	3%
+侍	sì
+是	sì
+昰	sì
+樹	sì
+澍	sì
+眡	sì
+眎	sì	0%
+示	sì
+視	sì
+豉	sì
+䜵	sì	3%
+䜻	sì
+時	sî	3%
+市	sî
+恃	sî	3%
+柹	sî
+柿	sî
+鈰	sî
+酗	sï
+噓	sï	0%
+耆	sï
+樞	sï
+俞	sï
+嗜	sï
+尸	sï
+屍	sï
+庶	sï	0%
+庻	sï	0%
+弒	sï
+恕	sï
+戍	sï	0%
+抒	sï
+摴	sï	0%
+攄	sï	0%
+施	sï
+曙	sï
+書	sï
+樗	sï	0%
+毹	sï	0%
+紓	sï
+署	sï	0%
+腧	sï
+舒	sï	0%
+蓍	sï
+詩	sï
+試	sï
+謚	sï	0%
+輸	sï
+屎	sī
+暑	sī	3%
+矢	sī
+豎	sī	0%
+豕	sī	0%
+黍	sī
+鼡	sī	0%
+䑕	sī	0%
+鼠	sī	0%
+鍉	sĩ
+㖷	sĩ
+曙	sĩ
+匙	sĩ	0%
+𠸭	sĩ
+塒	sĩ
+旹	sĩ
+時	sĩ
+杸	sĩ
+殊	sĩ	0%
+殳	sĩ
+糬	sĩ
+茨	sĩ
+蒔	sĩ
+薯	sĩ
+藷	sĩ	0%
+諟	sĩ	0%
+軗	sĩ
+鰣	sĩ
+什	sìm	0%
+椹	sìm
+甚	sìm
+葚	sìm
+深	sïm
+琛	sïm
+郴	sïm	3%
+沈	sīm
+諗	sīm	0%
+伈	sīm
+嬸	sīm	0%
+審	sīm	0%
+瀋	sīm
+讅	sīm
+縝	sìn
+慎	sìn
+愼	sìn
+眘	sìn
+身	sîn
+身	sïn	0%
+伸	sïn
+呻	sïn
+抻	sïn
+珅	sïn
+申	sïn
+砷	sïn
+紳	sïn
+胂	sïn	3%
+𠈌	sĩn	3%
+娠	sĩn
+宸	sĩn	3%
+晨	sĩn	6%
+神	sĩn
+臣	sĩn	0%
+辰	sĩn	0%
+什	sìp
+拾	sìp	0%
+十	sìp
+澀	sīp
+濕	sīp
+溼	sīp
+実	sìt
+寔	sìt
+實	sìt
+失	sīt	0%
+室	sīt
+瑟	sīt
+售	siù	0%
+受	siù
+壽	siù	0%
+授	siù
+綬	siù
+狩	siü	0%
+收	siü
+守	siū	0%
+扌	siū
+手	siū
+狩	siū
+𦣻	siū
+艏	siū
+首	siū
+𩠐	siū
+仇	siũ
+售	siũ
+讎	siũ
+睃	sò
+梭	sô
+傻	sô
+挲	sö
+莎	sö
+挱	sö	0%
+唆	sö
+娑	sö
+梭	sö
+桫	sö
+梳	sö
+羧	sö
+鮻	sö
+嗦	sō
+唆	sō	0%
+所	sō
+蘇	sō	3%
+塞	söi
+噻	söi
+揌	söi	3%
+賽	söi
+使	sōi
+駛	sōi	5%
+嗍	sök
+塑	sōk	0%
+愬	sōk
+搠	sōk	3%
+數	sōk	0%
+朔	sōk
+槊	sōk	0%
+索	sōk
+蒴	sōk
+吮	sôn
+楯	sôn
+舡	sõn
+舩	sõn
+船	sõn
+瀧	söng
+蠰	söng
+孀	söng	5%
+䉶	söng
+雙	söng
+䨇	söng	3%
+霜	söng	3%
+鷞	söng
+鸘	söng
+爽	sōng	3%
+索	sōt
+恤	sōt
+裇	sōt
+說	sōt	3%
+疋	sü
+娑	sü
+梳	sü	3%
+數	sü
+疏	sü	3%
+疎	sü
+蔬	sü
+數	sū
+睡	suì
+誰	suî
+說	suï
+帥	suï	3%
+稅	suï
+衰	suï
+水	suī
+誰	suī	0%
+誰	suĩ
+垂	suĩ
+陲	suĩ	0%
+屬	sùk
+塾	sùk	3%
+孰	sùk
+淑	sùk
+熟	sùk
+菽	sùk
+蜀	sùk
+蠋	sùk
+蠾	sùk
+贖	sùk
+縮	sûk	0%
+縮	sük	0%
+倏	sūk
+叔	sūk
+縮	sūk
+順	sùn
+瞬	sûn	3%
+腎	sûn
+蜃	sûn
+蜄	sûn
+鶉	sûn
+舜	sün
+唇	sũn	0%
+淳	sũn
+純	sũn
+脣	sũn
+蒓	sũn
+蓴	sũn
+醇	sũn
+錞	sũn
+馴	sũn
+㓽	sũng
+嫞	sũng
+崇	sũng	0%
+崈	sũng	0%
+鱅	sũng
+沭	sùt
+秫	sùt	3%
+術	sùt
+述	sùt	0%
+鉥	sùt
+沏	täi
+凄	täi
+切	täi
+悽	täi
+棲	täi
+淒	täi	3%
+砌	täi
+緀	täi	3%
+萋	täi
+𪗏	täi
+呔	tāi	0%
+銻	tāi	3%
+懠	tãi
+齊	tãi
+亝	tãi	0%
+薺	tãi	3%
+蠐	tãi	3%
+賊	tàk
+鰂	tàk
+蠶	tâm	0%
+參	täm
+摻	täm	0%
+穇	täm
+叅	täm
+噆	täm
+攙	täm
+瘮	täm
+蔘	täm
+驂	täm
+參	tām
+慘	tām
+黲	tām
+讒	tãm
+巉	tãm	0%
+慚	tãm
+欃	tãm
+饞	tãm
+殘	tân
+嘆	tän
+湌	tän
+飡	tän
+餐	tän
+䱗	tän
+燦	tān
+璨	tān
+粲	tān
+殘	tãn
+曾	tãng
+層	tãng	0%
+噪	täo
+操	täo
+澡	täo	0%
+燥	täo
+㿷	täo
+糙	täo
+藻	täo
+趮	täo
+躁	täo
+屮	tāo	5%
+艸	tāo	3%
+草	tāo	3%
+嘈	tão
+曹	tão	0%
+槽	tão
+漕	tão
+艚	tão
+螬	tão
+鰽	tão
+遢	tât
+甴	tât
+踏	tät
+遢	tät
+羍	tät	0%
+撻	tāt	3%
+斜	tẽh
+邪	tẽh
+切	tëik	3%
+竊	tëik
+俶	tēik
+趯	tēik
+裼	tēik	3%
+嘁	tēik	0%
+切	tēik
+倜	tēik	3%
+剔	tēik	0%
+忑	tēik
+忒	tēik
+惕	tēik	3%
+慝	tēik	0%
+慽	tēik
+慼	tēik	0%
+戚	tēik
+槭	tēik
+脦	tēik
+鋱	tēik	3%
+箐	tëin	3%
+菁	tëin	0%
+靘	tëin	0%
+鯖	tëin
+仟	tëin
+千	tëin	0%
+圊	tëin
+扦	tëin
+氰	tëin
+淸	tëin
+清	tëin
+芊	tëin	3%
+蜻	tëin	0%
+蹮	tëin
+躚	tëin	3%
+遷	tëin	3%
+郬	tëin
+釺	tëin
+阡	tëin
+青	tëin	0%
+靑	tëin	0%
+韆	tëin	0%
+淺	tēin
+請	tēin
+前	tẽin
+情	tẽin
+䝼	tẽin
+錢	tẽin	0%
+兛	tëinhāk
+兛	tëinhāk	0%
+瓩	tëinngā
+瓩	tëinngā
+赤	tëk
+疼	tëk	0%
+俏	tël	0%
+峭	tël
+誚	tël
+鍬	tël
+鍫	tël	0%
+悄	tēl
+愀	tēl	0%
+瞧	tẽl	0%
+憔	tẽl
+樵	tẽl
+癄	tẽl
+譙	tẽl	0%
+顦	tẽl	0%
+簽	têm
+塹	têm
+槧	têm
+籖	têm	0%
+籤	têm	3%
+懺	tëm
+暹	tëm	3%
+殲	tëm	0%
+簽	tëm	3%
+讖	tëm	3%
+撏	tẽm
+潛	tẽm
+青	têng
+詳	têng
+槍	tëng	0%
+青	tëng	3%
+嗆	tëng	3%
+戧	tëng
+牄	tëng	0%
+瑲	tëng
+篬	tëng	3%
+蹌	tëng	3%
+蹡	tëng	3%
+錆	tëng
+鎗	tëng
+鑲	tëng
+請	tēng
+搶	tēng	0%
+爿	tẽng
+墻	tẽng
+嬙	tẽng	0%
+庠	tẽng
+廧	tẽng
+戕	tẽng
+晴	tẽng
+暒	tẽng	0%
+檣	tẽng
+牆	tẽng
+祥	tẽng	3%
+羏	tẽng	0%
+翔	tẽng
+艢	tẽng
+薔	tẽng
+詳	tẽng
+楱	tëo
+湊	tëo	3%
+輳	tëo
+呫	tēp
+妾	tēp
+踥	tēp
+蹄	tî	3%
+薺	tî
+糍	tî
+似	tî
+臍	tî
+揌	tï	3%
+粢	tĩ
+糍	tĩ
+餈	tĩ
+尋	tîm
+纖	tïm	0%
+摻	tïm
+簽	tïm	0%
+侵	tïm
+僉	tïm	0%
+唚	tïm
+鋟	tïm	0%
+駸	tïm
+寑	tīm	3%
+寢	tīm
+梫	tīm
+覃	tĩm
+鐔	tĩm	0%
+尋	tĩm	0%
+潯	tĩm
+灥	tĩm
+蕁	tĩm
+鱘	tĩm	0%
+親	tïn
+㗊	tīp	0%
+戢	tīp	0%
+揖	tīp
+楫	tīp
+檝	tīp
+緝	tīp
+艥	tīp	3%
+蕺	tīp	0%
+輯	tīp
+七	tīt
+咠	tīt	3%
+柒	tīt
+漆	tīt
+舙	tīt
+葺	tīt
+鰍	tiû
+湫	tiü
+湊	tiü
+啾	tiü
+揪	tiü
+楸	tiü
+秋	tiü
+䆋	tiü
+龝	tiü
+萩	tiü
+鞦	tiü
+鞧	tiü
+鬏	tiü
+鰍	tiü
+鰌	tiü	0%
+鶖	tiü
+囚	tiũ
+泅	tiũ
+痤	tô
+銼	tô	0%
+瘥	tö
+矬	tö
+坐	tö
+剉	tö
+唑	tö
+嵯	tö
+挫	tö
+搓	tö
+痤	tö	3%
+磋	tö	0%
+脞	tö
+莝	tö
+蹉	tö	3%
+銼	tö	3%
+錯	tö	0%
+鹺	tö
+菜	tôi
+菜	töi
+蔡	töi
+埰	tōi
+寀	tōi
+彩	tōi
+採	tōi
+睬	tōi
+綵	tōi	0%
+茝	tōi
+采	tōi
+才	tõi
+材	tõi
+纔	tõi
+裁	tõi
+財	tõi
+䴭	tõi
+雹	tôk
+鑿	tôk	3%
+爨	tön
+攛	tön	0%
+躥	tön	0%
+鑹	tön	3%
+竄	tōn
+蹌	tōn	0%
+爨	tōn	0%
+囱	töng
+篬	töng
+蹌	töng	0%
+倉	töng
+傖	töng
+愴	töng
+滄	töng
+熗	töng
+牎	töng
+牕	töng	3%
+窓	töng	3%
+窗	töng	3%
+𥦗	töng	3%
+窻	töng	3%
+艙	töng
+蒼	töng	3%
+鶬	töng	0%
+藏	tõng
+卒	tōt
+撮	tōt
+猝	tōt	0%
+吐	tû
+唾	tû
+坐	tü
+酢	tü
+唑	tü
+嵯	tü
+搓	tü	0%
+蹉	tü
+厝	tü
+措	tü
+粗	tü
+觕	tü
+醋	tü	3%
+麁	tü	3%
+麄	tü
+麤	tü	3%
+徂	tũ
+殂	tũ	0%
+焌	tuï	3%
+蛆	tuï
+衰	tuï	0%
+娶	tuï	0%
+催	tuï	0%
+啐	tuï
+崔	tuï	0%
+推	tuï	3%
+摧	tuï
+榱	tuï
+毳	tuï
+淬	tuï
+漼	tuï	3%
+璀	tuï	0%
+縗	tuï
+翠	tuï	3%
+脆	tuï
+膗	tuï	0%
+趣	tuï
+趨	tuï	0%
+取	tuī	0%
+娶	tuī	0%
+徐	tuĩ
+隋	tuĩ	0%
+隨	tuĩ
+踧	tūk	0%
+促	tūk	0%
+涑	tūk	0%
+禿	tūk
+簇	tūk	0%
+簌	tūk	0%
+蔟	tūk
+蔌	tūk
+觫	tūk
+謖	tūk
+蹙	tūk
+蹴	tūk	3%
+蹵	tūk
+速	tūk
+遬	tūk	3%
+鵚	tūk
+齪	tūk
+屯	tûn
+村	tûn	3%
+邨	tûn	3%
+吋	tün
+寸	tün
+村	tün
+𧨸	tūn
+蹲	tũn
+溱	tũn	3%
+栓	tũn
+佺	tũn
+全	tũn
+嗪	tũn
+囤	tũn
+存	tũn	3%
+巡	tũn
+廵	tũn
+循	tũn
+旬	tũn
+栒	tũn
+泉	tũn
+痊	tũn
+秦	tũn	0%
+筌	tũn
+荃	tũn
+螓	tũn
+詮	tũn
+輇	tũn
+醛	tũn
+鰁	tũn
+蔥	tûng
+璁	tüng	3%
+樅	tüng	0%
+匆	tüng
+怱	tüng
+悤	tüng
+璁	tüng
+瑽	tüng	0%
+聰	tüng
+蔥	tüng
+蓯	tüng
+鏦	tüng
+騘	tüng
+驄	tüng
+慫	tūng
+潀	tũng
+潨	tũng
+茼	tũng	0%
+𠚪	tũng
+叢	tũng	0%
+従	tũng
+從	tũng
+悰	tũng
+松	tũng
+枀	tũng
+枩	tũng
+柗	tũng
+梥	tũng
+淞	tũng
+漎	tũng
+灇	tũng
+𥵫	tũng
+藂	tũng
+䕺	tũng
+賨	tũng
+𥓿	tuó
+擦	tüt
+度	ù
+妒	ù
+妬	ù	0%
+斁	ù
+杜	ù
+渡	ù
+𤢕	ù
+芏	ù
+螙	ù
+蠧	ù
+蠹	ù
+鍍	ù
+都	ü
+嘟	ü	3%
+柯	ü	0%
+痾	ü	0%
+舸	ü
+訶	ü
+軻	ü
+闍	ü	0%
+哆	ü	0%
+多	ü
+屙	ü
+珂	ü	0%
+砢	ü	3%
+橢	ū	3%
+朵	ū
+哚	ū
+垛	ū
+埵	ū
+堵	ū
+睹	ū
+綞	ū	0%
+肚	ū
+覩	ū	0%
+賭	ū	3%
+跺	ū	3%
+跥	ū
+躲	ū
+躱	ū	3%
+堆	uì	3%
+堆	uî
+對	uî	0%
+碓	uî
+敦	uï	0%
+堆	uï
+錞	uï
+兌	uï
+對	uï
+磓	uï	3%
+膇	uï	3%
+鐓	uï
+纛	ùk	0%
+黷	ùk
+讀	ùk
+毒	ùk
+獨	ùk	3%
+碡	ùk
+髑	ùk
+嗝	ûk
+督	ük
+喔	ūk
+竺	ūk
+厾	ūk	3%
+屋	ūk	3%
+督	ūk
+篤	ūk	0%
+齷	ūk
+扽	ùn
+敦	ùn	0%
+鈍	ùn
+盾	ùn	3%
+楯	ùn
+惇	ùn	3%
+撴	ùn
+㪟	ùn
+沌	ùn
+炖	ùn
+燉	ùn
+砘	ùn	0%
+蹾	ùn	3%
+遁	ùn
+頓	ùn
+頓	ûn
+盹	ûn	3%
+敦	ün	3%
+暾	ün	3%
+鐓	ün	0%
+驐	ün	0%
+屯	ūn	3%
+拴	ūn
+囤	ūn
+噸	ūn
+墪	ūn
+墩	ūn
+礅	ūn
+躉	ūn
+幢	ùng	3%
+恫	ùng
+絧	ùng
+侗	ùng
+㗢	ùng
+垌	ùng
+峒	ùng
+詷	ùng
+棟	ùng
+崠	ùng	3%
+動	ùng
+慟	ùng
+戙	ùng
+挏	ùng
+洞	ùng
+硐	ùng	0%
+胴	ùng
+𨔝	ùng
+瓮	ûng
+甕	ûng
+罋	ûng
+冬	üng
+凍	üng
+咚	üng
+峂	üng
+崠	üng	0%
+崬	üng
+東	üng
+㲇	üng
+氡	üng
+湩	üng
+腖	üng
+苳	üng	0%
+菄	üng
+蝀	üng
+𩂓	üng
+鶇	üng
+鼕	üng
+𪔜	üng	3%
+揰	ūng
+懂	ūng
+𢫨	ūng
+㧬	ūng	0%
+擁	ūng
+棟	ūng
+董	ūng	0%
+頓	ùt
+凸	ùt
+奪	ùt
+突	ùt	0%
+腯	ùt	0%
+葖	ùt
+飿	ùt
+突	ût
+嘩	và	0%
+華	và	3%
+畫	và
+砉	và	0%
+話	và	0%
+舙	vâ	0%
+凹	vä
+哇	vä
+嘩	vä
+屲	vä
+洼	vä
+窊	vä
+窪	vä	0%
+蛙	vä	0%
+鼃	vä	0%
+娃	vā	3%
+搲	vā
+攨	vā
+鏵	vā
+鏵	vã	0%
+嘩	vã
+樺	vã	0%
+華	vã
+驊	vã
+壞	vài
+歪	vāi
+懷	vãi	3%
+槐	vãi	3%
+淮	vãi
+耲	vãi
+豁	vàk	0%
+划	vàk
+畫	vàk
+砉	vàk	0%
+劃	vàk
+惐	vàk
+惑	vàk
+或	vàk
+騞	vàk
+畫	vâk
+劃	vâk
+域	vāk	0%
+棫	vāk
+圂	vàn
+宦	vàn
+患	vàn
+漶	vàn	0%
+豢	vàn
+環	vân
+幻	vân
+挽	vân	0%
+綰	vân
+輓	vân
+鯇	vân
+彎	vän
+灣	vän	0%
+鐶	vān	5%
+㝁	vãn
+睘	vãn
+瞏	vãn
+灣	vãn	0%
+圜	vãn
+嬛	vãn
+寰	vãn	0%
+擐	vãn	0%
+澴	vãn
+環	vãn
+繯	vãn
+還	vãn	5%
+鍰	vãn	0%
+鬟	vãn
+澋	vàng	3%
+橫	vàng
+黌	vãng
+揘	vãng
+橫	vãng
+吼	vāo	3%
+胶	vão	5%
+滑	vàt
+猾	vàt	0%
+螖	vàt
+挖	vät
+斡	vät
+穵	vät
+淢	vèik	0%
+域	vèik	0%
+棫	vèik
+役	vèik
+疫	vèik
+蜮	vèik
+閾	vèik
+泂	vèin
+扔	vèin
+𢫨	vèin
+咏	vèin
+泳	vèin
+潁	vèin
+禜	vèin
+穎	vèin
+詠	vèin	0%
+頴	vèin
+永	vêin
+𣊫	vēin	0%
+𣊭	vēin	0%
+嶸	vẽin
+榮	vẽin
+濚	vẽin	0%
+蠑	vẽin
+鎣	vẽin
+為	vì
+爲	vì
+遺	vì
+位	vì
+喂	vì
+渭	vì
+碨	vì	0%
+胃	vì
+蝟	vì	0%
+衛	vì
+謂	vì	3%
+軎	vì	3%
+偎	vï
+噦	vï
+威	vï
+尉	vï	0%
+崴	vï
+慰	vï
+𤈫	vï
+煨	vï
+猥	vï
+畏	vï
+穢	vï
+罻	vï	0%
+蔚	vï	0%
+薉	vï	3%
+隈	vï
+餵	vï	0%
+諱	vī
+隗	vī	0%
+倭	vī
+偉	vī	0%
+喟	vī	0%
+委	vī
+𣨙	vī
+洧	vī
+煒	vī	0%
+瑋	vī
+痏	vī
+痿	vī	0%
+緯	vī
+萎	vī	3%
+葳	vī
+葦	vī
+諉	vī
+逶	vī	3%
+韋	vī	0%
+韙	vī	0%
+韡	vī
+鮪	vī	3%
+溈	vĩ
+囗	vĩ
+唯	vĩ	0%
+圍	vĩ
+囲	vĩ
+圩	vĩ	3%
+帷	vĩ	0%
+幃	vĩ	0%
+惟	vĩ	0%
+桅	vĩ
+潿	vĩ
+濰	vĩ
+為	vĩ
+爲	vĩ
+維	vĩ
+違	vĩ
+遺	vĩ	0%
+闈	vĩ	0%
+和	vò	0%
+禍	vò	3%
+窼	vö	90%
+渦	vö	0%
+和	vö	0%
+撾	vö
+倭	vö
+喎	vö
+堝	vö	0%
+媧	vö
+窠	vö
+窩	vö	3%
+萵	vö	0%
+蝸	vö
+踒	vö
+鍋	vö
+和	võ
+俰	võ
+禾	võ
+龢	võ
+燴	vòi
+匯	vòi	0%
+𢑥	vòi	0%
+彙	vòi	0%
+彚	vòi
+㧟	vòi
+會	vòi
+薈	vòi
+會	vôi
+煨	vöi
+穢	vöi	0%
+佪	või
+回	või	0%
+徊	või
+洄	või	0%
+痐	või	0%
+茴	või
+蚘	või	0%
+蛔	või
+蛕	või
+蜖	või
+迴	või	3%
+逥	või	3%
+耠	vòk	3%
+劐	vòk	0%
+彠	vòk	0%
+獲	vòk
+矱	vòk
+穫	vòk
+蒦	vòk
+蠖	vòk
+鍋	vôk	0%
+鑊	vôk	0%
+換	vòn
+逭	vòn	3%
+剜	vōn
+婉	vōn
+宛	vōn
+帵	vōn
+惋	vōn
+椀	vōn
+琬	vōn
+㼝	vōn
+畹	vōn	0%
+盌	vōn
+碗	vōn
+腕	vōn
+苑	vōn
+菀	vōn
+蜿	vōn
+豌	vōn	0%
+王	vòng	0%
+旺	vòng
+往	vông	0%
+徃	vông	0%
+尢	vōng
+尣	vōng
+尪	vōng	3%
+尫	vōng
+尩	vōng	3%
+枉	vōng
+汪	vōng
+凰	võng
+喤	võng
+徨	võng
+惶	võng	0%
+湟	võng
+潢	võng
+煌	võng
+王	võng
+瑝	võng
+璜	võng
+癀	võng	0%
+皇	võng
+磺	võng
+篁	võng
+簧	võng
+葟	võng
+蝗	võng
+蟥	võng
+遑	võng
+鍠	võng
+鐄	võng
+隍	võng	0%
+鰉	võng
+鱑	võng
+黃	võng
+活	vòt
+楛	vù
+瓠	vù
+互	vù	3%
+冱	vù
+護	vù
+鸌	vù	0%
+護	vû	3%
+芋	vû
+埡	vü
+塢	vü
+祜	vü	3%
+惡	vü	3%
+鎢	vü
+嗚	vü	3%
+圬	vü
+於	vü
+汙	vü
+汚	vü
+污	vü
+烏	vü
+肟	vü	3%
+葫	vü	3%
+鄔	vü
+靰	vü
+鎢	vū
+和	vũ
+嘸	vũ
+壺	vũ
+弧	vũ
+湖	vũ	3%
+煳	vũ
+狐	vũ
+瑚	vũ
+瓠	vũ
+糊	vũ
+胡	vũ
+蝴	vũ
+衚	vũ
+醐	vũ
+餬	vũ
+鬍	vũ
+鶘	vũ	3%
+猢	vũ	0%
+琿	vùn
+葷	vùn
+熨	vùn	3%
+圂	vùn	3%
+惲	vùn
+慁	vùn
+殞	vùn
+混	vùn
+渾	vùn	3%
+溷	vùn	3%
+諢	vùn	3%
+運	vùn
+鄆	vùn
+隕	vùn	3%
+韻	vùn	3%
+允	vûn
+尹	vûn	0%
+狁	vûn	0%
+醞	vün
+韞	vün
+員	vün
+慍	vün	3%
+榲	vün
+氳	vün	0%
+溫	vün
+瘟	vün	5%
+縕	vün	3%
+鰮	vün	3%
+搵	vūn
+穩	vūn
+蘊	vūn	3%
+醞	vūn	3%
+韞	vūn
+煇	vũn	0%
+葷	vũn
+畇	vũn
+云	vũn
+勻	vũn
+暈	vũn	3%
+紜	vũn
+耘	vũn
+芸	vũn
+蕓	vũn
+贇	vũn
+鄖	vũn
+雲	vũn
+餛	vũn
+餫	vũn
+魂	vũn
+核	vût	3%
+煀	vüt	0%
+熨	vūt
+屈	vūt	0%
+詘	vūt
+尉	vūt
+欝	vūt
+膃	vūt
+鬰	vūt	0%
+鬱	vūt	3%
+細	xâi	3%
+壻	xâi
+婿	xâi
+巂	xäi	0%
+茜	xäi
+棲	xäi
+𠧧	xäi
+嗮	xäi
+嶲	xäi
+恓	xäi
+樨	xäi
+㯕	xäi
+氥	xäi
+犀	xäi
+硒	xäi
+粞	xäi
+細	xäi
+舾	xäi	0%
+西	xäi
+鍶	xäi
+纚	xāi
+嘥	xāi	3%
+壐	xāi
+屣	xāi
+徙	xāi
+枲	xāi
+洗	xāi
+漇	xāi
+璽	xāi
+縰	xāi
+葸	xāi
+蓰	xāi
+蹝	xāi
+躧	xāi
+𨑭	xāi
+𩌦	xāi
+噻	xâk
+塞	xāk
+㩙	xāk
+噻	xāk	0%
+揌	xāk
+𡨄	xāk	3%
+三	xâm
+衫	xäm
+蔘	xäm
+三	xäm	0%
+仨	xäm	3%
+叄	xäm	0%
+弎	xäm
+毿	xäm
+糂	xām
+糝	xām
+糣	xām
+散	xän
+傘	xän	0%
+㪚	xän	0%
+潵	xän	3%
+散	xān
+饊	xān
+僧	xäng
+鬙	xäng	3%
+掃	xâo
+繰	xäo
+臊	xäo	0%
+埽	xäo
+掃	xäo
+搔	xäo
+瘙	xäo	0%
+簑	xäo
+繅	xäo	0%
+蓑	xäo
+騷	xäo
+鰠	xäo
+嫂	xāo
+卅	xàp
+攃	xät
+潵	xät	3%
+撒	xät
+薩	xät	0%
+撒	xāt	0%
+噓	xêh
+些	xëh
+卸	xëh	3%
+瀉	xëh
+缷	xëh
+赦	xëh	0%
+寫	xēh
+息	xēik
+契	xēik
+跬	xēik
+腊	xēik
+嗇	xēik
+媟	xēik
+媳	xēik
+㞕	xēik	0%
+屑	xēik	0%
+惜	xēik	0%
+悉	xēik	0%
+昔	xēik
+晰	xēik
+晳	xēik
+析	xēik	3%
+枻	xēik
+楔	xēik
+榍	xēik
+泄	xēik
+洩	xēik	0%
+淅	xēik
+渫	xēik
+潟	xēik
+熄	xēik
+燮	xēik
+皙	xēik
+窸	xēik
+紲	xēik
+絏	xēik
+舄	xēik
+菥	xēik
+薛	xēik
+蜥	xēik
+螅	xēik
+蟋	xēik	0%
+褻	xēik
+踖	xēik
+躠	xēik
+𨇨	xēik	3%
+躞	xēik
+錫	xēik
+鍥	xēik	0%
+䱑	xēik
+糝	xēim
+旌	xëin	0%
+胜	xëin
+狌	xëin
+鮮	xëin	0%
+仙	xëin	0%
+仚	xëin
+佡	xëin	0%
+僊	xëin	0%
+先	xëin
+姓	xëin
+性	xëin
+惺	xëin
+星	xëin
+曐	xëin
+煋	xëin
+𤙡	xëin
+猩	xëin
+瑆	xëin
+𤯕	xëin
+㽮	xëin
+䃏	xëin
+秈	xëin
+𥠀	xëin
+箵	xëin
+篂	xëin
+籼	xëin	3%
+綫	xëin
+線	xëin
+腺	xëin
+䗌	xëin
+詵	xëin
+酰	xëin
+銛	xëin
+䤼	xëin
+霰	xëin
+騂	xëin
+鮏	xëin	3%
+鯹	xëin
+鱻	xëin
+渻	xēin
+省	xēin
+洗	xēin
+冼	xēin
+㝭	xēin
+𢜫	xēin
+燹	xēin
+獮	xēin
+癬	xēin
+睲	xēin	3%
+筅	xēin
+𦔄	xēin
+蘚	xēin	3%
+跣	xēin
+醒	xēin
+銑	xēin
+鮮	xēin	3%
+圾	xēip	3%
+颯	xēip
+惜	xëk	0%
+錫	xëk
+削	xëk
+削	xēk
+鵲	xēk
+嘯	xël
+蛸	xël
+鞘	xël
+峭	xël
+宵	xël
+消	xël
+瀟	xël
+硝	xël
+笑	xël	0%
+𥬇	xël	3%
+箾	xël
+簫	xël
+綃	xël
+翛	xël
+肖	xël
+蕭	xël
+蠨	xël
+逍	xël
+銷	xël	0%
+陗	xël	0%
+霄	xël
+魈	xël	0%
+小	xēl	0%
+皛	xēl
+筱	xēl
+筿	xēl	0%
+篠	xēl
+星	xêng
+箱	xêng
+銹	xëng
+鏥	xëng
+鏽	xëng	3%
+鑲	xëng
+廂	xëng
+湘	xëng	3%
+瓖	xëng
+相	xëng
+箱	xëng
+緗	xëng	0%
+腥	xëng
+葙	xëng	3%
+襄	xëng
+鉎	xëng
+鍟	xëng
+驤	xëng	0%
+醒	xēng	3%
+想	xēng	0%
+鮝	xēng	0%
+鯗	xēng
+鱶	xēng
+嗽	xëo
+颼	xēo
+傁	xēo
+叟	xēo	5%
+叜	xēo	3%
+嗖	xēo	0%
+嗾	xēo	0%
+廋	xēo
+搜	xēo
+擻	xēo
+溲	xēo
+漱	xēo
+瞍	xēo	0%
+艘	xēo
+蒐	xēo
+藪	xēo	0%
+螋	xēo
+鎪	xēo	3%
+䬒	xēo	3%
+楔	xêp
+揳	xëp
+楔	xëp
+四	xî
+四	xï	0%
+肆	xï
+死	xī
+心	xîm
+芯	xîm	3%
+贐	xîm
+心	xïm	0%
+芯	xïm
+唚	xīm
+詵	xïn
+㐰	xïn
+信	xïn
+囟	xïn
+擤	xïn
+新	xïn
+燊	xïn
+汛	xïn
+莘	xïn
+蕈	xïn
+薪	xïn
+訊	xïn
+辛	xïn
+鋅	xïn
+卌	xìp
+厀	xīp
+膝	xīp
+修	xiü
+宿	xiü
+琇	xiü
+秀	xiü
+繡	xiü
+羞	xiü
+脩	xiü
+𦟤	xiü	3%
+䐰	xiü	0%
+饈	xiü
+腮	xöi	5%
+顋	xöi	5%
+鰓	xöi
+髄	xōi
+髓	xōi
+索	xôk
+索	xōk
+蒜	xôn
+狻	xön
+痠	xön
+祘	xön	0%
+筭	xön
+算	xön
+酸	xön
+桑	xông
+嗓	xông
+搡	xông	3%
+磉	xông
+顙	xông
+喪	xöng
+桑	xöng
+伺	xù
+侍	xù
+事	xù
+仕	xù	0%
+士	xù
+似	xû
+絲	xû	0%
+鬚	xû	3%
+兕	xû
+姒	xû	0%
+𤉡	xû	0%
+疵	xû
+眥	xû
+糸	xû	3%
+魳	xü
+厶	xü	3%
+釃	xü
+蘇	xü
+塑	xü	0%
+愬	xü
+四	xü
+肆	xü	3%
+佽	xü
+刺	xü
+司	xü	3%
+嗉	xü
+嘶	xü
+噝	xü	0%
+師	xü
+廁	xü
+廝	xü	3%
+思	xü
+恣	xü	0%
+愫	xü	3%
+𢠹	xü
+撕	xü
+斯	xü
+榡	xü
+次	xü
+泗	xü
+泝	xü	0%
+㴑	xü
+溯	xü
+溮	xü
+溸	xü	0%
+澌	xü
+獅	xü
+私	xü
+穌	xü
+笥	xü
+素	xü
+絲	xü
+緦	xü
+罳	xü
+虒	xü
+蛓	xü
+螄	xü
+訴	xü	0%
+賜	xü
+遡	xü
+酥	xü
+䫢	xü
+颸	xü
+駟	xü
+鬚	xü	0%
+鰤	xü	0%
+䲉	xü
+鳾	xü
+鷥	xü
+鼶	xü
+泚	xū
+纚	xū
+使	xū
+縰	xū
+史	xū
+嗩	xū
+此	xū
+瑣	xū	3%
+鎖	xū
+鎻	xū
+鏁	xū	0%
+茈	xũ
+茲	xũ
+飼	xũ
+茨	xũ
+鷥	xũ	0%
+慈	xũ
+瓷	xũ
+甆	xũ
+磁	xũ
+祠	xũ
+詞	xũ
+辤	xũ
+辭	xũ
+鶿	xũ
+鷀	xũ
+淬	xuì
+悴	xuì
+燧	xuì
+瑞	xuì	0%
+疩	xuì	3%
+瘁	xuì	0%
+祟	xuì	0%
+穗	xuì
+粋	xuì	0%
+粹	xuì
+脺	xuì	0%
+膵	xuì	0%
+萃	xuì	0%
+誶	xuì
+遂	xuì
+邃	xuì	0%
+隧	xuì
+顇	xuì
+碎	xuî
+墅	xuî	0%
+絮	xuî
+緒	xuî
+晬	xuï
+濉	xuï
+睢	xuï
+眭	xuï
+夊	xuï	0%
+桵	xuï
+歲	xuï
+浽	xuï
+碎	xuï
+稰	xuï	3%
+糈	xuï	0%
+綏	xuï
+胥	xuï
+荽	xuï
+蕤	xuï
+諝	xuï	0%
+醑	xuï	0%
+雖	xuï
+需	xuï
+須	xuï
+緌	xuï
+足	xūk
+謖	xūk
+宿	xūk
+僳	xūk
+夙	xūk
+㝛	xūk
+粟	xūk	3%
+肅	xūk
+蓿	xūk	0%
+餿	xūk
+鷫	xūk
+拴	xùn	0%
+篆	xùn
+羡	xùn	0%
+銓	xùn
+浚	xün
+吅	xün	3%
+儇	xün
+咺	xün
+喧	xün
+噀	xün	3%
+孫	xün
+宣	xün
+峋	xün
+巽	xün	0%
+徇	xün
+恂	xün
+揎	xün	0%
+昍	xün	3%
+晅	xün	3%
+暄	xün
+楦	xün
+殉	xün
+洵	xün
+渲	xün
+烜	xün
+煊	xün
+狥	xün	0%
+猻	xün
+珣	xün
+瑄	xün
+碹	xün
+絢	xün
+翾	xün	0%
+荀	xün
+萱	xün
+蓀	xün	3%
+詢	xün
+諼	xün
+迅	xün	3%
+遜	xün
+郇	xün
+飧	xün
+飱	xün	0%
+篹	xūn	3%
+損	xūn
+榫	xūn
+筍	xūn
+簨	xūn	0%
+選	xūn
+悛	xũn	0%
+旋	xũn	0%
+漩	xũn
+璇	xũn
+璿	xũn
+鏇	xũn
+餸	xûng
+樅	xüng
+忪	xüng
+從	xüng
+娀	xüng
+宋	xüng
+𢱤	xüng
+㩳	xüng
+鬆	xüng
+菘	xüng
+送	xüng
+䯳	xüng
+嵷	xūng
+慫	xūng
+漎	xūng
+傱	xūng
+凇	xūng
+崧	xūng
+嵩	xūng
+悚	xūng	3%
+愯	xūng
+竦	xūng
+聳	xūng	0%
+𪀚	xūng
+率	xūt
+恤	xūt
+戌	xūt
+摔	xūt
+窣	xūt
+蟀	xūt	3%
+䘏	xūt
+賉	xūt	3%
+雪	xūt	0%
+鱈	xūt	0%
+吔	yâ
+也	yâ	0%
+吔	yä
+襾	yä
+覀	yä	0%
+呀	yã
+枻	yài
+泄	yài
+拽	yài
+曳	yài
+㹭	yài	3%
+𤤺	yài
+𦥙	yài	3%
+跩	yài
+枍	yài
+孬	yãi
+窳	yãi
+蹬	yäng
+夜	yèh
+野	yêh	1000000%
+爺	yêh
+夜	yêh
+冶	yêh
+野	yëh	3%
+嘢	yëh
+耶	yëh
+爹	yēh
+爺	yēh
+邪	yẽh
+爺	yẽh
+耶	yẽh
+倻	yẽh	0%
+揶	yẽh
+椰	yẽh	0%
+玡	yẽh
+釾	yẽh
+鋣	yẽh
+昳	yèik
+斁	yèik
+𤢕	yèik
+役	yèik
+疫	yèik
+亦	yèik
+埸	yèik
+奕	yèik
+嶧	yèik	0%
+弈	yèik	0%
+弋	yèik	0%
+懌	yèik
+易	yèik
+榏	yèik
+液	yèik
+燚	yèik
+繹	yèik
+翊	yèik
+翌	yèik
+翼	yèik
+艗	yèik
+蜴	yèik	0%
+譯	yèik
+驛	yèik
+翼	yêik
+嗌	yēik
+暍	yēik
+噎	yēik
+億	yēik
+咽	yēik
+嚥	yēik
+憶	yēik	0%
+檍	yēik
+癔	yēik	0%
+益	yēik
+臆	yēik	0%
+謁	yēik
+鷁	yēik
+媵	yèin	0%
+蠅	yêin
+罌	yëin
+偀	yëin
+𠊶	yëin
+噟	yëin	0%
+嚶	yëin
+𡄖	yëin
+媖	yëin
+媵	yëin
+嫈	yëin
+嬰	yëin
+孆	yëin
+孾	yëin
+應	yëin	0%
+攖	yëin
+朠	yëin
+柍	yëin
+桜	yëin	0%
+楧	yëin
+櫻	yëin	0%
+渶	yëin
+濙	yëin
+濴	yëin
+瀅	yëin
+㶈	yëin
+煐	yëin
+⿱賏火	yëin
+瑛	yëin
+瓔	yëin
+甖	yëin
+癭	yëin	3%
+⿰矛英	yëin
+碤	yëin
+纓	yëin
+罃	yëin
+𦔃	yëin
+膺	yëin
+英	yëin
+蘡	yëin
+𧕄	yëin
+譍	yëin
+譻	yëin
+䣐	yëin
+鍈	yëin
+鑍	yëin
+霙	yëin
+韺	yëin
+𩘑	yëin
+鶧	yëin	0%
+鷹	yëin	3%
+鸚	yëin
+浧	yēin
+郢	yēin
+景	yēin
+澋	yēin
+影	yēin
+映	yēin
+暎	yēin
+𣤵	yēin
+𣻯	yēin	3%
+賏	yēin
+鉶	yẽin	5%
+謍	yẽin	0%
+夃	yẽin	3%
+鈃	yẽin
+禜	yẽin
+侀	yẽin
+刑	yẽin
+型	yẽin
+塋	yẽin
+嬴	yẽin	0%
+形	yẽin	3%
+櫿	yẽin
+滎	yẽin
+𤁽	yẽin
+瀛	yẽin
+瀠	yẽin
+瀯	yẽin
+灜	yẽin
+熒	yẽin
+營	yẽin
+瑩	yẽin
+䁝	yẽin
+硎	yẽin
+籝	yẽin
+籯	yẽin
+縈	yẽin
+藀	yẽin
+𦾵	yẽin
+䕦	yẽin
+螢	yẽin
+蠅	yẽin
+𧓌	yẽin
+贏	yẽin
+邢	yẽin
+郉	yẽin
+醟	yẽin
+鉶	yẽin
+䤯	yẽin
+陘	yẽin
+趯	yèk
+吁	yèk
+亦	yèk	0%
+瀹	yèk	3%
+籥	yèk	3%
+籲	yèk
+藥	yèk
+躍	yèk
+鑰	yèk	3%
+龠	yèk	3%
+龥	yèk
+藥	yêk	3%
+葯	yêk	3%
+䶳	yêk
+約	yëk
+約	yēk
+曜	yèl	3%
+㿢	yèl	3%
+耀	yèl	3%
+鷂	yêl
+徼	yël
+約	yël	0%
+么	yël
+吆	yël	0%
+崾	yël
+幺	yël	3%
+穾	yël
+腰	yël	0%
+要	yël
+邀	yël	3%
+靿	yël
+窅	yēl
+夭	yēl
+妖	yēl
+抌	yēl
+窈	yēl
+舀	yēl	0%
+黝	yēl
+陶	yẽl
+脁	yẽl
+銚	yẽl
+繇	yẽl
+垚	yẽl
+傜	yẽl
+姚	yẽl	3%
+徭	yẽl	3%
+搖	yẽl
+珧	yẽl	0%
+瑤	yẽl
+窯	yẽl
+窰	yẽl
+謠	yẽl
+軺	yẽl
+遙	yẽl
+颻	yẽl
+鰩	yẽl
+剡	yèm
+灧	yèm	0%
+灩	yèm	0%
+炎	yèm
+焔	yèm	0%
+焰	yèm
+焱	yèm
+燄	yèm
+琰	yèm
+艷	yèm	3%
+豔	yèm
+阽	yëm
+厭	yëm	0%
+懨	yëm	0%
+閹	yëm	3%
+饜	yëm	3%
+魘	yëm
+俺	yēm
+垵	yēm
+埯	yēm
+菴	yēm
+腌	yēm	3%
+厴	yēm	0%
+奄	yēm
+崦	yēm	0%
+弇	yēm
+掩	yēm
+淹	yēm
+罨	yēm
+醃	yēm
+靨	yēm	0%
+黶	yēm
+龑	yēm	0%
+嫌	yẽm
+㿕	yẽm	0%
+閆	yẽm
+閻	yẽm
+鹽	yẽm
+見	yèn
+峴	yèn
+鋧	yèn
+現	yèn
+睍	yèn
+燕	yên
+鷰	yên
+晏	yën
+閼	yën
+咽	yën
+嚥	yën
+堙	yën	3%
+嫣	yën	0%
+宴	yën
+殷	yën
+湮	yën
+焉	yën
+煙	yën	0%
+燕	yën
+胭	yën
+臙	yën
+菸	yën	0%
+蔫	yën
+讌	yën	0%
+醼	yën	0%
+闉	yën
+偃	yēn
+匽	yēn
+堰	yēn
+演	yēn
+蝘	yēn
+衍	yēn
+郾	yēn
+鼴	yēn
+埏	yẽn
+焉	yẽn
+廴	yẽn
+延	yẽn
+弦	yẽn
+涎	yẽn	3%
+痃	yẽn
+筵	yẽn
+絃	yẽn
+舷	yẽn	0%
+蜒	yẽn
+賢	yẽn	0%
+鄢	yẽn
+鉉	yẽn
+恙	yèng
+樣	yèng
+漾	yèng
+養	yêng
+氧	yêng
+癢	yêng
+柍	yëng	3%
+楧	yëng	3%
+霙	yëng
+鞅	yëng
+央	yëng	0%
+怏	yëng
+殃	yëng
+泱	yëng
+䄃	yëng
+秧	yëng
+養	yëng	0%
+䱀	yëng	3%
+鴦	yëng	3%
+影	yēng	0%
+鞅	yēng	0%
+瑒	yẽng	0%
+氜	yẽng	0%
+羏	yẽng
+贏	yẽng
+佯	yẽng
+垟	yẽng
+徉	yẽng
+揚	yẽng
+暘	yẽng
+楊	yẽng
+洋	yẽng	0%
+烊	yẽng	3%
+煬	yẽng
+瘍	yẽng	0%
+羊	yẽng	0%
+蛘	yẽng	0%
+蝆	yẽng
+鍚	yẽng	0%
+鐊	yẽng
+陽	yẽng
+颺	yẽng	3%
+葉	yèp	3%
+楪	yêp	0%
+擖	yêp	0%
+葉	yêp	3%
+枼	yêp	0%
+枽	yêp
+頁	yêp
+腌	yëp
+易	yì
+飫	yì
+勩	yì
+喻	yì
+峪	yì
+愈	yì
+懿	yì
+澦	yì
+異	yì
+瘉	yì	0%
+癒	yì
+矣	yì
+肄	yì
+蕷	yì	0%
+裕	yì
+諭	yì
+譽	yì
+豫	yì
+預	yì
+敧	yî	3%
+窳	yî	0%
+予	yî
+姨	yî
+與	yî
+以	yî
+宇	yî
+已	yî
+瑀	yî
+禹	yî
+羽	yî
+苡	yî
+苢	yî	0%
+雨	yî	3%
+瞖	yï
+翳	yï	0%
+犄	yï	3%
+觭	yï	0%
+迂	yï	3%
+猗	yï
+畬	yï
+於	yï
+菸	yï
+依	yï	0%
+咿	yï
+椅	yï
+漪	yï	3%
+于	yï
+伊	yï
+噫	yï
+意	yï	0%
+扆	yï	0%
+栘	yï
+殪	yï
+瘞	yï	0%
+禕	yï
+竽	yï	0%
+篒	yï
+紆	yï
+繄	yï
+薏	yï	0%
+衣	yï
+醫	yï
+銥	yï
+鐿	yï	0%
+餏	yï
+饐	yï
+鷖	yï
+鷾	yï	0%
+黟	yï
+玗	yï
+嫗	yī	0%
+欹	yī
+於	yī	0%
+依	yī
+倚	yī
+傴	yī
+吚	yī	0%
+咿	yī
+旖	yī
+椅	yī
+淤	yī
+漪	yī
+瘀	yī	0%
+綺	yī
+飫	yī	3%
+眙	yĩ	3%
+嶼	yĩ
+臾	yĩ	0%
+洟	yĩ
+荑	yĩ	0%
+媮	yĩ
+婾	yĩ
+沂	yĩ
+蛇	yĩ	0%
+俞	yĩ	0%
+毹	yĩ	6%
+予	yĩ
+余	yĩ
+儒	yĩ
+匜	yĩ	3%
+咦	yĩ	3%
+嚅	yĩ
+圯	yĩ
+夷	yĩ	0%
+妤	yĩ	0%
+姨	yĩ
+孺	yĩ
+宧	yĩ	3%
+嵛	yĩ	0%
+庾	yĩ
+彞	yĩ
+怡	yĩ
+愉	yĩ
+㧫	yĩ	3%
+揄	yĩ
+擩	yĩ
+椸	yĩ
+榆	yĩ
+歟	yĩ	3%
+渝	yĩ	0%
+𣽉	yĩ
+濡	yĩ
+狳	yĩ
+㺄	yĩ	0%
+瑜	yĩ
+痍	yĩ	0%
+瘐	yĩ
+盂	yĩ	3%
+移	yĩ	3%
+窬	yĩ
+簃	yĩ
+胰	yĩ
+腴	yĩ
+舁	yĩ
+與	yĩ
+萸	yĩ
+萮	yĩ
+薷	yĩ
+蝓	yĩ
+螔	yĩ
+蠕	yĩ
+襦	yĩ
+覦	yĩ	0%
+詒	yĩ
+諛	yĩ
+謻	yĩ
+貐	yĩ
+貽	yĩ	0%
+踰	yĩ
+輿	yĩ	0%
+迆	yĩ
+迤	yĩ
+迻	yĩ
+逾	yĩ	3%
+酏	yĩ
+雩	yĩ	0%
+頤	yĩ	3%
+顬	yĩ
+飴	yĩ
+餘	yĩ
+魣	yĩ
+窨	yîm	3%
+蔭	yîm
+䕃	yîm
+喑	yïm	3%
+愔	yïm	3%
+瘖	yïm
+蔭	yïm
+陰	yïm
+音	yïm
+乑	yĩm
+㐺	yĩm
+淫	yĩm
+霪	yĩm
+仞	yìn
+刃	yìn	0%
+孕	yìn
+牣	yìn
+紉	yìn
+胤	yìn
+茚	yìn
+軔	yìn
+廴	yîn	0%
+引	yîn	3%
+吲	yîn
+癮	yîn
+紖	yîn
+䌥	yîn	3%
+蚓	yîn	3%
+螾	yîn	0%
+隱	yîn
+殷	yïn	0%
+湮	yïn
+印	yïn
+囙	yïn
+因	yïn
+姻	yïn
+婣	yïn
+恩	yïn
+氤	yïn
+洇	yïn
+絪	yïn
+茵	yïn
+蒽	yïn
+裀	yïn
+銦	yïn
+鮣	yïn
+引	yīn
+夤	yĩn
+寅	yĩn	3%
+入	yìp
+揖	yīp
+唈	yīp
+悒	yīp	3%
+挹	yīp
+浥	yīp	0%
+邑	yīp	3%
+佚	yìt	0%
+軼	yìt
+掖	yìt
+液	yìt
+佾	yìt	0%
+泆	yìt
+溢	yìt
+腋	yìt
+逸	yìt	0%
+鎰	yìt
+一	yīt	3%
+壹	yīt	3%
+弌	yīt
+有	yiù
+釉	yiù
+佑	yiù
+侑	yiù
+又	yiù
+右	yiù
+囿	yiù
+宥	yiù
+牖	yiù
+祐	yiù
+莠	yiù	3%
+誘	yiù	3%
+䛻	yiù	0%
+柚	yiû
+有	yiû
+丣	yiû	0%
+卣	yiû
+友	yiû
+櫾	yiû	0%
+酉	yiû
+銪	yiû
+鼬	yiû
+優	yiü
+呦	yiü
+幼	yiü	3%
+幽	yiü
+憂	yiü
+有	yiü
+耰	yiü
+蚴	yiü	3%
+麀	yiü	3%
+黝	yiū
+柚	yiũ	0%
+繇	yiũ
+尢	yiũ	0%
+珧	yiũ
+㘥	yiũ
+尤	yiũ
+悠	yiũ
+攸	yiũ	0%
+油	yiũ
+游	yiũ
+犰	yiũ
+狖	yiũ
+猶	yiũ
+猷	yiũ
+由	yiũ
+疣	yiũ
+羑	yiũ
+莜	yiũ
+蕕	yiũ	0%
+蚰	yiũ	0%
+蝣	yiũ	0%
+蝤	yiũ	0%
+輶	yiũ
+遊	yiũ
+遒	yiũ	0%
+郵	yiũ	3%
+酋	yiũ	0%
+釉	yiũ
+鈾	yiũ
+魷	yiũ
+唷	yō
+喲	yō
+遠	yòn	3%
+垸	yòn
+掾	yòn
+縣	yòn
+院	yòn	0%
+圓	yôn
+裷	yön
+宛	yön
+冤	yön
+怨	yön
+淵	yön	0%
+眢	yön	0%
+箢	yön
+鳶	yön	0%
+鴛	yön
+鵷	yön
+兗	yōn	3%
+遠	yōn	0%
+元	yõn
+圜	yõn
+員	yõn
+丸	yõn
+園	yõn
+圓	yõn	3%
+媛	yõn
+媴	yõn
+完	yõn
+懸	yõn	0%
+援	yõn	0%
+椽	yõn
+櫞	yõn
+泫	yõn
+沿	yõn
+湲	yõn
+溳	yõn
+炫	yõn	3%
+烷	yõn
+爰	yõn
+猨	yõn
+猿	yõn
+玄	yõn
+瑗	yõn	0%
+眩	yõn
+紈	yõn	3%
+緣	yõn
+芄	yõn	0%
+芫	yõn	0%
+蝯	yõn
+衒	yõn
+袁	yõn
+轅	yõn	0%
+鈆	yõn
+鉛	yõn	0%
+魭	yõn	0%
+鶢	yõn
+黿	yõn
+戎	yõng
+說	yòt
+噦	yòt
+岤	yòt
+悅	yòt
+㧒	yòt
+曰	yòt
+樾	yòt	0%
+穴	yòt	0%
+篗	yòt
+籆	yòt
+籰	yòt
+粵	yòt
+茓	yòt
+越	yòt
+軏	yòt
+鉞	yòt
+閱	yòt	0%
+乙	yōt
+釔	yōt	0%
+㨅	yuì
+叡	yuì
+枘	yuì
+汭	yuì
+睿	yuì
+芮	yuì
+蚋	yuì
+蜹	yuì
+𧘉	yuì
+裔	yuì
+銳	yuì
+谷	yùk	3%
+鬻	yùk
+褥	yùk
+峪	yùk
+慾	yùk
+欲	yùk
+浴	yùk
+淯	yùk
+溽	yùk	3%
+縟	yùk
+育	yùk
+蓐	yùk
+辱	yùk	3%
+鵒	yùk
+郁	yūk
+勗	yūk
+勖	yūk
+彧	yūk	0%
+昱	yūk
+毓	yūk	0%
+沃	yūk	0%
+煜	yūk	3%
+燏	yūk
+燠	yūk
+薁	yūk
+鋈	yūk
+昀	yũn
+筠	yũn
+勻	yũn
+嫞	yùng	3%
+醟	yùng
+傭	yùng
+用	yùng
+苚	yùng
+勇	yûng
+勈	yûng
+噰	yüng
+滃	yüng
+澭	yüng	3%
+𩔚	yüng
+壅	yüng
+㜲	yüng
+暡	yüng
+㮬	yüng
+灉	yüng	0%
+癕	yüng
+癰	yüng
+翁	yüng	0%
+𦡚	yüng
+臃	yüng
+蓊	yüng
+蕹	yüng	3%
+邕	yüng
+雍	yüng
+雝	yüng
+䩺	yüng
+饔	yüng
+鶲	yüng	3%
+齆	yüng	3%
+臾	yūng
+擁	yūng
+俑	yūng
+傛	yūng
+冗	yūng
+嗡	yūng
+噰	yūng
+埇	yūng
+㙲	yūng
+嵱	yūng
+悀	yūng
+恿	yūng
+惥	yūng
+慂	yūng
+湧	yūng
+滃	yūng	0%
+澭	yūng
+甬	yūng
+𧗴	yūng
+踴	yūng
+𩔚	yūng
+𩟀	yūng
+狨	yũng
+瑢	yũng
+喁	yũng	0%
+𢫨	yũng
+傛	yũng	0%
+𠈋	yũng
+傭	yũng
+墉	yũng
+嫆	yũng
+㝐	yũng
+容	yũng
+庸	yũng	0%
+慵	yũng
+戎	yũng
+榕	yũng	3%
+溶	yũng
+瀜	yũng
+熔	yũng	0%
+狨	yũng
+𥬪	yũng	0%
+肜	yũng
+蓉	yũng
+融	yũng
+螎	yũng
+䗤	yũng
+鄘	yũng
+鎔	yũng
+鏞	yũng
+駥	yũng	3%
+鰫	yũng
