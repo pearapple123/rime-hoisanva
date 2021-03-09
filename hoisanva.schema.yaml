@@ -53,10 +53,11 @@ engine:
     - reverse_lookup_filter
 
 speller:
-  alphabet: abcdefghijklmnopqrstuvwxyz
+  alphabet: abcdefghijklmnopqrstuvwxyz;
   delimiter: " '"
   algebra:
     - derive/[1235]//
+    - xform/55/;/
     - xform/33/w/
     - xform/35/w/
     - xform/11/q/
@@ -72,43 +73,100 @@ translator:
   dictionary: hoisanva
   spelling_hints: 5
   comment_format:
-    - xform/1/¹/
-    - xform/2/²/
-    - xform/3/³/
-    - xform/5/⁵/
+    - xlit|1235|¹²³⁵|
   preedit_format:
     - xform/w/³³/
     - xform/q/¹¹/
     - xform/r/³¹/
     - xform/z/²¹/
+    - xform/;/⁵⁵/
 
-reverse_lookup:
-  tags: [ luna_pinyin ]
-  overwrite_comment: false
-  dictionary: hoisanva
+#reverse_lookup:
+#  tags: [ luna_pinyin ]
+#  overwrite_comment: false
+#  dictionary: hoisanva
 
-luna_pinyin:
-  tag: luna_pinyin
-  dictionary: luna_pinyin
-  prefix: "`"
-  suffix: ";"
-  tips: 〔拼音〕
-  preedit_format:
-    - xform/([nl])v/$1ü/
-    - xform/([nl])ue/$1üe/
-    - xform/([jqxy])v/$1u/
+#luna_pinyin:
+#  tag: luna_pinyin
+#  dictionary: luna_pinyin
+#  prefix: "`"
+#  suffix: ";"
+#  tips: 〔拼音〕
+#  preedit_format:
+#    - xform/([nl])v/$1ü/
+#    - xform/([nl])ue/$1üe/
+#    - xform/([jqxy])v/$1u/
 
 punctuator:
-  import_preset: default
+  half_shape:
+    " " : { commit: " " }
+    "," : { commit: "，" }
+    "<" : { commit: "；" }
+    "." : { commit: "。" }
+    ">" : { commit: "：" }
+    "/" : { commit: "・" }
+    "?" : { commit: "？" }
+    "'" : { commit: "、" }
+    "[" : { pair: [ "「", "」" ] }
+    "{" : { pair: [ "『", "』" ] }
+    "]" : { pair: [ "〈", "〉" ] }
+    "}" : { pair: [ "《", "》" ] }
+    "\\" : { pair: [ "【", "】" ] }
+    "|" : { pair: [ "〖", "〗" ] }
+    "!" : { commit: "！" }
+    "@" : { commit: "￦" }
+    "#" : { commit: "＃" }
+    "$" : { commit: "＄" }
+    "%" : { commit: "％" }
+    "^" : { commit: "．" }
+    "&" : { commit: "￥" }
+    "*" : { commit: "＊" }
+    "(" : { commit: "（" }
+    ")" : { commit: "）" }
+    "-" : { commit: "－" }
+    "_" : { commit: "—" }
+    "=" : { commit: "＝" }
+    "+" : { commit: "＋" }
+    "~" : { commit: "～" }
+  full_shape:
+    " " : { commit: " " }
+    "," : { commit: "，" }
+    "<" : { commit: "；" }
+    "." : { commit: "。" }
+    ">" : { commit: "：" }
+    "/" : { commit: "・" }
+    "?" : { commit: "？" }
+    "'" : { commit: "、" }
+    "[" : { pair: [ "「", "」" ] }
+    "{" : { pair: [ "『", "』" ] }
+    "]" : { pair: [ "〈", "〉" ] }
+    "}" : { pair: [ "《", "》" ] }
+    "\\" : { pair: [ "【", "】" ] }
+    "|" : { pair: [ "〖", "〗" ] }
+    "!" : { commit: "！" }
+    "@" : { commit: "￦" }
+    "#" : { commit: "＃" }
+    "$" : { commit: "＄" }
+    "%" : { commit: "％" }
+    "^" : { commit: "．" }
+    "&" : { commit: "￥" }
+    "*" : { commit: "＊" }
+    "(" : { commit: "（" }
+    ")" : { commit: "）" }
+    "-" : { commit: "－" }
+    "_" : { commit: "—" }
+    "=" : { commit: "＝" }
+    "+" : { commit: "＋" }
+    "~" : { commit: "～" }
 
 key_binder:
   import_preset: default
 
 recognizer:
   import_preset: default
-  patterns:
-    punct: "^/([0-9]0?|[a-z]+)$"
-    luna_pinyin: "`[a-z']*;?$"
+#  patterns:
+#    punct: "^/([0-9]0?|[a-z]+)$"
+#    luna_pinyin: "`[a-z']*;?$"
 
 style:
   font_face: "Yu Gothic UI"
