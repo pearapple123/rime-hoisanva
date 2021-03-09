@@ -81,21 +81,21 @@ translator:
     - xform/z/²¹/
     - xform/;/⁵⁵/
 
-#reverse_lookup:
-#  tags: [ luna_pinyin ]
-#  overwrite_comment: false
-#  dictionary: hoisanva
+reverse_lookup:
+  tags: [ luna_pinyin ]
+  overwrite_comment: false
+  dictionary: hoisanva
 
-#luna_pinyin:
-#  tag: luna_pinyin
-#  dictionary: luna_pinyin
-#  prefix: "`"
-#  suffix: ";"
-#  tips: 〔拼音〕
-#  preedit_format:
-#    - xform/([nl])v/$1ü/
-#    - xform/([nl])ue/$1üe/
-#    - xform/([jqxy])v/$1u/
+luna_pinyin:
+  tag: luna_pinyin
+  dictionary: luna_pinyin
+  prefix: "`"
+  suffix: ";"
+  tips: 〔拼音〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
 
 punctuator:
   half_shape:
