@@ -98,75 +98,16 @@ luna_pinyin:
     - xform/([jqxy])v/$1u/
 
 punctuator:
-  half_shape:
-    " " : { commit: " " }
-    "," : { commit: "，" }
-    "<" : { commit: "；" }
-    "." : { commit: "。" }
-    ">" : { commit: "：" }
-    "/" : { commit: "・" }
-    "?" : { commit: "？" }
-    "'" : { commit: "、" }
-    "[" : { pair: [ "「", "」" ] }
-    "{" : { pair: [ "『", "』" ] }
-    "]" : { pair: [ "〈", "〉" ] }
-    "}" : { pair: [ "《", "》" ] }
-    "\\" : { pair: [ "【", "】" ] }
-    "|" : { pair: [ "〖", "〗" ] }
-    "!" : { commit: "！" }
-    "@" : { commit: "￦" }
-    "#" : { commit: "＃" }
-    "$" : { commit: "＄" }
-    "%" : { commit: "％" }
-    "^" : { commit: "．" }
-    "&" : { commit: "￥" }
-    "*" : { commit: "＊" }
-    "(" : { commit: "（" }
-    ")" : { commit: "）" }
-    "-" : { commit: "－" }
-    "_" : { commit: "—" }
-    "=" : { commit: "＝" }
-    "+" : { commit: "＋" }
-    "~" : { commit: "～" }
-  full_shape:
-    " " : { commit: " " }
-    "," : { commit: "，" }
-    "<" : { commit: "；" }
-    "." : { commit: "。" }
-    ">" : { commit: "：" }
-    "/" : { commit: "・" }
-    "?" : { commit: "？" }
-    "'" : { commit: "、" }
-    "[" : { pair: [ "「", "」" ] }
-    "{" : { pair: [ "『", "』" ] }
-    "]" : { pair: [ "〈", "〉" ] }
-    "}" : { pair: [ "《", "》" ] }
-    "\\" : { pair: [ "【", "】" ] }
-    "|" : { pair: [ "〖", "〗" ] }
-    "!" : { commit: "！" }
-    "@" : { commit: "￦" }
-    "#" : { commit: "＃" }
-    "$" : { commit: "＄" }
-    "%" : { commit: "％" }
-    "^" : { commit: "．" }
-    "&" : { commit: "￥" }
-    "*" : { commit: "＊" }
-    "(" : { commit: "（" }
-    ")" : { commit: "）" }
-    "-" : { commit: "－" }
-    "_" : { commit: "—" }
-    "=" : { commit: "＝" }
-    "+" : { commit: "＋" }
-    "~" : { commit: "～" }
+  import_preset: default
 
 key_binder:
   import_preset: default
 
 recognizer:
   import_preset: default
-#  patterns:
-#    punct: "^/([0-9]0?|[a-z]+)$"
-#    luna_pinyin: "`[a-z']*;?$"
+  patterns:
+    punct: "^/([0-9]0?|[a-z]+)$"
+    luna_pinyin: "`[a-z']*;?$"
 
 style:
   font_face: "Yu Gothic UI"
