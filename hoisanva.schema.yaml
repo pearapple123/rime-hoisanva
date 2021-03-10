@@ -8,8 +8,12 @@ schema:
   author:
     - 𥹘𥼱〈Discord 𥹘𥼱#3329〉
     - suspiciouscactus〈Discord suspiciouscactus#2120〉
+
   description:
     用「Gene Chin」拼音的台山話的輸入法
+
+  dependencies:
+    - luna_pinyin
 
 switches:
   - name: ascii_mode
@@ -35,21 +39,25 @@ engine:
   segmentors:
     - ascii_segmentor
     - matcher
+    - affix_segmentor@luna_pinyin
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
   translators:
     - punct_translator
     - script_translator
+    - script_translator@luna_pinyin
   filters:
     - simplifier
     - uniquifier
+    - reverse_lookup_filter
 
 speller:
-  alphabet: abcdefghijklmnopqrstuvwxyz
+  alphabet: abcdefghijklmnopqrstuvwxyz;
   delimiter: " '"
   algebra:
-    - derive/[12345]//
+    - derive/[1235]//
+    - xform/55/;/
     - xform/33/w/
     - xform/35/w/
     - xform/11/q/
@@ -64,17 +72,107 @@ speller:
 translator:
   dictionary: hoisanva
   spelling_hints: 5
+  comment_format:
+    - xlit|1235|¹²³⁵|
   preedit_format:
+    - xform/ww/³⁵/
+    - xform/qq/¹⁵/
+    - xform/rr/³²⁵/
+    - xform/zz/²¹⁵/
     - xform/w/³³/
     - xform/q/¹¹/
     - xform/r/³¹/
     - xform/z/²¹/
+    - xform/;/⁵⁵/
+
+reverse_lookup:
+  tags: [ luna_pinyin ]
+  overwrite_comment: false
+  dictionary: hoisanva
+
+luna_pinyin:
+  tag: luna_pinyin
+  dictionary: luna_pinyin
+  prefix: "`"
+  suffix: ";"
+  tips: 〔拼音〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
 
 punctuator:
-  import_preset: default
+  half_shape:
+    " " : { commit: " " }
+    "," : { commit: "，" }
+    "<" : { commit: "；" }
+    "." : { commit: "。" }
+    ">" : { commit: "：" }
+    "/" : { commit: "・" }
+    "?" : { commit: "？" }
+    "'" : { commit: "、" }
+    "[" : { pair: [ "「", "」" ] }
+    "{" : { pair: [ "『", "』" ] }
+    "]" : { pair: [ "〈", "〉" ] }
+    "}" : { pair: [ "《", "》" ] }
+    "\\" : { pair: [ "【", "】" ] }
+    "|" : { pair: [ "〖", "〗" ] }
+    "!" : { commit: "！" }
+    "@" : { commit: "￦" }
+    "#" : { commit: "＃" }
+    "$" : { commit: "＄" }
+    "%" : { commit: "％" }
+    "^" : { commit: "．" }
+    "&" : { commit: "￥" }
+    "*" : { commit: "＊" }
+    "(" : { commit: "（" }
+    ")" : { commit: "）" }
+    "-" : { commit: "－" }
+    "_" : { commit: "—" }
+    "=" : { commit: "＝" }
+    "+" : { commit: "＋" }
+    "~" : { commit: "～" }
+  full_shape:
+    " " : { commit: " " }
+    "," : { commit: "，" }
+    "<" : { commit: "；" }
+    "." : { commit: "。" }
+    ">" : { commit: "：" }
+    "/" : { commit: "・" }
+    "?" : { commit: "？" }
+    "'" : { commit: "、" }
+    "[" : { pair: [ "「", "」" ] }
+    "{" : { pair: [ "『", "』" ] }
+    "]" : { pair: [ "〈", "〉" ] }
+    "}" : { pair: [ "《", "》" ] }
+    "\\" : { pair: [ "【", "】" ] }
+    "|" : { pair: [ "〖", "〗" ] }
+    "!" : { commit: "！" }
+    "@" : { commit: "￦" }
+    "#" : { commit: "＃" }
+    "$" : { commit: "＄" }
+    "%" : { commit: "％" }
+    "^" : { commit: "．" }
+    "&" : { commit: "￥" }
+    "*" : { commit: "＊" }
+    "(" : { commit: "（" }
+    ")" : { commit: "）" }
+    "-" : { commit: "－" }
+    "_" : { commit: "—" }
+    "=" : { commit: "＝" }
+    "+" : { commit: "＋" }
+    "~" : { commit: "～" }
 
 key_binder:
   import_preset: default
 
 recognizer:
   import_preset: default
+  patterns:
+    punct: "^/([0-9]0?|[a-z]+)$"
+    luna_pinyin: "`[a-z']*;?$"
+
+style:
+  font_face: "Yu Gothic UI"
+  layout:
+    border_width: 0
