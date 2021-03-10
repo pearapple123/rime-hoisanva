@@ -13,15 +13,15 @@ A RIME IME for Taishanese
 
 ## Manual Installation ##
 1. Place all files except for `README.md` in:
-  - C:\Users\[user]\Appdata\Roaming\Rime (Windows)
-  - /home/mingzhag/.config/ibus/rime (Linux, ibus)
+  - `C:\Users\[user]\Appdata\Roaming\Rime` (Windows)
+  - `/home/[user]/.config/ibus/rime` (Linux, ibus)
 2. Add `    - {schema: hoisanva}` to `default.custom.yaml`'s patch section
 3. Redeploy.
 
 ## 手工安裝 ##
 1. 攞嗮文件除咗`README.md`喺：
-  - C:\Users\[user]\Appdata\Roaming\Rime (Windows)
-  - /home/mingzhag/.config/ibus/rime (Linux, ibus)
+  - `C:\Users\[user]\Appdata\Roaming\Rime` (Windows)
+  - `/home/[user]/.config/ibus/rime` (Linux, ibus)
 2. 喺`default.custom.yaml`中打字`    - {schema: hoisanva}`
 3. 重新部署
 
