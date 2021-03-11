@@ -59,8 +59,8 @@ speller:
   delimiter: " '"
   algebra:
     - derive/[1235]//
-    # `xform` tones with longer strings first so it doesn't get intercepted by
-    # a substring `xform`.
+    # `xform` tones with longer strings first so they don't get intercepted by
+    # substring `xform`s.
     - xform/325$/ww/
     - xform/215$/zz/
     - derive/55$/qr/
