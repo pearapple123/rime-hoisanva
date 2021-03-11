@@ -28,3 +28,4 @@ A RIME IME for Taishanese
 ## Collaborators / 合作者 ##
 - [suspiciouscactus](https://github.com/suspiciouscactus)
 - Ace Dystopia#2150 (His YT Channel / 佢嘅YT頻道: https://www.youtube.com/channel/UC_TJP_igpDN7HijY-JrWEqg)
+- baatyrdyk#9595
