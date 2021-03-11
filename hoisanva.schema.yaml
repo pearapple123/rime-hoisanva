@@ -4,13 +4,15 @@
 schema:
   schema_id: hoisanva
   name: 台山話
-  version: "1.0.0"
+  version: "0.0.0"
   author:
     - 𥹘𥼱〈Discord 𥹘𥼱#3329〉
     - suspiciouscactus〈Discord suspiciouscactus#2120〉
 
   description:
-    用「Gene Chin」拼音的台山話的輸入法
+    採用陳振文「Gene Chin」台山話拼系輸入法
+    https://sites.fitnyc.edu/users/gene_chin/hed/intro/index.htm
+    支援聲調顯示同輸入
 
   dependencies:
     - luna_pinyin

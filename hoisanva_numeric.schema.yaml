@@ -1,0 +1,35 @@
+# Rime schema
+# encoding: utf-8
+
+__include: hoisanva.schema:/
+
+schema:
+  schema_id: hoisanva_numeric
+  name: 台山話（數字聲調版）
+  version: "0.0.0"
+  author:
+    - 𥹘𥼱〈Discord 𥹘𥼱#3329〉
+    - suspiciouscactus〈Discord suspiciouscactus#2120〉
+  description:
+    陳振文「Gene Chin」台山話拼系輸入法
+    https://sites.fitnyc.edu/users/gene_chin/hed/intro/index.htm
+    支援數字聲調顯示同輸入
+
+translator:
+  dictionary: hoisanva
+  prism: hoisanva_numeric
+  spelling_hints: 5
+  comment_format:
+    - xlit|1235|¹²³⁵|
+  preedit_format:
+    # `xform` tones with longer strings first so it doesn't get intercepted by
+    # a substring `xform`.
+    - xform/(?:q[rwz]|r[qwr]|w[qrz]|z[qrw])\b/⁵⁵/
+    - xform/qq\b/³³/
+    - xform/rr\b/¹¹/
+    - xform/ww\b/³¹/
+    - xform/zz\b/²¹/
+    - xform/q\b/³³/
+    - xform/r\b/¹¹/
+    - xform/w\b/³¹/
+    - xform/z\b/²¹/
