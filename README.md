@@ -25,6 +25,21 @@ A RIME IME for Taishanese
 2. 喺`default.custom.yaml`中打字`    - {schema: hoisanva}`
 3. 重新部署
 
+## Tone input in / 打字聲調喺 hoisanva_numeric.schema ##
+| Input / 輸入 | Output / 產值 |
+| ----------- | ------------ |
+| q           | 33           |
+| w           | 31           |
+| r           | 11           |
+| z           | 21           |
+| qq          | 35           |
+| ww          | 325          |
+| rr          | 15           |
+| zz          | 215          |
+
+To get 55, type in any other two-letter combination of w, q, r or z
+ / 為咗輸入聲調55、打字任何第啲兩個字母嘅組合個「w」、「q」、「r」定係「z」
+
 ## Collaborators / 合作者 ##
 - [suspiciouscactus](https://github.com/suspiciouscactus)
 - Ace Dystopia#2150 (His YT Channel / 佢嘅YT頻道: https://www.youtube.com/channel/UC_TJP_igpDN7HijY-JrWEqg)
