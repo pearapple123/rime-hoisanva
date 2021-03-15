@@ -1,7 +1,7 @@
 # Rime schema
 # encoding: utf-8
 
-__include: hoisanva.schema:/
+__include: gene.schema:/
 
 schema:
   schema_id: gene_numeric
@@ -17,7 +17,7 @@ schema:
 
 translator:
   dictionary: hoisanva
-  prism: hoisanva_numeric
+  prism: gene_numeric
   spelling_hints: 5
   comment_format:
     # For some reason the `xform` doesn't work correctly and removes tone
