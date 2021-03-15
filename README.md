@@ -15,14 +15,14 @@ A RIME IME for Taishanese
 1. Place all files except for `README.md` in:
   - `C:\Users\[user]\Appdata\Roaming\Rime` (Windows)
   - `/home/[user]/.config/ibus/rime` (Linux, ibus)
-2. Add `    - {schema: hoisanva}` to `default.custom.yaml`'s patch section
+2. Add `    - {schema: gene}` and `    - {schema: gene_numeric}` to `default.custom.yaml`'s patch section
 3. Redeploy.
 
 ## 手工安裝 ##
 1. 攞嗮文件除咗`README.md`喺：
   - `C:\Users\[user]\Appdata\Roaming\Rime` (Windows)
   - `/home/[user]/.config/ibus/rime` (Linux, ibus)
-2. 喺`default.custom.yaml`中打字`    - {schema: hoisanva}`
+2. 喺`default.custom.yaml`中打字`    - {schema: gene}`同`    - {schema: gene_numeric}`
 3. 重新部署
 
 ## Tone input in / 打字聲調喺 hoisanva_numeric.schema ##
