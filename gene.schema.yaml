@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: hoisanva
+  schema_id: gene
   name: 台山話
   version: "0.0.0"
   author:
