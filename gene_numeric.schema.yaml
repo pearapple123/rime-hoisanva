@@ -4,7 +4,7 @@
 __include: hoisanva.schema:/
 
 schema:
-  schema_id: hoisanva_numeric
+  schema_id: gene_numeric
   name: 台山話（數字聲調版）
   version: "0.0.0"
   author:
