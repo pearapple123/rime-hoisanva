@@ -88,6 +88,7 @@ speller:
 
 translator:
   dictionary: hoisanva
+  prism: gene
   spelling_hints: 5
   comment_format:
     # Perl unicode literals for the combining diacritics eg. `\x{304}` to seem
