@@ -26,19 +26,31 @@ A RIME IME for Taishanese
 3. 重新部署
 
 ## Tone input in / 打字聲調喺 hoisanva_numeric.schema ##
+
+### Base Tones
 | Input / 輸入 | Output / 產值 |
 | ----------- | ------------ |
+| qr          | 55           |
 | q           | 33           |
-| w           | 31           |
 | r           | 11           |
+| w           | 31           |
 | z           | 21           |
-| qq          | 35           |
-| ww          | 325          |
-| rr          | 15           |
-| zz          | 215          |
 
-To get 55, type in any other two-letter combination of w, q, r or z
- / 為咗輸入聲調55、打字任何第啲兩個字母嘅組合個「w」、「q」、「r」定係「z」
+To input 55, type any two-letter combination of q, r, w, or z that aren't duplicates eg. qr, qw, qz; rq, rw, rz; etc.
+/ 為咗輸入聲調55、打字任何第啲兩個字母嘅組合個「q」、「r」、「w」定係「z」
+
+Duplicates qq, rr, ww, and zz are reserved for the changed tones mentioned below.
+
+### Changed Tones
+
+The changed tones are input by duplicating the corresponding input letter.
+
+| Input / 輸入 | Output / 產值 |
+| ----------- | ------------ |
+| qq          | 35           |
+| rr          | 15           |
+| ww          | 325          |
+| zz          | 215          |
 
 ## Collaborators / 合作者 ##
 - [suspiciouscactus](https://github.com/suspiciouscactus)
